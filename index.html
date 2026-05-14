@@ -83,7 +83,7 @@
 <main>
   <div class="meta">
     <div><span id="updated">Loading…</span></div>
-    <div>Season <span id="season">—</span> · <span id="count">—</span> guilds · auto-refresh every 60s</div>
+    <div>tracking <span id="count">—</span> guilds</div>
   </div>
   <div class="table-wrap">
     <table>
@@ -122,7 +122,6 @@ function rankClass(i) {
 
 function render(data) {
   document.getElementById("updated").textContent = timeAgo(data.updated);
-  document.getElementById("season").textContent = data.season ?? "—";
   document.getElementById("count").textContent = (data.guilds || []).length;
 
   const tbody = document.getElementById("rows");
