@@ -2,150 +2,365 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<title>Wynncraft — Seasonal Rating Leaderboard</title>
+<title>The Seasonal Registry — Wynncraft Guilds</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #0f1115;
-    --panel: #161a22;
-    --row: #1c2230;
-    --row-alt: #181d27;
-    --border: #242b3a;
-    --text: #e6e8ee;
-    --muted: #8b93a7;
-    --accent: #ffb547;
-    --gold: #ffd166;
-    --silver: #c0c5d1;
-    --bronze: #cd7f32;
-    --warn: #ff7a7a;
+    --paper:        #f4efe1;
+    --paper-shade:  #ece6d2;
+    --ink:          #1c1814;
+    --ink-soft:     #3d3a33;
+    --muted:        #8d8472;
+    --rule:         #d6cdb5;
+    --rule-strong:  #1c1814;
+    --gold:         #b8892c;
+    --silver:       #7a7670;
+    --bronze:       #8a5530;
+    --pulse:        #5a8a4a;
+    --erratum:      #6b2424;
   }
+
   * { box-sizing: border-box; }
+
+  html { background: var(--paper); }
   body {
     margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
-    background: var(--bg);
-    color: var(--text);
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Fraunces', Georgia, 'Times New Roman', serif;
+    font-feature-settings: 'tnum' 1, 'ss01' 1, 'cv11' 1;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    /* very faint vignette so the cream doesn't feel flat */
+    background-image: radial-gradient(ellipse at 50% -10%, rgba(0,0,0,0.035), transparent 55%);
   }
-  header {
-    padding: 28px 32px 20px;
-    border-bottom: 1px solid var(--border);
-    background: linear-gradient(180deg, #1a2030 0%, var(--bg) 100%);
+
+  ::selection { background: var(--ink); color: var(--paper); }
+
+  .wrap {
+    max-width: 1020px;
+    margin: 0 auto;
+    padding: 72px 48px 96px;
   }
-  h1 { margin: 0 0 6px; font-size: 22px; letter-spacing: 0.3px; }
-  .sub { color: var(--muted); font-size: 13px; }
-  main { padding: 20px 32px 60px; max-width: 1200px; margin: 0 auto; }
-  .meta {
-    display: flex; justify-content: space-between; align-items: center;
-    margin-bottom: 14px; color: var(--muted); font-size: 12.5px;
+
+  /* ───── Masthead ───────────────────────────────────────────── */
+  .masthead { margin-bottom: 28px; }
+
+  .eyebrow {
+    font-size: 11px;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: var(--muted);
+    margin: 0 0 16px;
+    font-variation-settings: 'opsz' 14, 'wght' 500;
   }
-  .table-wrap {
-    border: 1px solid var(--border); border-radius: 10px;
-    overflow: hidden; background: var(--panel);
+
+  h1 {
+    margin: 0;
+    font-size: clamp(48px, 9vw, 96px);
+    line-height: 0.92;
+    letter-spacing: -0.025em;
+    font-variation-settings: 'opsz' 144, 'wght' 380;
+    color: var(--ink);
   }
-  table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  h1 em {
+    font-style: italic;
+    font-variation-settings: 'opsz' 144, 'wght' 320;
+  }
+
+  /* ───── Status strip — the consolidated meta line ──────────── */
+  .status {
+    margin-top: 32px;
+    padding: 14px 0 14px;
+    border-top: 1px solid var(--rule-strong);
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px 30px;
+    font-size: 11px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-variation-settings: 'opsz' 14, 'wght' 500;
+  }
+  .status .pulse {
+    display: inline-block;
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--pulse);
+    margin-right: 8px;
+    transform: translateY(-1px);
+    animation: pulse 2.4s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50%      { opacity: 0.35; }
+  }
+  .status strong {
+    color: var(--ink);
+    font-weight: 500;
+    font-variation-settings: 'opsz' 14, 'wght' 600;
+    letter-spacing: 0.05em;
+  }
+  .status .sep {
+    color: var(--rule);
+    user-select: none;
+  }
+
+  /* ───── Table — typeset like a printed ledger ──────────────── */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 44px;
+    font-feature-settings: 'tnum' 1, 'lnum' 1;
+  }
+
   thead th {
-    text-align: left; padding: 10px 12px; background: #1b212d;
-    border-bottom: 1px solid var(--border); font-weight: 600;
-    color: #c6cbd8; font-size: 12px; text-transform: uppercase;
-    letter-spacing: 0.5px; position: sticky; top: 0;
+    text-align: left;
+    font-size: 10.5px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: var(--muted);
+    padding: 0 14px 10px;
+    border-bottom: 1px solid var(--rule-strong);
+    font-variation-settings: 'opsz' 14, 'wght' 500;
   }
-  tbody td { padding: 9px 12px; border-bottom: 1px solid var(--border); }
-  tbody tr:nth-child(even) { background: var(--row-alt); }
-  tbody tr:nth-child(odd)  { background: var(--row); }
-  tbody tr:hover { background: #232a3a; }
-  .rank { width: 56px; font-variant-numeric: tabular-nums; color: var(--muted); }
-  .rank.top1 { color: var(--gold); font-weight: 700; }
-  .rank.top2 { color: var(--silver); font-weight: 700; }
-  .rank.top3 { color: var(--bronze); font-weight: 700; }
-  .prefix {
-    display: inline-block; padding: 2px 6px; background: #2a3346;
-    border-radius: 4px; color: #b9c2d6; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-    font-size: 12px; margin-right: 8px;
+  thead th.num { text-align: right; }
+  thead th.rank-col { width: 76px; padding-left: 4px; }
+
+  tbody td {
+    padding: 16px 14px;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: baseline;
+    font-variation-settings: 'opsz' 20, 'wght' 400;
   }
-  .name { font-weight: 600; }
-  .num { text-align: right; font-variant-numeric: tabular-nums; }
-  .muted { color: var(--muted); }
-  .sr { color: var(--accent); font-weight: 700; }
-  .stale { color: var(--warn); font-size: 11px; margin-left: 6px; }
-  .empty { padding: 40px; text-align: center; color: var(--muted); }
-  .errors {
-    margin-top: 16px; padding: 12px 16px; border: 1px solid #3a2a2a;
-    border-radius: 8px; background: #1f1818; color: #ffb3b3; font-size: 12.5px;
+  tbody td.rank-col { padding-left: 4px; }
+
+  tbody tr {
+    animation: rise 0.55s cubic-bezier(.2,.7,.2,1) both;
   }
-  .errors b { color: var(--warn); }
-  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 20px; }
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  tbody tr:hover td { background: rgba(0,0,0,0.018); }
+
+  .rank {
+    font-variation-settings: 'opsz' 144, 'wght' 380;
+    font-size: 24px;
+    color: var(--muted);
+    font-feature-settings: 'tnum' 1, 'lnum' 1;
+    letter-spacing: -0.01em;
+  }
+
+  tr.top1 .rank { color: var(--gold);   font-variation-settings: 'opsz' 144, 'wght' 480; font-size: 32px; }
+  tr.top2 .rank { color: var(--silver); font-variation-settings: 'opsz' 144, 'wght' 460; font-size: 28px; }
+  tr.top3 .rank { color: var(--bronze); font-variation-settings: 'opsz' 144, 'wght' 460; font-size: 28px; }
+
+  .guild-name {
+    font-size: 19px;
+    font-variation-settings: 'opsz' 24, 'wght' 420;
+    color: var(--ink);
+  }
+  tr.top1 .guild-name { font-variation-settings: 'opsz' 24, 'wght' 520; }
+
+  .guild-prefix {
+    font-style: italic;
+    font-size: 13.5px;
+    color: var(--muted);
+    margin-left: 10px;
+    font-variation-settings: 'opsz' 14, 'wght' 380;
+    letter-spacing: 0.02em;
+  }
+
+  .stale-note {
+    margin-left: 12px;
+    font-style: italic;
+    font-size: 11px;
+    color: var(--erratum);
+    letter-spacing: 0.06em;
+  }
+
+  td.num {
+    text-align: right;
+    font-variant-numeric: tabular-nums lining-nums;
+    font-feature-settings: 'tnum' 1, 'lnum' 1;
+  }
+  .sr {
+    font-size: 19px;
+    color: var(--ink);
+    font-variation-settings: 'opsz' 20, 'wght' 440;
+  }
+  tr.top1 .sr { font-variation-settings: 'opsz' 20, 'wght' 540; }
+  .stat {
+    font-size: 15px;
+    color: var(--ink-soft);
+    font-variation-settings: 'opsz' 14, 'wght' 380;
+  }
+
+  /* loading + empty */
+  .placeholder {
+    padding: 56px 12px;
+    text-align: center;
+    color: var(--muted);
+    font-style: italic;
+    font-size: 15px;
+  }
+
+  /* ───── Errata block ───────────────────────────────────────── */
+  .errata {
+    margin-top: 32px;
+    padding: 18px 22px;
+    border-left: 2px solid var(--erratum);
+    background: rgba(107,36,36,0.035);
+    color: var(--erratum);
+    font-size: 13.5px;
+    font-style: italic;
+    font-variation-settings: 'opsz' 14, 'wght' 380;
+  }
+  .errata b {
+    font-style: normal;
+    font-variation-settings: 'opsz' 14, 'wght' 600;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    font-size: 11px;
+    margin-right: 10px;
+  }
+
+  /* ───── Colophon ───────────────────────────────────────────── */
+  .colophon {
+    margin-top: 72px;
+    padding-top: 18px;
+    border-top: 1px solid var(--rule-strong);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+    font-size: 10.5px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-variation-settings: 'opsz' 14, 'wght' 500;
+  }
+  .colophon a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--rule); }
+  .colophon a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+
+  /* ───── Responsive ─────────────────────────────────────────── */
+  @media (max-width: 720px) {
+    .wrap { padding: 44px 22px 64px; }
+    h1 { font-size: clamp(40px, 12vw, 64px); }
+    .status { gap: 12px 18px; font-size: 10px; letter-spacing: 0.18em; }
+    .status .sep { display: none; }
+    thead th { padding: 0 8px 8px; font-size: 9.5px; letter-spacing: 0.18em; }
+    tbody td { padding: 13px 8px; }
+    .guild-name { font-size: 16px; }
+    .sr { font-size: 16px; }
+    .rank { font-size: 20px; }
+    tr.top1 .rank { font-size: 26px; }
+    tr.top2 .rank, tr.top3 .rank { font-size: 23px; }
+    .col-hide-sm { display: none; }
+  }
 </style>
 </head>
 <body>
-<header>
-  <h1>Wynncraft — Seasonal Rating Leaderboard</h1>
-</header>
-<main>
-  <div class="meta">
-    <div><span id="updated">Loading…</span></div>
-    <div>tracking <span id="count">—</span> guilds</div>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="eyebrow">Wynncraft &nbsp;·&nbsp; <span id="season-eyebrow">Guild Wars</span></div>
+    <h1>The Seasonal&nbsp;<em>Registry</em></h1>
+  </header>
+
+  <div class="status">
+    <span><span class="pulse"></span>Live</span>
+    <span class="sep">|</span>
+    <span>Tracking <strong id="count">—</strong> guilds</span>
+    <span class="sep">|</span>
+    <span>Updated <strong id="updated">…</strong></span>
+    <span class="sep">|</span>
+    <span>Refreshes every 5 minutes</span>
   </div>
-  <div class="table-wrap">
-    <table>
-      <thead>
-        <tr>
-          <th class="rank">#</th>
-          <th>Guild</th>
-          <th class="num">Seasonal Rating</th>
-          <th class="num">Level</th>
-          <th class="num">Territories</th>
-        </tr>
-      </thead>
-      <tbody id="rows"><tr><td colspan="5" class="empty">Loading…</td></tr></tbody>
-    </table>
-  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th class="rank-col">№</th>
+        <th>Guild</th>
+        <th class="num">Seasonal Rating</th>
+        <th class="num col-hide-sm">Level</th>
+        <th class="num col-hide-sm">Territories</th>
+      </tr>
+    </thead>
+    <tbody id="rows">
+      <tr><td colspan="5" class="placeholder">Awaiting transmission…</td></tr>
+    </tbody>
+  </table>
+
   <div id="errors"></div>
-</main>
-<footer>refreshed every 5 minutes</footer>
+
+  <footer class="colophon">
+    <span>The Seasonal Registry &nbsp;·&nbsp; Vol. I</span>
+    <span><a href="https://github.com/Teslanator20/srlb" target="_blank" rel="noopener">Sources on GitHub</a></span>
+  </footer>
+
+</div>
+
 <script>
-function fmt(n) { return (n ?? 0).toLocaleString("en-US"); }
+const fmt = (n) => (n ?? 0).toLocaleString("en-US");
 
 function timeAgo(iso) {
-  if (!iso) return "no data yet";
+  if (!iso) return "—";
   const diff = (Date.now() - new Date(iso).getTime()) / 1000;
-  if (diff < 60) return `updated ${Math.floor(diff)}s ago`;
-  if (diff < 3600) return `updated ${Math.floor(diff/60)}m ago`;
-  return `updated ${Math.floor(diff/3600)}h ago`;
+  if (diff < 60)    return `${Math.floor(diff)} sec ago`;
+  if (diff < 3600)  return `${Math.floor(diff / 60)} min ago`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)} h ago`;
+  return `${Math.floor(diff / 86400)} d ago`;
 }
 
 function rankClass(i) {
-  if (i === 1) return "rank top1";
-  if (i === 2) return "rank top2";
-  if (i === 3) return "rank top3";
-  return "rank";
+  if (i === 1) return "top1";
+  if (i === 2) return "top2";
+  if (i === 3) return "top3";
+  return "";
 }
 
 function render(data) {
   document.getElementById("updated").textContent = timeAgo(data.updated);
-  document.getElementById("count").textContent = (data.guilds || []).length;
+  document.getElementById("count").textContent   = (data.guilds || []).length;
+
+  if (data.season != null) {
+    document.getElementById("season-eyebrow").textContent = `Guild Wars · Season ${data.season}`;
+  }
 
   const tbody = document.getElementById("rows");
   if (!data.guilds || !data.guilds.length) {
-    tbody.innerHTML = '<tr><td colspan="5" class="empty">No data yet — waiting for first poll.</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="5" class="placeholder">No entries yet. Awaiting the first transmission.</td></tr>';
   } else {
-    tbody.innerHTML = data.guilds.map(g => {
-      const staleTag = (!g.isCurrentSeason && g.season != null)
-        ? `<span class="stale">season ${g.season}</span>` : "";
-      return `<tr>
-        <td class="${rankClass(g.rank)}">${g.rank}</td>
-        <td><span class="prefix">${g.prefix || ""}</span><span class="name">${g.name}</span>${staleTag}</td>
-        <td class="num sr">${fmt(g.rating)}</td>
-        <td class="num">${fmt(g.level)}</td>
-        <td class="num">${fmt(g.territories)}</td>
+    tbody.innerHTML = data.guilds.map((g, idx) => {
+      const cls = rankClass(g.rank);
+      const stale = (!g.isCurrentSeason && g.season != null)
+        ? `<span class="stale-note">stale · season ${g.season}</span>` : "";
+      return `<tr class="${cls}" style="animation-delay:${Math.min(idx, 20) * 0.025}s">
+        <td class="rank-col"><span class="rank">${g.rank}</span></td>
+        <td>
+          <span class="guild-name">${g.name}</span>${g.prefix ? `<span class="guild-prefix">${g.prefix}</span>` : ""}${stale}
+        </td>
+        <td class="num"><span class="sr">${fmt(g.rating)}</span></td>
+        <td class="num col-hide-sm"><span class="stat">${fmt(g.level)}</span></td>
+        <td class="num col-hide-sm"><span class="stat">${fmt(g.territories)}</span></td>
       </tr>`;
     }).join("");
   }
 
   const errBox = document.getElementById("errors");
   if (data.errors && data.errors.length) {
-    errBox.innerHTML = `<div class="errors"><b>Errors:</b> ` +
-      data.errors.map(e => `${e.name} (${e.error})`).join(", ") +
-      `</div>`;
+    errBox.innerHTML = `<div class="errata"><b>Errata</b>${
+      data.errors.map(e => `${e.name} <span style="opacity:0.6">(${e.error})</span>`).join(" &nbsp;·&nbsp; ")
+    }</div>`;
   } else {
     errBox.innerHTML = "";
   }
@@ -157,7 +372,8 @@ async function load() {
     if (!r.ok) throw new Error("HTTP " + r.status);
     render(await r.json());
   } catch (e) {
-    document.getElementById("updated").textContent = "error: " + e.message;
+    document.getElementById("updated").textContent = "error";
+    console.error(e);
   }
 }
 
