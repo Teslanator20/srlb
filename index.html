@@ -197,6 +197,16 @@
     font-variation-settings: 'opsz' 20, 'wght' 440;
   }
   tr.top1 .sr { font-variation-settings: 'opsz' 20, 'wght' 540; }
+  .sr-gap {
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 12.5px;
+    font-style: italic;
+    color: var(--muted);
+    font-variation-settings: 'opsz' 14, 'wght' 380;
+    font-variant-numeric: tabular-nums lining-nums;
+    letter-spacing: 0.01em;
+  }
   .stat {
     font-size: 15px;
     color: var(--ink-soft);
@@ -340,16 +350,19 @@ function render(data) {
   if (!data.guilds || !data.guilds.length) {
     tbody.innerHTML = '<tr><td colspan="5" class="placeholder">No entries yet. Awaiting the first transmission.</td></tr>';
   } else {
-    tbody.innerHTML = data.guilds.map((g, idx) => {
+    tbody.innerHTML = data.guilds.map((g, idx, arr) => {
       const cls = rankClass(g.rank);
       const stale = (!g.isCurrentSeason && g.season != null)
         ? `<span class="stale-note">stale · season ${g.season}</span>` : "";
+      const next = arr[idx + 1];
+      const gap = (next && g.rating > 0)
+        ? `<span class="sr-gap">+${fmt(g.rating - next.rating)}</span>` : "";
       return `<tr class="${cls}" style="animation-delay:${Math.min(idx, 20) * 0.025}s">
         <td class="rank-col"><span class="rank">${g.rank}</span></td>
         <td>
           <span class="guild-name">${g.name}</span>${g.prefix ? `<span class="guild-prefix">${g.prefix}</span>` : ""}${stale}
         </td>
-        <td class="num"><span class="sr">${fmt(g.rating)}</span></td>
+        <td class="num"><span class="sr">${fmt(g.rating)}</span>${gap}</td>
         <td class="num col-hide-sm"><span class="stat">${fmt(g.level)}</span></td>
         <td class="num col-hide-sm"><span class="stat">${fmt(g.territories)}</span></td>
       </tr>`;
