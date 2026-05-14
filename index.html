@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<title>The Seasonal Registry — Wynncraft Guilds</title>
+<title>Seasonal Rating Standings — Wynncraft</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -21,11 +21,32 @@
     --bronze:       #8a5530;
     --pulse:        #5a8a4a;
     --erratum:      #6b2424;
+    --vignette:     rgba(0,0,0,0.035);
+    --row-hover:    rgba(0,0,0,0.018);
+    --errata-bg:    rgba(107,36,36,0.035);
+  }
+
+  html[data-theme="dark"] {
+    --paper:        #16140f;
+    --paper-shade:  #1f1c15;
+    --ink:          #ece6d2;
+    --ink-soft:     #c8c1ac;
+    --muted:        #8a8270;
+    --rule:         #3a342a;
+    --rule-strong:  #ece6d2;
+    --gold:         #d4a04a;
+    --silver:       #b8b3a4;
+    --bronze:       #c2864e;
+    --pulse:        #7eb56a;
+    --erratum:      #d77878;
+    --vignette:     rgba(255,245,220,0.04);
+    --row-hover:    rgba(255,245,220,0.028);
+    --errata-bg:    rgba(215,120,120,0.05);
   }
 
   * { box-sizing: border-box; }
 
-  html { background: var(--paper); }
+  html { background: var(--paper); transition: background-color 0.3s ease; }
   body {
     margin: 0;
     background: var(--paper);
@@ -34,8 +55,8 @@
     font-feature-settings: 'tnum' 1, 'ss01' 1, 'cv11' 1;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
-    /* very faint vignette so the cream doesn't feel flat */
-    background-image: radial-gradient(ellipse at 50% -10%, rgba(0,0,0,0.035), transparent 55%);
+    background-image: radial-gradient(ellipse at 50% -10%, var(--vignette), transparent 55%);
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
 
   ::selection { background: var(--ink); color: var(--paper); }
@@ -44,6 +65,45 @@
     max-width: 1020px;
     margin: 0 auto;
     padding: 72px 48px 96px;
+    position: relative;
+  }
+
+  /* ───── Theme toggle (top-right) ────────────────────────────── */
+  .theme-toggle {
+    position: absolute;
+    top: 40px;
+    right: 48px;
+    background: transparent;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    padding: 8px 14px 8px 12px;
+    font-family: 'Fraunces', serif;
+    font-variation-settings: 'opsz' 14, 'wght' 480;
+    font-size: 10.5px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--muted);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+  }
+  .theme-toggle:hover { color: var(--ink); border-color: var(--ink); }
+  .theme-toggle .glyph {
+    display: inline-block;
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    background: var(--ink);
+    box-shadow: inset -3px -3px 0 0 var(--paper);
+    transition: background 0.2s ease, box-shadow 0.2s ease;
+  }
+  html[data-theme="dark"] .theme-toggle .glyph {
+    background: var(--paper);
+    box-shadow: inset -3px -3px 0 0 var(--paper-shade);
+  }
+  @media (max-width: 720px) {
+    .theme-toggle { top: 22px; right: 22px; padding: 6px 11px 6px 9px; font-size: 9.5px; }
   }
 
   /* ───── Masthead ───────────────────────────────────────────── */
@@ -148,7 +208,7 @@
     from { opacity: 0; transform: translateY(6px); }
     to   { opacity: 1; transform: translateY(0); }
   }
-  tbody tr:hover td { background: rgba(0,0,0,0.018); }
+  tbody tr:hover td { background: var(--row-hover); }
 
   .rank {
     font-variation-settings: 'opsz' 144, 'wght' 380;
@@ -227,7 +287,7 @@
     margin-top: 32px;
     padding: 18px 22px;
     border-left: 2px solid var(--erratum);
-    background: rgba(107,36,36,0.035);
+    background: var(--errata-bg);
     color: var(--erratum);
     font-size: 13.5px;
     font-style: italic;
@@ -280,9 +340,14 @@
 <body>
 <div class="wrap">
 
+  <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+    <span class="glyph"></span>
+    <span id="theme-label">Dark</span>
+  </button>
+
   <header class="masthead">
-    <div class="eyebrow">Wynncraft &nbsp;·&nbsp; <span id="season-eyebrow">Guild Wars</span></div>
-    <h1>The Seasonal&nbsp;<em>Registry</em></h1>
+    <div class="eyebrow">Wynncraft &nbsp;·&nbsp; <span id="season-eyebrow">Season —</span></div>
+    <h1>Seasonal Rating&nbsp;<em>Standings</em></h1>
   </header>
 
   <div class="status">
@@ -313,13 +378,35 @@
   <div id="errors"></div>
 
   <footer class="colophon">
-    <span>The Seasonal Registry &nbsp;·&nbsp; Vol. I</span>
+    <span>Seasonal Rating Standings</span>
     <span><a href="https://github.com/Teslanator20/srlb" target="_blank" rel="noopener">Sources on GitHub</a></span>
   </footer>
 
 </div>
 
 <script>
+// ───── Theme handling ─────
+(function () {
+  const stored = localStorage.getItem("theme");
+  const prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+  const initial = stored || (prefersDark ? "dark" : "light");
+  document.documentElement.setAttribute("data-theme", initial);
+})();
+
+function syncThemeLabel() {
+  const current = document.documentElement.getAttribute("data-theme");
+  document.getElementById("theme-label").textContent = current === "dark" ? "Light" : "Dark";
+}
+syncThemeLabel();
+
+document.getElementById("theme-toggle").addEventListener("click", () => {
+  const current = document.documentElement.getAttribute("data-theme");
+  const next = current === "dark" ? "light" : "dark";
+  document.documentElement.setAttribute("data-theme", next);
+  localStorage.setItem("theme", next);
+  syncThemeLabel();
+});
+
 const fmt = (n) => (n ?? 0).toLocaleString("en-US");
 
 function timeAgo(iso) {
@@ -343,7 +430,7 @@ function render(data) {
   document.getElementById("count").textContent   = (data.guilds || []).length;
 
   if (data.season != null) {
-    document.getElementById("season-eyebrow").textContent = `Guild Wars · Season ${data.season}`;
+    document.getElementById("season-eyebrow").textContent = `Season ${data.season}`;
   }
 
   const tbody = document.getElementById("rows");
