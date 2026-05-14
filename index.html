@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Wynncraft — Seasonal Rating Leaderboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style>
+  :root {
+    --bg: #0f1115;
+    --panel: #161a22;
+    --row: #1c2230;
+    --row-alt: #181d27;
+    --border: #242b3a;
+    --text: #e6e8ee;
+    --muted: #8b93a7;
+    --accent: #ffb547;
+    --gold: #ffd166;
+    --silver: #c0c5d1;
+    --bronze: #cd7f32;
+    --warn: #ff7a7a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    padding: 28px 32px 20px;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(180deg, #1a2030 0%, var(--bg) 100%);
+  }
+  h1 { margin: 0 0 6px; font-size: 22px; letter-spacing: 0.3px; }
+  .sub { color: var(--muted); font-size: 13px; }
+  main { padding: 20px 32px 60px; max-width: 1200px; margin: 0 auto; }
+  .meta {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 14px; color: var(--muted); font-size: 12.5px;
+  }
+  .table-wrap {
+    border: 1px solid var(--border); border-radius: 10px;
+    overflow: hidden; background: var(--panel);
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  thead th {
+    text-align: left; padding: 10px 12px; background: #1b212d;
+    border-bottom: 1px solid var(--border); font-weight: 600;
+    color: #c6cbd8; font-size: 12px; text-transform: uppercase;
+    letter-spacing: 0.5px; position: sticky; top: 0;
+  }
+  tbody td { padding: 9px 12px; border-bottom: 1px solid var(--border); }
+  tbody tr:nth-child(even) { background: var(--row-alt); }
+  tbody tr:nth-child(odd)  { background: var(--row); }
+  tbody tr:hover { background: #232a3a; }
+  .rank { width: 56px; font-variant-numeric: tabular-nums; color: var(--muted); }
+  .rank.top1 { color: var(--gold); font-weight: 700; }
+  .rank.top2 { color: var(--silver); font-weight: 700; }
+  .rank.top3 { color: var(--bronze); font-weight: 700; }
+  .prefix {
+    display: inline-block; padding: 2px 6px; background: #2a3346;
+    border-radius: 4px; color: #b9c2d6; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 12px; margin-right: 8px;
+  }
+  .name { font-weight: 600; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; }
+  .muted { color: var(--muted); }
+  .sr { color: var(--accent); font-weight: 700; }
+  .stale { color: var(--warn); font-size: 11px; margin-left: 6px; }
+  .empty { padding: 40px; text-align: center; color: var(--muted); }
+  .errors {
+    margin-top: 16px; padding: 12px 16px; border: 1px solid #3a2a2a;
+    border-radius: 8px; background: #1f1818; color: #ffb3b3; font-size: 12.5px;
+  }
+  .errors b { color: var(--warn); }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 20px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Wynncraft — Seasonal Rating Leaderboard</h1>
+  <div class="sub">Per-guild seasonal rating from <code>seasonRanks[current].rating</code>. Updated every 5 minutes via GitHub Actions.</div>
+</header>
+<main>
+  <div class="meta">
+    <div><span id="updated">Loading…</span></div>
+    <div>Season <span id="season">—</span> · <span id="count">—</span> guilds · auto-refresh every 60s</div>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th class="rank">#</th>
+          <th>Guild</th>
+          <th class="num">Seasonal Rating</th>
+          <th class="num">Level</th>
+          <th class="num">Territories</th>
+        </tr>
+      </thead>
+      <tbody id="rows"><tr><td colspan="5" class="empty">Loading…</td></tr></tbody>
+    </table>
+  </div>
+  <div id="errors"></div>
+</main>
+<footer>Data via api.wynncraft.com · refreshed by srlb every 2 minutes</footer>
+<script>
+function fmt(n) { return (n ?? 0).toLocaleString("en-US"); }
+
+function timeAgo(iso) {
+  if (!iso) return "no data yet";
+  const diff = (Date.now() - new Date(iso).getTime()) / 1000;
+  if (diff < 60) return `updated ${Math.floor(diff)}s ago`;
+  if (diff < 3600) return `updated ${Math.floor(diff/60)}m ago`;
+  return `updated ${Math.floor(diff/3600)}h ago`;
+}
+
+function rankClass(i) {
+  if (i === 1) return "rank top1";
+  if (i === 2) return "rank top2";
+  if (i === 3) return "rank top3";
+  return "rank";
+}
+
+function render(data) {
+  document.getElementById("updated").textContent = timeAgo(data.updated);
+  document.getElementById("season").textContent = data.season ?? "—";
+  document.getElementById("count").textContent = (data.guilds || []).length;
+
+  const tbody = document.getElementById("rows");
+  if (!data.guilds || !data.guilds.length) {
+    tbody.innerHTML = '<tr><td colspan="5" class="empty">No data yet — waiting for first poll.</td></tr>';
+  } else {
+    tbody.innerHTML = data.guilds.map(g => {
+      const staleTag = (!g.isCurrentSeason && g.season != null)
+        ? `<span class="stale">season ${g.season}</span>` : "";
+      return `<tr>
+        <td class="${rankClass(g.rank)}">${g.rank}</td>
+        <td><span class="prefix">${g.prefix || ""}</span><span class="name">${g.name}</span>${staleTag}</td>
+        <td class="num sr">${fmt(g.rating)}</td>
+        <td class="num">${fmt(g.level)}</td>
+        <td class="num">${fmt(g.territories)}</td>
+      </tr>`;
+    }).join("");
+  }
+
+  const errBox = document.getElementById("errors");
+  if (data.errors && data.errors.length) {
+    errBox.innerHTML = `<div class="errors"><b>Errors:</b> ` +
+      data.errors.map(e => `${e.name} (${e.error})`).join(", ") +
+      `</div>`;
+  } else {
+    errBox.innerHTML = "";
+  }
+}
+
+async function load() {
+  try {
+    const r = await fetch("data.json?_=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    render(await r.json());
+  } catch (e) {
+    document.getElementById("updated").textContent = "error: " + e.message;
+  }
+}
+
+load();
+setInterval(load, 60_000);
+</script>
+</body>
+</html>
