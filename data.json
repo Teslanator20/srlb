@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T18:15:20.529Z",
+  "updated": "2026-05-16T18:20:21.551Z",
   "season": 30,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 223,
       "xpPercent": 35,
-      "territories": 65,
-      "wars": 143595,
+      "territories": 62,
+      "wars": 143596,
       "raids": 354981,
       "season": 30,
-      "rating": 13353420,
+      "rating": 13355522,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 162,
-      "xpPercent": 85,
-      "territories": 99,
+      "xpPercent": 86,
+      "territories": 98,
       "wars": 153737,
       "raids": 165238,
       "season": 30,
-      "rating": 12041642,
+      "rating": 12043300,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 219704,
       "raids": 44882,
       "season": 30,
-      "rating": 6736152,
+      "rating": 6737114,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116427,
       "raids": 48417,
       "season": 30,
-      "rating": 4934164,
+      "rating": 4935271,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 56592,
       "raids": 28099,
       "season": 30,
-      "rating": 4798578,
+      "rating": 4799697,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 30745,
       "raids": 52040,
       "season": 30,
-      "rating": 4359113,
+      "rating": 4359779,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -119,12 +119,12 @@
       "name": "Adventure of the bear",
       "prefix": "Bav",
       "level": 73,
-      "xpPercent": 5,
+      "xpPercent": 6,
       "territories": 18,
-      "wars": 4404,
+      "wars": 4405,
       "raids": 790,
       "season": 30,
-      "rating": 2434908,
+      "rating": 2435910,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -194,7 +194,7 @@
       "wars": 281,
       "raids": 62868,
       "season": 30,
-      "rating": 469752,
+      "rating": 470082,
       "isCurrentSeason": true,
       "rank": 14
     },
