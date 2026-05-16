@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T01:05:17.478Z",
+  "updated": "2026-05-16T01:10:22.604Z",
   "season": 30,
   "guilds": [
     {
@@ -9,10 +9,10 @@
       "level": 223,
       "xpPercent": 0,
       "territories": 73,
-      "wars": 143321,
+      "wars": 143328,
       "raids": 354630,
       "season": 30,
-      "rating": 12907384,
+      "rating": 12909589,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 162,
       "xpPercent": 76,
-      "territories": 99,
+      "territories": 98,
       "wars": 153486,
       "raids": 165142,
       "season": 30,
-      "rating": 11664033,
+      "rating": 11665186,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 219489,
       "raids": 44806,
       "season": 30,
-      "rating": 6448018,
+      "rating": 6448595,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116424,
       "raids": 48389,
       "season": 30,
-      "rating": 4745317,
+      "rating": 4745981,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 56456,
       "raids": 28062,
       "season": 30,
-      "rating": 4590000,
+      "rating": 4590560,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -110,7 +110,7 @@
       "wars": 7170,
       "raids": 5421,
       "season": 30,
-      "rating": 2593115,
+      "rating": 2593515,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -121,10 +121,10 @@
       "level": 72,
       "xpPercent": 51,
       "territories": 5,
-      "wars": 4307,
+      "wars": 4309,
       "raids": 786,
       "season": 30,
-      "rating": 2282439,
+      "rating": 2282826,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -134,11 +134,11 @@
       "prefix": "PLHR",
       "level": 81,
       "xpPercent": 88,
-      "territories": 9,
-      "wars": 17084,
+      "territories": 10,
+      "wars": 17087,
       "raids": 5321,
       "season": 30,
-      "rating": 2179164,
+      "rating": 2179905,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -148,11 +148,11 @@
       "prefix": "Tsd",
       "level": 100,
       "xpPercent": 61,
-      "territories": 15,
-      "wars": 32228,
+      "territories": 14,
+      "wars": 32230,
       "raids": 37921,
       "season": 30,
-      "rating": 807974,
+      "rating": 808592,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -203,12 +203,12 @@
       "name": "Anime Lovers",
       "prefix": "Zamn",
       "level": 114,
-      "xpPercent": 98,
+      "xpPercent": 99,
       "territories": 0,
       "wars": 5042,
       "raids": 45835,
       "season": 30,
-      "rating": 365498,
+      "rating": 365938,
       "isCurrentSeason": true,
       "rank": 15
     }
