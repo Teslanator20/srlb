@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T02:25:20.303Z",
+  "updated": "2026-05-16T02:30:27.000Z",
   "season": 30,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 143347,
       "raids": 354677,
       "season": 30,
-      "rating": 12942993,
+      "rating": 12944489,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 153486,
       "raids": 165144,
       "season": 30,
-      "rating": 11680281,
+      "rating": 11681420,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 219489,
       "raids": 44813,
       "season": 30,
-      "rating": 6462058,
+      "rating": 6462924,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116424,
       "raids": 48389,
       "season": 30,
-      "rating": 4754173,
+      "rating": 4754837,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 56463,
       "raids": 28062,
       "season": 30,
-      "rating": 4599135,
+      "rating": 4599583,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,13 +78,27 @@
       "prefix": "PUN",
       "level": 123,
       "xpPercent": 26,
-      "territories": 2,
+      "territories": 3,
       "wars": 30647,
       "raids": 52027,
       "season": 30,
-      "rating": 4272470,
+      "rating": 4272812,
       "isCurrentSeason": true,
       "rank": 6
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 107,
+      "xpPercent": 2,
+      "territories": 0,
+      "wars": 89967,
+      "raids": 11813,
+      "season": 30,
+      "rating": 3420659,
+      "isCurrentSeason": true,
+      "rank": 7
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -92,13 +106,13 @@
       "prefix": "Crrs",
       "level": 97,
       "xpPercent": 44,
-      "territories": 20,
-      "wars": 7171,
+      "territories": 19,
+      "wars": 7172,
       "raids": 5421,
       "season": 30,
-      "rating": 2601201,
+      "rating": 2601586,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 8
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -106,13 +120,13 @@
       "prefix": "Bav",
       "level": 72,
       "xpPercent": 51,
-      "territories": 0,
-      "wars": 4315,
+      "territories": 1,
+      "wars": 4316,
       "raids": 786,
       "season": 30,
-      "rating": 2285156,
+      "rating": 2285372,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -126,7 +140,7 @@
       "season": 30,
       "rating": 2185192,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -134,13 +148,13 @@
       "prefix": "Tsd",
       "level": 100,
       "xpPercent": 61,
-      "territories": 19,
+      "territories": 17,
       "wars": 32240,
       "raids": 37921,
       "season": 30,
-      "rating": 816611,
+      "rating": 817175,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -154,7 +168,7 @@
       "season": 30,
       "rating": 606422,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -168,7 +182,7 @@
       "season": 30,
       "rating": 482503,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -182,7 +196,7 @@
       "season": 30,
       "rating": 467442,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -196,13 +210,8 @@
       "season": 30,
       "rating": 367698,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "DUDE",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
