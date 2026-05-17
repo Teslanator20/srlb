@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T05:55:15.686Z",
+  "updated": "2026-05-17T06:00:29.831Z",
   "season": 30,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 223,
       "xpPercent": 61,
-      "territories": 61,
+      "territories": 60,
       "wars": 143781,
       "raids": 355244,
       "season": 30,
-      "rating": 13665823,
+      "rating": 13668336,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 153869,
       "raids": 165332,
       "season": 30,
-      "rating": 12329793,
+      "rating": 12331469,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -35,12 +35,12 @@
       "name": "Avicia",
       "prefix": "AVO",
       "level": 128,
-      "xpPercent": 48,
+      "xpPercent": 49,
       "territories": 59,
       "wars": 219705,
       "raids": 44952,
       "season": 30,
-      "rating": 6931282,
+      "rating": 6933075,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116439,
       "raids": 48434,
       "season": 30,
-      "rating": 5072784,
+      "rating": 5073891,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 1,
-      "territories": 29,
-      "wars": 56602,
+      "territories": 30,
+      "wars": 56603,
       "raids": 28131,
       "season": 30,
-      "rating": 4940937,
+      "rating": 4941863,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 30757,
       "raids": 52076,
       "season": 30,
-      "rating": 4489889,
+      "rating": 4490555,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -120,11 +120,11 @@
       "prefix": "Bav",
       "level": 73,
       "xpPercent": 7,
-      "territories": 30,
+      "territories": 29,
       "wars": 4427,
       "raids": 794,
       "season": 30,
-      "rating": 2550849,
+      "rating": 2551812,
       "isCurrentSeason": true,
       "rank": 9
     },
