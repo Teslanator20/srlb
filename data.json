@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T22:05:19.422Z",
+  "updated": "2026-05-17T22:10:21.389Z",
   "season": 30,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 223,
       "xpPercent": 94,
-      "territories": 80,
+      "territories": 79,
       "wars": 144034,
       "raids": 355572,
       "season": 30,
-      "rating": 14089454,
+      "rating": 14091464,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 163,
       "xpPercent": 8,
-      "territories": 83,
-      "wars": 154015,
+      "territories": 80,
+      "wars": 154021,
       "raids": 165460,
       "season": 30,
-      "rating": 12719470,
+      "rating": 12721381,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 219911,
       "raids": 44987,
       "season": 30,
-      "rating": 7163179,
+      "rating": 7164141,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116450,
       "raids": 48460,
       "season": 30,
-      "rating": 5261962,
+      "rating": 5262700,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 56616,
       "raids": 28201,
       "season": 30,
-      "rating": 5149479,
+      "rating": 5150598,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -79,26 +79,12 @@
       "level": 123,
       "xpPercent": 35,
       "territories": 22,
-      "wars": 30757,
+      "wars": 30758,
       "raids": 52116,
       "season": 30,
-      "rating": 4664837,
+      "rating": 4665836,
       "isCurrentSeason": true,
       "rank": 6
-    },
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 107,
-      "xpPercent": 2,
-      "territories": 0,
-      "wars": 90319,
-      "raids": 11821,
-      "season": 30,
-      "rating": 3593999,
-      "isCurrentSeason": true,
-      "rank": 7
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -110,9 +96,9 @@
       "wars": 7510,
       "raids": 5447,
       "season": 30,
-      "rating": 2995134,
+      "rating": 2996553,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 7
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -124,9 +110,9 @@
       "wars": 4486,
       "raids": 798,
       "season": 30,
-      "rating": 2724255,
+      "rating": 2725209,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 8
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -134,13 +120,13 @@
       "prefix": "PLHR",
       "level": 81,
       "xpPercent": 88,
-      "territories": 14,
-      "wars": 17523,
+      "territories": 17,
+      "wars": 17527,
       "raids": 5321,
       "season": 30,
-      "rating": 2528907,
+      "rating": 2530310,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 9
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -154,7 +140,7 @@
       "season": 30,
       "rating": 836547,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 10
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -168,7 +154,7 @@
       "season": 30,
       "rating": 637022,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -180,9 +166,9 @@
       "wars": 166650,
       "raids": 48436,
       "season": 30,
-      "rating": 505443,
+      "rating": 505803,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -194,9 +180,9 @@
       "wars": 281,
       "raids": 62894,
       "season": 30,
-      "rating": 478122,
+      "rating": 478532,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -210,8 +196,13 @@
       "season": 30,
       "rating": 375848,
       "isCurrentSeason": true,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "DUDE",
+      "error": "HTTP 500"
+    }
+  ]
 }
