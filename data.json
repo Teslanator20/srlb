@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T19:35:16.912Z",
+  "updated": "2026-05-18T19:40:25.257Z",
   "season": 30,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 224,
-      "xpPercent": 27,
-      "territories": 72,
+      "xpPercent": 28,
+      "territories": 71,
       "wars": 144195,
       "raids": 355909,
       "season": 30,
-      "rating": 14593660,
+      "rating": 14595429,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 163,
       "xpPercent": 26,
-      "territories": 82,
-      "wars": 154271,
+      "territories": 86,
+      "wars": 154273,
       "raids": 165638,
       "season": 30,
-      "rating": 13236849,
+      "rating": 13239007,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 128,
       "xpPercent": 56,
-      "territories": 49,
-      "wars": 220277,
+      "territories": 52,
+      "wars": 220280,
       "raids": 45015,
       "season": 30,
-      "rating": 7487383,
+      "rating": 7489598,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116479,
       "raids": 48491,
       "season": 30,
-      "rating": 5518253,
+      "rating": 5519544,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 56644,
       "raids": 28214,
       "season": 30,
-      "rating": 5395129,
+      "rating": 5396628,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 30762,
       "raids": 52183,
       "season": 30,
-      "rating": 4905654,
+      "rating": 4906487,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 5,
-      "territories": 6,
+      "territories": 3,
       "wars": 90609,
       "raids": 11828,
       "season": 30,
-      "rating": 3760572,
+      "rating": 3761007,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -115,20 +115,6 @@
       "rank": 8
     },
     {
-      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-      "name": "Adventure of the bear",
-      "prefix": "Bav",
-      "level": 73,
-      "xpPercent": 19,
-      "territories": 19,
-      "wars": 4559,
-      "raids": 808,
-      "season": 30,
-      "rating": 2949274,
-      "isCurrentSeason": true,
-      "rank": 9
-    },
-    {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
       "name": "Polish Hussars",
       "prefix": "PLHR",
@@ -138,9 +124,9 @@
       "wars": 17619,
       "raids": 5321,
       "season": 30,
-      "rating": 2641079,
+      "rating": 2641761,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 9
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -148,13 +134,13 @@
       "prefix": "Tsd",
       "level": 100,
       "xpPercent": 64,
-      "territories": 43,
+      "territories": 41,
       "wars": 32316,
       "raids": 37938,
       "season": 30,
-      "rating": 920309,
+      "rating": 921542,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 10
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -168,7 +154,7 @@
       "season": 30,
       "rating": 652212,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -182,7 +168,7 @@
       "season": 30,
       "rating": 521088,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -196,7 +182,7 @@
       "season": 30,
       "rating": 486242,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -210,8 +196,13 @@
       "season": 30,
       "rating": 376728,
       "isCurrentSeason": true,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "Bav",
+      "error": "HTTP 500"
+    }
+  ]
 }
