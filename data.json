@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T07:15:21.450Z",
+  "updated": "2026-05-18T07:20:24.604Z",
   "season": 30,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 144095,
       "raids": 355689,
       "season": 30,
-      "rating": 14291009,
+      "rating": 14291979,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -23,10 +23,10 @@
       "level": 163,
       "xpPercent": 18,
       "territories": 96,
-      "wars": 154199,
+      "wars": 154200,
       "raids": 165567,
       "season": 30,
-      "rating": 12964682,
+      "rating": 12967205,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 128,
       "xpPercent": 53,
-      "territories": 58,
+      "territories": 59,
       "wars": 220058,
       "raids": 44997,
       "season": 30,
-      "rating": 7315760,
+      "rating": 7317434,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116469,
       "raids": 48469,
       "season": 30,
-      "rating": 5371003,
+      "rating": 5371741,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 56642,
       "raids": 28201,
       "season": 30,
-      "rating": 5252614,
+      "rating": 5253360,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 30761,
       "raids": 52140,
       "season": 30,
-      "rating": 4765524,
+      "rating": 4766523,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 2,
-      "territories": 1,
+      "territories": 0,
       "wars": 90424,
       "raids": 11821,
       "season": 30,
-      "rating": 3640668,
+      "rating": 3640758,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 7519,
       "raids": 5449,
       "season": 30,
-      "rating": 3125592,
+      "rating": 3126522,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -120,11 +120,11 @@
       "prefix": "Bav",
       "level": 73,
       "xpPercent": 13,
-      "territories": 21,
-      "wars": 4541,
+      "territories": 23,
+      "wars": 4544,
       "raids": 802,
       "season": 30,
-      "rating": 2825870,
+      "rating": 2826938,
       "isCurrentSeason": true,
       "rank": 9
     },
