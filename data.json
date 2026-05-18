@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T19:45:21.672Z",
+  "updated": "2026-05-18T19:50:26.903Z",
   "season": 30,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 224,
       "xpPercent": 28,
-      "territories": 67,
+      "territories": 66,
       "wars": 144195,
       "raids": 355917,
       "season": 30,
-      "rating": 14599158,
+      "rating": 14601026,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 163,
       "xpPercent": 26,
-      "territories": 91,
+      "territories": 92,
       "wars": 154278,
       "raids": 165638,
       "season": 30,
-      "rating": 13241808,
+      "rating": 13243226,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -37,10 +37,10 @@
       "level": 128,
       "xpPercent": 56,
       "territories": 55,
-      "wars": 220281,
+      "wars": 220282,
       "raids": 45015,
       "season": 30,
-      "rating": 7491231,
+      "rating": 7492361,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116479,
       "raids": 48491,
       "season": 30,
-      "rating": 5520282,
+      "rating": 5520836,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 56644,
       "raids": 28215,
       "season": 30,
-      "rating": 5397374,
+      "rating": 5399113,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 30762,
       "raids": 52184,
       "season": 30,
-      "rating": 4907836,
+      "rating": 4908852,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,7 +92,7 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 5,
-      "territories": 1,
+      "territories": 0,
       "wars": 90609,
       "raids": 11828,
       "season": 30,
@@ -115,6 +115,20 @@
       "rank": 8
     },
     {
+      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
+      "name": "Adventure of the bear",
+      "prefix": "Bav",
+      "level": 73,
+      "xpPercent": 19,
+      "territories": 19,
+      "wars": 4559,
+      "raids": 808,
+      "season": 30,
+      "rating": 2951659,
+      "isCurrentSeason": true,
+      "rank": 9
+    },
+    {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
       "name": "Polish Hussars",
       "prefix": "PLHR",
@@ -124,9 +138,9 @@
       "wars": 17619,
       "raids": 5321,
       "season": 30,
-      "rating": 2642784,
+      "rating": 2643466,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -134,13 +148,13 @@
       "prefix": "Tsd",
       "level": 100,
       "xpPercent": 64,
-      "territories": 39,
+      "territories": 37,
       "wars": 32316,
       "raids": 37938,
       "season": 30,
-      "rating": 922350,
+      "rating": 923543,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -152,9 +166,9 @@
       "wars": 42279,
       "raids": 63595,
       "season": 30,
-      "rating": 652212,
+      "rating": 652502,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -166,9 +180,9 @@
       "wars": 166665,
       "raids": 48454,
       "season": 30,
-      "rating": 521088,
+      "rating": 521448,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -182,7 +196,7 @@
       "season": 30,
       "rating": 486242,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -196,13 +210,8 @@
       "season": 30,
       "rating": 376728,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "Bav",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
