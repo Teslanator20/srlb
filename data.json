@@ -1,217 +1,67 @@
 {
-  "updated": "2026-05-19T11:32:20.696Z",
-  "season": 30,
-  "guilds": [
+  "updated": "2026-05-19T11:36:25.806Z",
+  "season": null,
+  "guilds": [],
+  "errors": [
     {
-      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-      "name": "Sequoia",
-      "prefix": "SEQ",
-      "level": 224,
-      "xpPercent": 47,
-      "territories": 66,
-      "wars": 144291,
-      "raids": 356100,
-      "season": 30,
-      "rating": 14931515,
-      "isCurrentSeason": true,
-      "rank": 1
+      "name": "SEQ",
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-      "name": "Aequitas",
-      "prefix": "Aeq",
-      "level": 163,
-      "xpPercent": 42,
-      "territories": 102,
-      "wars": 154336,
-      "raids": 165793,
-      "season": 30,
-      "rating": 13614355,
-      "isCurrentSeason": true,
-      "rank": 2
+      "name": "Aeq",
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-      "name": "Avicia",
-      "prefix": "AVO",
-      "level": 128,
-      "xpPercent": 58,
-      "territories": 7,
-      "wars": 220307,
-      "raids": 45032,
-      "season": 30,
-      "rating": 7726323,
-      "isCurrentSeason": true,
-      "rank": 3
+      "name": "AVO",
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-      "name": "Titans Valor",
-      "prefix": "ANO",
-      "level": 123,
-      "xpPercent": 33,
-      "territories": 31,
-      "wars": 116506,
-      "raids": 48525,
-      "season": 30,
-      "rating": 5710350,
-      "isCurrentSeason": true,
-      "rank": 4
+      "name": "ANO",
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-      "name": "Nerfuria",
-      "prefix": "Nia",
-      "level": 115,
-      "xpPercent": 17,
-      "territories": 38,
-      "wars": 56679,
-      "raids": 28244,
-      "season": 30,
-      "rating": 5589616,
-      "isCurrentSeason": true,
-      "rank": 5
+      "name": "Nia",
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-      "name": "Paladins United",
-      "prefix": "PUN",
-      "level": 123,
-      "xpPercent": 48,
-      "territories": 22,
-      "wars": 30766,
-      "raids": 52214,
-      "season": 30,
-      "rating": 5076432,
-      "isCurrentSeason": true,
-      "rank": 6
+      "name": "PUN",
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 107,
-      "xpPercent": 8,
-      "territories": 50,
-      "wars": 90715,
-      "raids": 11839,
-      "season": 30,
-      "rating": 3811178,
-      "isCurrentSeason": true,
-      "rank": 7
+      "name": "DUDE",
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
-      "name": "Cirrus",
-      "prefix": "Crrs",
-      "level": 97,
-      "xpPercent": 51,
-      "territories": 55,
-      "wars": 7646,
-      "raids": 5474,
-      "season": 30,
-      "rating": 3475785,
-      "isCurrentSeason": true,
-      "rank": 8
+      "name": "Crrs",
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-      "name": "Adventure of the bear",
-      "prefix": "Bav",
-      "level": 73,
-      "xpPercent": 22,
-      "territories": 19,
-      "wars": 4583,
-      "raids": 808,
-      "season": 30,
-      "rating": 3103595,
-      "isCurrentSeason": true,
-      "rank": 9
+      "name": "Bav",
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
-      "name": "Polish Hussars",
-      "prefix": "PLHR",
-      "level": 81,
-      "xpPercent": 88,
-      "territories": 0,
-      "wars": 17697,
-      "raids": 5321,
-      "season": 30,
-      "rating": 2775686,
-      "isCurrentSeason": true,
-      "rank": 10
+      "name": "PLHR",
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
-      "name": "TruthSworD",
-      "prefix": "Tsd",
-      "level": 100,
-      "xpPercent": 67,
-      "territories": 0,
-      "wars": 32316,
-      "raids": 37967,
-      "season": 30,
-      "rating": 949820,
-      "isCurrentSeason": true,
-      "rank": 11
-    },
-    {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 119,
-      "xpPercent": 90,
-      "territories": 0,
-      "wars": 42279,
-      "raids": 63633,
-      "season": 30,
-      "rating": 664592,
-      "isCurrentSeason": true,
-      "rank": 12
-    },
-    {
-      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-      "name": "The Aquarium",
-      "prefix": "TAq",
-      "level": 138,
-      "xpPercent": 93,
-      "territories": 0,
-      "wars": 166668,
-      "raids": 48460,
-      "season": 30,
-      "rating": 523889,
-      "isCurrentSeason": true,
-      "rank": 13
-    },
-    {
-      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
       "name": "Hesperides",
-      "prefix": "HSP",
-      "level": 106,
-      "xpPercent": 10,
-      "territories": 0,
-      "wars": 281,
-      "raids": 62930,
-      "season": 30,
-      "rating": 491682,
-      "isCurrentSeason": true,
-      "rank": 14
+      "error": "This operation was aborted"
     },
     {
-      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
+      "name": "The Broken Gasmask",
+      "error": "This operation was aborted"
+    },
+    {
       "name": "Anime Lovers",
-      "prefix": "Zamn",
-      "level": 115,
-      "xpPercent": 3,
-      "territories": 0,
-      "wars": 5042,
-      "raids": 45862,
-      "season": 30,
-      "rating": 376728,
-      "isCurrentSeason": true,
-      "rank": 15
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "The Aquarium",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "TruthSworD",
+      "error": "This operation was aborted"
     }
-  ],
-  "errors": []
+  ]
 }
