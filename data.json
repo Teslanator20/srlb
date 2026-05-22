@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T14:40:26.734Z",
+  "updated": "2026-05-22T14:45:26.051Z",
   "season": 30,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 225,
       "xpPercent": 31,
-      "territories": 62,
+      "territories": 65,
       "wars": 144788,
-      "raids": 356943,
+      "raids": 356947,
       "season": 30,
-      "rating": 16501994,
+      "rating": 16504505,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 154683,
       "raids": 166205,
       "season": 30,
-      "rating": 15278609,
+      "rating": 15280824,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 220975,
       "raids": 45179,
       "season": 30,
-      "rating": 8777227,
+      "rating": 8778369,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 41,
       "territories": 31,
       "wars": 116542,
-      "raids": 48605,
+      "raids": 48606,
       "season": 30,
-      "rating": 6578416,
+      "rating": 6578970,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -66,9 +66,9 @@
       "xpPercent": 26,
       "territories": 32,
       "wars": 56755,
-      "raids": 28334,
+      "raids": 28335,
       "season": 30,
-      "rating": 6479466,
+      "rating": 6480995,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 30774,
       "raids": 52440,
       "season": 30,
-      "rating": 5909971,
+      "rating": 5910970,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -119,12 +119,12 @@
       "name": "Adventure of the bear",
       "prefix": "Bav",
       "level": 73,
-      "xpPercent": 36,
+      "xpPercent": 37,
       "territories": 22,
       "wars": 4813,
       "raids": 819,
       "season": 30,
-      "rating": 3797728,
+      "rating": 3798727,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 18026,
       "raids": 5358,
       "season": 30,
-      "rating": 3539833,
+      "rating": 3540515,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -150,7 +150,7 @@
       "xpPercent": 76,
       "territories": 0,
       "wars": 32424,
-      "raids": 38047,
+      "raids": 38048,
       "season": 30,
       "rating": 1120356,
       "isCurrentSeason": true,
@@ -166,7 +166,7 @@
       "wars": 42279,
       "raids": 63730,
       "season": 30,
-      "rating": 702632,
+      "rating": 703042,
       "isCurrentSeason": true,
       "rank": 12
     },
