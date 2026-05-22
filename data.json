@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T13:55:20.454Z",
+  "updated": "2026-05-22T14:00:41.150Z",
   "season": 30,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 225,
       "xpPercent": 30,
-      "territories": 61,
+      "territories": 60,
       "wars": 144782,
       "raids": 356931,
       "season": 30,
-      "rating": 16485762,
+      "rating": 16487084,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 154683,
       "raids": 166205,
       "season": 30,
-      "rating": 15264683,
+      "rating": 15265949,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 220970,
       "raids": 45178,
       "season": 30,
-      "rating": 8765345,
+      "rating": 8766307,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116542,
       "raids": 48603,
       "season": 30,
-      "rating": 6569094,
+      "rating": 6569832,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 56755,
       "raids": 28330,
       "season": 30,
-      "rating": 6468964,
+      "rating": 6470709,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 30774,
       "raids": 52440,
       "season": 30,
-      "rating": 5902645,
+      "rating": 5903311,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -119,12 +119,12 @@
       "name": "Adventure of the bear",
       "prefix": "Bav",
       "level": 73,
-      "xpPercent": 35,
-      "territories": 20,
+      "xpPercent": 36,
+      "territories": 22,
       "wars": 4811,
       "raids": 819,
       "season": 30,
-      "rating": 3788148,
+      "rating": 3789611,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 18026,
       "raids": 5358,
       "season": 30,
-      "rating": 3531990,
+      "rating": 3533013,
       "isCurrentSeason": true,
       "rank": 10
     },
