@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T05:10:24.795Z",
+  "updated": "2026-05-22T05:15:21.810Z",
   "season": 30,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 225,
       "xpPercent": 25,
-      "territories": 66,
+      "territories": 62,
       "wars": 144722,
       "raids": 356885,
       "season": 30,
-      "rating": 16321081,
+      "rating": 16322594,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 163,
-      "xpPercent": 80,
+      "xpPercent": 81,
       "territories": 97,
       "wars": 154662,
-      "raids": 166171,
+      "raids": 166172,
       "season": 30,
-      "rating": 15080203,
+      "rating": 15082512,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -54,7 +54,7 @@
       "wars": 116541,
       "raids": 48603,
       "season": 30,
-      "rating": 6471872,
+      "rating": 6472979,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 56755,
       "raids": 28303,
       "season": 30,
-      "rating": 6359629,
+      "rating": 6360784,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 30774,
       "raids": 52422,
       "season": 30,
-      "rating": 5808406,
+      "rating": 5809405,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -120,11 +120,11 @@
       "prefix": "Bav",
       "level": 73,
       "xpPercent": 34,
-      "territories": 17,
-      "wars": 4799,
+      "territories": 18,
+      "wars": 4800,
       "raids": 816,
       "season": 30,
-      "rating": 3703080,
+      "rating": 3704250,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -134,11 +134,11 @@
       "prefix": "PLHR",
       "level": 81,
       "xpPercent": 93,
-      "territories": 23,
+      "territories": 24,
       "wars": 17979,
       "raids": 5358,
       "season": 30,
-      "rating": 3435624,
+      "rating": 3436886,
       "isCurrentSeason": true,
       "rank": 10
     },
