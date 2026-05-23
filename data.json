@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T02:25:22.628Z",
+  "updated": "2026-05-23T02:30:27.883Z",
   "season": 30,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 225,
       "xpPercent": 46,
-      "territories": 65,
-      "wars": 144866,
+      "territories": 60,
+      "wars": 144868,
       "raids": 357099,
       "season": 30,
-      "rating": 16750578,
+      "rating": 16752071,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 163,
       "xpPercent": 90,
-      "territories": 89,
-      "wars": 154731,
+      "territories": 87,
+      "wars": 154734,
       "raids": 166269,
       "season": 30,
-      "rating": 15533268,
+      "rating": 15535875,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 220997,
       "raids": 45202,
       "season": 30,
-      "rating": 8958880,
+      "rating": 8960733,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116558,
       "raids": 48622,
       "season": 30,
-      "rating": 6716491,
+      "rating": 6717598,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 30,
-      "territories": 37,
+      "territories": 40,
       "wars": 56865,
       "raids": 28368,
       "season": 30,
-      "rating": 6647369,
+      "rating": 6648769,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 30810,
       "raids": 52498,
       "season": 30,
-      "rating": 6050493,
+      "rating": 6051822,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 7913,
       "raids": 5586,
       "season": 30,
-      "rating": 4352730,
+      "rating": 4352910,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -124,7 +124,7 @@
       "wars": 4832,
       "raids": 829,
       "season": 30,
-      "rating": 3920098,
+      "rating": 3921052,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -134,11 +134,11 @@
       "prefix": "PLHR",
       "level": 81,
       "xpPercent": 93,
-      "territories": 23,
+      "territories": 24,
       "wars": 18118,
       "raids": 5361,
       "season": 30,
-      "rating": 3677024,
+      "rating": 3677902,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -161,12 +161,12 @@
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
       "level": 120,
-      "xpPercent": 2,
+      "xpPercent": 3,
       "territories": 0,
       "wars": 42279,
       "raids": 63760,
       "season": 30,
-      "rating": 713632,
+      "rating": 714072,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -194,7 +194,7 @@
       "wars": 281,
       "raids": 63056,
       "season": 30,
-      "rating": 536622,
+      "rating": 536972,
       "isCurrentSeason": true,
       "rank": 14
     },
