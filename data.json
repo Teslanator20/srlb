@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T12:10:26.162Z",
+  "updated": "2026-05-23T12:11:41.575Z",
   "season": 30,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 225,
       "xpPercent": 55,
-      "territories": 65,
+      "territories": 66,
       "wars": 145005,
       "raids": 357187,
       "season": 30,
-      "rating": 17114345,
+      "rating": 17115759,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -23,10 +23,10 @@
       "level": 163,
       "xpPercent": 99,
       "territories": 86,
-      "wars": 154781,
+      "wars": 154784,
       "raids": 166365,
       "season": 30,
-      "rating": 15927122,
+      "rating": 15928889,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 220997,
       "raids": 45242,
       "season": 30,
-      "rating": 9233168,
+      "rating": 9234130,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116567,
       "raids": 48636,
       "season": 30,
-      "rating": 6922215,
+      "rating": 6922953,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 56893,
       "raids": 28373,
       "season": 30,
-      "rating": 6858857,
+      "rating": 6859603,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -175,12 +175,12 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 139,
-      "xpPercent": 1,
+      "xpPercent": 2,
       "territories": 0,
       "wars": 166728,
       "raids": 48546,
       "season": 30,
-      "rating": 581666,
+      "rating": 582026,
       "isCurrentSeason": true,
       "rank": 13
     },
