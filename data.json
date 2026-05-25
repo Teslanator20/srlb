@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T17:50:25.069Z",
+  "updated": "2026-05-25T17:55:20.704Z",
   "season": 30,
   "guilds": [
     {
@@ -24,7 +24,7 @@
       "xpPercent": 35,
       "territories": 9,
       "wars": 155518,
-      "raids": 166715,
+      "raids": 166716,
       "season": 30,
       "rating": 16629047,
       "isCurrentSeason": true,
@@ -50,7 +50,7 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 41,
-      "territories": 134,
+      "territories": 139,
       "wars": 57179,
       "raids": 28457,
       "season": 30,
@@ -78,7 +78,7 @@
       "prefix": "PUN",
       "level": 123,
       "xpPercent": 98,
-      "territories": 36,
+      "territories": 34,
       "wars": 30928,
       "raids": 52719,
       "season": 30,
@@ -120,7 +120,7 @@
       "prefix": "Bav",
       "level": 73,
       "xpPercent": 54,
-      "territories": 71,
+      "territories": 67,
       "wars": 5065,
       "raids": 838,
       "season": 30,
@@ -136,7 +136,7 @@
       "xpPercent": 29,
       "territories": 0,
       "wars": 91166,
-      "raids": 12015,
+      "raids": 12016,
       "season": 30,
       "rating": 4146687,
       "isCurrentSeason": true,
@@ -148,7 +148,7 @@
       "prefix": "Tsd",
       "level": 100,
       "xpPercent": 81,
-      "territories": 21,
+      "territories": 22,
       "wars": 32782,
       "raids": 38096,
       "season": 30,
@@ -171,20 +171,6 @@
       "rank": 12
     },
     {
-      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-      "name": "The Aquarium",
-      "prefix": "TAq",
-      "level": 139,
-      "xpPercent": 15,
-      "territories": 2,
-      "wars": 166733,
-      "raids": 48663,
-      "season": 30,
-      "rating": 603636,
-      "isCurrentSeason": true,
-      "rank": 13
-    },
-    {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
       "name": "Hesperides",
       "prefix": "HSP",
@@ -192,11 +178,11 @@
       "xpPercent": 42,
       "territories": 0,
       "wars": 283,
-      "raids": 63206,
+      "raids": 63207,
       "season": 30,
       "rating": 557663,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -204,14 +190,19 @@
       "prefix": "Zamn",
       "level": 115,
       "xpPercent": 16,
-      "territories": 1,
+      "territories": 0,
       "wars": 5042,
       "raids": 45973,
       "season": 30,
       "rating": 414958,
       "isCurrentSeason": true,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "The Aquarium",
+      "error": "HTTP 500"
+    }
+  ]
 }
