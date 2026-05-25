@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T01:05:21.960Z",
+  "updated": "2026-05-25T01:10:24.389Z",
   "season": 30,
   "guilds": [
     {
@@ -7,7 +7,7 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 225,
-      "xpPercent": 90,
+      "xpPercent": 91,
       "territories": 32,
       "wars": 145276,
       "raids": 357543,
@@ -36,7 +36,7 @@
       "prefix": "AVO",
       "level": 128,
       "xpPercent": 90,
-      "territories": 34,
+      "territories": 33,
       "wars": 221089,
       "raids": 45352,
       "season": 30,
@@ -50,7 +50,7 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 38,
-      "territories": 11,
+      "territories": 15,
       "wars": 57179,
       "raids": 28448,
       "season": 30,
@@ -78,7 +78,7 @@
       "prefix": "PUN",
       "level": 123,
       "xpPercent": 93,
-      "territories": 64,
+      "territories": 66,
       "wars": 30928,
       "raids": 52662,
       "season": 30,
