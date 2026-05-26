@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T06:00:37.186Z",
+  "updated": "2026-05-26T06:05:23.502Z",
   "season": 30,
   "guilds": [
     {
@@ -34,8 +34,8 @@
       "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
       "name": "Avicia",
       "prefix": "AVO",
-      "level": 128,
-      "xpPercent": 100,
+      "level": 129,
+      "xpPercent": 0,
       "territories": 0,
       "wars": 221089,
       "raids": 45447,
@@ -78,7 +78,7 @@
       "prefix": "PUN",
       "level": 124,
       "xpPercent": 2,
-      "territories": 35,
+      "territories": 36,
       "wars": 30928,
       "raids": 52750,
       "season": 30,
@@ -148,7 +148,7 @@
       "prefix": "Tsd",
       "level": 100,
       "xpPercent": 82,
-      "territories": 170,
+      "territories": 168,
       "wars": 32782,
       "raids": 38101,
       "season": 30,
