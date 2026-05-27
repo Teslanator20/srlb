@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T00:15:23.184Z",
+  "updated": "2026-05-27T00:20:25.499Z",
   "season": 30,
   "guilds": [
     {
@@ -50,7 +50,7 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 44,
-      "territories": 3,
+      "territories": 1,
       "wars": 57179,
       "raids": 38721,
       "season": 30,
@@ -78,7 +78,7 @@
       "prefix": "PUN",
       "level": 124,
       "xpPercent": 5,
-      "territories": 45,
+      "territories": 43,
       "wars": 30928,
       "raids": 71445,
       "season": 30,
@@ -120,7 +120,7 @@
       "prefix": "Bav",
       "level": 73,
       "xpPercent": 63,
-      "territories": 52,
+      "territories": 51,
       "wars": 5065,
       "raids": 1230,
       "season": 30,
@@ -189,7 +189,7 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 106,
-      "xpPercent": 47,
+      "xpPercent": 48,
       "territories": 1,
       "wars": 283,
       "raids": 84637,
