@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T23:15:24.778Z",
+  "updated": "2026-05-27T23:20:25.862Z",
   "season": 30,
   "guilds": [
     {
@@ -8,7 +8,7 @@
       "prefix": "SEQ",
       "level": 226,
       "xpPercent": 25,
-      "territories": 31,
+      "territories": 30,
       "wars": 145276,
       "raids": 482949,
       "season": 30,
@@ -36,7 +36,7 @@
       "prefix": "AVO",
       "level": 129,
       "xpPercent": 11,
-      "territories": 7,
+      "territories": 8,
       "wars": 221089,
       "raids": 61875,
       "season": 30,
@@ -147,7 +147,7 @@
       "name": "TruthSworD",
       "prefix": "Tsd",
       "level": 100,
-      "xpPercent": 83,
+      "xpPercent": 84,
       "territories": 31,
       "wars": 32782,
       "raids": 51148,
