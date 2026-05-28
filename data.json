@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T04:00:38.066Z",
+  "updated": "2026-05-28T04:05:22.975Z",
   "season": 30,
   "guilds": [
     {
@@ -8,7 +8,7 @@
       "prefix": "SEQ",
       "level": 226,
       "xpPercent": 27,
-      "territories": 32,
+      "territories": 33,
       "wars": 145276,
       "raids": 482974,
       "season": 30,
@@ -38,7 +38,7 @@
       "xpPercent": 12,
       "territories": 0,
       "wars": 221089,
-      "raids": 61878,
+      "raids": 61879,
       "season": 30,
       "rating": 9734628,
       "isCurrentSeason": true,
@@ -50,7 +50,7 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 47,
-      "territories": 264,
+      "territories": 263,
       "wars": 57179,
       "raids": 38748,
       "season": 30,
@@ -148,7 +148,7 @@
       "prefix": "Tsd",
       "level": 100,
       "xpPercent": 84,
-      "territories": 30,
+      "territories": 29,
       "wars": 32782,
       "raids": 51154,
       "season": 30,
