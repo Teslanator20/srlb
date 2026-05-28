@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T00:20:24.471Z",
+  "updated": "2026-05-28T00:25:21.831Z",
   "season": 30,
   "guilds": [
     {
@@ -22,7 +22,7 @@
       "prefix": "Aeq",
       "level": 164,
       "xpPercent": 60,
-      "territories": 4,
+      "territories": 0,
       "wars": 155518,
       "raids": 225594,
       "season": 30,
@@ -50,9 +50,9 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 47,
-      "territories": 157,
+      "territories": 160,
       "wars": 57179,
-      "raids": 38747,
+      "raids": 38748,
       "season": 30,
       "rating": 7349244,
       "isCurrentSeason": true,
@@ -120,7 +120,7 @@
       "prefix": "Bav",
       "level": 73,
       "xpPercent": 71,
-      "territories": 16,
+      "territories": 13,
       "wars": 5065,
       "raids": 1230,
       "season": 30,
