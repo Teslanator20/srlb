@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T20:35:22.004Z",
+  "updated": "2026-05-28T20:40:24.934Z",
   "season": 30,
   "guilds": [
     {
@@ -21,7 +21,7 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 164,
-      "xpPercent": 73,
+      "xpPercent": 74,
       "territories": 0,
       "wars": 155518,
       "raids": 59205,
@@ -36,7 +36,7 @@
       "prefix": "AVO",
       "level": 129,
       "xpPercent": 17,
-      "territories": 1,
+      "territories": 0,
       "wars": 221089,
       "raids": 16533,
       "season": 30,
@@ -50,7 +50,7 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 48,
-      "territories": 388,
+      "territories": 387,
       "wars": 57179,
       "raids": 10352,
       "season": 30,
@@ -175,7 +175,7 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 139,
-      "xpPercent": 22,
+      "xpPercent": 23,
       "territories": 0,
       "wars": 166733,
       "raids": 16797,
