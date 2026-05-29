@@ -1,77 +1,7 @@
 {
-  "updated": "2026-05-29T23:05:22.319Z",
-  "season": 30,
+  "updated": "2026-05-29T23:10:26.586Z",
+  "season": 31,
   "guilds": [
-    {
-      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-      "name": "Sequoia",
-      "prefix": "SEQ",
-      "level": 226,
-      "xpPercent": 63,
-      "territories": 56,
-      "wars": 145277,
-      "raids": 126375,
-      "season": 30,
-      "rating": 17805406,
-      "isCurrentSeason": true,
-      "rank": 1
-    },
-    {
-      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-      "name": "Avicia",
-      "prefix": "AVO",
-      "level": 129,
-      "xpPercent": 23,
-      "territories": 0,
-      "wars": 221090,
-      "raids": 16624,
-      "season": 30,
-      "rating": 9734628,
-      "isCurrentSeason": true,
-      "rank": 2
-    },
-    {
-      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-      "name": "Nerfuria",
-      "prefix": "Nia",
-      "level": 115,
-      "xpPercent": 52,
-      "territories": 230,
-      "wars": 57180,
-      "raids": 10406,
-      "season": 30,
-      "rating": 7349244,
-      "isCurrentSeason": true,
-      "rank": 3
-    },
-    {
-      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-      "name": "Titans Valor",
-      "prefix": "ANO",
-      "level": 123,
-      "xpPercent": 67,
-      "territories": 0,
-      "wars": 116609,
-      "raids": 16979,
-      "season": 30,
-      "rating": 7292845,
-      "isCurrentSeason": true,
-      "rank": 4
-    },
-    {
-      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-      "name": "Paladins United",
-      "prefix": "PUN",
-      "level": 124,
-      "xpPercent": 29,
-      "territories": 3,
-      "wars": 30929,
-      "raids": 19031,
-      "season": 30,
-      "rating": 6530956,
-      "isCurrentSeason": true,
-      "rank": 5
-    },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
       "name": "Cirrus",
@@ -79,26 +9,12 @@
       "level": 97,
       "xpPercent": 94,
       "territories": 0,
-      "wars": 8094,
+      "wars": 8095,
       "raids": 2453,
       "season": 30,
       "rating": 4551289,
-      "isCurrentSeason": true,
-      "rank": 6
-    },
-    {
-      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
-      "name": "Polish Hussars",
-      "prefix": "PLHR",
-      "level": 82,
-      "xpPercent": 9,
-      "territories": 0,
-      "wars": 18893,
-      "raids": 1929,
-      "season": 30,
-      "rating": 4495732,
-      "isCurrentSeason": true,
-      "rank": 7
+      "isCurrentSeason": false,
+      "rank": 1
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -111,8 +27,8 @@
       "raids": 406,
       "season": 30,
       "rating": 4449710,
-      "isCurrentSeason": true,
-      "rank": 8
+      "isCurrentSeason": false,
+      "rank": 2
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -125,8 +41,8 @@
       "raids": 4424,
       "season": 30,
       "rating": 4146687,
-      "isCurrentSeason": true,
-      "rank": 9
+      "isCurrentSeason": false,
+      "rank": 3
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -139,8 +55,8 @@
       "raids": 22160,
       "season": 30,
       "rating": 728102,
-      "isCurrentSeason": true,
-      "rank": 10
+      "isCurrentSeason": false,
+      "rank": 4
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -153,8 +69,8 @@
       "raids": 16907,
       "season": 30,
       "rating": 603636,
-      "isCurrentSeason": true,
-      "rank": 11
+      "isCurrentSeason": false,
+      "rank": 5
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -167,8 +83,8 @@
       "raids": 21595,
       "season": 30,
       "rating": 557663,
-      "isCurrentSeason": true,
-      "rank": 12
+      "isCurrentSeason": false,
+      "rank": 6
     },
     {
       "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
@@ -177,12 +93,40 @@
       "level": 164,
       "xpPercent": 92,
       "territories": 11,
-      "wars": 155519,
-      "raids": 59460,
+      "wars": 155523,
+      "raids": 59462,
       "season": 31,
-      "rating": 440,
-      "isCurrentSeason": false,
-      "rank": 13
+      "rating": 1494,
+      "isCurrentSeason": true,
+      "rank": 7
+    },
+    {
+      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+      "name": "Sequoia",
+      "prefix": "SEQ",
+      "level": 226,
+      "xpPercent": 64,
+      "territories": 56,
+      "wars": 145281,
+      "raids": 126376,
+      "season": 31,
+      "rating": 1028,
+      "isCurrentSeason": true,
+      "rank": 8
+    },
+    {
+      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
+      "name": "TruthSworD",
+      "prefix": "Tsd",
+      "level": 100,
+      "xpPercent": 88,
+      "territories": 0,
+      "wars": 32786,
+      "raids": 13177,
+      "season": 31,
+      "rating": 546,
+      "isCurrentSeason": true,
+      "rank": 9
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -192,24 +136,80 @@
       "xpPercent": 36,
       "territories": 0,
       "wars": 5042,
-      "raids": 15820,
+      "raids": 15822,
       "season": 31,
       "rating": 440,
-      "isCurrentSeason": false,
+      "isCurrentSeason": true,
+      "rank": 10
+    },
+    {
+      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
+      "name": "Nerfuria",
+      "prefix": "Nia",
+      "level": 115,
+      "xpPercent": 52,
+      "territories": 230,
+      "wars": 57184,
+      "raids": 10406,
+      "season": 31,
+      "rating": 218,
+      "isCurrentSeason": true,
+      "rank": 11
+    },
+    {
+      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+      "name": "Avicia",
+      "prefix": "AVO",
+      "level": 129,
+      "xpPercent": 23,
+      "territories": 0,
+      "wars": 221094,
+      "raids": 16624,
+      "season": 31,
+      "rating": 154,
+      "isCurrentSeason": true,
+      "rank": 12
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 123,
+      "xpPercent": 67,
+      "territories": 0,
+      "wars": 116612,
+      "raids": 16979,
+      "season": 31,
+      "rating": 142,
+      "isCurrentSeason": true,
+      "rank": 13
+    },
+    {
+      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+      "name": "Paladins United",
+      "prefix": "PUN",
+      "level": 124,
+      "xpPercent": 29,
+      "territories": 3,
+      "wars": 30932,
+      "raids": 19032,
+      "season": 31,
+      "rating": 108,
+      "isCurrentSeason": true,
       "rank": 14
     },
     {
-      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
-      "name": "TruthSworD",
-      "prefix": "Tsd",
-      "level": 100,
-      "xpPercent": 88,
+      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
+      "name": "Polish Hussars",
+      "prefix": "PLHR",
+      "level": 82,
+      "xpPercent": 9,
       "territories": 0,
-      "wars": 32784,
-      "raids": 13176,
+      "wars": 18896,
+      "raids": 1929,
       "season": 31,
       "rating": 40,
-      "isCurrentSeason": false,
+      "isCurrentSeason": true,
       "rank": 15
     }
   ],
