@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T20:35:22.357Z",
+  "updated": "2026-05-29T20:40:28.334Z",
   "season": 30,
   "guilds": [
     {
@@ -22,7 +22,7 @@
       "prefix": "Aeq",
       "level": 164,
       "xpPercent": 91,
-      "territories": 3,
+      "territories": 5,
       "wars": 155518,
       "raids": 59205,
       "season": 30,
@@ -50,7 +50,7 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 51,
-      "territories": 166,
+      "territories": 165,
       "wars": 57179,
       "raids": 10352,
       "season": 30,
@@ -119,8 +119,8 @@
       "name": "Adventure of the bear",
       "prefix": "Bav",
       "level": 73,
-      "xpPercent": 80,
-      "territories": 78,
+      "xpPercent": 81,
+      "territories": 77,
       "wars": 5065,
       "raids": 396,
       "season": 30,
