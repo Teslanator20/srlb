@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T00:45:25.695Z",
+  "updated": "2026-05-30T00:50:25.310Z",
   "season": 31,
   "guilds": [
     {
@@ -80,9 +80,9 @@
       "xpPercent": 68,
       "territories": 56,
       "wars": 145340,
-      "raids": 126420,
+      "raids": 126426,
       "season": 31,
-      "rating": 26558,
+      "rating": 28039,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -93,10 +93,10 @@
       "level": 164,
       "xpPercent": 95,
       "territories": 11,
-      "wars": 155589,
-      "raids": 59497,
+      "wars": 155593,
+      "raids": 59498,
       "season": 31,
-      "rating": 22057,
+      "rating": 22403,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -107,10 +107,10 @@
       "level": 115,
       "xpPercent": 52,
       "territories": 230,
-      "wars": 57260,
+      "wars": 57263,
       "raids": 10406,
       "season": 31,
-      "rating": 6196,
+      "rating": 6677,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,9 +124,23 @@
       "wars": 221150,
       "raids": 16624,
       "season": 31,
-      "rating": 6054,
+      "rating": 6247,
       "isCurrentSeason": true,
       "rank": 9
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 123,
+      "xpPercent": 67,
+      "territories": 0,
+      "wars": 116649,
+      "raids": 16979,
+      "season": 31,
+      "rating": 4758,
+      "isCurrentSeason": true,
+      "rank": 10
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -138,21 +152,7 @@
       "wars": 32803,
       "raids": 13179,
       "season": 31,
-      "rating": 4606,
-      "isCurrentSeason": true,
-      "rank": 10
-    },
-    {
-      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-      "name": "Titans Valor",
-      "prefix": "ANO",
-      "level": 123,
-      "xpPercent": 67,
-      "territories": 0,
-      "wars": 116646,
-      "raids": 16979,
-      "season": 31,
-      "rating": 4506,
+      "rating": 4733,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -166,7 +166,7 @@
       "wars": 30951,
       "raids": 19032,
       "season": 31,
-      "rating": 3784,
+      "rating": 3918,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -180,7 +180,7 @@
       "wars": 18919,
       "raids": 1929,
       "season": 31,
-      "rating": 3271,
+      "rating": 3346,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -192,9 +192,9 @@
       "xpPercent": 95,
       "territories": 0,
       "wars": 8098,
-      "raids": 2459,
+      "raids": 2460,
       "season": 31,
-      "rating": 2540,
+      "rating": 2890,
       "isCurrentSeason": true,
       "rank": 14
     },
