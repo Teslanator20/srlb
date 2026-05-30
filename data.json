@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T08:40:24.710Z",
+  "updated": "2026-05-30T08:45:23.443Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 145355,
       "raids": 126626,
       "season": 31,
-      "rating": 137136,
+      "rating": 137779,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 165,
       "xpPercent": 10,
-      "territories": 87,
-      "wars": 155778,
+      "territories": 83,
+      "wars": 155781,
       "raids": 59643,
       "season": 31,
-      "rating": 120666,
+      "rating": 121867,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 221159,
       "raids": 16633,
       "season": 31,
-      "rating": 32213,
+      "rating": 32501,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 116651,
       "raids": 16988,
       "season": 31,
-      "rating": 25535,
+      "rating": 25681,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 30951,
       "raids": 19048,
       "season": 31,
-      "rating": 25392,
+      "rating": 25525,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 53,
-      "territories": 8,
+      "territories": 7,
       "wars": 57344,
       "raids": 10416,
       "season": 31,
-      "rating": 20315,
+      "rating": 20392,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -93,10 +93,10 @@
       "level": 100,
       "xpPercent": 88,
       "territories": 18,
-      "wars": 32820,
+      "wars": 32821,
       "raids": 13179,
       "season": 31,
-      "rating": 17835,
+      "rating": 17999,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -106,13 +106,27 @@
       "prefix": "Crrs",
       "level": 97,
       "xpPercent": 96,
-      "territories": 21,
-      "wars": 8144,
+      "territories": 23,
+      "wars": 8145,
       "raids": 2466,
       "season": 31,
-      "rating": 10386,
+      "rating": 10615,
       "isCurrentSeason": true,
       "rank": 8
+    },
+    {
+      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
+      "name": "Polish Hussars",
+      "prefix": "PLHR",
+      "level": 82,
+      "xpPercent": 9,
+      "territories": 8,
+      "wars": 18963,
+      "raids": 1929,
+      "season": 31,
+      "rating": 7848,
+      "isCurrentSeason": true,
+      "rank": 9
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -125,20 +139,6 @@
       "raids": 16924,
       "season": 31,
       "rating": 7696,
-      "isCurrentSeason": true,
-      "rank": 9
-    },
-    {
-      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
-      "name": "Polish Hussars",
-      "prefix": "PLHR",
-      "level": 82,
-      "xpPercent": 9,
-      "territories": 6,
-      "wars": 18959,
-      "raids": 1929,
-      "season": 31,
-      "rating": 7646,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -208,7 +208,7 @@
       "wars": 5067,
       "raids": 407,
       "season": 31,
-      "rating": 390,
+      "rating": 426,
       "isCurrentSeason": true,
       "rank": 15
     }
