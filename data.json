@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T10:53:25.499Z",
+  "updated": "2026-05-30T10:55:19.989Z",
   "season": 31,
   "guilds": [
     {
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 165,
       "xpPercent": 12,
-      "territories": 88,
-      "wars": 155872,
+      "territories": 90,
+      "wars": 155875,
       "raids": 59662,
       "season": 31,
-      "rating": 138297,
+      "rating": 138514,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 221159,
       "raids": 16637,
       "season": 31,
-      "rating": 40564,
+      "rating": 40660,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -73,6 +73,20 @@
       "rank": 5
     },
     {
+      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
+      "name": "TruthSworD",
+      "prefix": "Tsd",
+      "level": 100,
+      "xpPercent": 88,
+      "territories": 31,
+      "wars": 32873,
+      "raids": 13179,
+      "season": 31,
+      "rating": 24031,
+      "isCurrentSeason": true,
+      "rank": 6
+    },
+    {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
       "name": "Nerfuria",
       "prefix": "Nia",
@@ -83,20 +97,6 @@
       "raids": 10424,
       "season": 31,
       "rating": 23734,
-      "isCurrentSeason": true,
-      "rank": 6
-    },
-    {
-      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
-      "name": "TruthSworD",
-      "prefix": "Tsd",
-      "level": 100,
-      "xpPercent": 88,
-      "territories": 25,
-      "wars": 32869,
-      "raids": 13179,
-      "season": 31,
-      "rating": 23673,
       "isCurrentSeason": true,
       "rank": 7
     },
