@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T14:25:21.547Z",
+  "updated": "2026-05-30T14:30:29.887Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 3,
       "territories": 64,
       "wars": 145355,
-      "raids": 126773,
+      "raids": 126778,
       "season": 31,
-      "rating": 215965,
+      "rating": 217045,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 165,
       "xpPercent": 14,
-      "territories": 25,
-      "wars": 155993,
+      "territories": 30,
+      "wars": 155998,
       "raids": 59688,
       "season": 31,
-      "rating": 163314,
+      "rating": 163808,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 221160,
       "raids": 16648,
       "season": 31,
-      "rating": 54779,
+      "rating": 55067,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 35,
       "territories": 22,
       "wars": 30954,
-      "raids": 19083,
+      "raids": 19086,
       "season": 31,
-      "rating": 49822,
+      "rating": 50665,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116653,
       "raids": 16991,
       "season": 31,
-      "rating": 39297,
+      "rating": 39445,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,9 +82,23 @@
       "wars": 57364,
       "raids": 10433,
       "season": 31,
-      "rating": 29020,
+      "rating": 29060,
       "isCurrentSeason": true,
       "rank": 6
+    },
+    {
+      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
+      "name": "Cirrus",
+      "prefix": "Crrs",
+      "level": 97,
+      "xpPercent": 97,
+      "territories": 23,
+      "wars": 8216,
+      "raids": 2475,
+      "season": 31,
+      "rating": 27505,
+      "isCurrentSeason": true,
+      "rank": 7
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -98,20 +112,6 @@
       "season": 31,
       "rating": 27379,
       "isCurrentSeason": true,
-      "rank": 7
-    },
-    {
-      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
-      "name": "Cirrus",
-      "prefix": "Crrs",
-      "level": 97,
-      "xpPercent": 97,
-      "territories": 23,
-      "wars": 8216,
-      "raids": 2474,
-      "season": 31,
-      "rating": 27370,
-      "isCurrentSeason": true,
       "rank": 8
     },
     {
@@ -124,7 +124,7 @@
       "wars": 19111,
       "raids": 1929,
       "season": 31,
-      "rating": 21152,
+      "rating": 21260,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 91240,
       "raids": 4441,
       "season": 31,
-      "rating": 14332,
+      "rating": 14483,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -150,11 +150,25 @@
       "xpPercent": 33,
       "territories": 0,
       "wars": 166750,
-      "raids": 16929,
+      "raids": 16930,
       "season": 31,
       "rating": 9866,
       "isCurrentSeason": true,
       "rank": 11
+    },
+    {
+      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
+      "name": "Adventure of the bear",
+      "prefix": "Bav",
+      "level": 73,
+      "xpPercent": 83,
+      "territories": 28,
+      "wars": 5159,
+      "raids": 407,
+      "season": 31,
+      "rating": 7976,
+      "isCurrentSeason": true,
+      "rank": 12
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -167,20 +181,6 @@
       "raids": 22181,
       "season": 31,
       "rating": 7970,
-      "isCurrentSeason": true,
-      "rank": 12
-    },
-    {
-      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-      "name": "Adventure of the bear",
-      "prefix": "Bav",
-      "level": 73,
-      "xpPercent": 83,
-      "territories": 28,
-      "wars": 5156,
-      "raids": 407,
-      "season": 31,
-      "rating": 7754,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -206,9 +206,9 @@
       "xpPercent": 37,
       "territories": 0,
       "wars": 5042,
-      "raids": 15825,
+      "raids": 15826,
       "season": 31,
-      "rating": 2080,
+      "rating": 2460,
       "isCurrentSeason": true,
       "rank": 15
     }
