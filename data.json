@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T14:50:24.448Z",
+  "updated": "2026-05-31T14:55:19.492Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 145567,
       "raids": 127366,
       "season": 31,
-      "rating": 533406,
+      "rating": 533600,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 156255,
       "raids": 59907,
       "season": 31,
-      "rating": 351645,
+      "rating": 351898,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 129,
       "xpPercent": 30,
-      "territories": 60,
+      "territories": 59,
       "wars": 221389,
       "raids": 16693,
       "season": 31,
-      "rating": 148020,
+      "rating": 148572,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31063,
       "raids": 19168,
       "season": 31,
-      "rating": 129078,
+      "rating": 129211,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116664,
       "raids": 17007,
       "season": 31,
-      "rating": 98850,
+      "rating": 98997,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "PLHR",
       "level": 82,
       "xpPercent": 11,
-      "territories": 64,
+      "territories": 63,
       "wars": 19421,
       "raids": 1941,
       "season": 31,
-      "rating": 97702,
+      "rating": 97902,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 91466,
       "raids": 4457,
       "season": 31,
-      "rating": 80128,
+      "rating": 80627,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -124,7 +124,7 @@
       "wars": 8367,
       "raids": 2495,
       "season": 31,
-      "rating": 60813,
+      "rating": 60950,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -133,12 +133,12 @@
       "name": "TruthSworD",
       "prefix": "Tsd",
       "level": 100,
-      "xpPercent": 89,
+      "xpPercent": 90,
       "territories": 0,
       "wars": 32909,
       "raids": 13191,
       "season": 31,
-      "rating": 34650,
+      "rating": 34950,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -147,7 +147,7 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 139,
-      "xpPercent": 38,
+      "xpPercent": 39,
       "territories": 0,
       "wars": 166772,
       "raids": 16989,
@@ -194,7 +194,7 @@
       "wars": 42279,
       "raids": 22208,
       "season": 31,
-      "rating": 17490,
+      "rating": 17790,
       "isCurrentSeason": true,
       "rank": 14
     },
@@ -203,12 +203,12 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 106,
-      "xpPercent": 58,
+      "xpPercent": 59,
       "territories": 0,
       "wars": 283,
       "raids": 21628,
       "season": 31,
-      "rating": 12410,
+      "rating": 12730,
       "isCurrentSeason": true,
       "rank": 15
     }
