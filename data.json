@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T07:15:26.586Z",
+  "updated": "2026-06-01T07:20:26.964Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 98,
       "territories": 60,
       "wars": 145630,
-      "raids": 127723,
+      "raids": 127724,
       "season": 31,
-      "rating": 735591,
+      "rating": 735882,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 156336,
       "raids": 60069,
       "season": 31,
-      "rating": 484396,
+      "rating": 484713,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 221514,
       "raids": 16743,
       "season": 31,
-      "rating": 212403,
+      "rating": 212597,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31063,
       "raids": 19200,
       "season": 31,
-      "rating": 172138,
+      "rating": 172271,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -82,7 +82,7 @@
       "wars": 116668,
       "raids": 17016,
       "season": 31,
-      "rating": 138778,
+      "rating": 138963,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 91636,
       "raids": 4478,
       "season": 31,
-      "rating": 127989,
+      "rating": 128175,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -138,7 +138,7 @@
       "wars": 166790,
       "raids": 17041,
       "season": 31,
-      "rating": 56846,
+      "rating": 56876,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -157,6 +157,20 @@
       "rank": 11
     },
     {
+      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
+      "name": "Adventure of the bear",
+      "prefix": "Bav",
+      "level": 73,
+      "xpPercent": 85,
+      "territories": 59,
+      "wars": 5354,
+      "raids": 419,
+      "season": 31,
+      "rating": 43563,
+      "isCurrentSeason": true,
+      "rank": 12
+    },
+    {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
       "name": "Hesperides",
       "prefix": "HSP",
@@ -167,20 +181,6 @@
       "raids": 21705,
       "season": 31,
       "rating": 43500,
-      "isCurrentSeason": true,
-      "rank": 12
-    },
-    {
-      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-      "name": "Adventure of the bear",
-      "prefix": "Bav",
-      "level": 73,
-      "xpPercent": 85,
-      "territories": 60,
-      "wars": 5354,
-      "raids": 419,
-      "season": 31,
-      "rating": 43322,
       "isCurrentSeason": true,
       "rank": 13
     },
