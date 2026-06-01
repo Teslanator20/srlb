@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T05:40:23.266Z",
+  "updated": "2026-06-01T05:45:27.466Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 145630,
       "raids": 127709,
       "season": 31,
-      "rating": 724414,
+      "rating": 725048,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 165,
       "xpPercent": 51,
-      "territories": 94,
-      "wars": 156330,
+      "territories": 96,
+      "wars": 156331,
       "raids": 60064,
       "season": 31,
-      "rating": 475804,
+      "rating": 476574,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 221514,
       "raids": 16738,
       "season": 31,
-      "rating": 205786,
+      "rating": 206467,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31063,
       "raids": 19196,
       "season": 31,
-      "rating": 167518,
+      "rating": 168001,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -82,7 +82,7 @@
       "wars": 116668,
       "raids": 17011,
       "season": 31,
-      "rating": 133420,
+      "rating": 133957,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 91636,
       "raids": 4478,
       "season": 31,
-      "rating": 124408,
+      "rating": 124669,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -171,6 +171,20 @@
       "rank": 12
     },
     {
+      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
+      "name": "Adventure of the bear",
+      "prefix": "Bav",
+      "level": 73,
+      "xpPercent": 85,
+      "territories": 65,
+      "wars": 5354,
+      "raids": 419,
+      "season": 31,
+      "rating": 38857,
+      "isCurrentSeason": true,
+      "rank": 13
+    },
+    {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
       "name": "Anime Lovers",
       "prefix": "Zamn",
@@ -181,20 +195,6 @@
       "raids": 15912,
       "season": 31,
       "rating": 38740,
-      "isCurrentSeason": true,
-      "rank": 13
-    },
-    {
-      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-      "name": "Adventure of the bear",
-      "prefix": "Bav",
-      "level": 73,
-      "xpPercent": 85,
-      "territories": 64,
-      "wars": 5354,
-      "raids": 419,
-      "season": 31,
-      "rating": 38616,
       "isCurrentSeason": true,
       "rank": 14
     },
