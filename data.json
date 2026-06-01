@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T18:00:44.260Z",
+  "updated": "2026-06-01T18:05:24.088Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 228,
-      "xpPercent": 17,
-      "territories": 60,
-      "wars": 145641,
+      "xpPercent": 18,
+      "territories": 62,
+      "wars": 145642,
       "raids": 127912,
       "season": 31,
-      "rating": 849741,
+      "rating": 850996,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 156377,
       "raids": 60130,
       "season": 31,
-      "rating": 553115,
+      "rating": 553935,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 129,
       "xpPercent": 37,
-      "territories": 50,
-      "wars": 221623,
+      "territories": 49,
+      "wars": 221625,
       "raids": 16746,
       "season": 31,
-      "rating": 247899,
+      "rating": 248155,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31065,
       "raids": 19234,
       "season": 31,
-      "rating": 205563,
+      "rating": 206076,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,9 +68,23 @@
       "wars": 116668,
       "raids": 17016,
       "season": 31,
-      "rating": 162579,
+      "rating": 162727,
       "isCurrentSeason": true,
       "rank": 5
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 107,
+      "xpPercent": 49,
+      "territories": 32,
+      "wars": 91699,
+      "raids": 4487,
+      "season": 31,
+      "rating": 156288,
+      "isCurrentSeason": true,
+      "rank": 6
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -84,20 +98,6 @@
       "season": 31,
       "rating": 156249,
       "isCurrentSeason": true,
-      "rank": 6
-    },
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 107,
-      "xpPercent": 49,
-      "territories": 32,
-      "wars": 91699,
-      "raids": 4487,
-      "season": 31,
-      "rating": 156064,
-      "isCurrentSeason": true,
       "rank": 7
     },
     {
@@ -110,7 +110,7 @@
       "wars": 8534,
       "raids": 2530,
       "season": 31,
-      "rating": 91966,
+      "rating": 92406,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 57768,
       "raids": 10505,
       "season": 31,
-      "rating": 89836,
+      "rating": 89896,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -152,7 +152,7 @@
       "wars": 5479,
       "raids": 419,
       "season": 31,
-      "rating": 63540,
+      "rating": 63634,
       "isCurrentSeason": true,
       "rank": 11
     },
