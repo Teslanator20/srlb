@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T15:00:43.044Z",
+  "updated": "2026-06-01T15:05:23.745Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 145630,
       "raids": 127829,
       "season": 31,
-      "rating": 804383,
+      "rating": 804577,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 156362,
       "raids": 60096,
       "season": 31,
-      "rating": 526238,
+      "rating": 526898,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 129,
       "xpPercent": 36,
-      "territories": 58,
-      "wars": 221593,
+      "territories": 57,
+      "wars": 221594,
       "raids": 16744,
       "season": 31,
-      "rating": 237600,
+      "rating": 237790,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -50,13 +50,27 @@
       "prefix": "PUN",
       "level": 124,
       "xpPercent": 51,
-      "territories": 22,
+      "territories": 23,
       "wars": 31065,
       "raids": 19228,
       "season": 31,
-      "rating": 197396,
+      "rating": 197907,
       "isCurrentSeason": true,
       "rank": 4
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 123,
+      "xpPercent": 72,
+      "territories": 31,
+      "wars": 116668,
+      "raids": 17016,
+      "season": 31,
+      "rating": 156122,
+      "isCurrentSeason": true,
+      "rank": 5
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -70,20 +84,6 @@
       "season": 31,
       "rating": 156105,
       "isCurrentSeason": true,
-      "rank": 5
-    },
-    {
-      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-      "name": "Titans Valor",
-      "prefix": "ANO",
-      "level": 123,
-      "xpPercent": 72,
-      "territories": 31,
-      "wars": 116668,
-      "raids": 17016,
-      "season": 31,
-      "rating": 155900,
-      "isCurrentSeason": true,
       "rank": 6
     },
     {
@@ -91,12 +91,12 @@
       "name": "KongoBoys",
       "prefix": "DUDE",
       "level": 107,
-      "xpPercent": 48,
+      "xpPercent": 49,
       "territories": 27,
-      "wars": 91695,
+      "wars": 91696,
       "raids": 4481,
       "season": 31,
-      "rating": 146701,
+      "rating": 146921,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 8518,
       "raids": 2518,
       "season": 31,
-      "rating": 85549,
+      "rating": 85899,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 57755,
       "raids": 10496,
       "season": 31,
-      "rating": 85281,
+      "rating": 85691,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 166798,
       "raids": 17066,
       "season": 31,
-      "rating": 71597,
+      "rating": 72097,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -147,12 +147,12 @@
       "name": "Adventure of the bear",
       "prefix": "Bav",
       "level": 73,
-      "xpPercent": 85,
-      "territories": 5,
+      "xpPercent": 86,
+      "territories": 4,
       "wars": 5429,
       "raids": 419,
       "season": 31,
-      "rating": 59191,
+      "rating": 59280,
       "isCurrentSeason": true,
       "rank": 11
     },
