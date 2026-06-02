@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T17:40:31.550Z",
+  "updated": "2026-06-02T17:45:32.311Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 145684,
       "raids": 128427,
       "season": 31,
-      "rating": 1140670,
+      "rating": 1140912,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 156439,
       "raids": 60410,
       "season": 31,
-      "rating": 765136,
+      "rating": 765839,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 129,
       "xpPercent": 42,
-      "territories": 59,
+      "territories": 57,
       "wars": 221862,
       "raids": 16794,
       "season": 31,
-      "rating": 330555,
+      "rating": 330841,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31107,
       "raids": 19306,
       "season": 31,
-      "rating": 278799,
+      "rating": 278933,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116674,
       "raids": 17031,
       "season": 31,
-      "rating": 221602,
+      "rating": 221750,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 91926,
       "raids": 4501,
       "season": 31,
-      "rating": 218059,
+      "rating": 218208,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 19629,
       "raids": 1971,
       "season": 31,
-      "rating": 196345,
+      "rating": 196981,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 166834,
       "raids": 17168,
       "season": 31,
-      "rating": 119579,
+      "rating": 119603,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -157,6 +157,20 @@
       "rank": 11
     },
     {
+      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
+      "name": "Anime Lovers",
+      "prefix": "Zamn",
+      "level": 115,
+      "xpPercent": 54,
+      "territories": 0,
+      "wars": 5042,
+      "raids": 15992,
+      "season": 31,
+      "rating": 73940,
+      "isCurrentSeason": true,
+      "rank": 12
+    },
+    {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
       "name": "Hesperides",
       "prefix": "HSP",
@@ -168,20 +182,6 @@
       "season": 31,
       "rating": 73800,
       "isCurrentSeason": true,
-      "rank": 12
-    },
-    {
-      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
-      "name": "Anime Lovers",
-      "prefix": "Zamn",
-      "level": 115,
-      "xpPercent": 54,
-      "territories": 0,
-      "wars": 5042,
-      "raids": 15992,
-      "season": 31,
-      "rating": 73500,
-      "isCurrentSeason": true,
       "rank": 13
     },
     {
@@ -189,12 +189,12 @@
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
       "level": 120,
-      "xpPercent": 48,
+      "xpPercent": 49,
       "territories": 0,
       "wars": 42279,
       "raids": 22312,
       "season": 31,
-      "rating": 57430,
+      "rating": 57790,
       "isCurrentSeason": true,
       "rank": 14
     },
