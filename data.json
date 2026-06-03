@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T08:35:24.504Z",
+  "updated": "2026-06-03T08:40:27.822Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 229,
-      "xpPercent": 1,
+      "xpPercent": 2,
       "territories": 60,
       "wars": 145698,
       "raids": 128750,
       "season": 31,
-      "rating": 1323390,
+      "rating": 1324024,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 156508,
       "raids": 60560,
       "season": 31,
-      "rating": 886758,
+      "rating": 887201,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 221891,
       "raids": 16811,
       "season": 31,
-      "rating": 380945,
+      "rating": 381138,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31129,
       "raids": 19321,
       "season": 31,
-      "rating": 314957,
+      "rating": 315124,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116683,
       "raids": 17039,
       "season": 31,
-      "rating": 257427,
+      "rating": 257685,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 52,
-      "territories": 31,
+      "territories": 32,
       "wars": 92116,
       "raids": 4503,
       "season": 31,
-      "rating": 255274,
+      "rating": 255462,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -124,7 +124,7 @@
       "wars": 57913,
       "raids": 10526,
       "season": 31,
-      "rating": 114558,
+      "rating": 114753,
       "isCurrentSeason": true,
       "rank": 9
     },
