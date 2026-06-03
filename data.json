@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T01:10:27.069Z",
+  "updated": "2026-06-03T01:15:26.147Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 145696,
       "raids": 128634,
       "season": 31,
-      "rating": 1252029,
+      "rating": 1253953,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 156461,
       "raids": 60468,
       "season": 31,
-      "rating": 819054,
+      "rating": 819497,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 221880,
       "raids": 16803,
       "season": 31,
-      "rating": 356229,
+      "rating": 356477,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,9 +54,23 @@
       "wars": 31119,
       "raids": 19319,
       "season": 31,
-      "rating": 299098,
+      "rating": 299297,
       "isCurrentSeason": true,
       "rank": 4
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 107,
+      "xpPercent": 52,
+      "territories": 26,
+      "wars": 92030,
+      "raids": 4503,
+      "season": 31,
+      "rating": 238542,
+      "isCurrentSeason": true,
+      "rank": 5
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -68,21 +82,7 @@
       "wars": 116674,
       "raids": 17032,
       "season": 31,
-      "rating": 238207,
-      "isCurrentSeason": true,
-      "rank": 5
-    },
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 107,
-      "xpPercent": 52,
-      "territories": 24,
-      "wars": 92026,
-      "raids": 4503,
-      "season": 31,
-      "rating": 238176,
+      "rating": 238351,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 19642,
       "raids": 1973,
       "season": 31,
-      "rating": 219906,
+      "rating": 220101,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -152,7 +152,7 @@
       "wars": 5042,
       "raids": 16050,
       "season": 31,
-      "rating": 98990,
+      "rating": 99430,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -162,11 +162,11 @@
       "prefix": "Bav",
       "level": 73,
       "xpPercent": 88,
-      "territories": 6,
-      "wars": 5667,
+      "territories": 7,
+      "wars": 5669,
       "raids": 423,
       "season": 31,
-      "rating": 87887,
+      "rating": 88009,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -176,11 +176,11 @@
       "prefix": "HSP",
       "level": 106,
       "xpPercent": 77,
-      "territories": 1,
+      "territories": 0,
       "wars": 294,
       "raids": 21804,
       "season": 31,
-      "rating": 84618,
+      "rating": 84636,
       "isCurrentSeason": true,
       "rank": 13
     },
