@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T22:00:41.788Z",
+  "updated": "2026-06-04T22:05:22.582Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 229,
       "xpPercent": 83,
-      "territories": 47,
-      "wars": 145968,
-      "raids": 129564,
+      "territories": 50,
+      "wars": 145975,
+      "raids": 129571,
       "season": 31,
-      "rating": 1783541,
+      "rating": 1785247,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 156849,
       "raids": 60915,
       "season": 31,
-      "rating": 1186950,
+      "rating": 1187202,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222218,
       "raids": 16875,
       "season": 31,
-      "rating": 524259,
+      "rating": 524933,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,7 +52,7 @@
       "xpPercent": 68,
       "territories": 0,
       "wars": 31217,
-      "raids": 19398,
+      "raids": 19399,
       "season": 31,
       "rating": 367835,
       "isCurrentSeason": true,
@@ -68,7 +68,7 @@
       "wars": 116737,
       "raids": 17067,
       "season": 31,
-      "rating": 353048,
+      "rating": 353195,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -79,10 +79,10 @@
       "level": 107,
       "xpPercent": 53,
       "territories": 27,
-      "wars": 92446,
+      "wars": 92447,
       "raids": 4516,
       "season": 31,
-      "rating": 350711,
+      "rating": 350892,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 20111,
       "raids": 1983,
       "season": 31,
-      "rating": 321048,
+      "rating": 321181,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 58271,
       "raids": 10585,
       "season": 31,
-      "rating": 186893,
+      "rating": 186983,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -136,7 +136,7 @@
       "xpPercent": 72,
       "territories": 0,
       "wars": 5042,
-      "raids": 16172,
+      "raids": 16173,
       "season": 31,
       "rating": 151540,
       "isCurrentSeason": true,
@@ -180,9 +180,23 @@
       "wars": 305,
       "raids": 21874,
       "season": 31,
-      "rating": 111120,
+      "rating": 111560,
       "isCurrentSeason": true,
       "rank": 13
+    },
+    {
+      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
+      "name": "TruthSworD",
+      "prefix": "Tsd",
+      "level": 100,
+      "xpPercent": 98,
+      "territories": 0,
+      "wars": 33039,
+      "raids": 13276,
+      "season": 31,
+      "rating": 82646,
+      "isCurrentSeason": true,
+      "rank": 14
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -195,20 +209,6 @@
       "raids": 22378,
       "season": 31,
       "rating": 82360,
-      "isCurrentSeason": true,
-      "rank": 14
-    },
-    {
-      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
-      "name": "TruthSworD",
-      "prefix": "Tsd",
-      "level": 100,
-      "xpPercent": 98,
-      "territories": 0,
-      "wars": 33039,
-      "raids": 13276,
-      "season": 31,
-      "rating": 82296,
       "isCurrentSeason": true,
       "rank": 15
     }
