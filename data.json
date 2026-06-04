@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T14:40:30.729Z",
+  "updated": "2026-06-04T14:45:32.745Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 229,
-      "xpPercent": 58,
-      "territories": 55,
-      "wars": 145894,
+      "xpPercent": 59,
+      "territories": 57,
+      "wars": 145895,
       "raids": 129322,
       "season": 31,
-      "rating": 1655887,
+      "rating": 1656565,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 156837,
       "raids": 60834,
       "season": 31,
-      "rating": 1123119,
+      "rating": 1123372,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222118,
       "raids": 16862,
       "season": 31,
-      "rating": 494928,
+      "rating": 495216,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -68,7 +68,7 @@
       "wars": 116698,
       "raids": 17057,
       "season": 31,
-      "rating": 331759,
+      "rating": 332347,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 53,
-      "territories": 28,
-      "wars": 92313,
+      "territories": 26,
+      "wars": 92316,
       "raids": 4516,
       "season": 31,
-      "rating": 330612,
+      "rating": 330864,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -93,10 +93,10 @@
       "level": 82,
       "xpPercent": 24,
       "territories": 28,
-      "wars": 20079,
+      "wars": 20081,
       "raids": 1974,
       "season": 31,
-      "rating": 301516,
+      "rating": 301659,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -121,10 +121,10 @@
       "level": 98,
       "xpPercent": 13,
       "territories": 48,
-      "wars": 8814,
+      "wars": 8816,
       "raids": 2591,
       "season": 31,
-      "rating": 151051,
+      "rating": 151419,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -143,6 +143,20 @@
       "rank": 10
     },
     {
+      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
+      "name": "Adventure of the bear",
+      "prefix": "Bav",
+      "level": 73,
+      "xpPercent": 92,
+      "territories": 19,
+      "wars": 5852,
+      "raids": 423,
+      "season": 31,
+      "rating": 128244,
+      "isCurrentSeason": true,
+      "rank": 11
+    },
+    {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
       "name": "The Aquarium",
       "prefix": "TAq",
@@ -154,20 +168,6 @@
       "season": 31,
       "rating": 128227,
       "isCurrentSeason": true,
-      "rank": 11
-    },
-    {
-      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-      "name": "Adventure of the bear",
-      "prefix": "Bav",
-      "level": 73,
-      "xpPercent": 91,
-      "territories": 19,
-      "wars": 5852,
-      "raids": 423,
-      "season": 31,
-      "rating": 128117,
-      "isCurrentSeason": true,
       "rank": 12
     },
     {
@@ -178,9 +178,9 @@
       "xpPercent": 81,
       "territories": 0,
       "wars": 302,
-      "raids": 21844,
+      "raids": 21845,
       "season": 31,
-      "rating": 98140,
+      "rating": 98470,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -204,11 +204,11 @@
       "prefix": "Tsd",
       "level": 100,
       "xpPercent": 98,
-      "territories": 6,
-      "wars": 32923,
+      "territories": 1,
+      "wars": 32928,
       "raids": 13271,
       "season": 31,
-      "rating": 71007,
+      "rating": 71087,
       "isCurrentSeason": true,
       "rank": 15
     }
