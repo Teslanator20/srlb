@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T07:05:25.746Z",
+  "updated": "2026-06-04T07:10:26.212Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 229,
       "xpPercent": 42,
-      "territories": 57,
-      "wars": 145848,
+      "territories": 56,
+      "wars": 145849,
       "raids": 129155,
       "season": 31,
-      "rating": 1562246,
+      "rating": 1562435,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 156837,
       "raids": 60770,
       "season": 31,
-      "rating": 1066621,
+      "rating": 1066874,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222088,
       "raids": 16853,
       "season": 31,
-      "rating": 468872,
+      "rating": 469160,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -68,7 +68,7 @@
       "wars": 116698,
       "raids": 17053,
       "season": 31,
-      "rating": 312886,
+      "rating": 313034,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 92156,
       "raids": 4516,
       "season": 31,
-      "rating": 310729,
+      "rating": 310877,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "PLHR",
       "level": 82,
       "xpPercent": 23,
-      "territories": 27,
+      "territories": 25,
       "wars": 20030,
       "raids": 1974,
       "season": 31,
-      "rating": 284551,
+      "rating": 284692,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -106,11 +106,11 @@
       "prefix": "Nia",
       "level": 115,
       "xpPercent": 69,
-      "territories": 3,
-      "wars": 58103,
+      "territories": 4,
+      "wars": 58105,
       "raids": 10550,
       "season": 31,
-      "rating": 161132,
+      "rating": 161245,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -208,7 +208,7 @@
       "wars": 32911,
       "raids": 13271,
       "season": 31,
-      "rating": 69536,
+      "rating": 69560,
       "isCurrentSeason": true,
       "rank": 15
     }
