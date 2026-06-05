@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T02:20:26.197Z",
+  "updated": "2026-06-05T02:25:23.532Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 229,
       "xpPercent": 91,
-      "territories": 61,
+      "territories": 60,
       "wars": 145986,
       "raids": 129648,
       "season": 31,
-      "rating": 1831700,
+      "rating": 1832335,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 166,
       "xpPercent": 39,
-      "territories": 99,
-      "wars": 156859,
+      "territories": 100,
+      "wars": 156860,
       "raids": 60928,
       "season": 31,
-      "rating": 1208015,
+      "rating": 1209192,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 129,
       "xpPercent": 51,
-      "territories": 58,
+      "territories": 59,
       "wars": 222219,
       "raids": 16877,
       "season": 31,
-      "rating": 537464,
+      "rating": 537800,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31250,
       "raids": 19415,
       "season": 31,
-      "rating": 380149,
+      "rating": 380282,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 92452,
       "raids": 4523,
       "season": 31,
-      "rating": 363623,
+      "rating": 363772,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 116737,
       "raids": 17069,
       "season": 31,
-      "rating": 363492,
+      "rating": 363640,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 58280,
       "raids": 10633,
       "season": 31,
-      "rating": 209115,
+      "rating": 209505,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -178,7 +178,7 @@
       "xpPercent": 87,
       "territories": 0,
       "wars": 305,
-      "raids": 21900,
+      "raids": 21901,
       "season": 31,
       "rating": 121980,
       "isCurrentSeason": true,
