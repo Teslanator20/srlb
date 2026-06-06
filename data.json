@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T15:50:28.307Z",
+  "updated": "2026-06-06T15:55:21.290Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 230,
-      "xpPercent": 75,
+      "xpPercent": 76,
       "territories": 66,
       "wars": 146195,
       "raids": 130498,
       "season": 31,
-      "rating": 2316764,
+      "rating": 2318389,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 157033,
       "raids": 61175,
       "season": 31,
-      "rating": 1463226,
+      "rating": 1464004,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222333,
       "raids": 16921,
       "season": 31,
-      "rating": 666445,
+      "rating": 666636,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31295,
       "raids": 19568,
       "season": 31,
-      "rating": 511987,
+      "rating": 512536,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 92720,
       "raids": 4534,
       "season": 31,
-      "rating": 459648,
+      "rating": 460237,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 116822,
       "raids": 17072,
       "season": 31,
-      "rating": 450373,
+      "rating": 450594,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -152,7 +152,7 @@
       "wars": 6038,
       "raids": 423,
       "season": 31,
-      "rating": 173967,
+      "rating": 174094,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -166,7 +166,7 @@
       "wars": 311,
       "raids": 21976,
       "season": 31,
-      "rating": 154578,
+      "rating": 155018,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -185,6 +185,20 @@
       "rank": 13
     },
     {
+      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
+      "name": "The Broken Gasmask",
+      "prefix": "TBGM",
+      "level": 120,
+      "xpPercent": 61,
+      "territories": 0,
+      "wars": 42279,
+      "raids": 22426,
+      "season": 31,
+      "rating": 101990,
+      "isCurrentSeason": true,
+      "rank": 14
+    },
+    {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
       "name": "TruthSworD",
       "prefix": "Tsd",
@@ -195,20 +209,6 @@
       "raids": 13321,
       "season": 31,
       "rating": 101716,
-      "isCurrentSeason": true,
-      "rank": 14
-    },
-    {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 120,
-      "xpPercent": 61,
-      "territories": 0,
-      "wars": 42279,
-      "raids": 22426,
-      "season": 31,
-      "rating": 101580,
       "isCurrentSeason": true,
       "rank": 15
     }
