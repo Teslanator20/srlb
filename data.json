@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T14:45:25.464Z",
+  "updated": "2026-06-06T14:50:26.249Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 230,
-      "xpPercent": 71,
+      "xpPercent": 72,
       "territories": 60,
       "wars": 146189,
-      "raids": 130454,
+      "raids": 130462,
       "season": 31,
-      "rating": 2295680,
+      "rating": 2297731,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 157019,
       "raids": 61169,
       "season": 31,
-      "rating": 1455782,
+      "rating": 1456597,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222331,
       "raids": 16921,
       "season": 31,
-      "rating": 663136,
+      "rating": 663432,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 84,
       "territories": 22,
       "wars": 31295,
-      "raids": 19561,
+      "raids": 19562,
       "season": 31,
-      "rating": 507692,
+      "rating": 507892,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 92720,
       "raids": 4530,
       "season": 31,
-      "rating": 455426,
+      "rating": 455650,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "ANO",
       "level": 123,
       "xpPercent": 78,
-      "territories": 32,
+      "territories": 31,
       "wars": 116822,
       "raids": 17071,
       "season": 31,
-      "rating": 447570,
+      "rating": 447719,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -108,7 +108,7 @@
       "xpPercent": 0,
       "territories": 0,
       "wars": 58413,
-      "raids": 10871,
+      "raids": 10872,
       "season": 31,
       "rating": 318859,
       "isCurrentSeason": true,
@@ -152,7 +152,7 @@
       "wars": 6038,
       "raids": 423,
       "season": 31,
-      "rating": 171837,
+      "rating": 172027,
       "isCurrentSeason": true,
       "rank": 11
     },
