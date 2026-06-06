@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T21:35:25.013Z",
+  "updated": "2026-06-06T21:40:27.259Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 96,
       "territories": 60,
       "wars": 146200,
-      "raids": 130705,
+      "raids": 130711,
       "season": 31,
-      "rating": 2425026,
+      "rating": 2426547,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 68,
       "territories": 97,
       "wars": 157041,
-      "raids": 61224,
+      "raids": 61226,
       "season": 31,
-      "rating": 1506576,
+      "rating": 1507336,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 129,
       "xpPercent": 58,
-      "territories": 65,
+      "territories": 64,
       "wars": 222359,
       "raids": 16944,
       "season": 31,
-      "rating": 693416,
+      "rating": 693714,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31295,
       "raids": 19588,
       "season": 31,
-      "rating": 529485,
+      "rating": 529685,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 57,
-      "territories": 30,
+      "territories": 31,
       "wars": 92757,
       "raids": 4545,
       "season": 31,
-      "rating": 477545,
+      "rating": 477806,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 116829,
       "raids": 17079,
       "season": 31,
-      "rating": 466617,
+      "rating": 466839,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -152,7 +152,7 @@
       "wars": 6058,
       "raids": 427,
       "season": 31,
-      "rating": 186961,
+      "rating": 187152,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -164,7 +164,7 @@
       "xpPercent": 98,
       "territories": 0,
       "wars": 313,
-      "raids": 22005,
+      "raids": 22006,
       "season": 31,
       "rating": 167728,
       "isCurrentSeason": true,
