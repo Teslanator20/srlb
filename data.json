@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T15:04:05.713Z",
+  "updated": "2026-06-06T15:05:21.950Z",
   "season": 31,
   "guilds": [
     {
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 166,
       "xpPercent": 63,
-      "territories": 95,
+      "territories": 96,
       "wars": 157031,
       "raids": 61170,
       "season": 31,
-      "rating": 1457787,
+      "rating": 1457960,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222331,
       "raids": 16921,
       "season": 31,
-      "rating": 664024,
+      "rating": 664122,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -152,7 +152,7 @@
       "wars": 6038,
       "raids": 423,
       "season": 31,
-      "rating": 172409,
+      "rating": 172504,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -185,6 +185,20 @@
       "rank": 13
     },
     {
+      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
+      "name": "TruthSworD",
+      "prefix": "Tsd",
+      "level": 101,
+      "xpPercent": 5,
+      "territories": 0,
+      "wars": 33039,
+      "raids": 13318,
+      "season": 31,
+      "rating": 100836,
+      "isCurrentSeason": true,
+      "rank": 14
+    },
+    {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
@@ -195,20 +209,6 @@
       "raids": 22423,
       "season": 31,
       "rating": 100410,
-      "isCurrentSeason": true,
-      "rank": 14
-    },
-    {
-      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
-      "name": "TruthSworD",
-      "prefix": "Tsd",
-      "level": 101,
-      "xpPercent": 5,
-      "territories": 0,
-      "wars": 33039,
-      "raids": 13318,
-      "season": 31,
-      "rating": 100396,
       "isCurrentSeason": true,
       "rank": 15
     }
