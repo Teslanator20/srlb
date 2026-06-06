@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T20:00:38.427Z",
+  "updated": "2026-06-06T20:05:25.308Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 230,
-      "xpPercent": 91,
+      "xpPercent": 92,
       "territories": 65,
       "wars": 146200,
       "raids": 130658,
       "season": 31,
-      "rating": 2398222,
+      "rating": 2400154,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 166,
       "xpPercent": 67,
-      "territories": 98,
+      "territories": 97,
       "wars": 157041,
       "raids": 61212,
       "season": 31,
-      "rating": 1495111,
+      "rating": 1495493,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222347,
       "raids": 16936,
       "season": 31,
-      "rating": 685198,
+      "rating": 685945,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31295,
       "raids": 19588,
       "season": 31,
-      "rating": 526355,
+      "rating": 526521,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 57,
-      "territories": 19,
+      "territories": 11,
       "wars": 92722,
       "raids": 4541,
       "season": 31,
-      "rating": 472042,
+      "rating": 472156,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 116829,
       "raids": 17077,
       "season": 31,
-      "rating": 462305,
+      "rating": 462453,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 20662,
       "raids": 1984,
       "season": 31,
-      "rating": 376802,
+      "rating": 377212,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 58413,
       "raids": 10891,
       "season": 31,
-      "rating": 325949,
+      "rating": 326359,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -147,12 +147,12 @@
       "name": "Adventure of the bear",
       "prefix": "Bav",
       "level": 73,
-      "xpPercent": 96,
-      "territories": 18,
+      "xpPercent": 97,
+      "territories": 19,
       "wars": 6057,
       "raids": 426,
       "season": 31,
-      "rating": 183437,
+      "rating": 184075,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -166,7 +166,7 @@
       "wars": 312,
       "raids": 21998,
       "season": 31,
-      "rating": 164078,
+      "rating": 164518,
       "isCurrentSeason": true,
       "rank": 12
     },
