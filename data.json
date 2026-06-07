@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T16:50:28.569Z",
+  "updated": "2026-06-07T16:55:21.576Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 231,
       "xpPercent": 34,
-      "territories": 60,
-      "wars": 146272,
+      "territories": 63,
+      "wars": 146274,
       "raids": 131088,
       "season": 31,
-      "rating": 2641552,
+      "rating": 2643304,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 166,
       "xpPercent": 78,
-      "territories": 99,
+      "territories": 98,
       "wars": 157097,
       "raids": 61325,
       "season": 31,
-      "rating": 1623341,
+      "rating": 1623597,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222485,
       "raids": 16949,
       "season": 31,
-      "rating": 754602,
+      "rating": 754885,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31338,
       "raids": 19631,
       "season": 31,
-      "rating": 583947,
+      "rating": 584080,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 92967,
       "raids": 4568,
       "season": 31,
-      "rating": 536004,
+      "rating": 536151,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,12 +77,12 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 123,
-      "xpPercent": 82,
+      "xpPercent": 83,
       "territories": 31,
       "wars": 116836,
       "raids": 17115,
       "season": 31,
-      "rating": 524499,
+      "rating": 525056,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 20673,
       "raids": 2005,
       "season": 31,
-      "rating": 384802,
+      "rating": 385182,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 5042,
       "raids": 16330,
       "season": 31,
-      "rating": 220350,
+      "rating": 220790,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -133,12 +133,12 @@
       "name": "Adventure of the bear",
       "prefix": "Bav",
       "level": 74,
-      "xpPercent": 16,
-      "territories": 17,
-      "wars": 6085,
+      "xpPercent": 17,
+      "territories": 15,
+      "wars": 6086,
       "raids": 438,
       "season": 31,
-      "rating": 214815,
+      "rating": 214932,
       "isCurrentSeason": true,
       "rank": 10
     },
