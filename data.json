@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T05:35:25.535Z",
+  "updated": "2026-06-08T05:40:26.533Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 63,
       "territories": 60,
       "wars": 146303,
-      "raids": 131381,
+      "raids": 131382,
       "season": 31,
-      "rating": 2806279,
+      "rating": 2806570,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 90,
       "territories": 96,
       "wars": 157151,
-      "raids": 61443,
+      "raids": 61445,
       "season": 31,
-      "rating": 1725006,
+      "rating": 1725384,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222528,
       "raids": 16963,
       "season": 31,
-      "rating": 797850,
+      "rating": 798043,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31338,
       "raids": 19645,
       "season": 31,
-      "rating": 614618,
+      "rating": 614818,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -82,7 +82,7 @@
       "wars": 116838,
       "raids": 17125,
       "season": 31,
-      "rating": 557036,
+      "rating": 557257,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -93,7 +93,7 @@
       "level": 116,
       "xpPercent": 19,
       "territories": 0,
-      "wars": 58499,
+      "wars": 58500,
       "raids": 11062,
       "season": 31,
       "rating": 403333,
@@ -122,9 +122,9 @@
       "xpPercent": 97,
       "territories": 0,
       "wars": 5042,
-      "raids": 16425,
+      "raids": 16426,
       "season": 31,
-      "rating": 262030,
+      "rating": 262470,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -134,11 +134,11 @@
       "prefix": "Bav",
       "level": 74,
       "xpPercent": 34,
-      "territories": 4,
-      "wars": 6198,
+      "territories": 3,
+      "wars": 6199,
       "raids": 438,
       "season": 31,
-      "rating": 241102,
+      "rating": 241217,
       "isCurrentSeason": true,
       "rank": 10
     },
