@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T22:35:22.801Z",
+  "updated": "2026-06-08T22:40:26.095Z",
   "season": 31,
   "guilds": [
     {
@@ -9,10 +9,10 @@
       "level": 231,
       "xpPercent": 100,
       "territories": 66,
-      "wars": 146437,
-      "raids": 131745,
+      "wars": 146440,
+      "raids": 131748,
       "season": 31,
-      "rating": 3019585,
+      "rating": 3020229,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 6,
       "territories": 97,
       "wars": 157204,
-      "raids": 61601,
+      "raids": 61605,
       "season": 31,
-      "rating": 1860109,
+      "rating": 1861242,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222538,
       "raids": 16993,
       "season": 31,
-      "rating": 859836,
+      "rating": 860565,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31407,
       "raids": 19676,
       "season": 31,
-      "rating": 661931,
+      "rating": 662064,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116848,
       "raids": 17132,
       "season": 31,
-      "rating": 598098,
+      "rating": 598246,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 93043,
       "raids": 4596,
       "season": 31,
-      "rating": 595158,
+      "rating": 595308,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -122,7 +122,7 @@
       "xpPercent": 0,
       "territories": 0,
       "wars": 5042,
-      "raids": 16453,
+      "raids": 16454,
       "season": 31,
       "rating": 274790,
       "isCurrentSeason": true,
@@ -161,12 +161,12 @@
       "name": "Cirrus",
       "prefix": "Crrs",
       "level": 98,
-      "xpPercent": 28,
+      "xpPercent": 29,
       "territories": 0,
       "wars": 8929,
-      "raids": 2709,
+      "raids": 2710,
       "season": 31,
-      "rating": 214980,
+      "rating": 215330,
       "isCurrentSeason": true,
       "rank": 12
     },
