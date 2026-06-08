@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T12:35:25.096Z",
+  "updated": "2026-06-08T12:40:26.132Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 70,
       "territories": 60,
       "wars": 146316,
-      "raids": 131443,
+      "raids": 131447,
       "season": 31,
-      "rating": 2855335,
+      "rating": 2856066,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 94,
       "territories": 97,
       "wars": 157164,
-      "raids": 61487,
+      "raids": 61489,
       "season": 31,
-      "rating": 1770747,
+      "rating": 1771440,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 60,
       "territories": 59,
       "wars": 222529,
-      "raids": 16966,
+      "raids": 16967,
       "season": 31,
-      "rating": 819775,
+      "rating": 819968,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31338,
       "raids": 19653,
       "season": 31,
-      "rating": 631807,
+      "rating": 632320,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116838,
       "raids": 17125,
       "season": 31,
-      "rating": 572534,
+      "rating": 572756,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 60,
-      "territories": 27,
-      "wars": 93019,
+      "territories": 28,
+      "wars": 93021,
       "raids": 4577,
       "season": 31,
-      "rating": 564239,
+      "rating": 564493,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -133,12 +133,12 @@
       "name": "Adventure of the bear",
       "prefix": "Bav",
       "level": 74,
-      "xpPercent": 49,
+      "xpPercent": 50,
       "territories": 3,
       "wars": 6217,
       "raids": 438,
       "season": 31,
-      "rating": 242905,
+      "rating": 242977,
       "isCurrentSeason": true,
       "rank": 10
     },
