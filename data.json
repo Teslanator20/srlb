@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T21:35:21.469Z",
+  "updated": "2026-06-08T21:40:28.345Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 231,
-      "xpPercent": 96,
+      "xpPercent": 97,
       "territories": 61,
       "wars": 146430,
-      "raids": 131707,
+      "raids": 131714,
       "season": 31,
-      "rating": 3000506,
+      "rating": 3003049,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -23,10 +23,10 @@
       "level": 167,
       "xpPercent": 5,
       "territories": 96,
-      "wars": 157202,
-      "raids": 61593,
+      "wars": 157203,
+      "raids": 61595,
       "season": 31,
-      "rating": 1851756,
+      "rating": 1852447,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222538,
       "raids": 16989,
       "season": 31,
-      "rating": 855678,
+      "rating": 855918,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31407,
       "raids": 19676,
       "season": 31,
-      "rating": 659899,
+      "rating": 660066,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116848,
       "raids": 17132,
       "season": 31,
-      "rating": 595847,
+      "rating": 596032,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 93043,
       "raids": 4596,
       "season": 31,
-      "rating": 592883,
+      "rating": 593069,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -122,7 +122,7 @@
       "xpPercent": 99,
       "territories": 0,
       "wars": 5042,
-      "raids": 16446,
+      "raids": 16447,
       "season": 31,
       "rating": 271710,
       "isCurrentSeason": true,
@@ -150,9 +150,9 @@
       "xpPercent": 11,
       "territories": 0,
       "wars": 331,
-      "raids": 22121,
+      "raids": 22122,
       "season": 31,
-      "rating": 217462,
+      "rating": 217902,
       "isCurrentSeason": true,
       "rank": 11
     },
