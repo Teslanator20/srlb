@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T06:45:25.332Z",
+  "updated": "2026-06-09T06:50:26.632Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 8,
       "territories": 60,
       "wars": 146490,
-      "raids": 131827,
+      "raids": 131828,
       "season": 31,
-      "rating": 3081056,
+      "rating": 3081690,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 157233,
       "raids": 61683,
       "season": 31,
-      "rating": 1925387,
+      "rating": 1925640,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222538,
       "raids": 17000,
       "season": 31,
-      "rating": 886305,
+      "rating": 886594,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,9 +54,23 @@
       "wars": 31456,
       "raids": 19685,
       "season": 31,
-      "rating": 683456,
+      "rating": 683589,
       "isCurrentSeason": true,
       "rank": 4
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 107,
+      "xpPercent": 64,
+      "territories": 32,
+      "wars": 93112,
+      "raids": 4607,
+      "season": 31,
+      "rating": 619888,
+      "isCurrentSeason": true,
+      "rank": 5
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -68,21 +82,7 @@
       "wars": 116849,
       "raids": 17140,
       "season": 31,
-      "rating": 619613,
-      "isCurrentSeason": true,
-      "rank": 5
-    },
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 107,
-      "xpPercent": 64,
-      "territories": 32,
-      "wars": 93112,
-      "raids": 4606,
-      "season": 31,
-      "rating": 619359,
+      "rating": 619761,
       "isCurrentSeason": true,
       "rank": 6
     },
