@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T03:50:26.109Z",
+  "updated": "2026-06-09T03:55:24.824Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 232,
       "xpPercent": 6,
-      "territories": 59,
+      "territories": 60,
       "wars": 146462,
       "raids": 131807,
       "season": 31,
-      "rating": 3061987,
+      "rating": 3062758,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 157233,
       "raids": 61653,
       "season": 31,
-      "rating": 1901606,
+      "rating": 1902836,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222538,
       "raids": 16995,
       "season": 31,
-      "rating": 875790,
+      "rating": 876078,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -50,11 +50,11 @@
       "prefix": "PUN",
       "level": 124,
       "xpPercent": 97,
-      "territories": 18,
-      "wars": 31413,
+      "territories": 17,
+      "wars": 31415,
       "raids": 19681,
       "season": 31,
-      "rating": 674495,
+      "rating": 674762,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116849,
       "raids": 17138,
       "season": 31,
-      "rating": 612358,
+      "rating": 612580,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 93104,
       "raids": 4601,
       "season": 31,
-      "rating": 610475,
+      "rating": 611138,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "Nia",
       "level": 116,
       "xpPercent": 23,
-      "territories": 1,
+      "territories": 0,
       "wars": 58597,
       "raids": 11069,
       "season": 31,
-      "rating": 422675,
+      "rating": 422681,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -152,7 +152,7 @@
       "wars": 331,
       "raids": 22131,
       "season": 31,
-      "rating": 221302,
+      "rating": 221742,
       "isCurrentSeason": true,
       "rank": 11
     },
