@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T22:25:25.398Z",
+  "updated": "2026-06-10T22:30:33.180Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 38,
       "territories": 97,
       "wars": 157655,
-      "raids": 61913,
+      "raids": 61915,
       "season": 31,
-      "rating": 2179466,
+      "rating": 2180286,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 222669,
       "raids": 17098,
       "season": 31,
-      "rating": 1044150,
+      "rating": 1044439,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 31470,
       "raids": 19763,
       "season": 31,
-      "rating": 793318,
+      "rating": 793517,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 93482,
       "raids": 4637,
       "season": 31,
-      "rating": 731607,
+      "rating": 731756,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116866,
       "raids": 17151,
       "season": 31,
-      "rating": 712478,
+      "rating": 712700,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -105,12 +105,12 @@
       "name": "Anime Lovers",
       "prefix": "Zamn",
       "level": 116,
-      "xpPercent": 10,
+      "xpPercent": 11,
       "territories": 0,
       "wars": 5042,
-      "raids": 16557,
+      "raids": 16558,
       "season": 31,
-      "rating": 320130,
+      "rating": 320570,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -136,7 +136,7 @@
       "xpPercent": 23,
       "territories": 0,
       "wars": 333,
-      "raids": 22228,
+      "raids": 22229,
       "season": 31,
       "rating": 258322,
       "isCurrentSeason": true,
@@ -192,9 +192,9 @@
       "xpPercent": 13,
       "territories": 0,
       "wars": 33124,
-      "raids": 13360,
+      "raids": 13361,
       "season": 31,
-      "rating": 124757,
+      "rating": 125197,
       "isCurrentSeason": true,
       "rank": 14
     }
