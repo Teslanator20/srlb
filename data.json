@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T21:35:25.286Z",
+  "updated": "2026-06-10T21:40:31.075Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 167,
-      "xpPercent": 36,
+      "xpPercent": 37,
       "territories": 97,
       "wars": 157655,
-      "raids": 61897,
+      "raids": 61902,
       "season": 31,
-      "rating": 2171177,
+      "rating": 2171431,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 129,
       "xpPercent": 75,
-      "territories": 56,
-      "wars": 222662,
-      "raids": 17096,
+      "territories": 57,
+      "wars": 222663,
+      "raids": 17097,
       "season": 31,
-      "rating": 1041197,
+      "rating": 1041519,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 31470,
       "raids": 19763,
       "season": 31,
-      "rating": 791719,
+      "rating": 791852,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 93482,
       "raids": 4637,
       "season": 31,
-      "rating": 729742,
+      "rating": 729891,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116866,
       "raids": 17151,
       "season": 31,
-      "rating": 710707,
+      "rating": 710855,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -96,7 +96,7 @@
       "wars": 20945,
       "raids": 2014,
       "season": 31,
-      "rating": 422349,
+      "rating": 422789,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -136,9 +136,9 @@
       "xpPercent": 23,
       "territories": 0,
       "wars": 333,
-      "raids": 22224,
+      "raids": 22225,
       "season": 31,
-      "rating": 256122,
+      "rating": 256562,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -180,7 +180,7 @@
       "wars": 42280,
       "raids": 22561,
       "season": 31,
-      "rating": 158240,
+      "rating": 158680,
       "isCurrentSeason": true,
       "rank": 13
     },
