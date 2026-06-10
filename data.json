@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T19:00:44.953Z",
+  "updated": "2026-06-10T19:05:25.181Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 232,
-      "xpPercent": 78,
-      "territories": 64,
+      "xpPercent": 79,
+      "territories": 65,
       "wars": 146691,
       "raids": 132531,
       "season": 31,
-      "rating": 3502580,
+      "rating": 3504182,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 167,
       "xpPercent": 33,
-      "territories": 9,
-      "wars": 157549,
+      "territories": 12,
+      "wars": 157558,
       "raids": 61866,
       "season": 31,
-      "rating": 2143008,
+      "rating": 2143298,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222657,
       "raids": 17085,
       "season": 31,
-      "rating": 1028806,
+      "rating": 1029095,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -49,12 +49,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 125,
-      "xpPercent": 3,
+      "xpPercent": 4,
       "territories": 22,
       "wars": 31470,
       "raids": 19749,
       "season": 31,
-      "rating": 781198,
+      "rating": 781771,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 93482,
       "raids": 4632,
       "season": 31,
-      "rating": 721790,
+      "rating": 721939,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 116856,
       "raids": 17151,
       "season": 31,
-      "rating": 704770,
+      "rating": 704917,
       "isCurrentSeason": true,
       "rank": 6
     },
