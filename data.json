@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T23:30:33.293Z",
+  "updated": "2026-06-10T23:35:42.319Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 146709,
       "raids": 132658,
       "season": 31,
-      "rating": 3571290,
+      "rating": 3572339,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 167,
-      "xpPercent": 39,
+      "xpPercent": 40,
       "territories": 97,
       "wars": 157655,
       "raids": 61929,
       "season": 31,
-      "rating": 2191187,
+      "rating": 2191880,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222669,
       "raids": 17098,
       "season": 31,
-      "rating": 1047277,
+      "rating": 1047565,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31470,
       "raids": 19764,
       "season": 31,
-      "rating": 795959,
+      "rating": 796092,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 93482,
       "raids": 4637,
       "season": 31,
-      "rating": 734032,
+      "rating": 734181,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,23 +82,9 @@
       "wars": 116866,
       "raids": 17155,
       "season": 31,
-      "rating": 716611,
+      "rating": 717198,
       "isCurrentSeason": true,
       "rank": 6
-    },
-    {
-      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-      "name": "Nerfuria",
-      "prefix": "Nia",
-      "level": 116,
-      "xpPercent": 26,
-      "territories": 1,
-      "wars": 58607,
-      "raids": 11088,
-      "season": 31,
-      "rating": 431237,
-      "isCurrentSeason": true,
-      "rank": 7
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -112,7 +98,7 @@
       "season": 31,
       "rating": 423229,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 7
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -124,9 +110,9 @@
       "wars": 5042,
       "raids": 16565,
       "season": 31,
-      "rating": 323210,
+      "rating": 323650,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 8
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -140,7 +126,7 @@
       "season": 31,
       "rating": 276440,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 9
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -154,7 +140,7 @@
       "season": 31,
       "rating": 259642,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 10
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -168,7 +154,7 @@
       "season": 31,
       "rating": 227850,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -182,7 +168,7 @@
       "season": 31,
       "rating": 175616,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -194,9 +180,9 @@
       "wars": 42280,
       "raids": 22566,
       "season": 31,
-      "rating": 160440,
+      "rating": 160880,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -210,8 +196,13 @@
       "season": 31,
       "rating": 126957,
       "isCurrentSeason": true,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "Nia",
+      "error": "This operation was aborted"
+    }
+  ]
 }
