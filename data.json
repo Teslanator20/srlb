@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T20:25:23.806Z",
+  "updated": "2026-06-10T20:30:34.775Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 34,
       "territories": 97,
       "wars": 157655,
-      "raids": 61874,
+      "raids": 61878,
       "season": 31,
-      "rating": 2155330,
+      "rating": 2156653,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 74,
       "territories": 59,
       "wars": 222657,
-      "raids": 17091,
+      "raids": 17092,
       "season": 31,
-      "rating": 1035504,
+      "rating": 1035745,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -35,12 +35,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 125,
-      "xpPercent": 4,
+      "xpPercent": 5,
       "territories": 22,
       "wars": 31470,
-      "raids": 19759,
+      "raids": 19760,
       "season": 31,
-      "rating": 788062,
+      "rating": 788705,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 93482,
       "raids": 4637,
       "season": 31,
-      "rating": 727056,
+      "rating": 727317,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "ANO",
       "level": 123,
       "xpPercent": 87,
-      "territories": 29,
-      "wars": 116865,
+      "territories": 30,
+      "wars": 116866,
       "raids": 17151,
       "season": 31,
-      "rating": 707976,
+      "rating": 708270,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -108,9 +108,9 @@
       "xpPercent": 10,
       "territories": 0,
       "wars": 5042,
-      "raids": 16550,
+      "raids": 16551,
       "season": 31,
-      "rating": 317050,
+      "rating": 317490,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -136,9 +136,9 @@
       "xpPercent": 22,
       "territories": 0,
       "wars": 333,
-      "raids": 22218,
+      "raids": 22219,
       "season": 31,
-      "rating": 253482,
+      "rating": 253922,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -178,9 +178,9 @@
       "xpPercent": 75,
       "territories": 0,
       "wars": 42280,
-      "raids": 22555,
+      "raids": 22556,
       "season": 31,
-      "rating": 155600,
+      "rating": 156040,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -194,7 +194,7 @@
       "wars": 33124,
       "raids": 13354,
       "season": 31,
-      "rating": 122117,
+      "rating": 122557,
       "isCurrentSeason": true,
       "rank": 14
     }
