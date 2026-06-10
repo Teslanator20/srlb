@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T14:50:32.183Z",
+  "updated": "2026-06-10T14:55:30.754Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 146636,
       "raids": 132407,
       "season": 31,
-      "rating": 3435894,
+      "rating": 3436536,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 167,
       "xpPercent": 33,
-      "territories": 1,
-      "wars": 157326,
+      "territories": 2,
+      "wars": 157331,
       "raids": 61863,
       "season": 31,
-      "rating": 2124478,
+      "rating": 2124566,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222636,
       "raids": 17080,
       "season": 31,
-      "rating": 1014407,
+      "rating": 1014696,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31462,
       "raids": 19738,
       "season": 31,
-      "rating": 767956,
+      "rating": 768089,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -65,10 +65,10 @@
       "level": 107,
       "xpPercent": 67,
       "territories": 30,
-      "wars": 93438,
+      "wars": 93439,
       "raids": 4628,
       "season": 31,
-      "rating": 709783,
+      "rating": 709929,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 116855,
       "raids": 17151,
       "season": 31,
-      "rating": 695511,
+      "rating": 695659,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -138,7 +138,7 @@
       "wars": 6295,
       "raids": 442,
       "season": 31,
-      "rating": 272077,
+      "rating": 272240,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -147,12 +147,12 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 107,
-      "xpPercent": 17,
+      "xpPercent": 18,
       "territories": 0,
       "wars": 333,
       "raids": 22186,
       "season": 31,
-      "rating": 240652,
+      "rating": 241042,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -161,12 +161,12 @@
       "name": "Cirrus",
       "prefix": "Crrs",
       "level": 98,
-      "xpPercent": 32,
+      "xpPercent": 33,
       "territories": 0,
       "wars": 8929,
       "raids": 2733,
       "season": 31,
-      "rating": 224700,
+      "rating": 225060,
       "isCurrentSeason": true,
       "rank": 12
     },
