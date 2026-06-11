@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T12:25:24.192Z",
+  "updated": "2026-06-11T12:30:40.432Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 5,
       "territories": 64,
       "wars": 146767,
-      "raids": 132797,
+      "raids": 132800,
       "season": 31,
-      "rating": 3674450,
+      "rating": 3674650,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 57,
       "territories": 97,
       "wars": 157655,
-      "raids": 62097,
+      "raids": 62099,
       "season": 31,
-      "rating": 2311235,
+      "rating": 2312339,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222677,
       "raids": 17111,
       "season": 31,
-      "rating": 1090670,
+      "rating": 1090863,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -49,12 +49,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 125,
-      "xpPercent": 7,
+      "xpPercent": 8,
       "territories": 22,
       "wars": 31470,
       "raids": 19790,
       "season": 31,
-      "rating": 832166,
+      "rating": 832679,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -66,9 +66,9 @@
       "xpPercent": 69,
       "territories": 32,
       "wars": 93525,
-      "raids": 4651,
+      "raids": 4652,
       "season": 31,
-      "rating": 770368,
+      "rating": 770517,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 116866,
       "raids": 17166,
       "season": 31,
-      "rating": 749869,
+      "rating": 750017,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -162,11 +162,11 @@
       "prefix": "Crrs",
       "level": 98,
       "xpPercent": 33,
-      "territories": 4,
-      "wars": 8939,
+      "territories": 3,
+      "wars": 8943,
       "raids": 2741,
       "season": 31,
-      "rating": 228331,
+      "rating": 228399,
       "isCurrentSeason": true,
       "rank": 12
     },
