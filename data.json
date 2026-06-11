@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T00:20:47.246Z",
+  "updated": "2026-06-11T00:25:43.638Z",
   "season": 31,
   "guilds": [
     {
@@ -9,26 +9,12 @@
       "level": 232,
       "xpPercent": 92,
       "territories": 62,
-      "wars": 146717,
+      "wars": 146718,
       "raids": 132672,
       "season": 31,
-      "rating": 3579841,
+      "rating": 3580986,
       "isCurrentSeason": true,
       "rank": 1
-    },
-    {
-      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-      "name": "Aequitas",
-      "prefix": "Aeq",
-      "level": 167,
-      "xpPercent": 41,
-      "territories": 97,
-      "wars": 157655,
-      "raids": 61944,
-      "season": 31,
-      "rating": 2200009,
-      "isCurrentSeason": true,
-      "rank": 2
     },
     {
       "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
@@ -40,9 +26,9 @@
       "wars": 222669,
       "raids": 17098,
       "season": 31,
-      "rating": 1049730,
+      "rating": 1049922,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 2
     },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
@@ -54,9 +40,9 @@
       "wars": 31470,
       "raids": 19768,
       "season": 31,
-      "rating": 799110,
+      "rating": 800190,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 3
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -68,7 +54,21 @@
       "wars": 93482,
       "raids": 4641,
       "season": 31,
-      "rating": 737499,
+      "rating": 738133,
+      "isCurrentSeason": true,
+      "rank": 4
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 123,
+      "xpPercent": 88,
+      "territories": 31,
+      "wars": 116866,
+      "raids": 17158,
+      "season": 31,
+      "rating": 719960,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -110,7 +110,7 @@
       "wars": 5042,
       "raids": 16571,
       "season": 31,
-      "rating": 325850,
+      "rating": 326290,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -201,7 +201,7 @@
   ],
   "errors": [
     {
-      "name": "ANO",
+      "name": "Aeq",
       "error": "This operation was aborted"
     }
   ]
