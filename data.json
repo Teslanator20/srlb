@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T16:00:43.579Z",
+  "updated": "2026-06-12T16:05:31.893Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 233,
       "xpPercent": 41,
-      "territories": 61,
+      "territories": 60,
       "wars": 146897,
       "raids": 133160,
       "season": 31,
-      "rating": 3908949,
+      "rating": 3909240,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 167,
       "xpPercent": 80,
-      "territories": 96,
+      "territories": 95,
       "wars": 157684,
       "raids": 62334,
       "season": 31,
-      "rating": 2515163,
+      "rating": 2515918,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222800,
       "raids": 17152,
       "season": 31,
-      "rating": 1189653,
+      "rating": 1189846,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31485,
       "raids": 19876,
       "season": 31,
-      "rating": 919906,
+      "rating": 920039,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 93647,
       "raids": 4674,
       "season": 31,
-      "rating": 843995,
+      "rating": 844218,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,12 +77,12 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 123,
-      "xpPercent": 92,
+      "xpPercent": 93,
       "territories": 31,
       "wars": 116868,
       "raids": 17207,
       "season": 31,
-      "rating": 827288,
+      "rating": 827889,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 21117,
       "raids": 2021,
       "season": 31,
-      "rating": 460083,
+      "rating": 460654,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -138,7 +138,7 @@
       "wars": 335,
       "raids": 22303,
       "season": 31,
-      "rating": 287686,
+      "rating": 288006,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -148,11 +148,11 @@
       "prefix": "Bav",
       "level": 75,
       "xpPercent": 2,
-      "territories": 0,
-      "wars": 6307,
+      "territories": 1,
+      "wars": 6308,
       "raids": 448,
       "season": 31,
-      "rating": 278140,
+      "rating": 278192,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -163,7 +163,7 @@
       "level": 98,
       "xpPercent": 35,
       "territories": 0,
-      "wars": 8979,
+      "wars": 8980,
       "raids": 2760,
       "season": 31,
       "rating": 247389,
@@ -208,7 +208,7 @@
       "wars": 33285,
       "raids": 13401,
       "season": 31,
-      "rating": 156976,
+      "rating": 157416,
       "isCurrentSeason": true,
       "rank": 15
     }
