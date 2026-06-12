@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T05:45:25.711Z",
+  "updated": "2026-06-12T05:50:26.184Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 35,
       "territories": 65,
       "wars": 146866,
-      "raids": 133102,
+      "raids": 133105,
       "season": 31,
-      "rating": 3853612,
+      "rating": 3854406,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 76,
       "territories": 97,
       "wars": 157677,
-      "raids": 62287,
+      "raids": 62291,
       "season": 31,
-      "rating": 2457025,
+      "rating": 2458348,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 78,
       "territories": 59,
       "wars": 222795,
-      "raids": 17131,
+      "raids": 17132,
       "season": 31,
-      "rating": 1152306,
+      "rating": 1152546,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31485,
       "raids": 19838,
       "season": 31,
-      "rating": 885310,
+      "rating": 885543,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 70,
-      "territories": 31,
+      "territories": 30,
       "wars": 93644,
       "raids": 4658,
       "season": 31,
-      "rating": 814289,
+      "rating": 814546,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 116868,
       "raids": 17185,
       "season": 31,
-      "rating": 796017,
+      "rating": 796275,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -189,12 +189,12 @@
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
       "level": 120,
-      "xpPercent": 80,
+      "xpPercent": 81,
       "territories": 0,
       "wars": 42280,
       "raids": 22614,
       "season": 31,
-      "rating": 179760,
+      "rating": 180200,
       "isCurrentSeason": true,
       "rank": 14
     },
