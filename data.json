@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T17:20:35.224Z",
+  "updated": "2026-06-13T17:25:34.086Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 71,
       "territories": 71,
       "wars": 147001,
-      "raids": 133579,
+      "raids": 133586,
       "season": 31,
-      "rating": 4097227,
+      "rating": 4097879,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 5,
       "territories": 97,
       "wars": 157704,
-      "raids": 62706,
+      "raids": 62711,
       "season": 31,
-      "rating": 2699275,
+      "rating": 2699528,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222838,
       "raids": 17303,
       "season": 31,
-      "rating": 1291757,
+      "rating": 1291949,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 25,
       "territories": 22,
       "wars": 31485,
-      "raids": 20020,
+      "raids": 20024,
       "season": 31,
-      "rating": 992820,
+      "rating": 992985,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116892,
       "raids": 17386,
       "season": 31,
-      "rating": 912807,
+      "rating": 912954,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 93764,
       "raids": 4691,
       "season": 31,
-      "rating": 907151,
+      "rating": 907299,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -91,12 +91,12 @@
       "name": "Polish Hussars",
       "prefix": "PLHR",
       "level": 82,
-      "xpPercent": 40,
+      "xpPercent": 41,
       "territories": 24,
       "wars": 21175,
       "raids": 2051,
       "season": 31,
-      "rating": 483438,
+      "rating": 483575,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -108,9 +108,9 @@
       "xpPercent": 34,
       "territories": 0,
       "wars": 58663,
-      "raids": 11191,
+      "raids": 11192,
       "season": 31,
-      "rating": 458297,
+      "rating": 458387,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -122,7 +122,7 @@
       "xpPercent": 28,
       "territories": 0,
       "wars": 5042,
-      "raids": 16829,
+      "raids": 16830,
       "season": 31,
       "rating": 384760,
       "isCurrentSeason": true,
@@ -133,12 +133,12 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 107,
-      "xpPercent": 41,
+      "xpPercent": 42,
       "territories": 1,
       "wars": 341,
-      "raids": 22482,
+      "raids": 22485,
       "season": 31,
-      "rating": 320170,
+      "rating": 320344,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -206,9 +206,9 @@
       "xpPercent": 19,
       "territories": 0,
       "wars": 33329,
-      "raids": 13435,
+      "raids": 13437,
       "season": 31,
-      "rating": 167184,
+      "rating": 167624,
       "isCurrentSeason": true,
       "rank": 15
     }
