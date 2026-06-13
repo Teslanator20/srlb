@@ -1,158 +1,67 @@
 {
-  "updated": "2026-06-13T18:31:33.799Z",
-  "season": 31,
-  "guilds": [
-    {
-      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-      "name": "Sequoia",
-      "prefix": "SEQ",
-      "level": 233,
-      "xpPercent": 74,
-      "territories": 71,
-      "wars": 147006,
-      "raids": 133608,
-      "season": 31,
-      "rating": 4112413,
-      "isCurrentSeason": true,
-      "rank": 1
-    },
-    {
-      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-      "name": "Paladins United",
-      "prefix": "PUN",
-      "level": 125,
-      "xpPercent": 26,
-      "territories": 22,
-      "wars": 31485,
-      "raids": 20041,
-      "season": 31,
-      "rating": 997859,
-      "isCurrentSeason": true,
-      "rank": 2
-    },
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 107,
-      "xpPercent": 73,
-      "territories": 32,
-      "wars": 93765,
-      "raids": 4693,
-      "season": 31,
-      "rating": 910090,
-      "isCurrentSeason": true,
-      "rank": 3
-    },
-    {
-      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-      "name": "Nerfuria",
-      "prefix": "Nia",
-      "level": 116,
-      "xpPercent": 34,
-      "territories": 0,
-      "wars": 58663,
-      "raids": 11196,
-      "season": 31,
-      "rating": 458897,
-      "isCurrentSeason": true,
-      "rank": 4
-    },
-    {
-      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
-      "name": "Hesperides",
-      "prefix": "HSP",
-      "level": 107,
-      "xpPercent": 43,
-      "territories": 0,
-      "wars": 341,
-      "raids": 22502,
-      "season": 31,
-      "rating": 323590,
-      "isCurrentSeason": true,
-      "rank": 5
-    },
-    {
-      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-      "name": "Adventure of the bear",
-      "prefix": "Bav",
-      "level": 75,
-      "xpPercent": 17,
-      "territories": 0,
-      "wars": 6339,
-      "raids": 455,
-      "season": 31,
-      "rating": 293526,
-      "isCurrentSeason": true,
-      "rank": 6
-    },
-    {
-      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
-      "name": "Cirrus",
-      "prefix": "Crrs",
-      "level": 98,
-      "xpPercent": 39,
-      "territories": 0,
-      "wars": 8982,
-      "raids": 2797,
-      "season": 31,
-      "rating": 255953,
-      "isCurrentSeason": true,
-      "rank": 7
-    },
-    {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 120,
-      "xpPercent": 90,
-      "territories": 0,
-      "wars": 42280,
-      "raids": 22716,
-      "season": 31,
-      "rating": 214112,
-      "isCurrentSeason": true,
-      "rank": 8
-    },
-    {
-      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-      "name": "The Aquarium",
-      "prefix": "TAq",
-      "level": 139,
-      "xpPercent": 73,
-      "territories": 0,
-      "wars": 167049,
-      "raids": 17332,
-      "season": 31,
-      "rating": 205878,
-      "isCurrentSeason": true,
-      "rank": 9
-    }
-  ],
+  "updated": "2026-06-13T18:35:33.176Z",
+  "season": null,
+  "guilds": [],
   "errors": [
     {
+      "name": "SEQ",
+      "error": "HTTP 503"
+    },
+    {
       "name": "Aeq",
-      "error": "This operation was aborted"
+      "error": "HTTP 503"
     },
     {
       "name": "AVO",
-      "error": "This operation was aborted"
+      "error": "HTTP 503"
     },
     {
       "name": "ANO",
-      "error": "This operation was aborted"
+      "error": "HTTP 503"
+    },
+    {
+      "name": "Nia",
+      "error": "HTTP 503"
+    },
+    {
+      "name": "PUN",
+      "error": "HTTP 503"
+    },
+    {
+      "name": "DUDE",
+      "error": "HTTP 503"
+    },
+    {
+      "name": "Crrs",
+      "error": "HTTP 503"
+    },
+    {
+      "name": "Bav",
+      "error": "HTTP 503"
     },
     {
       "name": "PLHR",
-      "error": "This operation was aborted"
+      "error": "HTTP 503"
+    },
+    {
+      "name": "Hesperides",
+      "error": "HTTP 503"
+    },
+    {
+      "name": "The Broken Gasmask",
+      "error": "HTTP 503"
     },
     {
       "name": "Anime Lovers",
-      "error": "This operation was aborted"
+      "error": "HTTP 503"
+    },
+    {
+      "name": "The Aquarium",
+      "error": "HTTP 503"
     },
     {
       "name": "TruthSworD",
-      "error": "This operation was aborted"
+      "error": "HTTP 503"
     }
   ]
 }
