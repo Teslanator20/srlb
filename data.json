@@ -1,48 +1,20 @@
 {
-  "updated": "2026-06-13T18:46:15.131Z",
+  "updated": "2026-06-13T18:51:38.552Z",
   "season": 31,
   "guilds": [
-    {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 120,
-      "xpPercent": 90,
-      "territories": 0,
-      "wars": 42280,
-      "raids": 22716,
-      "season": 31,
-      "rating": 214112,
-      "isCurrentSeason": true,
-      "rank": 1
-    },
-    {
-      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-      "name": "The Aquarium",
-      "prefix": "TAq",
-      "level": 139,
-      "xpPercent": 73,
-      "territories": 0,
-      "wars": 167049,
-      "raids": 17332,
-      "season": 31,
-      "rating": 205878,
-      "isCurrentSeason": true,
-      "rank": 2
-    },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
       "name": "TruthSworD",
       "prefix": "Tsd",
       "level": 101,
       "xpPercent": 19,
-      "territories": 26,
-      "wars": 33370,
+      "territories": 33,
+      "wars": 33380,
       "raids": 13438,
       "season": 31,
-      "rating": 170365,
+      "rating": 170886,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 1
     }
   ],
   "errors": [
@@ -91,7 +63,15 @@
       "error": "This operation was aborted"
     },
     {
+      "name": "The Broken Gasmask",
+      "error": "This operation was aborted"
+    },
+    {
       "name": "Anime Lovers",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "The Aquarium",
       "error": "This operation was aborted"
     }
   ]
