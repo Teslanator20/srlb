@@ -1,35 +1,7 @@
 {
-  "updated": "2026-06-13T19:01:43.503Z",
+  "updated": "2026-06-13T19:06:27.946Z",
   "season": 31,
   "guilds": [
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 107,
-      "xpPercent": 73,
-      "territories": 32,
-      "wars": 93765,
-      "raids": 4693,
-      "season": 31,
-      "rating": 911284,
-      "isCurrentSeason": true,
-      "rank": 1
-    },
-    {
-      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
-      "name": "Polish Hussars",
-      "prefix": "PLHR",
-      "level": 82,
-      "xpPercent": 41,
-      "territories": 24,
-      "wars": 21175,
-      "raids": 2051,
-      "season": 31,
-      "rating": 486883,
-      "isCurrentSeason": true,
-      "rank": 2
-    },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
       "name": "Anime Lovers",
@@ -38,11 +10,11 @@
       "xpPercent": 29,
       "territories": 0,
       "wars": 5042,
-      "raids": 16842,
+      "raids": 16846,
       "season": 31,
       "rating": 386660,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 1
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -52,25 +24,25 @@
       "xpPercent": 43,
       "territories": 0,
       "wars": 341,
-      "raids": 22507,
+      "raids": 22508,
       "season": 31,
-      "rating": 325290,
+      "rating": 325640,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 2
     },
     {
-      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-      "name": "The Aquarium",
-      "prefix": "TAq",
-      "level": 139,
-      "xpPercent": 73,
+      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
+      "name": "The Broken Gasmask",
+      "prefix": "TBGM",
+      "level": 120,
+      "xpPercent": 90,
       "territories": 0,
-      "wars": 167049,
-      "raids": 17332,
+      "wars": 42280,
+      "raids": 22716,
       "season": 31,
-      "rating": 205878,
+      "rating": 214112,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 3
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -78,13 +50,13 @@
       "prefix": "Tsd",
       "level": 101,
       "xpPercent": 19,
-      "territories": 49,
-      "wars": 33392,
+      "territories": 53,
+      "wars": 33395,
       "raids": 13438,
       "season": 31,
-      "rating": 172312,
+      "rating": 172720,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 4
     }
   ],
   "errors": [
@@ -113,6 +85,10 @@
       "error": "This operation was aborted"
     },
     {
+      "name": "DUDE",
+      "error": "This operation was aborted"
+    },
+    {
       "name": "Crrs",
       "error": "This operation was aborted"
     },
@@ -121,7 +97,11 @@
       "error": "This operation was aborted"
     },
     {
-      "name": "The Broken Gasmask",
+      "name": "PLHR",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "The Aquarium",
       "error": "This operation was aborted"
     }
   ]
