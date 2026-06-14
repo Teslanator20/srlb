@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T01:40:34.457Z",
+  "updated": "2026-06-14T01:45:32.253Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 147046,
       "raids": 133763,
       "season": 31,
-      "rating": 4181105,
+      "rating": 4181795,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 168,
-      "xpPercent": 11,
+      "xpPercent": 12,
       "territories": 96,
       "wars": 157713,
       "raids": 62798,
       "season": 31,
-      "rating": 2754407,
+      "rating": 2755039,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222847,
       "raids": 17324,
       "season": 31,
-      "rating": 1323258,
+      "rating": 1323450,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31492,
       "raids": 20097,
       "season": 31,
-      "rating": 1023748,
+      "rating": 1023882,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116913,
       "raids": 17411,
       "season": 31,
-      "rating": 937970,
+      "rating": 938117,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 74,
-      "territories": 31,
+      "territories": 30,
       "wars": 93788,
       "raids": 4696,
       "season": 31,
-      "rating": 927243,
+      "rating": 927390,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "PLHR",
       "level": 82,
       "xpPercent": 42,
-      "territories": 21,
+      "territories": 20,
       "wars": 21216,
       "raids": 2058,
       "season": 31,
-      "rating": 504745,
+      "rating": 504876,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -138,7 +138,7 @@
       "wars": 346,
       "raids": 22544,
       "season": 31,
-      "rating": 335607,
+      "rating": 335757,
       "isCurrentSeason": true,
       "rank": 10
     },
