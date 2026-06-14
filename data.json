@@ -1,21 +1,7 @@
 {
-  "updated": "2026-06-14T14:00:46.794Z",
+  "updated": "2026-06-14T14:05:28.880Z",
   "season": 31,
   "guilds": [
-    {
-      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-      "name": "Sequoia",
-      "prefix": "SEQ",
-      "level": 234,
-      "xpPercent": 0,
-      "territories": 63,
-      "wars": 147138,
-      "raids": 133962,
-      "season": 31,
-      "rating": 4282550,
-      "isCurrentSeason": true,
-      "rank": 1
-    },
     {
       "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
       "name": "Aequitas",
@@ -26,9 +12,9 @@
       "wars": 157782,
       "raids": 62924,
       "season": 31,
-      "rating": 2842617,
+      "rating": 2843170,
       "isCurrentSeason": true,
-      "rank": 2
+      "rank": 1
     },
     {
       "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
@@ -40,9 +26,9 @@
       "wars": 222847,
       "raids": 17394,
       "season": 31,
-      "rating": 1375635,
+      "rating": 1376033,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 2
     },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
@@ -54,9 +40,9 @@
       "wars": 31494,
       "raids": 20166,
       "season": 31,
-      "rating": 1060341,
+      "rating": 1060534,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 3
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -68,9 +54,9 @@
       "wars": 116913,
       "raids": 17486,
       "season": 31,
-      "rating": 980653,
+      "rating": 980801,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 4
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -82,9 +68,9 @@
       "wars": 93839,
       "raids": 4710,
       "season": 31,
-      "rating": 950897,
+      "rating": 951047,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 5
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -92,13 +78,13 @@
       "prefix": "PLHR",
       "level": 82,
       "xpPercent": 42,
-      "territories": 23,
+      "territories": 22,
       "wars": 21397,
       "raids": 2061,
       "season": 31,
-      "rating": 525629,
+      "rating": 525763,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 6
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -112,7 +98,7 @@
       "season": 31,
       "rating": 467398,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 7
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -126,7 +112,7 @@
       "season": 31,
       "rating": 408700,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 8
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -140,7 +126,7 @@
       "season": 31,
       "rating": 346971,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 9
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -154,7 +140,7 @@
       "season": 31,
       "rating": 293526,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 10
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -168,7 +154,7 @@
       "season": 31,
       "rating": 268173,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -182,7 +168,7 @@
       "season": 31,
       "rating": 219732,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -194,9 +180,9 @@
       "wars": 167076,
       "raids": 17356,
       "season": 31,
-      "rating": 216638,
+      "rating": 216700,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -208,10 +194,15 @@
       "wars": 33417,
       "raids": 13453,
       "season": 31,
-      "rating": 182376,
+      "rating": 182816,
       "isCurrentSeason": true,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "SEQ",
+      "error": "HTTP 500"
+    }
+  ]
 }
