@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T11:45:38.933Z",
+  "updated": "2026-06-15T11:50:37.245Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 25,
       "territories": 65,
       "wars": 147334,
-      "raids": 134271,
+      "raids": 134273,
       "season": 31,
-      "rating": 4451328,
+      "rating": 4451821,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 34,
       "territories": 97,
       "wars": 157830,
-      "raids": 63076,
+      "raids": 63079,
       "season": 31,
-      "rating": 2977135,
+      "rating": 2977705,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 4,
       "territories": 59,
       "wars": 222904,
-      "raids": 17477,
+      "raids": 17479,
       "season": 31,
-      "rating": 1466510,
+      "rating": 1466813,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 40,
       "territories": 22,
       "wars": 31506,
-      "raids": 20267,
+      "raids": 20269,
       "season": 31,
-      "rating": 1122258,
+      "rating": 1122757,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116946,
       "raids": 17579,
       "season": 31,
-      "rating": 1049997,
+      "rating": 1050218,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 75,
-      "territories": 21,
-      "wars": 93968,
+      "territories": 19,
+      "wars": 93972,
       "raids": 4717,
       "season": 31,
-      "rating": 1001705,
+      "rating": 1001981,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -161,12 +161,12 @@
       "name": "Cirrus",
       "prefix": "Crrs",
       "level": 98,
-      "xpPercent": 44,
+      "xpPercent": 45,
       "territories": 0,
       "wars": 9013,
       "raids": 2864,
       "season": 31,
-      "rating": 281960,
+      "rating": 282250,
       "isCurrentSeason": true,
       "rank": 12
     },
