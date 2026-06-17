@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T14:55:32.793Z",
+  "updated": "2026-06-17T15:00:52.173Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 77,
       "territories": 65,
       "wars": 147449,
-      "raids": 134956,
+      "raids": 134960,
       "season": 31,
-      "rating": 4826903,
+      "rating": 4827646,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 168,
       "xpPercent": 73,
-      "territories": 97,
+      "territories": 98,
       "wars": 157980,
-      "raids": 63661,
+      "raids": 63663,
       "season": 31,
-      "rating": 3343721,
+      "rating": 3344149,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 19,
       "territories": 59,
       "wars": 222925,
-      "raids": 17653,
+      "raids": 17654,
       "season": 31,
-      "rating": 1664730,
+      "rating": 1665335,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31528,
       "raids": 20479,
       "season": 31,
-      "rating": 1274698,
+      "rating": 1274897,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -63,12 +63,12 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 124,
-      "xpPercent": 36,
+      "xpPercent": 37,
       "territories": 31,
       "wars": 116966,
-      "raids": 17831,
+      "raids": 17832,
       "season": 31,
-      "rating": 1240740,
+      "rating": 1241621,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 94170,
       "raids": 4734,
       "season": 31,
-      "rating": 1123030,
+      "rating": 1123179,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,9 +96,23 @@
       "wars": 21639,
       "raids": 2076,
       "season": 31,
-      "rating": 559570,
+      "rating": 559756,
       "isCurrentSeason": true,
       "rank": 7
+    },
+    {
+      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
+      "name": "Anime Lovers",
+      "prefix": "Zamn",
+      "level": 116,
+      "xpPercent": 59,
+      "territories": 0,
+      "wars": 5042,
+      "raids": 17456,
+      "season": 31,
+      "rating": 508240,
+      "isCurrentSeason": true,
+      "rank": 8
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -111,20 +125,6 @@
       "raids": 11320,
       "season": 31,
       "rating": 508184,
-      "isCurrentSeason": true,
-      "rank": 8
-    },
-    {
-      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
-      "name": "Anime Lovers",
-      "prefix": "Zamn",
-      "level": 116,
-      "xpPercent": 59,
-      "territories": 0,
-      "wars": 5042,
-      "raids": 17456,
-      "season": 31,
-      "rating": 508130,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -152,7 +152,7 @@
       "wars": 9101,
       "raids": 2926,
       "season": 31,
-      "rating": 323379,
+      "rating": 323447,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -166,7 +166,7 @@
       "wars": 6366,
       "raids": 455,
       "season": 31,
-      "rating": 302838,
+      "rating": 303093,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -180,7 +180,7 @@
       "wars": 42280,
       "raids": 22898,
       "season": 31,
-      "rating": 272422,
+      "rating": 272812,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -192,9 +192,9 @@
       "xpPercent": 83,
       "territories": 0,
       "wars": 167187,
-      "raids": 17467,
+      "raids": 17468,
       "season": 31,
-      "rating": 265150,
+      "rating": 265260,
       "isCurrentSeason": true,
       "rank": 14
     },
