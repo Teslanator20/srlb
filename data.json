@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T15:30:50.801Z",
+  "updated": "2026-06-17T15:35:38.849Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 234,
       "xpPercent": 78,
-      "territories": 64,
+      "territories": 63,
       "wars": 147449,
       "raids": 134968,
       "season": 31,
-      "rating": 4831631,
+      "rating": 4832271,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 73,
       "territories": 97,
       "wars": 157982,
-      "raids": 63666,
+      "raids": 63667,
       "season": 31,
-      "rating": 3346934,
+      "rating": 3347644,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222925,
       "raids": 17657,
       "season": 31,
-      "rating": 1667580,
+      "rating": 1668102,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31528,
       "raids": 20479,
       "season": 31,
-      "rating": 1275863,
+      "rating": 1276063,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -63,12 +63,12 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 124,
-      "xpPercent": 37,
+      "xpPercent": 38,
       "territories": 31,
       "wars": 116966,
-      "raids": 17836,
+      "raids": 17838,
       "season": 31,
-      "rating": 1243351,
+      "rating": 1244343,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 94170,
       "raids": 4734,
       "season": 31,
-      "rating": 1124335,
+      "rating": 1124484,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 21639,
       "raids": 2078,
       "season": 31,
-      "rating": 562031,
+      "rating": 562217,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 5042,
       "raids": 17463,
       "season": 31,
-      "rating": 509450,
+      "rating": 509560,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -133,12 +133,12 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 107,
-      "xpPercent": 74,
+      "xpPercent": 75,
       "territories": 0,
       "wars": 358,
-      "raids": 23024,
+      "raids": 23025,
       "season": 31,
-      "rating": 439523,
+      "rating": 439903,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -152,7 +152,7 @@
       "wars": 9101,
       "raids": 2926,
       "season": 31,
-      "rating": 323970,
+      "rating": 324038,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -162,11 +162,11 @@
       "prefix": "Bav",
       "level": 75,
       "xpPercent": 20,
-      "territories": 11,
+      "territories": 6,
       "wars": 6366,
       "raids": 455,
       "season": 31,
-      "rating": 303918,
+      "rating": 303999,
       "isCurrentSeason": true,
       "rank": 12
     },
