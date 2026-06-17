@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:05:52.612Z",
+  "updated": "2026-06-17T18:10:34.331Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 234,
       "xpPercent": 82,
-      "territories": 59,
+      "territories": 60,
       "wars": 147452,
       "raids": 135026,
       "season": 31,
-      "rating": 4855419,
+      "rating": 4855710,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 168,
-      "xpPercent": 76,
+      "xpPercent": 77,
       "territories": 97,
       "wars": 157984,
-      "raids": 63703,
+      "raids": 63705,
       "season": 31,
-      "rating": 3368961,
+      "rating": 3370031,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 21,
       "territories": 59,
       "wars": 222926,
-      "raids": 17683,
+      "raids": 17684,
       "season": 31,
-      "rating": 1681312,
+      "rating": 1681944,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 54,
       "territories": 22,
       "wars": 31528,
-      "raids": 20489,
+      "raids": 20490,
       "season": 31,
-      "rating": 1283155,
+      "rating": 1283624,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116966,
       "raids": 17873,
       "season": 31,
-      "rating": 1256191,
+      "rating": 1256412,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 77,
-      "territories": 32,
+      "territories": 31,
       "wars": 94181,
       "raids": 4735,
       "season": 31,
-      "rating": 1130485,
+      "rating": 1130597,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,13 +92,27 @@
       "prefix": "PLHR",
       "level": 82,
       "xpPercent": 75,
-      "territories": 33,
-      "wars": 21704,
+      "territories": 40,
+      "wars": 21711,
       "raids": 2081,
       "season": 31,
-      "rating": 571621,
+      "rating": 572098,
       "isCurrentSeason": true,
       "rank": 7
+    },
+    {
+      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
+      "name": "Anime Lovers",
+      "prefix": "Zamn",
+      "level": 116,
+      "xpPercent": 60,
+      "territories": 0,
+      "wars": 5042,
+      "raids": 17475,
+      "season": 31,
+      "rating": 511070,
+      "isCurrentSeason": true,
+      "rank": 8
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -112,7 +126,7 @@
       "season": 31,
       "rating": 508184,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -126,7 +140,7 @@
       "season": 31,
       "rating": 441993,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -136,11 +150,11 @@
       "xpPercent": 53,
       "territories": 0,
       "wars": 9103,
-      "raids": 2926,
+      "raids": 2927,
       "season": 31,
       "rating": 325241,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -154,7 +168,7 @@
       "season": 31,
       "rating": 306396,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -168,7 +182,7 @@
       "season": 31,
       "rating": 273982,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -182,7 +196,7 @@
       "season": 31,
       "rating": 269140,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 239613,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "Anime Lovers",
-      "error": "This operation was aborted"
-    }
-  ]
+  "errors": []
 }
