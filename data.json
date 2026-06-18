@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T18:50:32.278Z",
+  "updated": "2026-06-18T18:55:29.370Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 147468,
       "raids": 135420,
       "season": 31,
-      "rating": 5043092,
+      "rating": 5044576,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 168,
-      "xpPercent": 88,
-      "territories": 104,
+      "xpPercent": 89,
+      "territories": 100,
       "wars": 158031,
       "raids": 63906,
       "season": 31,
-      "rating": 3516131,
+      "rating": 3517292,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222951,
       "raids": 17805,
       "season": 31,
-      "rating": 1785199,
+      "rating": 1785391,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31560,
       "raids": 20553,
       "season": 31,
-      "rating": 1347917,
+      "rating": 1348050,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116966,
       "raids": 17947,
       "season": 31,
-      "rating": 1329246,
+      "rating": 1329394,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -79,10 +79,10 @@
       "level": 107,
       "xpPercent": 77,
       "territories": 29,
-      "wars": 94250,
+      "wars": 94251,
       "raids": 4743,
       "season": 31,
-      "rating": 1189974,
+      "rating": 1190159,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 21818,
       "raids": 2089,
       "season": 31,
-      "rating": 586148,
+      "rating": 586285,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -134,11 +134,11 @@
       "prefix": "HSP",
       "level": 107,
       "xpPercent": 78,
-      "territories": 1,
+      "territories": 0,
       "wars": 366,
       "raids": 23129,
       "season": 31,
-      "rating": 452183,
+      "rating": 452189,
       "isCurrentSeason": true,
       "rank": 10
     },
