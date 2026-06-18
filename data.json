@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T18:00:49.842Z",
+  "updated": "2026-06-18T18:05:30.644Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 147468,
       "raids": 135399,
       "season": 31,
-      "rating": 5031388,
+      "rating": 5032022,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 168,
       "xpPercent": 88,
-      "territories": 100,
+      "territories": 94,
       "wars": 158019,
       "raids": 63896,
       "season": 31,
-      "rating": 3509858,
+      "rating": 3510677,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222950,
       "raids": 17802,
       "season": 31,
-      "rating": 1781556,
+      "rating": 1781749,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31560,
       "raids": 20546,
       "season": 31,
-      "rating": 1344059,
+      "rating": 1344669,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 116966,
       "raids": 17946,
       "season": 31,
-      "rating": 1327174,
+      "rating": 1327585,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 77,
-      "territories": 12,
-      "wars": 94230,
+      "territories": 18,
+      "wars": 94238,
       "raids": 4743,
       "season": 31,
-      "rating": 1187227,
+      "rating": 1187624,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "PLHR",
       "level": 82,
       "xpPercent": 76,
-      "territories": 17,
-      "wars": 21814,
+      "territories": 20,
+      "wars": 21816,
       "raids": 2089,
       "season": 31,
-      "rating": 584088,
+      "rating": 584362,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -161,7 +161,7 @@
       "name": "Adventure of the bear",
       "prefix": "Bav",
       "level": 75,
-      "xpPercent": 26,
+      "xpPercent": 27,
       "territories": 0,
       "wars": 6383,
       "raids": 455,
