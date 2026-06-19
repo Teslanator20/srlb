@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T21:10:34.824Z",
+  "updated": "2026-06-19T21:15:32.289Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 235,
       "xpPercent": 46,
-      "territories": 65,
+      "territories": 64,
       "wars": 147546,
       "raids": 135900,
       "season": 31,
-      "rating": 5270046,
+      "rating": 5270358,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 168,
       "xpPercent": 100,
-      "territories": 100,
+      "territories": 97,
       "wars": 158087,
       "raids": 64101,
       "season": 31,
-      "rating": 3666045,
+      "rating": 3667418,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222971,
       "raids": 17923,
       "season": 31,
-      "rating": 1898050,
+      "rating": 1899002,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -49,12 +49,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 125,
-      "xpPercent": 66,
+      "xpPercent": 67,
       "territories": 22,
       "wars": 31564,
       "raids": 20652,
       "season": 31,
-      "rating": 1431965,
+      "rating": 1432448,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 117144,
       "raids": 18061,
       "season": 31,
-      "rating": 1425199,
+      "rating": 1425421,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 78,
-      "territories": 32,
+      "territories": 31,
       "wars": 94342,
       "raids": 4749,
       "season": 31,
-      "rating": 1253514,
+      "rating": 1253662,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 21880,
       "raids": 2095,
       "season": 31,
-      "rating": 613024,
+      "rating": 613160,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 5043,
       "raids": 17862,
       "season": 31,
-      "rating": 590900,
+      "rating": 591420,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -121,7 +121,7 @@
       "level": 116,
       "xpPercent": 53,
       "territories": 0,
-      "wars": 58806,
+      "wars": 58807,
       "raids": 11410,
       "season": 31,
       "rating": 536062,
@@ -134,11 +134,11 @@
       "prefix": "HSP",
       "level": 107,
       "xpPercent": 80,
-      "territories": 0,
+      "territories": 1,
       "wars": 374,
       "raids": 23164,
       "season": 31,
-      "rating": 462439,
+      "rating": 462505,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -208,7 +208,7 @@
       "wars": 33756,
       "raids": 13604,
       "season": 31,
-      "rating": 258143,
+      "rating": 258563,
       "isCurrentSeason": true,
       "rank": 15
     }
