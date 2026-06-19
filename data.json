@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T09:55:25.594Z",
+  "updated": "2026-06-19T09:58:23.469Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 235,
-      "xpPercent": 31,
+      "xpPercent": 32,
       "territories": 60,
       "wars": 147489,
-      "raids": 135686,
+      "raids": 135689,
       "season": 31,
-      "rating": 5174106,
+      "rating": 5174533,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 158056,
       "raids": 63978,
       "season": 31,
-      "rating": 3593049,
+      "rating": 3593239,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 222955,
       "raids": 17852,
       "season": 31,
-      "rating": 1842407,
+      "rating": 1842503,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31562,
       "raids": 20612,
       "season": 31,
-      "rating": 1397390,
+      "rating": 1397523,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 117034,
       "raids": 17998,
       "season": 31,
-      "rating": 1376368,
+      "rating": 1376813,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 78,
-      "territories": 19,
+      "territories": 20,
       "wars": 94280,
       "raids": 4749,
       "season": 31,
-      "rating": 1226650,
+      "rating": 1226754,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -108,7 +108,7 @@
       "xpPercent": 75,
       "territories": 0,
       "wars": 5043,
-      "raids": 17771,
+      "raids": 17772,
       "season": 31,
       "rating": 575870,
       "isCurrentSeason": true,
@@ -175,7 +175,7 @@
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
       "level": 121,
-      "xpPercent": 11,
+      "xpPercent": 13,
       "territories": 0,
       "wars": 42284,
       "raids": 22962,
