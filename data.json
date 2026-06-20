@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T16:25:29.428Z",
+  "updated": "2026-06-20T16:30:45.275Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 235,
-      "xpPercent": 71,
+      "xpPercent": 72,
       "territories": 65,
       "wars": 147736,
-      "raids": 136255,
+      "raids": 136261,
       "season": 31,
-      "rating": 5467771,
+      "rating": 5469266,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 10,
       "territories": 97,
       "wars": 158118,
-      "raids": 64254,
+      "raids": 64256,
       "season": 31,
-      "rating": 3808849,
+      "rating": 3809229,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 223074,
       "raids": 17966,
       "season": 31,
-      "rating": 1988477,
+      "rating": 1988910,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 56,
       "territories": 31,
       "wars": 117236,
-      "raids": 18116,
+      "raids": 18118,
       "season": 31,
-      "rating": 1505160,
+      "rating": 1505382,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 31564,
       "raids": 20720,
       "season": 31,
-      "rating": 1497781,
+      "rating": 1497980,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 94395,
       "raids": 4764,
       "season": 31,
-      "rating": 1316345,
+      "rating": 1316569,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -94,9 +94,9 @@
       "xpPercent": 79,
       "territories": 19,
       "wars": 21902,
-      "raids": 2109,
+      "raids": 2111,
       "season": 31,
-      "rating": 645451,
+      "rating": 645642,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 5043,
       "raids": 17972,
       "season": 31,
-      "rating": 611930,
+      "rating": 612260,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 58835,
       "raids": 11434,
       "season": 31,
-      "rating": 541467,
+      "rating": 541747,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -133,12 +133,12 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 107,
-      "xpPercent": 82,
+      "xpPercent": 83,
       "territories": 0,
       "wars": 375,
-      "raids": 23211,
+      "raids": 23213,
       "season": 31,
-      "rating": 472814,
+      "rating": 473554,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -166,9 +166,23 @@
       "wars": 33996,
       "raids": 13634,
       "season": 31,
-      "rating": 310323,
+      "rating": 310359,
       "isCurrentSeason": true,
       "rank": 12
+    },
+    {
+      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
+      "name": "The Aquarium",
+      "prefix": "TAq",
+      "level": 139,
+      "xpPercent": 93,
+      "territories": 0,
+      "wars": 167206,
+      "raids": 17610,
+      "season": 31,
+      "rating": 309949,
+      "isCurrentSeason": true,
+      "rank": 13
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -181,20 +195,6 @@
       "raids": 462,
       "season": 31,
       "rating": 309783,
-      "isCurrentSeason": true,
-      "rank": 13
-    },
-    {
-      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-      "name": "The Aquarium",
-      "prefix": "TAq",
-      "level": 139,
-      "xpPercent": 93,
-      "territories": 0,
-      "wars": 167206,
-      "raids": 17610,
-      "season": 31,
-      "rating": 309759,
       "isCurrentSeason": true,
       "rank": 14
     },
