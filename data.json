@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T11:55:28.068Z",
+  "updated": "2026-06-20T12:00:47.358Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 235,
       "xpPercent": 66,
-      "territories": 66,
+      "territories": 71,
       "wars": 147632,
-      "raids": 136159,
+      "raids": 136162,
       "season": 31,
-      "rating": 5419377,
+      "rating": 5420863,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 8,
       "territories": 97,
       "wars": 158118,
-      "raids": 64214,
+      "raids": 64216,
       "season": 31,
-      "rating": 3773812,
+      "rating": 3774302,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 223074,
       "raids": 17946,
       "season": 31,
-      "rating": 1961037,
+      "rating": 1961910,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 117215,
       "raids": 18097,
       "season": 31,
-      "rating": 1481521,
+      "rating": 1481853,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -66,9 +66,9 @@
       "xpPercent": 69,
       "territories": 22,
       "wars": 31564,
-      "raids": 20699,
+      "raids": 20700,
       "season": 31,
-      "rating": 1480184,
+      "rating": 1480484,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -80,9 +80,9 @@
       "xpPercent": 78,
       "territories": 32,
       "wars": 94395,
-      "raids": 4756,
+      "raids": 4757,
       "season": 31,
-      "rating": 1299256,
+      "rating": 1299592,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 21902,
       "raids": 2098,
       "season": 31,
-      "rating": 626857,
+      "rating": 627143,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -208,7 +208,7 @@
       "wars": 33905,
       "raids": 13634,
       "season": 31,
-      "rating": 285803,
+      "rating": 286097,
       "isCurrentSeason": true,
       "rank": 15
     }
