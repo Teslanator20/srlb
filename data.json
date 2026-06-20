@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T07:25:26.842Z",
+  "updated": "2026-06-20T07:30:42.398Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 235,
       "xpPercent": 62,
-      "territories": 60,
-      "wars": 147576,
-      "raids": 136088,
+      "territories": 62,
+      "wars": 147577,
+      "raids": 136089,
       "season": 31,
-      "rating": 5375623,
+      "rating": 5376204,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 169,
-      "xpPercent": 4,
+      "xpPercent": 5,
       "territories": 107,
       "wars": 158108,
-      "raids": 64168,
+      "raids": 64171,
       "season": 31,
-      "rating": 3733362,
+      "rating": 3734298,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 223002,
       "raids": 17942,
       "season": 31,
-      "rating": 1938867,
+      "rating": 1939156,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 31564,
       "raids": 20680,
       "season": 31,
-      "rating": 1460488,
+      "rating": 1460787,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -66,9 +66,9 @@
       "xpPercent": 53,
       "territories": 31,
       "wars": 117206,
-      "raids": 18072,
+      "raids": 18073,
       "season": 31,
-      "rating": 1458877,
+      "rating": 1459209,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 78,
-      "territories": 25,
-      "wars": 94358,
+      "territories": 26,
+      "wars": 94361,
       "raids": 4751,
       "season": 31,
-      "rating": 1281534,
+      "rating": 1281863,
       "isCurrentSeason": true,
       "rank": 6
     },
