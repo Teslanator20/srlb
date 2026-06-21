@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T06:45:34.353Z",
+  "updated": "2026-06-21T06:50:36.226Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 235,
-      "xpPercent": 89,
-      "territories": 73,
+      "xpPercent": 90,
+      "territories": 71,
       "wars": 147823,
-      "raids": 136475,
+      "raids": 136477,
       "season": 31,
-      "rating": 5615939,
+      "rating": 5616843,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 158491,
       "raids": 64445,
       "season": 31,
-      "rating": 3957407,
+      "rating": 3957896,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 223087,
       "raids": 18017,
       "season": 31,
-      "rating": 2071684,
+      "rating": 2072117,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 59,
       "territories": 31,
       "wars": 117241,
-      "raids": 18162,
+      "raids": 18163,
       "season": 31,
-      "rating": 1565066,
+      "rating": 1565287,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -63,12 +63,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 125,
-      "xpPercent": 74,
+      "xpPercent": 75,
       "territories": 22,
       "wars": 31564,
-      "raids": 20794,
+      "raids": 20795,
       "season": 31,
-      "rating": 1556738,
+      "rating": 1557347,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 94453,
       "raids": 4772,
       "season": 31,
-      "rating": 1365722,
+      "rating": 1365945,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -120,11 +120,11 @@
       "prefix": "Nia",
       "level": 116,
       "xpPercent": 55,
-      "territories": 16,
+      "territories": 15,
       "wars": 58884,
       "raids": 11455,
       "season": 31,
-      "rating": 566232,
+      "rating": 566404,
       "isCurrentSeason": true,
       "rank": 9
     },
