@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T04:00:45.790Z",
+  "updated": "2026-06-26T04:05:25.797Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 237,
       "xpPercent": 23,
-      "territories": 54,
-      "wars": 148162,
+      "territories": 55,
+      "wars": 148164,
       "raids": 138238,
       "season": 31,
-      "rating": 6688108,
+      "rating": 6688946,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 26,
       "territories": 97,
       "wars": 159221,
-      "raids": 66002,
+      "raids": 66005,
       "season": 31,
-      "rating": 5078129,
+      "rating": 5079029,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 223325,
       "raids": 18326,
       "season": 31,
-      "rating": 2676671,
+      "rating": 2676960,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 117326,
       "raids": 18623,
       "season": 31,
-      "rating": 2041397,
+      "rating": 2041747,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 31654,
       "raids": 21253,
       "season": 31,
-      "rating": 2009371,
+      "rating": 2009671,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 94543,
       "raids": 4804,
       "season": 31,
-      "rating": 1767706,
+      "rating": 1768042,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -120,11 +120,11 @@
       "prefix": "Nia",
       "level": 116,
       "xpPercent": 73,
-      "territories": 4,
+      "territories": 3,
       "wars": 59150,
       "raids": 11710,
       "season": 31,
-      "rating": 692064,
+      "rating": 692136,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -189,12 +189,12 @@
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
       "level": 121,
-      "xpPercent": 32,
+      "xpPercent": 33,
       "territories": 0,
       "wars": 42294,
-      "raids": 23150,
+      "raids": 23151,
       "season": 31,
-      "rating": 356261,
+      "rating": 356671,
       "isCurrentSeason": true,
       "rank": 14
     },
