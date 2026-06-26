@@ -1,105 +1,7 @@
 {
-  "updated": "2026-06-26T06:00:48.517Z",
+  "updated": "2026-06-26T06:06:07.440Z",
   "season": 31,
   "guilds": [
-    {
-      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-      "name": "Sequoia",
-      "prefix": "SEQ",
-      "level": 237,
-      "xpPercent": 24,
-      "territories": 60,
-      "wars": 148180,
-      "raids": 138255,
-      "season": 31,
-      "rating": 6703639,
-      "isCurrentSeason": true,
-      "rank": 1
-    },
-    {
-      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-      "name": "Aequitas",
-      "prefix": "Aeq",
-      "level": 170,
-      "xpPercent": 27,
-      "territories": 97,
-      "wars": 159221,
-      "raids": 66024,
-      "season": 31,
-      "rating": 5096109,
-      "isCurrentSeason": true,
-      "rank": 2
-    },
-    {
-      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-      "name": "Avicia",
-      "prefix": "AVO",
-      "level": 130,
-      "xpPercent": 72,
-      "territories": 59,
-      "wars": 223325,
-      "raids": 18331,
-      "season": 31,
-      "rating": 2686147,
-      "isCurrentSeason": true,
-      "rank": 3
-    },
-    {
-      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-      "name": "Titans Valor",
-      "prefix": "ANO",
-      "level": 124,
-      "xpPercent": 81,
-      "territories": 31,
-      "wars": 117327,
-      "raids": 18623,
-      "season": 31,
-      "rating": 2048251,
-      "isCurrentSeason": true,
-      "rank": 4
-    },
-    {
-      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-      "name": "Paladins United",
-      "prefix": "PUN",
-      "level": 126,
-      "xpPercent": 2,
-      "territories": 20,
-      "wars": 31657,
-      "raids": 21253,
-      "season": 31,
-      "rating": 2015147,
-      "isCurrentSeason": true,
-      "rank": 5
-    },
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 107,
-      "xpPercent": 82,
-      "territories": 32,
-      "wars": 94543,
-      "raids": 4804,
-      "season": 31,
-      "rating": 1774364,
-      "isCurrentSeason": true,
-      "rank": 6
-    },
-    {
-      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
-      "name": "Polish Hussars",
-      "prefix": "PLHR",
-      "level": 82,
-      "xpPercent": 85,
-      "territories": 0,
-      "wars": 22626,
-      "raids": 2134,
-      "season": 31,
-      "rating": 872054,
-      "isCurrentSeason": true,
-      "rank": 7
-    },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
       "name": "Anime Lovers",
@@ -112,35 +14,7 @@
       "season": 31,
       "rating": 750100,
       "isCurrentSeason": true,
-      "rank": 8
-    },
-    {
-      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-      "name": "Nerfuria",
-      "prefix": "Nia",
-      "level": 116,
-      "xpPercent": 73,
-      "territories": 2,
-      "wars": 59159,
-      "raids": 11710,
-      "season": 31,
-      "rating": 694732,
-      "isCurrentSeason": true,
-      "rank": 9
-    },
-    {
-      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
-      "name": "Hesperides",
-      "prefix": "HSP",
-      "level": 108,
-      "xpPercent": 9,
-      "territories": 0,
-      "wars": 391,
-      "raids": 23677,
-      "season": 31,
-      "rating": 573478,
-      "isCurrentSeason": true,
-      "rank": 10
+      "rank": 1
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -154,7 +28,7 @@
       "season": 31,
       "rating": 441390,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 2
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -168,7 +42,7 @@
       "season": 31,
       "rating": 430409,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 3
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -182,36 +56,53 @@
       "season": 31,
       "rating": 386883,
       "isCurrentSeason": true,
-      "rank": 13
-    },
-    {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 121,
-      "xpPercent": 33,
-      "territories": 0,
-      "wars": 42294,
-      "raids": 23158,
-      "season": 31,
-      "rating": 358771,
-      "isCurrentSeason": true,
-      "rank": 14
-    },
-    {
-      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-      "name": "Adventure of the bear",
-      "prefix": "Bav",
-      "level": 75,
-      "xpPercent": 33,
-      "territories": 0,
-      "wars": 6383,
-      "raids": 462,
-      "season": 31,
-      "rating": 309783,
-      "isCurrentSeason": true,
-      "rank": 15
+      "rank": 4
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "SEQ",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "Aeq",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "AVO",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "ANO",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "Nia",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "PUN",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "DUDE",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "Bav",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "PLHR",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "Hesperides",
+      "error": "This operation was aborted"
+    },
+    {
+      "name": "The Broken Gasmask",
+      "error": "This operation was aborted"
+    }
+  ]
 }
