@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T02:10:32.062Z",
+  "updated": "2026-06-26T02:15:35.603Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 21,
       "territories": 60,
       "wars": 148131,
-      "raids": 138219,
+      "raids": 138220,
       "season": 31,
-      "rating": 6673997,
+      "rating": 6674288,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 159221,
       "raids": 65973,
       "season": 31,
-      "rating": 5057495,
+      "rating": 5057875,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 223325,
       "raids": 18322,
       "season": 31,
-      "rating": 2667995,
+      "rating": 2668283,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -50,11 +50,11 @@
       "prefix": "ANO",
       "level": 124,
       "xpPercent": 81,
-      "territories": 32,
+      "territories": 33,
       "wars": 117313,
       "raids": 18623,
       "season": 31,
-      "rating": 2034171,
+      "rating": 2034468,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "PUN",
       "level": 126,
       "xpPercent": 2,
-      "territories": 22,
+      "territories": 21,
       "wars": 31646,
       "raids": 21253,
       "season": 31,
-      "rating": 2003810,
+      "rating": 2004009,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 94543,
       "raids": 4804,
       "season": 31,
-      "rating": 1761552,
+      "rating": 1761775,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -189,12 +189,12 @@
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
       "level": 121,
-      "xpPercent": 31,
+      "xpPercent": 32,
       "territories": 0,
       "wars": 42294,
-      "raids": 23140,
+      "raids": 23141,
       "season": 31,
-      "rating": 351861,
+      "rating": 352301,
       "isCurrentSeason": true,
       "rank": 14
     },
