@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T14:25:28.286Z",
+  "updated": "2026-06-27T14:30:42.786Z",
   "season": 31,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 237,
-      "xpPercent": 67,
-      "territories": 60,
+      "xpPercent": 68,
+      "territories": 57,
       "wars": 148271,
       "raids": 138825,
       "season": 31,
-      "rating": 7053277,
+      "rating": 7054293,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 159605,
       "raids": 66448,
       "season": 31,
-      "rating": 5407903,
+      "rating": 5408409,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 130,
       "xpPercent": 77,
-      "territories": 23,
-      "wars": 223393,
+      "territories": 27,
+      "wars": 223400,
       "raids": 18406,
       "season": 31,
-      "rating": 2862601,
+      "rating": 2863374,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 117333,
       "raids": 18804,
       "season": 31,
-      "rating": 2202776,
+      "rating": 2203219,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 31681,
       "raids": 21376,
       "season": 31,
-      "rating": 2149681,
+      "rating": 2150400,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 94628,
       "raids": 4855,
       "season": 31,
-      "rating": 1904138,
+      "rating": 1904586,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 22703,
       "raids": 2159,
       "season": 31,
-      "rating": 940234,
+      "rating": 940616,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -138,7 +138,7 @@
       "wars": 391,
       "raids": 23769,
       "season": 31,
-      "rating": 599968,
+      "rating": 600378,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -147,12 +147,12 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 140,
-      "xpPercent": 24,
+      "xpPercent": 25,
       "territories": 0,
       "wars": 167357,
       "raids": 18068,
       "season": 31,
-      "rating": 464797,
+      "rating": 465237,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -166,7 +166,7 @@
       "wars": 9411,
       "raids": 3241,
       "season": 31,
-      "rating": 458554,
+      "rating": 459239,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -176,11 +176,11 @@
       "prefix": "Tsd",
       "level": 101,
       "xpPercent": 50,
-      "territories": 42,
-      "wars": 34426,
+      "territories": 39,
+      "wars": 34430,
       "raids": 13821,
       "season": 31,
-      "rating": 430889,
+      "rating": 431773,
       "isCurrentSeason": true,
       "rank": 13
     },
