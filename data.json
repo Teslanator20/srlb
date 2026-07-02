@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T23:35:43.275Z",
+  "updated": "2026-07-02T23:40:59.047Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 1,
       "territories": 60,
       "wars": 148808,
-      "raids": 140486,
+      "raids": 140488,
       "season": 31,
-      "rating": 8390708,
+      "rating": 8391290,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 171,
       "xpPercent": 27,
-      "territories": 92,
+      "territories": 93,
       "wars": 160464,
       "raids": 67599,
       "season": 31,
-      "rating": 6790526,
+      "rating": 6791257,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 223818,
       "raids": 18810,
       "season": 31,
-      "rating": 3744025,
+      "rating": 3744602,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 117860,
       "raids": 19304,
       "season": 31,
-      "rating": 2912930,
+      "rating": 2913373,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 94911,
       "raids": 4981,
       "season": 31,
-      "rating": 2520227,
+      "rating": 2520674,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -202,7 +202,7 @@
   "errors": [
     {
       "name": "PUN",
-      "error": "This operation was aborted"
+      "error": "HTTP 520"
     }
   ]
 }
