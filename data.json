@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T22:25:23.115Z",
+  "updated": "2026-07-02T22:30:42.030Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 100,
       "territories": 60,
       "wars": 148802,
-      "raids": 140475,
+      "raids": 140477,
       "season": 31,
-      "rating": 8380588,
+      "rating": 8380976,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 171,
       "xpPercent": 27,
-      "territories": 96,
+      "territories": 95,
       "wars": 160441,
-      "raids": 67593,
+      "raids": 67595,
       "season": 31,
-      "rating": 6778934,
+      "rating": 6779848,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 223818,
       "raids": 18810,
       "season": 31,
-      "rating": 3737387,
+      "rating": 3737964,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 117859,
       "raids": 19304,
       "season": 31,
-      "rating": 2907772,
+      "rating": 2908064,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,9 +68,23 @@
       "wars": 31837,
       "raids": 21859,
       "season": 31,
-      "rating": 2767372,
+      "rating": 2767638,
       "isCurrentSeason": true,
       "rank": 5
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 107,
+      "xpPercent": 90,
+      "territories": 26,
+      "wars": 94909,
+      "raids": 4981,
+      "season": 31,
+      "rating": 2514919,
+      "isCurrentSeason": true,
+      "rank": 6
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -78,13 +92,13 @@
       "prefix": "PLHR",
       "level": 82,
       "xpPercent": 91,
-      "territories": 6,
-      "wars": 23178,
+      "territories": 7,
+      "wars": 23182,
       "raids": 2172,
       "season": 31,
-      "rating": 1172606,
+      "rating": 1173040,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 7
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -92,13 +106,13 @@
       "prefix": "Nia",
       "level": 116,
       "xpPercent": 98,
-      "territories": 1,
-      "wars": 59644,
+      "territories": 2,
+      "wars": 59646,
       "raids": 11991,
       "season": 31,
-      "rating": 879827,
+      "rating": 880015,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 8
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -106,13 +120,13 @@
       "prefix": "Zamn",
       "level": 117,
       "xpPercent": 42,
-      "territories": 0,
+      "territories": 1,
       "wars": 5048,
       "raids": 19270,
       "season": 31,
-      "rating": 855296,
+      "rating": 855500,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -126,7 +140,7 @@
       "season": 31,
       "rating": 690324,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -134,13 +148,13 @@
       "prefix": "Tsd",
       "level": 101,
       "xpPercent": 64,
-      "territories": 9,
+      "territories": 6,
       "wars": 35196,
       "raids": 13971,
       "season": 31,
-      "rating": 648352,
+      "rating": 648502,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -154,7 +168,7 @@
       "season": 31,
       "rating": 601533,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -168,7 +182,7 @@
       "season": 31,
       "rating": 525064,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -182,7 +196,7 @@
       "season": 31,
       "rating": 413762,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "DUDE",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
