@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T00:50:29.893Z",
+  "updated": "2026-07-03T00:55:23.016Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 239,
       "xpPercent": 2,
-      "territories": 60,
+      "territories": 58,
       "wars": 148808,
       "raids": 140508,
       "season": 31,
-      "rating": 8404373,
+      "rating": 8405170,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 160467,
       "raids": 67601,
       "season": 31,
-      "rating": 6800763,
+      "rating": 6801522,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 131,
       "xpPercent": 8,
-      "territories": 59,
+      "territories": 58,
       "wars": 223818,
       "raids": 18814,
       "season": 31,
-      "rating": 3752932,
+      "rating": 3753509,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 117860,
       "raids": 19304,
       "season": 31,
-      "rating": 2918465,
+      "rating": 2918908,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,9 +68,23 @@
       "wars": 31837,
       "raids": 21868,
       "season": 31,
-      "rating": 2778372,
+      "rating": 2778772,
       "isCurrentSeason": true,
       "rank": 5
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 107,
+      "xpPercent": 90,
+      "territories": 31,
+      "wars": 94920,
+      "raids": 4981,
+      "season": 31,
+      "rating": 2526659,
+      "isCurrentSeason": true,
+      "rank": 6
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -84,7 +98,7 @@
       "season": 31,
       "rating": 1174795,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 7
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -98,7 +112,7 @@
       "season": 31,
       "rating": 881591,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 8
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -112,7 +126,7 @@
       "season": 31,
       "rating": 855644,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -122,11 +136,11 @@
       "xpPercent": 42,
       "territories": 0,
       "wars": 396,
-      "raids": 24130,
+      "raids": 24131,
       "season": 31,
       "rating": 691164,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -134,13 +148,13 @@
       "prefix": "Tsd",
       "level": 101,
       "xpPercent": 64,
-      "territories": 6,
-      "wars": 35214,
+      "territories": 8,
+      "wars": 35218,
       "raids": 13975,
       "season": 31,
-      "rating": 652565,
+      "rating": 653418,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -154,7 +168,7 @@
       "season": 31,
       "rating": 601883,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -168,7 +182,7 @@
       "season": 31,
       "rating": 526015,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -182,7 +196,7 @@
       "season": 31,
       "rating": 413762,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "DUDE",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
