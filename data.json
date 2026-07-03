@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T19:00:46.732Z",
+  "updated": "2026-07-03T19:05:23.217Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 148925,
       "raids": 140727,
       "season": 31,
-      "rating": 8576333,
+      "rating": 8577832,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 160487,
       "raids": 67797,
       "season": 31,
-      "rating": 7002839,
+      "rating": 7003675,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 223900,
       "raids": 18915,
       "season": 31,
-      "rating": 3882150,
+      "rating": 3883170,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 117939,
       "raids": 19400,
       "season": 31,
-      "rating": 3031369,
+      "rating": 3032106,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 31850,
       "raids": 21921,
       "season": 31,
-      "rating": 2862790,
+      "rating": 2863256,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 94955,
       "raids": 4986,
       "season": 31,
-      "rating": 2609577,
+      "rating": 2610024,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 23265,
       "raids": 2176,
       "season": 31,
-      "rating": 1196174,
+      "rating": 1196492,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -124,9 +124,23 @@
       "wars": 5048,
       "raids": 19363,
       "season": 31,
-      "rating": 871354,
+      "rating": 871874,
       "isCurrentSeason": true,
       "rank": 9
+    },
+    {
+      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
+      "name": "TruthSworD",
+      "prefix": "Tsd",
+      "level": 101,
+      "xpPercent": 68,
+      "territories": 10,
+      "wars": 35331,
+      "raids": 14002,
+      "season": 31,
+      "rating": 699933,
+      "isCurrentSeason": true,
+      "rank": 10
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -139,20 +153,6 @@
       "raids": 24161,
       "season": 31,
       "rating": 699714,
-      "isCurrentSeason": true,
-      "rank": 10
-    },
-    {
-      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
-      "name": "TruthSworD",
-      "prefix": "Tsd",
-      "level": 101,
-      "xpPercent": 68,
-      "territories": 11,
-      "wars": 35331,
-      "raids": 14002,
-      "season": 31,
-      "rating": 698793,
       "isCurrentSeason": true,
       "rank": 11
     },
