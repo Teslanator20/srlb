@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T15:25:26.041Z",
+  "updated": "2026-07-04T15:30:41.489Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 149024,
       "raids": 141063,
       "season": 31,
-      "rating": 8849271,
+      "rating": 8849999,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 171,
-      "xpPercent": 56,
+      "xpPercent": 57,
       "territories": 97,
       "wars": 160611,
       "raids": 68018,
       "season": 31,
-      "rating": 7267960,
+      "rating": 7269239,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 131,
       "xpPercent": 19,
-      "territories": 59,
+      "territories": 58,
       "wars": 223915,
       "raids": 19002,
       "season": 31,
-      "rating": 4055843,
+      "rating": 4056560,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 117992,
       "raids": 19464,
       "season": 31,
-      "rating": 3161680,
+      "rating": 3162233,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 31885,
       "raids": 21963,
       "season": 31,
-      "rating": 2977519,
+      "rating": 2978129,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 95040,
       "raids": 4990,
       "season": 31,
-      "rating": 2726665,
+      "rating": 2727194,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 23334,
       "raids": 2185,
       "season": 31,
-      "rating": 1274112,
+      "rating": 1274618,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -134,11 +134,11 @@
       "prefix": "Tsd",
       "level": 101,
       "xpPercent": 69,
-      "territories": 0,
+      "territories": 1,
       "wars": 35336,
-      "raids": 14031,
+      "raids": 14032,
       "season": 31,
-      "rating": 707179,
+      "rating": 707431,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -162,11 +162,11 @@
       "prefix": "Crrs",
       "level": 99,
       "xpPercent": 44,
-      "territories": 1,
+      "territories": 0,
       "wars": 9725,
-      "raids": 3460,
+      "raids": 3462,
       "season": 31,
-      "rating": 620013,
+      "rating": 620085,
       "isCurrentSeason": true,
       "rank": 12
     },
