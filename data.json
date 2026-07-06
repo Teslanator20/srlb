@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T08:10:34.457Z",
+  "updated": "2026-07-06T08:15:28.704Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 149132,
       "raids": 141695,
       "season": 31,
-      "rating": 9425472,
+      "rating": 9426054,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 84,
       "territories": 97,
       "wars": 160844,
-      "raids": 68412,
+      "raids": 68413,
       "season": 31,
-      "rating": 7869750,
+      "rating": 7870890,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 223980,
       "raids": 19164,
       "season": 31,
-      "rating": 4461165,
+      "rating": 4462470,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118025,
       "raids": 19608,
       "season": 31,
-      "rating": 3457400,
+      "rating": 3457843,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 31902,
       "raids": 22122,
       "season": 31,
-      "rating": 3255241,
+      "rating": 3255679,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 91,
-      "territories": 0,
-      "wars": 95184,
+      "territories": 1,
+      "wars": 95187,
       "raids": 4996,
       "season": 31,
-      "rating": 2996840,
+      "rating": 2997014,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -133,7 +133,7 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 108,
-      "xpPercent": 51,
+      "xpPercent": 52,
       "territories": 0,
       "wars": 397,
       "raids": 24255,
