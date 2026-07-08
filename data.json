@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T05:35:24.976Z",
+  "updated": "2026-07-08T05:40:34.111Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 240,
       "xpPercent": 39,
-      "territories": 63,
+      "territories": 62,
       "wars": 149207,
-      "raids": 142322,
+      "raids": 142323,
       "season": 31,
-      "rating": 10028047,
+      "rating": 10028968,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 172,
       "xpPercent": 19,
-      "territories": 89,
-      "wars": 160934,
-      "raids": 68987,
+      "territories": 91,
+      "wars": 160937,
+      "raids": 68989,
       "season": 31,
-      "rating": 8543409,
+      "rating": 8544454,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 46,
       "territories": 59,
       "wars": 224148,
-      "raids": 19401,
+      "raids": 19403,
       "season": 31,
-      "rating": 4919871,
+      "rating": 4920529,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118042,
       "raids": 19750,
       "season": 31,
-      "rating": 3791477,
+      "rating": 3791920,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 31954,
       "raids": 22279,
       "season": 31,
-      "rating": 3557269,
+      "rating": 3557669,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 92,
-      "territories": 24,
+      "territories": 23,
       "wars": 95400,
       "raids": 5022,
       "season": 31,
-      "rating": 3319794,
+      "rating": 3320200,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -122,9 +122,9 @@
       "xpPercent": 67,
       "territories": 0,
       "wars": 5049,
-      "raids": 19866,
+      "raids": 19867,
       "season": 31,
-      "rating": 960282,
+      "rating": 960502,
       "isCurrentSeason": true,
       "rank": 9
     },
