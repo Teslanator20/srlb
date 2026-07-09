@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T05:35:26.611Z",
+  "updated": "2026-07-09T05:40:53.021Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 240,
       "xpPercent": 66,
-      "territories": 60,
-      "wars": 149277,
+      "territories": 62,
+      "wars": 149279,
       "raids": 142685,
       "season": 31,
-      "rating": 10363590,
+      "rating": 10364468,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 172,
       "xpPercent": 36,
-      "territories": 97,
+      "territories": 95,
       "wars": 160967,
-      "raids": 69260,
+      "raids": 69262,
       "season": 31,
-      "rating": 8884995,
+      "rating": 8886238,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 224192,
       "raids": 19542,
       "season": 31,
-      "rating": 5172376,
+      "rating": 5172953,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -49,12 +49,12 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 125,
-      "xpPercent": 42,
+      "xpPercent": 43,
       "territories": 31,
       "wars": 118043,
       "raids": 19853,
       "season": 31,
-      "rating": 3970527,
+      "rating": 3971633,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 31954,
       "raids": 22367,
       "season": 31,
-      "rating": 3721176,
+      "rating": 3721975,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 95504,
       "raids": 5031,
       "season": 31,
-      "rating": 3489782,
+      "rating": 3490677,
       "isCurrentSeason": true,
       "rank": 6
     },
