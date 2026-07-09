@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T01:20:53.761Z",
+  "updated": "2026-07-09T01:25:25.125Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 61,
       "territories": 60,
       "wars": 149272,
-      "raids": 142597,
+      "raids": 142599,
       "season": 31,
-      "rating": 10305621,
+      "rating": 10306604,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 172,
-      "xpPercent": 32,
+      "xpPercent": 33,
       "territories": 97,
       "wars": 160967,
       "raids": 69212,
       "season": 31,
-      "rating": 8822970,
+      "rating": 8824060,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 224192,
       "raids": 19517,
       "season": 31,
-      "rating": 5124455,
+      "rating": 5125387,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -50,11 +50,11 @@
       "prefix": "ANO",
       "level": 125,
       "xpPercent": 42,
-      "territories": 30,
+      "territories": 31,
       "wars": 118043,
       "raids": 19853,
       "season": 31,
-      "rating": 3942401,
+      "rating": 3943184,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 31954,
       "raids": 22363,
       "season": 31,
-      "rating": 3695461,
+      "rating": 3696060,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 95483,
       "raids": 5031,
       "season": 31,
-      "rating": 3459520,
+      "rating": 3460191,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -120,11 +120,11 @@
       "prefix": "Zamn",
       "level": 117,
       "xpPercent": 72,
-      "territories": 1,
+      "territories": 0,
       "wars": 5050,
       "raids": 19944,
       "season": 31,
-      "rating": 979086,
+      "rating": 979184,
       "isCurrentSeason": true,
       "rank": 9
     },
