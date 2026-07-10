@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T17:12:22.042Z",
+  "updated": "2026-07-10T17:15:33.522Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 241,
       "xpPercent": 1,
-      "territories": 68,
-      "wars": 149411,
+      "territories": 72,
+      "wars": 149412,
       "raids": 143184,
       "season": 31,
-      "rating": 10828241,
+      "rating": 10829352,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 172,
       "xpPercent": 49,
-      "territories": 102,
+      "territories": 98,
       "wars": 161183,
       "raids": 69502,
       "season": 31,
-      "rating": 9366637,
+      "rating": 9367410,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 224215,
       "raids": 19711,
       "season": 31,
-      "rating": 5531057,
+      "rating": 5531634,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 53,
       "territories": 31,
       "wars": 118043,
-      "raids": 20055,
+      "raids": 20056,
       "season": 31,
-      "rating": 4249862,
+      "rating": 4250746,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -66,9 +66,9 @@
       "xpPercent": 74,
       "territories": 22,
       "wars": 32013,
-      "raids": 22480,
+      "raids": 22481,
       "season": 31,
-      "rating": 3934691,
+      "rating": 3935290,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 95554,
       "raids": 5054,
       "season": 31,
-      "rating": 3717444,
+      "rating": 3717887,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -190,11 +190,11 @@
       "prefix": "TBGM",
       "level": 121,
       "xpPercent": 73,
-      "territories": 17,
-      "wars": 42434,
+      "territories": 18,
+      "wars": 42435,
       "raids": 23660,
       "season": 31,
-      "rating": 558299,
+      "rating": 558910,
       "isCurrentSeason": true,
       "rank": 14
     },
