@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T06:30:54.344Z",
+  "updated": "2026-07-13T06:35:24.101Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 149762,
       "raids": 143700,
       "season": 31,
-      "rating": 11902964,
+      "rating": 11903974,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 74,
       "territories": 97,
       "wars": 161462,
-      "raids": 69853,
+      "raids": 69854,
       "season": 31,
-      "rating": 10590310,
+      "rating": 10592979,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 224411,
       "raids": 19924,
       "season": 31,
-      "rating": 6438401,
+      "rating": 6439363,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118098,
       "raids": 20237,
       "season": 31,
-      "rating": 4926981,
+      "rating": 4928088,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -66,9 +66,9 @@
       "xpPercent": 78,
       "territories": 22,
       "wars": 32151,
-      "raids": 22587,
+      "raids": 22588,
       "season": 31,
-      "rating": 4438477,
+      "rating": 4439866,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 95740,
       "raids": 5095,
       "season": 31,
-      "rating": 4380777,
+      "rating": 4381896,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 24359,
       "raids": 2259,
       "season": 31,
-      "rating": 2121219,
+      "rating": 2122173,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -107,7 +107,7 @@
       "level": 117,
       "xpPercent": 27,
       "territories": 0,
-      "wars": 60087,
+      "wars": 60088,
       "raids": 12308,
       "season": 31,
       "rating": 1114811,
@@ -143,6 +143,20 @@
       "rank": 10
     },
     {
+      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
+      "name": "TruthSworD",
+      "prefix": "Tsd",
+      "level": 101,
+      "xpPercent": 82,
+      "territories": 0,
+      "wars": 35600,
+      "raids": 14204,
+      "season": 31,
+      "rating": 847852,
+      "isCurrentSeason": true,
+      "rank": 11
+    },
+    {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
       "name": "Cirrus",
       "prefix": "Crrs",
@@ -154,7 +168,7 @@
       "season": 31,
       "rating": 722441,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -168,7 +182,7 @@
       "season": 31,
       "rating": 639741,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -182,7 +196,7 @@
       "season": 31,
       "rating": 606682,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "TruthSworD",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
