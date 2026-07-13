@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T01:05:24.393Z",
+  "updated": "2026-07-13T01:10:41.737Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 241,
       "xpPercent": 39,
-      "territories": 60,
+      "territories": 64,
       "wars": 149746,
       "raids": 143684,
       "season": 31,
-      "rating": 11812412,
+      "rating": 11814235,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 161446,
       "raids": 69800,
       "season": 31,
-      "rating": 10466286,
+      "rating": 10468295,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 224391,
       "raids": 19910,
       "season": 31,
-      "rating": 6353079,
+      "rating": 6354522,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118076,
       "raids": 20237,
       "season": 31,
-      "rating": 4863476,
+      "rating": 4864214,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 32123,
       "raids": 22574,
       "season": 31,
-      "rating": 4376568,
+      "rating": 4377234,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 96,
-      "territories": 26,
+      "territories": 29,
       "wars": 95692,
       "raids": 5095,
       "season": 31,
-      "rating": 4313274,
+      "rating": 4314582,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "PLHR",
       "level": 83,
       "xpPercent": 6,
-      "territories": 23,
+      "territories": 22,
       "wars": 24354,
       "raids": 2259,
       "season": 31,
-      "rating": 2068882,
+      "rating": 2069554,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -122,7 +122,7 @@
       "xpPercent": 85,
       "territories": 0,
       "wars": 5050,
-      "raids": 20232,
+      "raids": 20233,
       "season": 31,
       "rating": 1035534,
       "isCurrentSeason": true,
