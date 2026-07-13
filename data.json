@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T05:25:24.796Z",
+  "updated": "2026-07-13T05:30:50.052Z",
   "season": 31,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 149762,
       "raids": 143700,
       "season": 31,
-      "rating": 11886299,
+      "rating": 11888319,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 161462,
       "raids": 69850,
       "season": 31,
-      "rating": 10568432,
+      "rating": 10569690,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 131,
       "xpPercent": 82,
-      "territories": 56,
-      "wars": 224409,
+      "territories": 59,
+      "wars": 224411,
       "raids": 19924,
       "season": 31,
-      "rating": 6421950,
+      "rating": 6424452,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118098,
       "raids": 20237,
       "season": 31,
-      "rating": 4915173,
+      "rating": 4916280,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 32151,
       "raids": 22584,
       "season": 31,
-      "rating": 4426261,
+      "rating": 4427260,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 107,
       "xpPercent": 96,
-      "territories": 31,
+      "territories": 32,
       "wars": 95740,
       "raids": 5095,
       "season": 31,
-      "rating": 4368645,
+      "rating": 4369960,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 24359,
       "raids": 2259,
       "season": 31,
-      "rating": 2111043,
+      "rating": 2111997,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -134,11 +134,11 @@
       "prefix": "HSP",
       "level": 108,
       "xpPercent": 88,
-      "territories": 1,
+      "territories": 0,
       "wars": 402,
       "raids": 24802,
       "season": 31,
-      "rating": 861140,
+      "rating": 861580,
       "isCurrentSeason": true,
       "rank": 10
     },
