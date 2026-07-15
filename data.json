@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T16:25:24.050Z",
+  "updated": "2026-07-15T16:30:53.666Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 241,
       "xpPercent": 94,
-      "territories": 60,
+      "territories": 63,
       "wars": 150202,
       "raids": 144420,
       "season": 31,
-      "rating": 13072690,
+      "rating": 13075007,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 6,
       "territories": 97,
       "wars": 161828,
-      "raids": 70302,
+      "raids": 70305,
       "season": 31,
-      "rating": 11878318,
+      "rating": 11880437,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 224662,
       "raids": 20120,
       "season": 31,
-      "rating": 7356310,
+      "rating": 7357492,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118162,
       "raids": 20367,
       "season": 31,
-      "rating": 5607417,
+      "rating": 5608524,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 32254,
       "raids": 22777,
       "season": 31,
-      "rating": 5064085,
+      "rating": 5065084,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -80,9 +80,9 @@
       "xpPercent": 100,
       "territories": 31,
       "wars": 95848,
-      "raids": 5207,
+      "raids": 5208,
       "season": 31,
-      "rating": 5056129,
+      "rating": 5057456,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,9 +96,23 @@
       "wars": 24647,
       "raids": 2373,
       "season": 31,
-      "rating": 2751056,
+      "rating": 2752010,
       "isCurrentSeason": true,
       "rank": 7
+    },
+    {
+      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
+      "name": "The Broken Gasmask",
+      "prefix": "TBGM",
+      "level": 121,
+      "xpPercent": 92,
+      "territories": 59,
+      "wars": 43017,
+      "raids": 23890,
+      "season": 31,
+      "rating": 1189769,
+      "isCurrentSeason": true,
+      "rank": 8
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -111,20 +125,6 @@
       "raids": 12369,
       "season": 31,
       "rating": 1189472,
-      "isCurrentSeason": true,
-      "rank": 8
-    },
-    {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 121,
-      "xpPercent": 92,
-      "territories": 57,
-      "wars": 43017,
-      "raids": 23890,
-      "season": 31,
-      "rating": 1187893,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -157,20 +157,6 @@
       "rank": 11
     },
     {
-      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
-      "name": "Hesperides",
-      "prefix": "HSP",
-      "level": 109,
-      "xpPercent": 2,
-      "territories": 0,
-      "wars": 402,
-      "raids": 25006,
-      "season": 31,
-      "rating": 919020,
-      "isCurrentSeason": true,
-      "rank": 12
-    },
-    {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
       "name": "Cirrus",
       "prefix": "Crrs",
@@ -182,7 +168,7 @@
       "season": 31,
       "rating": 768354,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -196,7 +182,7 @@
       "season": 31,
       "rating": 658626,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -210,8 +196,13 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": true,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "Hesperides",
+      "error": "HTTP 500"
+    }
+  ]
 }
