@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T08:30:54.556Z",
+  "updated": "2026-07-16T08:35:25.823Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 242,
       "xpPercent": 3,
-      "territories": 60,
-      "wars": 150270,
-      "raids": 144541,
+      "territories": 59,
+      "wars": 150275,
+      "raids": 144542,
       "season": 31,
-      "rating": 13363675,
+      "rating": 13365522,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 18,
       "territories": 97,
       "wars": 161863,
-      "raids": 70478,
+      "raids": 70480,
       "season": 31,
-      "rating": 12240675,
+      "rating": 12242161,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 131,
       "xpPercent": 97,
-      "territories": 59,
+      "territories": 58,
       "wars": 224739,
-      "raids": 20162,
+      "raids": 20163,
       "season": 31,
-      "rating": 7619624,
+      "rating": 7620586,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118165,
       "raids": 20418,
       "season": 31,
-      "rating": 5801260,
+      "rating": 5802552,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 95949,
       "raids": 5224,
       "season": 31,
-      "rating": 5232264,
+      "rating": 5233383,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -80,9 +80,9 @@
       "xpPercent": 89,
       "territories": 22,
       "wars": 32327,
-      "raids": 22810,
+      "raids": 22812,
       "season": 31,
-      "rating": 5211217,
+      "rating": 5212382,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -120,11 +120,11 @@
       "prefix": "Nia",
       "level": 117,
       "xpPercent": 34,
-      "territories": 6,
-      "wars": 60308,
+      "territories": 5,
+      "wars": 60311,
       "raids": 12373,
       "season": 31,
-      "rating": 1244970,
+      "rating": 1245862,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 35986,
       "raids": 14249,
       "season": 31,
-      "rating": 1130201,
+      "rating": 1130421,
       "isCurrentSeason": true,
       "rank": 10
     },
