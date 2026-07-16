@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T07:25:26.145Z",
+  "updated": "2026-07-16T07:30:49.794Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 242,
       "xpPercent": 3,
-      "territories": 68,
+      "territories": 69,
       "wars": 150261,
       "raids": 144536,
       "season": 31,
-      "rating": 13343812,
+      "rating": 13344529,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 161863,
       "raids": 70468,
       "season": 31,
-      "rating": 12216816,
+      "rating": 12218632,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 131,
       "xpPercent": 97,
-      "territories": 56,
-      "wars": 224735,
+      "territories": 55,
+      "wars": 224736,
       "raids": 20157,
       "season": 31,
-      "rating": 7601751,
+      "rating": 7602683,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118165,
       "raids": 20417,
       "season": 31,
-      "rating": 5789342,
+      "rating": 5790190,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 0,
-      "territories": 4,
-      "wars": 95915,
+      "territories": 6,
+      "wars": 95919,
       "raids": 5224,
       "season": 31,
-      "rating": 5214823,
+      "rating": 5215861,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 32327,
       "raids": 22809,
       "season": 31,
-      "rating": 5199351,
+      "rating": 5200347,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 24785,
       "raids": 2397,
       "season": 31,
-      "rating": 2882174,
+      "rating": 2882482,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -150,9 +150,9 @@
       "xpPercent": 95,
       "territories": 0,
       "wars": 5050,
-      "raids": 20473,
+      "raids": 20474,
       "season": 31,
-      "rating": 1077334,
+      "rating": 1077444,
       "isCurrentSeason": true,
       "rank": 11
     },
