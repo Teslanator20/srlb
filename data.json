@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T00:20:36.690Z",
+  "updated": "2026-07-16T00:25:28.697Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 1,
       "territories": 60,
       "wars": 150235,
-      "raids": 144510,
+      "raids": 144511,
       "season": 31,
-      "rating": 13226386,
+      "rating": 13228281,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 10,
       "territories": 97,
       "wars": 161863,
-      "raids": 70374,
+      "raids": 70375,
       "season": 31,
-      "rating": 12052383,
+      "rating": 12054722,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -37,10 +37,10 @@
       "level": 131,
       "xpPercent": 95,
       "territories": 63,
-      "wars": 224719,
+      "wars": 224721,
       "raids": 20136,
       "season": 31,
-      "rating": 7487466,
+      "rating": 7489359,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,23 +54,9 @@
       "wars": 118165,
       "raids": 20380,
       "season": 31,
-      "rating": 5700899,
+      "rating": 5701637,
       "isCurrentSeason": true,
       "rank": 4
-    },
-    {
-      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-      "name": "Paladins United",
-      "prefix": "PUN",
-      "level": 126,
-      "xpPercent": 88,
-      "territories": 1,
-      "wars": 32296,
-      "raids": 22797,
-      "season": 31,
-      "rating": 5148033,
-      "isCurrentSeason": true,
-      "rank": 5
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -82,7 +68,21 @@
       "wars": 95854,
       "raids": 5222,
       "season": 31,
-      "rating": 5147921,
+      "rating": 5148659,
+      "isCurrentSeason": true,
+      "rank": 5
+    },
+    {
+      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+      "name": "Paladins United",
+      "prefix": "PUN",
+      "level": 126,
+      "xpPercent": 88,
+      "territories": 1,
+      "wars": 32296,
+      "raids": 22797,
+      "season": 31,
+      "rating": 5148153,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -124,7 +124,7 @@
       "wars": 60285,
       "raids": 12373,
       "season": 31,
-      "rating": 1202852,
+      "rating": 1203510,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -152,7 +152,7 @@
       "wars": 5050,
       "raids": 20453,
       "season": 31,
-      "rating": 1074584,
+      "rating": 1074694,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -161,12 +161,12 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 109,
-      "xpPercent": 5,
+      "xpPercent": 6,
       "territories": 0,
       "wars": 402,
-      "raids": 25041,
+      "raids": 25043,
       "season": 31,
-      "rating": 932170,
+      "rating": 932500,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -180,7 +180,7 @@
       "wars": 9780,
       "raids": 3885,
       "season": 31,
-      "rating": 773644,
+      "rating": 773974,
       "isCurrentSeason": true,
       "rank": 13
     },
