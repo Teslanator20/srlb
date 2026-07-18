@@ -1,217 +1,67 @@
 {
-  "updated": "2026-07-18T15:55:26.767Z",
-  "season": 31,
-  "guilds": [
+  "updated": "2026-07-18T16:00:43.978Z",
+  "season": null,
+  "guilds": [],
+  "errors": [
     {
-      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-      "name": "Sequoia",
-      "prefix": "SEQ",
-      "level": 242,
-      "xpPercent": 47,
-      "territories": 67,
-      "wars": 150726,
-      "raids": 145097,
-      "season": 31,
-      "rating": 14668710,
-      "isCurrentSeason": true,
-      "rank": 1
+      "name": "SEQ",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-      "name": "Aequitas",
-      "prefix": "Aeq",
-      "level": 173,
-      "xpPercent": 59,
-      "territories": 80,
-      "wars": 162974,
-      "raids": 71069,
-      "season": 31,
-      "rating": 13859741,
-      "isCurrentSeason": true,
-      "rank": 2
+      "name": "Aeq",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-      "name": "Avicia",
-      "prefix": "AVO",
-      "level": 132,
-      "xpPercent": 14,
-      "territories": 59,
-      "wars": 225121,
-      "raids": 20437,
-      "season": 31,
-      "rating": 8706703,
-      "isCurrentSeason": true,
-      "rank": 3
+      "name": "AVO",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-      "name": "Titans Valor",
-      "prefix": "ANO",
-      "level": 125,
-      "xpPercent": 85,
-      "territories": 31,
-      "wars": 118231,
-      "raids": 20639,
-      "season": 31,
-      "rating": 6602515,
-      "isCurrentSeason": true,
-      "rank": 4
+      "name": "ANO",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 108,
-      "xpPercent": 5,
-      "territories": 7,
-      "wars": 96199,
-      "raids": 5265,
-      "season": 31,
-      "rating": 6003200,
-      "isCurrentSeason": true,
-      "rank": 5
+      "name": "Nia",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
-      "name": "Paladins United",
-      "prefix": "PUN",
-      "level": 126,
-      "xpPercent": 95,
-      "territories": 22,
-      "wars": 32438,
-      "raids": 22942,
-      "season": 31,
-      "rating": 5925501,
-      "isCurrentSeason": true,
-      "rank": 6
+      "name": "PUN",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
-      "name": "Polish Hussars",
-      "prefix": "PLHR",
-      "level": 83,
-      "xpPercent": 26,
-      "territories": 19,
-      "wars": 25667,
-      "raids": 2425,
-      "season": 31,
-      "rating": 3684568,
-      "isCurrentSeason": true,
-      "rank": 7
+      "name": "DUDE",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-      "name": "Nerfuria",
-      "prefix": "Nia",
-      "level": 117,
-      "xpPercent": 36,
-      "territories": 0,
-      "wars": 60722,
-      "raids": 12399,
-      "season": 31,
-      "rating": 1460285,
-      "isCurrentSeason": true,
-      "rank": 8
+      "name": "Crrs",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 122,
-      "xpPercent": 4,
-      "territories": 0,
-      "wars": 43210,
-      "raids": 24023,
-      "season": 31,
-      "rating": 1373842,
-      "isCurrentSeason": true,
-      "rank": 9
+      "name": "Bav",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
-      "name": "TruthSworD",
-      "prefix": "Tsd",
-      "level": 101,
-      "xpPercent": 90,
-      "territories": 0,
-      "wars": 36181,
-      "raids": 14310,
-      "season": 31,
-      "rating": 1248296,
-      "isCurrentSeason": true,
-      "rank": 10
+      "name": "PLHR",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
-      "name": "Anime Lovers",
-      "prefix": "Zamn",
-      "level": 118,
-      "xpPercent": 8,
-      "territories": 0,
-      "wars": 5051,
-      "raids": 20769,
-      "season": 31,
-      "rating": 1134984,
-      "isCurrentSeason": true,
-      "rank": 11
-    },
-    {
-      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
       "name": "Hesperides",
-      "prefix": "HSP",
-      "level": 109,
-      "xpPercent": 20,
-      "territories": 0,
-      "wars": 402,
-      "raids": 25241,
-      "season": 31,
-      "rating": 985090,
-      "isCurrentSeason": true,
-      "rank": 12
+      "error": "HTTP 502"
     },
     {
-      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
-      "name": "Cirrus",
-      "prefix": "Crrs",
-      "level": 100,
-      "xpPercent": 3,
-      "territories": 0,
-      "wars": 9810,
-      "raids": 3969,
-      "season": 31,
-      "rating": 820491,
-      "isCurrentSeason": true,
-      "rank": 13
+      "name": "The Broken Gasmask",
+      "error": "HTTP 502"
     },
     {
-      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
+      "name": "Anime Lovers",
+      "error": "HTTP 502"
+    },
+    {
       "name": "The Aquarium",
-      "prefix": "TAq",
-      "level": 140,
-      "xpPercent": 75,
-      "territories": 0,
-      "wars": 167480,
-      "raids": 18781,
-      "season": 31,
-      "rating": 696938,
-      "isCurrentSeason": true,
-      "rank": 14
+      "error": "HTTP 502"
     },
     {
-      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
-      "name": "Adventure of the bear",
-      "prefix": "Bav",
-      "level": 75,
-      "xpPercent": 42,
-      "territories": 0,
-      "wars": 6383,
-      "raids": 462,
-      "season": 31,
-      "rating": 309783,
-      "isCurrentSeason": true,
-      "rank": 15
+      "name": "TruthSworD",
+      "error": "HTTP 502"
     }
-  ],
-  "errors": []
+  ]
 }
