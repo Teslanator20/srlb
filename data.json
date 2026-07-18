@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T01:30:40.127Z",
+  "updated": "2026-07-18T01:35:23.754Z",
   "season": 31,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 42,
       "territories": 64,
       "wars": 150544,
-      "raids": 145017,
+      "raids": 145018,
       "season": 31,
-      "rating": 14176359,
+      "rating": 14178082,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 162817,
       "raids": 70891,
       "season": 31,
-      "rating": 13268227,
+      "rating": 13269493,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 9,
       "territories": 58,
       "wars": 225086,
-      "raids": 20367,
+      "raids": 20369,
       "season": 31,
-      "rating": 8295344,
+      "rating": 8296935,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118222,
       "raids": 20563,
       "season": 31,
-      "rating": 6297199,
+      "rating": 6298306,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 96081,
       "raids": 5265,
       "season": 31,
-      "rating": 5712271,
+      "rating": 5713390,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 32408,
       "raids": 22925,
       "season": 31,
-      "rating": 5651811,
+      "rating": 5652810,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "PLHR",
       "level": 83,
       "xpPercent": 26,
-      "territories": 7,
-      "wars": 25557,
+      "territories": 6,
+      "wars": 25558,
       "raids": 2425,
       "season": 31,
-      "rating": 3483187,
+      "rating": 3484131,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -189,12 +189,12 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 140,
-      "xpPercent": 71,
+      "xpPercent": 72,
       "territories": 0,
       "wars": 167476,
       "raids": 18733,
       "season": 31,
-      "rating": 683727,
+      "rating": 683917,
       "isCurrentSeason": true,
       "rank": 14
     },
