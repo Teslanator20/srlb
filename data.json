@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T16:15:29.412Z",
+  "updated": "2026-07-18T16:20:28.670Z",
   "season": 31,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 242,
       "xpPercent": 47,
-      "territories": 73,
+      "territories": 75,
       "wars": 150736,
       "raids": 145097,
       "season": 31,
-      "rating": 14682055,
+      "rating": 14685431,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 173,
       "xpPercent": 60,
-      "territories": 86,
-      "wars": 162988,
+      "territories": 88,
+      "wars": 162990,
       "raids": 71072,
       "season": 31,
-      "rating": 13875754,
+      "rating": 13879814,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 225121,
       "raids": 20437,
       "season": 31,
-      "rating": 8716323,
+      "rating": 8718247,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118231,
       "raids": 20643,
       "season": 31,
-      "rating": 6610575,
+      "rating": 6612770,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -65,10 +65,10 @@
       "level": 108,
       "xpPercent": 5,
       "territories": 3,
-      "wars": 96201,
+      "wars": 96202,
       "raids": 5265,
       "season": 31,
-      "rating": 6007508,
+      "rating": 6008388,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 32438,
       "raids": 22942,
       "season": 31,
-      "rating": 5932161,
+      "rating": 5933603,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 25667,
       "raids": 2425,
       "season": 31,
-      "rating": 3691246,
+      "rating": 3692518,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -177,7 +177,7 @@
       "level": 100,
       "xpPercent": 3,
       "territories": 0,
-      "wars": 9810,
+      "wars": 9811,
       "raids": 3969,
       "season": 31,
       "rating": 820491,
