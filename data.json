@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T07:40:29.973Z",
+  "updated": "2026-07-20T07:45:29.276Z",
   "season": 31,
   "guilds": [
     {
@@ -8,7 +8,7 @@
       "prefix": "SEQ",
       "level": 242,
       "xpPercent": 67,
-      "territories": 18,
+      "territories": 17,
       "wars": 150829,
       "raids": 145369,
       "season": 31,
@@ -24,7 +24,7 @@
       "xpPercent": 98,
       "territories": 0,
       "wars": 163222,
-      "raids": 71574,
+      "raids": 71577,
       "season": 31,
       "rating": 14436545,
       "isCurrentSeason": true,
@@ -105,8 +105,8 @@
       "name": "Nerfuria",
       "prefix": "Nia",
       "level": 117,
-      "xpPercent": 40,
-      "territories": 10,
+      "xpPercent": 41,
+      "territories": 7,
       "wars": 60770,
       "raids": 12423,
       "season": 31,
