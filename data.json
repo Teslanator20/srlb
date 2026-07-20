@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T11:30:38.645Z",
+  "updated": "2026-07-20T11:35:24.447Z",
   "season": 31,
   "guilds": [
     {
@@ -21,7 +21,7 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 174,
-      "xpPercent": 1,
+      "xpPercent": 2,
       "territories": 1,
       "wars": 163222,
       "raids": 71614,
@@ -38,7 +38,7 @@
       "xpPercent": 33,
       "territories": 1,
       "wars": 225185,
-      "raids": 20650,
+      "raids": 20651,
       "season": 31,
       "rating": 9092015,
       "isCurrentSeason": true,
@@ -106,7 +106,7 @@
       "prefix": "Nia",
       "level": 117,
       "xpPercent": 41,
-      "territories": 45,
+      "territories": 44,
       "wars": 60770,
       "raids": 12423,
       "season": 31,
@@ -192,7 +192,7 @@
       "xpPercent": 85,
       "territories": 0,
       "wars": 167500,
-      "raids": 18938,
+      "raids": 18939,
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": true,
