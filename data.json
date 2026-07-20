@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T11:45:27.223Z",
+  "updated": "2026-07-20T11:50:31.083Z",
   "season": 31,
   "guilds": [
     {
@@ -64,7 +64,7 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 6,
-      "territories": 0,
+      "territories": 1,
       "wars": 32522,
       "raids": 23070,
       "season": 31,
@@ -147,7 +147,7 @@
       "name": "Anime Lovers",
       "prefix": "Zamn",
       "level": 118,
-      "xpPercent": 24,
+      "xpPercent": 25,
       "territories": 0,
       "wars": 5052,
       "raids": 21058,
@@ -192,7 +192,7 @@
       "xpPercent": 85,
       "territories": 0,
       "wars": 167500,
-      "raids": 18940,
+      "raids": 18942,
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": true,
