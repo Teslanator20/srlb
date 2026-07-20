@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T19:15:30.673Z",
+  "updated": "2026-07-20T19:20:31.134Z",
   "season": 31,
   "guilds": [
     {
@@ -36,7 +36,7 @@
       "prefix": "AVO",
       "level": 132,
       "xpPercent": 36,
-      "territories": 12,
+      "territories": 13,
       "wars": 225185,
       "raids": 20702,
       "season": 31,
@@ -50,7 +50,7 @@
       "prefix": "ANO",
       "level": 125,
       "xpPercent": 93,
-      "territories": 1,
+      "territories": 2,
       "wars": 118270,
       "raids": 20797,
       "season": 31,
@@ -78,7 +78,7 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 8,
-      "territories": 89,
+      "territories": 87,
       "wars": 96347,
       "raids": 5281,
       "season": 31,
@@ -192,7 +192,7 @@
       "xpPercent": 87,
       "territories": 0,
       "wars": 167500,
-      "raids": 18979,
+      "raids": 18980,
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": true,
