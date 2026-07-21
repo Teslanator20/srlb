@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T10:55:24.357Z",
+  "updated": "2026-07-21T11:00:48.915Z",
   "season": 31,
   "guilds": [
     {
@@ -64,7 +64,7 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 11,
-      "territories": 6,
+      "territories": 11,
       "wars": 32522,
       "raids": 23154,
       "season": 31,
@@ -78,7 +78,7 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 10,
-      "territories": 62,
+      "territories": 58,
       "wars": 96347,
       "raids": 5291,
       "season": 31,
@@ -120,9 +120,9 @@
       "prefix": "TBGM",
       "level": 122,
       "xpPercent": 17,
-      "territories": 5,
+      "territories": 6,
       "wars": 43211,
-      "raids": 24120,
+      "raids": 24121,
       "season": 31,
       "rating": 1377042,
       "isCurrentSeason": true,
