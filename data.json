@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T03:25:26.305Z",
+  "updated": "2026-07-21T03:30:39.144Z",
   "season": 31,
   "guilds": [
     {
@@ -8,7 +8,7 @@
       "prefix": "SEQ",
       "level": 242,
       "xpPercent": 73,
-      "territories": 26,
+      "territories": 29,
       "wars": 150829,
       "raids": 145431,
       "season": 31,
@@ -24,7 +24,7 @@
       "xpPercent": 16,
       "territories": 0,
       "wars": 163222,
-      "raids": 71787,
+      "raids": 71789,
       "season": 31,
       "rating": 14436545,
       "isCurrentSeason": true,
@@ -175,7 +175,7 @@
       "name": "Cirrus",
       "prefix": "Crrs",
       "level": 100,
-      "xpPercent": 14,
+      "xpPercent": 16,
       "territories": 0,
       "wars": 9826,
       "raids": 4074,
