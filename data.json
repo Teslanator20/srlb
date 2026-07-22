@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T06:50:32.088Z",
+  "updated": "2026-07-22T06:55:29.051Z",
   "season": 31,
   "guilds": [
     {
@@ -24,7 +24,7 @@
       "xpPercent": 37,
       "territories": 0,
       "wars": 163222,
-      "raids": 72082,
+      "raids": 72084,
       "season": 31,
       "rating": 14436545,
       "isCurrentSeason": true,
@@ -38,7 +38,7 @@
       "xpPercent": 46,
       "territories": 0,
       "wars": 225185,
-      "raids": 20868,
+      "raids": 20869,
       "season": 31,
       "rating": 9092015,
       "isCurrentSeason": true,
@@ -190,7 +190,7 @@
       "prefix": "TAq",
       "level": 140,
       "xpPercent": 93,
-      "territories": 2,
+      "territories": 4,
       "wars": 167500,
       "raids": 19081,
       "season": 31,
