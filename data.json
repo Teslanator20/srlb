@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T05:15:29.569Z",
+  "updated": "2026-07-22T05:20:30.053Z",
   "season": 31,
   "guilds": [
     {
@@ -8,7 +8,7 @@
       "prefix": "SEQ",
       "level": 242,
       "xpPercent": 82,
-      "territories": 45,
+      "territories": 47,
       "wars": 150829,
       "raids": 145546,
       "season": 31,
@@ -120,7 +120,7 @@
       "prefix": "TBGM",
       "level": 122,
       "xpPercent": 19,
-      "territories": 5,
+      "territories": 3,
       "wars": 43211,
       "raids": 24148,
       "season": 31,
@@ -190,9 +190,9 @@
       "prefix": "TAq",
       "level": 140,
       "xpPercent": 93,
-      "territories": 1,
+      "territories": 3,
       "wars": 167500,
-      "raids": 19071,
+      "raids": 19072,
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": true,
