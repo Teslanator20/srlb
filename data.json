@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-22T13:10:47.115Z",
+  "updated": "2026-07-22T13:15:32.235Z",
   "season": 31,
   "guilds": [
+    {
+      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+      "name": "Sequoia",
+      "prefix": "SEQ",
+      "level": 242,
+      "xpPercent": 84,
+      "territories": 48,
+      "wars": 150829,
+      "raids": 145560,
+      "season": 31,
+      "rating": 15107093,
+      "isCurrentSeason": true,
+      "rank": 1
+    },
+    {
+      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+      "name": "Aequitas",
+      "prefix": "Aeq",
+      "level": 174,
+      "xpPercent": 38,
+      "territories": 0,
+      "wars": 163222,
+      "raids": 72103,
+      "season": 31,
+      "rating": 14436545,
+      "isCurrentSeason": true,
+      "rank": 2
+    },
+    {
+      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+      "name": "Avicia",
+      "prefix": "AVO",
+      "level": 132,
+      "xpPercent": 50,
+      "territories": 0,
+      "wars": 225185,
+      "raids": 20912,
+      "season": 31,
+      "rating": 9092015,
+      "isCurrentSeason": true,
+      "rank": 3
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 125,
+      "xpPercent": 100,
+      "territories": 2,
+      "wars": 118270,
+      "raids": 20964,
+      "season": 31,
+      "rating": 6887612,
+      "isCurrentSeason": true,
+      "rank": 4
+    },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
       "name": "Paladins United",
@@ -14,7 +70,21 @@
       "season": 31,
       "rating": 6197452,
       "isCurrentSeason": true,
-      "rank": 1
+      "rank": 5
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 108,
+      "xpPercent": 11,
+      "territories": 0,
+      "wars": 96347,
+      "raids": 5308,
+      "season": 31,
+      "rating": 6132152,
+      "isCurrentSeason": true,
+      "rank": 6
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -28,7 +98,21 @@
       "season": 31,
       "rating": 3908943,
       "isCurrentSeason": true,
-      "rank": 2
+      "rank": 7
+    },
+    {
+      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
+      "name": "Nerfuria",
+      "prefix": "Nia",
+      "level": 117,
+      "xpPercent": 48,
+      "territories": 20,
+      "wars": 60770,
+      "raids": 12526,
+      "season": 31,
+      "rating": 1493578,
+      "isCurrentSeason": true,
+      "rank": 8
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -42,7 +126,7 @@
       "season": 31,
       "rating": 1377042,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 9
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -56,7 +140,7 @@
       "season": 31,
       "rating": 1291353,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -70,7 +154,7 @@
       "season": 31,
       "rating": 1151914,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 11
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -84,7 +168,21 @@
       "season": 31,
       "rating": 998040,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 12
+    },
+    {
+      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
+      "name": "Cirrus",
+      "prefix": "Crrs",
+      "level": 100,
+      "xpPercent": 20,
+      "territories": 5,
+      "wars": 9826,
+      "raids": 4147,
+      "season": 31,
+      "rating": 840948,
+      "isCurrentSeason": true,
+      "rank": 13
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -94,11 +192,11 @@
       "xpPercent": 94,
       "territories": 0,
       "wars": 167500,
-      "raids": 19108,
+      "raids": 19110,
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -112,37 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "SEQ",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "Aeq",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "AVO",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "ANO",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "Nia",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "DUDE",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "Crrs",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
