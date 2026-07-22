@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T02:05:24.637Z",
+  "updated": "2026-07-22T02:10:32.222Z",
   "season": 31,
   "guilds": [
     {
@@ -64,7 +64,7 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 15,
-      "territories": 2,
+      "territories": 4,
       "wars": 32522,
       "raids": 23244,
       "season": 31,
@@ -134,7 +134,7 @@
       "prefix": "Tsd",
       "level": 101,
       "xpPercent": 98,
-      "territories": 43,
+      "territories": 42,
       "wars": 36224,
       "raids": 14418,
       "season": 31,
@@ -150,7 +150,7 @@
       "xpPercent": 40,
       "territories": 0,
       "wars": 5052,
-      "raids": 21368,
+      "raids": 21369,
       "season": 31,
       "rating": 1151914,
       "isCurrentSeason": true,
@@ -164,7 +164,7 @@
       "xpPercent": 46,
       "territories": 0,
       "wars": 402,
-      "raids": 25589,
+      "raids": 25592,
       "season": 31,
       "rating": 998040,
       "isCurrentSeason": true,
