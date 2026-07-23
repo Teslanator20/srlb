@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T08:10:28.733Z",
+  "updated": "2026-07-23T08:15:29.995Z",
   "season": 31,
   "guilds": [
     {
@@ -8,7 +8,7 @@
       "prefix": "SEQ",
       "level": 242,
       "xpPercent": 91,
-      "territories": 46,
+      "territories": 42,
       "wars": 150829,
       "raids": 145650,
       "season": 31,
@@ -38,7 +38,7 @@
       "xpPercent": 56,
       "territories": 0,
       "wars": 225185,
-      "raids": 20978,
+      "raids": 20979,
       "season": 31,
       "rating": 9092015,
       "isCurrentSeason": true,
@@ -52,7 +52,7 @@
       "xpPercent": 2,
       "territories": 2,
       "wars": 118270,
-      "raids": 21029,
+      "raids": 21032,
       "season": 31,
       "rating": 6887612,
       "isCurrentSeason": true,
@@ -189,7 +189,7 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 140,
-      "xpPercent": 98,
+      "xpPercent": 99,
       "territories": 0,
       "wars": 167500,
       "raids": 19197,
