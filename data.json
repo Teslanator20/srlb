@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T01:10:30.985Z",
+  "updated": "2026-07-23T01:15:28.499Z",
   "season": 31,
   "guilds": [
     {
@@ -24,7 +24,7 @@
       "xpPercent": 48,
       "territories": 0,
       "wars": 163222,
-      "raids": 72250,
+      "raids": 72251,
       "season": 31,
       "rating": 14436545,
       "isCurrentSeason": true,
@@ -38,7 +38,7 @@
       "xpPercent": 54,
       "territories": 0,
       "wars": 225185,
-      "raids": 20957,
+      "raids": 20958,
       "season": 31,
       "rating": 9092015,
       "isCurrentSeason": true,
@@ -64,7 +64,7 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 19,
-      "territories": 16,
+      "territories": 17,
       "wars": 32522,
       "raids": 23327,
       "season": 31,
@@ -115,6 +115,20 @@
       "rank": 8
     },
     {
+      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
+      "name": "The Broken Gasmask",
+      "prefix": "TBGM",
+      "level": 122,
+      "xpPercent": 21,
+      "territories": 0,
+      "wars": 43211,
+      "raids": 24164,
+      "season": 31,
+      "rating": 1377042,
+      "isCurrentSeason": true,
+      "rank": 9
+    },
+    {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
       "name": "TruthSworD",
       "prefix": "Tsd",
@@ -126,7 +140,7 @@
       "season": 31,
       "rating": 1291353,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -140,7 +154,7 @@
       "season": 31,
       "rating": 1151914,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -154,7 +168,7 @@
       "season": 31,
       "rating": 998040,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -168,7 +182,7 @@
       "season": 31,
       "rating": 840948,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -182,7 +196,7 @@
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "The Broken Gasmask",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
