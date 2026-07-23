@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T16:55:29.023Z",
+  "updated": "2026-07-23T17:00:48.193Z",
   "season": 31,
   "guilds": [
     {
@@ -38,7 +38,7 @@
       "xpPercent": 64,
       "territories": 0,
       "wars": 225185,
-      "raids": 21097,
+      "raids": 21100,
       "season": 31,
       "rating": 9092015,
       "isCurrentSeason": true,
@@ -52,7 +52,7 @@
       "xpPercent": 4,
       "territories": 0,
       "wars": 118270,
-      "raids": 21081,
+      "raids": 21083,
       "season": 31,
       "rating": 6887612,
       "isCurrentSeason": true,
@@ -64,7 +64,7 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 19,
-      "territories": 54,
+      "territories": 53,
       "wars": 32522,
       "raids": 23343,
       "season": 31,
@@ -122,7 +122,7 @@
       "xpPercent": 25,
       "territories": 0,
       "wars": 43211,
-      "raids": 24205,
+      "raids": 24207,
       "season": 31,
       "rating": 1377042,
       "isCurrentSeason": true,
@@ -134,13 +134,27 @@
       "prefix": "Tsd",
       "level": 101,
       "xpPercent": 98,
-      "territories": 37,
+      "territories": 38,
       "wars": 36224,
       "raids": 14425,
       "season": 31,
       "rating": 1291353,
       "isCurrentSeason": true,
       "rank": 10
+    },
+    {
+      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
+      "name": "Anime Lovers",
+      "prefix": "Zamn",
+      "level": 118,
+      "xpPercent": 49,
+      "territories": 0,
+      "wars": 5052,
+      "raids": 21604,
+      "season": 31,
+      "rating": 1151914,
+      "isCurrentSeason": true,
+      "rank": 11
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -150,11 +164,11 @@
       "xpPercent": 52,
       "territories": 0,
       "wars": 402,
-      "raids": 25704,
+      "raids": 25706,
       "season": 31,
       "rating": 998040,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -168,7 +182,7 @@
       "season": 31,
       "rating": 840948,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -182,7 +196,7 @@
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "Anime Lovers",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
