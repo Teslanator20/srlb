@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T17:15:28.509Z",
+  "updated": "2026-07-23T17:20:31.758Z",
   "season": 31,
   "guilds": [
     {
@@ -94,7 +94,7 @@
       "xpPercent": 38,
       "territories": 0,
       "wars": 25713,
-      "raids": 2432,
+      "raids": 2433,
       "season": 31,
       "rating": 3908943,
       "isCurrentSeason": true,
@@ -108,7 +108,7 @@
       "xpPercent": 53,
       "territories": 0,
       "wars": 60770,
-      "raids": 12610,
+      "raids": 12611,
       "season": 31,
       "rating": 1493578,
       "isCurrentSeason": true,
@@ -143,20 +143,6 @@
       "rank": 10
     },
     {
-      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
-      "name": "Anime Lovers",
-      "prefix": "Zamn",
-      "level": 118,
-      "xpPercent": 49,
-      "territories": 0,
-      "wars": 5052,
-      "raids": 21605,
-      "season": 31,
-      "rating": 1151914,
-      "isCurrentSeason": true,
-      "rank": 11
-    },
-    {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
       "name": "Hesperides",
       "prefix": "HSP",
@@ -168,7 +154,7 @@
       "season": 31,
       "rating": 998040,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -182,7 +168,7 @@
       "season": 31,
       "rating": 840948,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -196,7 +182,7 @@
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -210,8 +196,13 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": true,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "Anime Lovers",
+      "error": "HTTP 500"
+    }
+  ]
 }
