@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T17:25:24.042Z",
+  "updated": "2026-07-24T17:30:38.624Z",
   "season": 31,
   "guilds": [
     {
@@ -8,7 +8,7 @@
       "prefix": "SEQ",
       "level": 243,
       "xpPercent": 5,
-      "territories": 29,
+      "territories": 27,
       "wars": 150829,
       "raids": 145826,
       "season": 31,
@@ -22,7 +22,7 @@
       "prefix": "Aeq",
       "level": 174,
       "xpPercent": 67,
-      "territories": 8,
+      "territories": 10,
       "wars": 163222,
       "raids": 72578,
       "season": 31,
@@ -150,7 +150,7 @@
       "xpPercent": 59,
       "territories": 0,
       "wars": 5052,
-      "raids": 21794,
+      "raids": 21795,
       "season": 31,
       "rating": 1151914,
       "isCurrentSeason": true,
