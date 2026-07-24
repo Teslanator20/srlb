@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-24T23:10:28.356Z",
+  "updated": "2026-07-24T23:15:33.616Z",
   "season": 32,
   "guilds": [
-    {
-      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
-      "name": "Polish Hussars",
-      "prefix": "PLHR",
-      "level": 83,
-      "xpPercent": 40,
-      "territories": 0,
-      "wars": 25715,
-      "raids": 2440,
-      "season": 31,
-      "rating": 3908943,
-      "isCurrentSeason": false,
-      "rank": 1
-    },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
       "name": "The Aquarium",
@@ -28,7 +14,7 @@
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": false,
-      "rank": 2
+      "rank": 1
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -42,7 +28,7 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 3
+      "rank": 2
     },
     {
       "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
@@ -50,13 +36,13 @@
       "prefix": "SEQ",
       "level": 243,
       "xpPercent": 10,
-      "territories": 35,
-      "wars": 150830,
-      "raids": 145875,
+      "territories": 0,
+      "wars": 150834,
+      "raids": 145879,
       "season": 32,
-      "rating": 1034,
+      "rating": 2718,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 3
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -64,41 +50,27 @@
       "prefix": "HSP",
       "level": 109,
       "xpPercent": 64,
-      "territories": 1,
+      "territories": 0,
       "wars": 402,
-      "raids": 25848,
+      "raids": 25850,
       "season": 32,
-      "rating": 756,
+      "rating": 1494,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 4
     },
     {
       "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 174,
-      "xpPercent": 69,
+      "xpPercent": 70,
       "territories": 1,
-      "wars": 163222,
-      "raids": 72623,
+      "wars": 163225,
+      "raids": 72624,
       "season": 32,
-      "rating": 366,
+      "rating": 1164,
       "isCurrentSeason": true,
-      "rank": 6
-    },
-    {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 122,
-      "xpPercent": 30,
-      "territories": 1,
-      "wars": 43213,
-      "raids": 24265,
-      "season": 32,
-      "rating": 340,
-      "isCurrentSeason": true,
-      "rank": 7
+      "rank": 5
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -108,9 +80,37 @@
       "xpPercent": 62,
       "territories": 0,
       "wars": 5052,
-      "raids": 21833,
+      "raids": 21834,
       "season": 32,
-      "rating": 330,
+      "rating": 660,
+      "isCurrentSeason": true,
+      "rank": 6
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 108,
+      "xpPercent": 13,
+      "territories": 4,
+      "wars": 96352,
+      "raids": 5346,
+      "season": 32,
+      "rating": 476,
+      "isCurrentSeason": true,
+      "rank": 7
+    },
+    {
+      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
+      "name": "The Broken Gasmask",
+      "prefix": "TBGM",
+      "level": 122,
+      "xpPercent": 30,
+      "territories": 1,
+      "wars": 43215,
+      "raids": 24267,
+      "season": 32,
+      "rating": 460,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -120,27 +120,13 @@
       "prefix": "Tsd",
       "level": 101,
       "xpPercent": 100,
-      "territories": 39,
+      "territories": 0,
       "wars": 36225,
       "raids": 14443,
       "season": 32,
-      "rating": 281,
+      "rating": 361,
       "isCurrentSeason": true,
       "rank": 9
-    },
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 108,
-      "xpPercent": 13,
-      "territories": 0,
-      "wars": 96348,
-      "raids": 5345,
-      "season": 32,
-      "rating": 240,
-      "isCurrentSeason": true,
-      "rank": 10
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -148,13 +134,13 @@
       "prefix": "ANO",
       "level": 126,
       "xpPercent": 11,
-      "territories": 3,
-      "wars": 118276,
+      "territories": 1,
+      "wars": 118278,
       "raids": 21269,
       "season": 32,
-      "rating": 184,
+      "rating": 298,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 10
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -162,13 +148,13 @@
       "prefix": "Nia",
       "level": 117,
       "xpPercent": 58,
-      "territories": 6,
+      "territories": 0,
       "wars": 60771,
       "raids": 12710,
       "season": 32,
-      "rating": 129,
+      "rating": 163,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -176,13 +162,13 @@
       "prefix": "Crrs",
       "level": 100,
       "xpPercent": 25,
-      "territories": 6,
+      "territories": 0,
       "wars": 9826,
       "raids": 4223,
       "season": 32,
-      "rating": 118,
+      "rating": 152,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
@@ -190,13 +176,13 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 26,
-      "territories": 4,
-      "wars": 32522,
+      "territories": 0,
+      "wars": 32523,
       "raids": 23432,
       "season": 32,
-      "rating": 97,
+      "rating": 124,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
@@ -204,11 +190,25 @@
       "prefix": "AVO",
       "level": 132,
       "xpPercent": 76,
-      "territories": 3,
-      "wars": 225185,
+      "territories": 0,
+      "wars": 225186,
       "raids": 21260,
       "season": 32,
-      "rating": 60,
+      "rating": 108,
+      "isCurrentSeason": true,
+      "rank": 14
+    },
+    {
+      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
+      "name": "Polish Hussars",
+      "prefix": "PLHR",
+      "level": 83,
+      "xpPercent": 40,
+      "territories": 1,
+      "wars": 25717,
+      "raids": 2440,
+      "season": 32,
+      "rating": 100,
       "isCurrentSeason": true,
       "rank": 15
     }
