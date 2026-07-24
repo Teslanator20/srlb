@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T12:00:51.374Z",
+  "updated": "2026-07-24T12:05:29.137Z",
   "season": 31,
   "guilds": [
     {
@@ -7,7 +7,7 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 243,
-      "xpPercent": 0,
+      "xpPercent": 1,
       "territories": 30,
       "wars": 150829,
       "raids": 145768,
@@ -52,7 +52,7 @@
       "xpPercent": 8,
       "territories": 0,
       "wars": 118270,
-      "raids": 21189,
+      "raids": 21191,
       "season": 31,
       "rating": 6887612,
       "isCurrentSeason": true,
