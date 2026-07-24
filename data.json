@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T09:15:29.279Z",
+  "updated": "2026-07-24T09:20:30.261Z",
   "season": 31,
   "guilds": [
     {
@@ -7,10 +7,10 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 242,
-      "xpPercent": 98,
+      "xpPercent": 99,
       "territories": 29,
       "wars": 150829,
-      "raids": 145748,
+      "raids": 145750,
       "season": 31,
       "rating": 15107093,
       "isCurrentSeason": true,
@@ -35,7 +35,7 @@
       "name": "Avicia",
       "prefix": "AVO",
       "level": 132,
-      "xpPercent": 69,
+      "xpPercent": 70,
       "territories": 5,
       "wars": 225185,
       "raids": 21164,
@@ -64,7 +64,7 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 23,
-      "territories": 29,
+      "territories": 28,
       "wars": 32522,
       "raids": 23385,
       "season": 31,
