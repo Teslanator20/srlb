@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T08:15:28.864Z",
+  "updated": "2026-07-24T08:20:30.128Z",
   "season": 31,
   "guilds": [
     {
@@ -8,7 +8,7 @@
       "prefix": "SEQ",
       "level": 242,
       "xpPercent": 98,
-      "territories": 31,
+      "territories": 30,
       "wars": 150829,
       "raids": 145739,
       "season": 31,
@@ -52,7 +52,7 @@
       "xpPercent": 6,
       "territories": 0,
       "wars": 118270,
-      "raids": 21149,
+      "raids": 21153,
       "season": 31,
       "rating": 6887612,
       "isCurrentSeason": true,
@@ -148,9 +148,9 @@
       "prefix": "Zamn",
       "level": 118,
       "xpPercent": 56,
-      "territories": 0,
+      "territories": 1,
       "wars": 5052,
-      "raids": 21730,
+      "raids": 21733,
       "season": 31,
       "rating": 1151914,
       "isCurrentSeason": true,
