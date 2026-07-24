@@ -1,35 +1,7 @@
 {
-  "updated": "2026-07-24T23:05:25.643Z",
+  "updated": "2026-07-24T23:10:28.356Z",
   "season": 32,
   "guilds": [
-    {
-      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-      "name": "Titans Valor",
-      "prefix": "ANO",
-      "level": 126,
-      "xpPercent": 11,
-      "territories": 0,
-      "wars": 118272,
-      "raids": 21269,
-      "season": 31,
-      "rating": 6887612,
-      "isCurrentSeason": false,
-      "rank": 1
-    },
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 108,
-      "xpPercent": 13,
-      "territories": 0,
-      "wars": 96347,
-      "raids": 5345,
-      "season": 31,
-      "rating": 6132152,
-      "isCurrentSeason": false,
-      "rank": 2
-    },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
       "name": "Polish Hussars",
@@ -37,26 +9,12 @@
       "level": 83,
       "xpPercent": 40,
       "territories": 0,
-      "wars": 25714,
+      "wars": 25715,
       "raids": 2440,
       "season": 31,
       "rating": 3908943,
       "isCurrentSeason": false,
-      "rank": 3
-    },
-    {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 122,
-      "xpPercent": 30,
-      "territories": 0,
-      "wars": 43212,
-      "raids": 24265,
-      "season": 31,
-      "rating": 1377042,
-      "isCurrentSeason": false,
-      "rank": 4
+      "rank": 1
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -70,7 +28,7 @@
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": false,
-      "rank": 5
+      "rank": 2
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -84,7 +42,21 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 6
+      "rank": 3
+    },
+    {
+      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+      "name": "Sequoia",
+      "prefix": "SEQ",
+      "level": 243,
+      "xpPercent": 10,
+      "territories": 35,
+      "wars": 150830,
+      "raids": 145875,
+      "season": 32,
+      "rating": 1034,
+      "isCurrentSeason": true,
+      "rank": 4
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -96,23 +68,9 @@
       "wars": 402,
       "raids": 25848,
       "season": 32,
-      "rating": 732,
+      "rating": 756,
       "isCurrentSeason": true,
-      "rank": 7
-    },
-    {
-      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
-      "name": "Sequoia",
-      "prefix": "SEQ",
-      "level": 243,
-      "xpPercent": 10,
-      "territories": 37,
-      "wars": 150830,
-      "raids": 145875,
-      "season": 32,
-      "rating": 489,
-      "isCurrentSeason": true,
-      "rank": 8
+      "rank": 5
     },
     {
       "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
@@ -124,9 +82,23 @@
       "wars": 163222,
       "raids": 72623,
       "season": 32,
-      "rating": 342,
+      "rating": 366,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 6
+    },
+    {
+      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
+      "name": "The Broken Gasmask",
+      "prefix": "TBGM",
+      "level": 122,
+      "xpPercent": 30,
+      "territories": 1,
+      "wars": 43213,
+      "raids": 24265,
+      "season": 32,
+      "rating": 340,
+      "isCurrentSeason": true,
+      "rank": 7
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -140,7 +112,7 @@
       "season": 32,
       "rating": 330,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 8
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -152,7 +124,35 @@
       "wars": 36225,
       "raids": 14443,
       "season": 32,
-      "rating": 40,
+      "rating": 281,
+      "isCurrentSeason": true,
+      "rank": 9
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 108,
+      "xpPercent": 13,
+      "territories": 0,
+      "wars": 96348,
+      "raids": 5345,
+      "season": 32,
+      "rating": 240,
+      "isCurrentSeason": true,
+      "rank": 10
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 126,
+      "xpPercent": 11,
+      "territories": 3,
+      "wars": 118276,
+      "raids": 21269,
+      "season": 32,
+      "rating": 184,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -162,11 +162,11 @@
       "prefix": "Nia",
       "level": 117,
       "xpPercent": 58,
-      "territories": 7,
-      "wars": 60770,
+      "territories": 6,
+      "wars": 60771,
       "raids": 12710,
       "season": 32,
-      "rating": 18,
+      "rating": 129,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -180,7 +180,7 @@
       "wars": 9826,
       "raids": 4223,
       "season": 32,
-      "rating": 17,
+      "rating": 118,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -194,7 +194,7 @@
       "wars": 32522,
       "raids": 23432,
       "season": 32,
-      "rating": 14,
+      "rating": 97,
       "isCurrentSeason": true,
       "rank": 14
     },
@@ -208,7 +208,7 @@
       "wars": 225185,
       "raids": 21260,
       "season": 32,
-      "rating": 12,
+      "rating": 60,
       "isCurrentSeason": true,
       "rank": 15
     }
