@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T23:25:23.903Z",
+  "updated": "2026-07-24T23:26:56.555Z",
   "season": 32,
   "guilds": [
     {
@@ -106,11 +106,11 @@
       "prefix": "TBGM",
       "level": 122,
       "xpPercent": 30,
-      "territories": 2,
+      "territories": 3,
       "wars": 43218,
       "raids": 24267,
       "season": 32,
-      "rating": 592,
+      "rating": 612,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -157,6 +157,20 @@
       "rank": 11
     },
     {
+      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+      "name": "Avicia",
+      "prefix": "AVO",
+      "level": 132,
+      "xpPercent": 76,
+      "territories": 5,
+      "wars": 225191,
+      "raids": 21260,
+      "season": 32,
+      "rating": 420,
+      "isCurrentSeason": true,
+      "rank": 12
+    },
+    {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
       "name": "Nerfuria",
       "prefix": "Nia",
@@ -168,7 +182,7 @@
       "season": 32,
       "rating": 408,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -181,20 +195,6 @@
       "raids": 2440,
       "season": 32,
       "rating": 353,
-      "isCurrentSeason": true,
-      "rank": 13
-    },
-    {
-      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-      "name": "Avicia",
-      "prefix": "AVO",
-      "level": 132,
-      "xpPercent": 76,
-      "territories": 4,
-      "wars": 225191,
-      "raids": 21260,
-      "season": 32,
-      "rating": 350,
       "isCurrentSeason": true,
       "rank": 14
     },
