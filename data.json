@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T18:05:26.380Z",
+  "updated": "2026-07-24T18:10:29.069Z",
   "season": 31,
   "guilds": [
     {
@@ -49,7 +49,7 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 126,
-      "xpPercent": 9,
+      "xpPercent": 10,
       "territories": 0,
       "wars": 118270,
       "raids": 21246,
@@ -189,10 +189,10 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 141,
-      "xpPercent": 2,
+      "xpPercent": 3,
       "territories": 0,
       "wars": 167500,
-      "raids": 19279,
+      "raids": 19280,
       "season": 31,
       "rating": 709424,
       "isCurrentSeason": true,
