@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T03:20:31.941Z",
+  "updated": "2026-07-25T03:25:24.397Z",
   "season": 32,
   "guilds": [
     {
@@ -24,9 +24,9 @@
       "xpPercent": 25,
       "territories": 60,
       "wars": 150896,
-      "raids": 146032,
+      "raids": 146033,
       "season": 32,
-      "rating": 76662,
+      "rating": 77296,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "Aeq",
       "level": 174,
       "xpPercent": 75,
-      "territories": 95,
+      "territories": 94,
       "wars": 163358,
-      "raids": 72691,
+      "raids": 72695,
       "season": 32,
-      "rating": 40140,
+      "rating": 41693,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -68,7 +68,7 @@
       "wars": 225252,
       "raids": 21262,
       "season": 32,
-      "rating": 13694,
+      "rating": 13887,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -80,9 +80,9 @@
       "xpPercent": 26,
       "territories": 19,
       "wars": 9862,
-      "raids": 4238,
+      "raids": 4239,
       "season": 32,
-      "rating": 10381,
+      "rating": 10682,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 118307,
       "raids": 21269,
       "season": 32,
-      "rating": 9628,
+      "rating": 9849,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 32546,
       "raids": 23435,
       "season": 32,
-      "rating": 9252,
+      "rating": 9452,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -134,11 +134,11 @@
       "prefix": "TBGM",
       "level": 122,
       "xpPercent": 31,
-      "territories": 0,
-      "wars": 43235,
-      "raids": 24276,
+      "territories": 1,
+      "wars": 43238,
+      "raids": 24277,
       "season": 32,
-      "rating": 5577,
+      "rating": 5623,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -148,11 +148,11 @@
       "prefix": "Nia",
       "level": 117,
       "xpPercent": 58,
-      "territories": 5,
+      "territories": 1,
       "wars": 60838,
       "raids": 12710,
       "season": 32,
-      "rating": 5515,
+      "rating": 5587,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -176,13 +176,27 @@
       "prefix": "TAq",
       "level": 141,
       "xpPercent": 4,
-      "territories": 5,
+      "territories": 3,
       "wars": 167540,
       "raids": 19293,
       "season": 32,
-      "rating": 4089,
+      "rating": 4164,
       "isCurrentSeason": true,
       "rank": 13
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 108,
+      "xpPercent": 13,
+      "territories": 4,
+      "wars": 96360,
+      "raids": 5346,
+      "season": 32,
+      "rating": 1378,
+      "isCurrentSeason": true,
+      "rank": 14
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -195,20 +209,6 @@
       "raids": 14443,
       "season": 32,
       "rating": 1357,
-      "isCurrentSeason": true,
-      "rank": 14
-    },
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 108,
-      "xpPercent": 13,
-      "territories": 1,
-      "wars": 96358,
-      "raids": 5346,
-      "season": 32,
-      "rating": 1182,
       "isCurrentSeason": true,
       "rank": 15
     }
