@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T03:35:25.320Z",
+  "updated": "2026-07-25T03:40:30.501Z",
   "season": 32,
   "guilds": [
     {
@@ -24,9 +24,9 @@
       "xpPercent": 25,
       "territories": 60,
       "wars": 150896,
-      "raids": 146035,
+      "raids": 146036,
       "season": 32,
-      "rating": 78221,
+      "rating": 78952,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 163358,
       "raids": 72700,
       "season": 32,
-      "rating": 43932,
+      "rating": 45358,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,7 +52,7 @@
       "xpPercent": 68,
       "territories": 0,
       "wars": 402,
-      "raids": 25901,
+      "raids": 25902,
       "season": 32,
       "rating": 16604,
       "isCurrentSeason": true,
@@ -68,7 +68,7 @@
       "wars": 225252,
       "raids": 21262,
       "season": 32,
-      "rating": 14368,
+      "rating": 14656,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "Crrs",
       "level": 100,
       "xpPercent": 26,
-      "territories": 19,
+      "territories": 18,
       "wars": 9862,
       "raids": 4240,
       "season": 32,
-      "rating": 11110,
+      "rating": 11347,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 118307,
       "raids": 21269,
       "season": 32,
-      "rating": 10218,
+      "rating": 10366,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -106,13 +106,27 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 26,
-      "territories": 22,
+      "territories": 23,
       "wars": 32547,
       "raids": 23435,
       "season": 32,
-      "rating": 9785,
+      "rating": 9958,
       "isCurrentSeason": true,
       "rank": 8
+    },
+    {
+      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
+      "name": "The Broken Gasmask",
+      "prefix": "TBGM",
+      "level": 122,
+      "xpPercent": 31,
+      "territories": 4,
+      "wars": 43241,
+      "raids": 24279,
+      "season": 32,
+      "rating": 6501,
+      "isCurrentSeason": true,
+      "rank": 9
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -126,21 +140,21 @@
       "season": 32,
       "rating": 6253,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 122,
-      "xpPercent": 31,
-      "territories": 2,
-      "wars": 43240,
-      "raids": 24278,
+      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
+      "name": "Anime Lovers",
+      "prefix": "Zamn",
+      "level": 118,
+      "xpPercent": 63,
+      "territories": 0,
+      "wars": 5052,
+      "raids": 21850,
       "season": 32,
-      "rating": 6041,
+      "rating": 5710,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -154,20 +168,6 @@
       "season": 32,
       "rating": 5599,
       "isCurrentSeason": true,
-      "rank": 11
-    },
-    {
-      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
-      "name": "Anime Lovers",
-      "prefix": "Zamn",
-      "level": 118,
-      "xpPercent": 63,
-      "territories": 0,
-      "wars": 5052,
-      "raids": 21850,
-      "season": 32,
-      "rating": 5490,
-      "isCurrentSeason": true,
       "rank": 12
     },
     {
@@ -176,7 +176,7 @@
       "prefix": "TAq",
       "level": 141,
       "xpPercent": 4,
-      "territories": 1,
+      "territories": 0,
       "wars": 167540,
       "raids": 19293,
       "season": 32,
@@ -190,11 +190,11 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 13,
-      "territories": 7,
+      "territories": 6,
       "wars": 96363,
       "raids": 5346,
       "season": 32,
-      "rating": 1663,
+      "rating": 1775,
       "isCurrentSeason": true,
       "rank": 14
     },
