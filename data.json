@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T01:45:28.199Z",
+  "updated": "2026-07-25T01:50:28.226Z",
   "season": 32,
   "guilds": [
     {
@@ -26,7 +26,7 @@
       "wars": 150896,
       "raids": 145985,
       "season": 32,
-      "rating": 54254,
+      "rating": 56538,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "Aeq",
       "level": 174,
       "xpPercent": 73,
-      "territories": 80,
-      "wars": 163350,
+      "territories": 86,
+      "wars": 163353,
       "raids": 72666,
       "season": 32,
-      "rating": 23543,
+      "rating": 24663,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 402,
       "raids": 25889,
       "season": 32,
-      "rating": 12394,
+      "rating": 12944,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,9 +68,23 @@
       "wars": 225252,
       "raids": 21262,
       "season": 32,
-      "rating": 9173,
+      "rating": 9365,
       "isCurrentSeason": true,
       "rank": 5
+    },
+    {
+      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
+      "name": "Cirrus",
+      "prefix": "Crrs",
+      "level": 100,
+      "xpPercent": 25,
+      "territories": 19,
+      "wars": 9862,
+      "raids": 4229,
+      "season": 32,
+      "rating": 6451,
+      "isCurrentSeason": true,
+      "rank": 6
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -82,21 +96,7 @@
       "wars": 118307,
       "raids": 21269,
       "season": 32,
-      "rating": 6159,
-      "isCurrentSeason": true,
-      "rank": 6
-    },
-    {
-      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
-      "name": "Cirrus",
-      "prefix": "Crrs",
-      "level": 100,
-      "xpPercent": 25,
-      "territories": 19,
-      "wars": 9862,
-      "raids": 4227,
-      "season": 32,
-      "rating": 6150,
+      "rating": 6306,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 32544,
       "raids": 23434,
       "season": 32,
-      "rating": 5894,
+      "rating": 6187,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -120,27 +120,13 @@
       "prefix": "PLHR",
       "level": 83,
       "xpPercent": 40,
-      "territories": 18,
+      "territories": 13,
       "wars": 25742,
       "raids": 2440,
       "season": 32,
-      "rating": 5682,
+      "rating": 5848,
       "isCurrentSeason": true,
       "rank": 9
-    },
-    {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 122,
-      "xpPercent": 30,
-      "territories": 1,
-      "wars": 43235,
-      "raids": 24270,
-      "season": 32,
-      "rating": 3431,
-      "isCurrentSeason": true,
-      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -152,7 +138,21 @@
       "wars": 5052,
       "raids": 21843,
       "season": 32,
-      "rating": 3300,
+      "rating": 3630,
+      "isCurrentSeason": true,
+      "rank": 10
+    },
+    {
+      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
+      "name": "The Broken Gasmask",
+      "prefix": "TBGM",
+      "level": 122,
+      "xpPercent": 30,
+      "territories": 1,
+      "wars": 43235,
+      "raids": 24270,
+      "season": 32,
+      "rating": 3461,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -204,11 +204,11 @@
       "prefix": "TAq",
       "level": 141,
       "xpPercent": 4,
-      "territories": 6,
-      "wars": 167512,
+      "territories": 10,
+      "wars": 167518,
       "raids": 19293,
       "season": 32,
-      "rating": 417,
+      "rating": 733,
       "isCurrentSeason": true,
       "rank": 15
     }
