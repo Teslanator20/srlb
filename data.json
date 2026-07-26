@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T16:55:25.474Z",
+  "updated": "2026-07-26T17:00:43.835Z",
   "season": 32,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 99,
       "territories": 60,
       "wars": 151088,
-      "raids": 146846,
+      "raids": 146850,
       "season": 32,
-      "rating": 509253,
+      "rating": 510143,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 20,
       "territories": 97,
       "wars": 163755,
-      "raids": 73212,
+      "raids": 73216,
       "season": 32,
-      "rating": 377313,
+      "rating": 378526,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -50,11 +50,11 @@
       "prefix": "AVO",
       "level": 132,
       "xpPercent": 99,
-      "territories": 57,
+      "territories": 59,
       "wars": 225356,
       "raids": 21596,
       "season": 32,
-      "rating": 218866,
+      "rating": 219591,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 118389,
       "raids": 21436,
       "season": 32,
-      "rating": 118543,
+      "rating": 118691,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,12 +77,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 127,
-      "xpPercent": 30,
+      "xpPercent": 31,
       "territories": 22,
       "wars": 32651,
       "raids": 23538,
       "season": 32,
-      "rating": 106255,
+      "rating": 106499,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 43630,
       "raids": 24341,
       "season": 32,
-      "rating": 87855,
+      "rating": 88041,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 405,
       "raids": 26123,
       "season": 32,
-      "rating": 86796,
+      "rating": 87456,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -121,12 +121,26 @@
       "level": 108,
       "xpPercent": 17,
       "territories": 14,
-      "wars": 96740,
+      "wars": 96741,
       "raids": 5373,
       "season": 32,
-      "rating": 78257,
+      "rating": 78366,
       "isCurrentSeason": true,
       "rank": 9
+    },
+    {
+      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
+      "name": "Polish Hussars",
+      "prefix": "PLHR",
+      "level": 83,
+      "xpPercent": 44,
+      "territories": 24,
+      "wars": 25833,
+      "raids": 2476,
+      "season": 32,
+      "rating": 69749,
+      "isCurrentSeason": true,
+      "rank": 10
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -139,20 +153,6 @@
       "raids": 12767,
       "season": 32,
       "rating": 69602,
-      "isCurrentSeason": true,
-      "rank": 10
-    },
-    {
-      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
-      "name": "Polish Hussars",
-      "prefix": "PLHR",
-      "level": 83,
-      "xpPercent": 44,
-      "territories": 24,
-      "wars": 25833,
-      "raids": 2476,
-      "season": 32,
-      "rating": 69511,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -178,9 +178,9 @@
       "xpPercent": 30,
       "territories": 7,
       "wars": 9930,
-      "raids": 4304,
+      "raids": 4305,
       "season": 32,
-      "rating": 44829,
+      "rating": 45379,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -194,7 +194,7 @@
       "wars": 167629,
       "raids": 19348,
       "season": 32,
-      "rating": 30029,
+      "rating": 30089,
       "isCurrentSeason": true,
       "rank": 14
     },
