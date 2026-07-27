@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T18:50:40.181Z",
+  "updated": "2026-07-27T18:55:34.122Z",
   "season": 32,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 151116,
       "raids": 147380,
       "season": 32,
-      "rating": 784976,
+      "rating": 785880,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 175,
       "xpPercent": 62,
-      "territories": 97,
-      "wars": 163788,
-      "raids": 73695,
+      "territories": 98,
+      "wars": 163789,
+      "raids": 73698,
       "season": 32,
-      "rating": 653962,
+      "rating": 655681,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 133,
       "xpPercent": 24,
-      "territories": 57,
-      "wars": 225394,
-      "raids": 21884,
+      "territories": 56,
+      "wars": 225395,
+      "raids": 21885,
       "season": 32,
-      "rating": 388494,
+      "rating": 389045,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -68,7 +68,7 @@
       "wars": 118421,
       "raids": 21557,
       "season": 32,
-      "rating": 194303,
+      "rating": 194561,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -94,9 +94,9 @@
       "xpPercent": 37,
       "territories": 22,
       "wars": 32748,
-      "raids": 23627,
+      "raids": 23628,
       "season": 32,
-      "rating": 174273,
+      "rating": 174406,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -108,7 +108,7 @@
       "xpPercent": 96,
       "territories": 0,
       "wars": 405,
-      "raids": 26297,
+      "raids": 26299,
       "season": 32,
       "rating": 134266,
       "isCurrentSeason": true,
@@ -124,7 +124,7 @@
       "wars": 96935,
       "raids": 5378,
       "season": 32,
-      "rating": 134022,
+      "rating": 134171,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 25886,
       "raids": 2527,
       "season": 32,
-      "rating": 125652,
+      "rating": 125856,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -152,7 +152,7 @@
       "wars": 61437,
       "raids": 12822,
       "season": 32,
-      "rating": 104324,
+      "rating": 104510,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -166,7 +166,7 @@
       "wars": 5068,
       "raids": 22241,
       "season": 32,
-      "rating": 90014,
+      "rating": 90124,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -178,9 +178,9 @@
       "xpPercent": 37,
       "territories": 8,
       "wars": 9980,
-      "raids": 4368,
+      "raids": 4370,
       "season": 32,
-      "rating": 83576,
+      "rating": 83766,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -189,12 +189,12 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 141,
-      "xpPercent": 11,
+      "xpPercent": 12,
       "territories": 0,
       "wars": 167721,
-      "raids": 19410,
+      "raids": 19412,
       "season": 32,
-      "rating": 46433,
+      "rating": 46863,
       "isCurrentSeason": true,
       "rank": 14
     },
@@ -208,7 +208,7 @@
       "wars": 36274,
       "raids": 14481,
       "season": 32,
-      "rating": 15408,
+      "rating": 15481,
       "isCurrentSeason": true,
       "rank": 15
     }
