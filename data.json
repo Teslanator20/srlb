@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T09:30:35.652Z",
+  "updated": "2026-07-27T09:35:29.175Z",
   "season": 32,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 22,
       "territories": 60,
       "wars": 151101,
-      "raids": 147105,
+      "raids": 147106,
       "season": 32,
-      "rating": 651604,
+      "rating": 652335,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,14 +21,28 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 175,
-      "xpPercent": 49,
+      "xpPercent": 50,
       "territories": 97,
       "wars": 163785,
-      "raids": 73565,
+      "raids": 73568,
       "season": 32,
-      "rating": 566197,
+      "rating": 567787,
       "isCurrentSeason": true,
       "rank": 2
+    },
+    {
+      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+      "name": "Avicia",
+      "prefix": "AVO",
+      "level": 133,
+      "xpPercent": 10,
+      "territories": 58,
+      "wars": 225385,
+      "raids": 21715,
+      "season": 32,
+      "rating": 309790,
+      "isCurrentSeason": true,
+      "rank": 3
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -42,20 +56,6 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 3
-    },
-    {
-      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
-      "name": "Avicia",
-      "prefix": "AVO",
-      "level": 133,
-      "xpPercent": 10,
-      "territories": 58,
-      "wars": 225385,
-      "raids": 21711,
-      "season": 32,
-      "rating": 309599,
-      "isCurrentSeason": true,
       "rank": 4
     },
     {
@@ -66,9 +66,9 @@
       "xpPercent": 20,
       "territories": 31,
       "wars": 118413,
-      "raids": 21475,
+      "raids": 21476,
       "season": 32,
-      "rating": 162002,
+      "rating": 162333,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 43672,
       "raids": 24419,
       "season": 32,
-      "rating": 157294,
+      "rating": 157573,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -91,12 +91,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 127,
-      "xpPercent": 34,
+      "xpPercent": 35,
       "territories": 22,
       "wars": 32710,
-      "raids": 23600,
+      "raids": 23601,
       "season": 32,
-      "rating": 151486,
+      "rating": 152125,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -124,7 +124,7 @@
       "wars": 96853,
       "raids": 5378,
       "season": 32,
-      "rating": 111601,
+      "rating": 111820,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -166,7 +166,7 @@
       "wars": 5067,
       "raids": 22183,
       "season": 32,
-      "rating": 73060,
+      "rating": 73310,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -180,7 +180,7 @@
       "wars": 9965,
       "raids": 4353,
       "season": 32,
-      "rating": 68535,
+      "rating": 68653,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -191,10 +191,10 @@
       "level": 141,
       "xpPercent": 9,
       "territories": 1,
-      "wars": 167680,
+      "wars": 167681,
       "raids": 19389,
       "season": 32,
-      "rating": 40577,
+      "rating": 40601,
       "isCurrentSeason": true,
       "rank": 14
     },
