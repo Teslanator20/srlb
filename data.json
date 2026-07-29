@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T12:00:49.134Z",
+  "updated": "2026-07-29T12:05:26.687Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 245,
       "xpPercent": 9,
-      "territories": 57,
-      "wars": 151250,
+      "territories": 55,
+      "wars": 151251,
       "raids": 148072,
       "season": 32,
-      "rating": 1158367,
+      "rating": 1158945,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 163828,
       "raids": 74486,
       "season": 32,
-      "rating": 1113845,
+      "rating": 1114098,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 50,
       "territories": 59,
       "wars": 225462,
-      "raids": 22197,
+      "raids": 22198,
       "season": 32,
-      "rating": 599645,
+      "rating": 600344,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -68,7 +68,7 @@
       "wars": 118452,
       "raids": 21686,
       "season": 32,
-      "rating": 308067,
+      "rating": 308215,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 41,
-      "territories": 17,
-      "wars": 32831,
+      "territories": 20,
+      "wars": 32833,
       "raids": 23702,
       "season": 32,
-      "rating": 271743,
+      "rating": 272025,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -121,10 +121,10 @@
       "level": 83,
       "xpPercent": 55,
       "territories": 24,
-      "wars": 26021,
+      "wars": 26031,
       "raids": 2559,
       "season": 32,
-      "rating": 208507,
+      "rating": 208644,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -152,7 +152,7 @@
       "wars": 61618,
       "raids": 12975,
       "season": 32,
-      "rating": 171378,
+      "rating": 171524,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -194,7 +194,7 @@
       "wars": 167782,
       "raids": 19532,
       "season": 32,
-      "rating": 69617,
+      "rating": 69947,
       "isCurrentSeason": true,
       "rank": 14
     },
@@ -204,11 +204,11 @@
       "prefix": "Tsd",
       "level": 102,
       "xpPercent": 11,
-      "territories": 7,
-      "wars": 36284,
+      "territories": 8,
+      "wars": 36285,
       "raids": 14541,
       "season": 32,
-      "rating": 37114,
+      "rating": 37357,
       "isCurrentSeason": true,
       "rank": 15
     }
