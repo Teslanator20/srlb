@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T10:10:31.593Z",
+  "updated": "2026-07-29T10:12:23.254Z",
   "season": 32,
   "guilds": [
     {
@@ -38,9 +38,9 @@
       "xpPercent": 49,
       "territories": 59,
       "wars": 225462,
-      "raids": 22189,
+      "raids": 22191,
       "season": 32,
-      "rating": 592592,
+      "rating": 592848,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -134,11 +134,11 @@
       "prefix": "HSP",
       "level": 110,
       "xpPercent": 12,
-      "territories": 0,
+      "territories": 1,
       "wars": 406,
       "raids": 26490,
       "season": 32,
-      "rating": 186706,
+      "rating": 186760,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -180,7 +180,7 @@
       "wars": 5071,
       "raids": 22424,
       "season": 32,
-      "rating": 124236,
+      "rating": 124578,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -194,7 +194,7 @@
       "wars": 167782,
       "raids": 19527,
       "season": 32,
-      "rating": 68067,
+      "rating": 68397,
       "isCurrentSeason": true,
       "rank": 14
     },
