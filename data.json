@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T14:05:27.119Z",
+  "updated": "2026-07-29T14:10:41.401Z",
   "season": 32,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 151263,
       "raids": 148127,
       "season": 32,
-      "rating": 1187723,
+      "rating": 1188690,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 38,
       "territories": 97,
       "wars": 163828,
-      "raids": 74512,
+      "raids": 74514,
       "season": 32,
-      "rating": 1134254,
+      "rating": 1135404,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 50,
       "territories": 59,
       "wars": 225462,
-      "raids": 22211,
+      "raids": 22213,
       "season": 32,
-      "rating": 608310,
+      "rating": 608774,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 32,
       "territories": 31,
       "wars": 118459,
-      "raids": 21694,
+      "raids": 21695,
       "season": 32,
-      "rating": 315492,
+      "rating": 316013,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -82,7 +82,7 @@
       "wars": 32843,
       "raids": 23706,
       "season": 32,
-      "rating": 276875,
+      "rating": 277075,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -101,6 +101,20 @@
       "rank": 7
     },
     {
+      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
+      "name": "Polish Hussars",
+      "prefix": "PLHR",
+      "level": 83,
+      "xpPercent": 55,
+      "territories": 18,
+      "wars": 26079,
+      "raids": 2559,
+      "season": 32,
+      "rating": 215229,
+      "isCurrentSeason": true,
+      "rank": 8
+    },
+    {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
       "name": "KongoBoys",
       "prefix": "DUDE",
@@ -112,20 +126,6 @@
       "season": 32,
       "rating": 215220,
       "isCurrentSeason": true,
-      "rank": 8
-    },
-    {
-      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
-      "name": "Polish Hussars",
-      "prefix": "PLHR",
-      "level": 83,
-      "xpPercent": 55,
-      "territories": 17,
-      "wars": 26075,
-      "raids": 2559,
-      "season": 32,
-      "rating": 214924,
-      "isCurrentSeason": true,
       "rank": 9
     },
     {
@@ -136,7 +136,7 @@
       "xpPercent": 12,
       "territories": 0,
       "wars": 406,
-      "raids": 26492,
+      "raids": 26493,
       "season": 32,
       "rating": 188158,
       "isCurrentSeason": true,
@@ -147,12 +147,12 @@
       "name": "Nerfuria",
       "prefix": "Nia",
       "level": 117,
-      "xpPercent": 75,
+      "xpPercent": 76,
       "territories": 0,
-      "wars": 61631,
-      "raids": 12975,
+      "wars": 61632,
+      "raids": 12976,
       "season": 32,
-      "rating": 173568,
+      "rating": 173878,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -191,10 +191,10 @@
       "level": 141,
       "xpPercent": 18,
       "territories": 31,
-      "wars": 167824,
+      "wars": 167825,
       "raids": 19533,
       "season": 32,
-      "rating": 74081,
+      "rating": 74339,
       "isCurrentSeason": true,
       "rank": 14
     },
@@ -206,9 +206,9 @@
       "xpPercent": 12,
       "territories": 19,
       "wars": 36297,
-      "raids": 14546,
+      "raids": 14547,
       "season": 32,
-      "rating": 43569,
+      "rating": 44200,
       "isCurrentSeason": true,
       "rank": 15
     }
