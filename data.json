@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T04:40:28.265Z",
+  "updated": "2026-07-29T04:45:28.368Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 245,
       "xpPercent": 2,
-      "territories": 64,
+      "territories": 62,
       "wars": 151188,
-      "raids": 147980,
+      "raids": 147981,
       "season": 32,
-      "rating": 1104754,
+      "rating": 1105434,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 163826,
       "raids": 74378,
       "season": 32,
-      "rating": 1046503,
+      "rating": 1047196,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 47,
       "territories": 59,
       "wars": 225462,
-      "raids": 22157,
+      "raids": 22158,
       "season": 32,
-      "rating": 569911,
+      "rating": 570199,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -68,7 +68,7 @@
       "wars": 118452,
       "raids": 21663,
       "season": 32,
-      "rating": 286401,
+      "rating": 286548,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 41,
-      "territories": 23,
-      "wars": 32821,
+      "territories": 22,
+      "wars": 32822,
       "raids": 23695,
       "season": 32,
-      "rating": 255226,
+      "rating": 255360,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 43779,
       "raids": 24523,
       "season": 32,
-      "rating": 239968,
+      "rating": 240154,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -124,7 +124,7 @@
       "wars": 25967,
       "raids": 2559,
       "season": 32,
-      "rating": 198027,
+      "rating": 198112,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -136,7 +136,7 @@
       "xpPercent": 12,
       "territories": 0,
       "wars": 405,
-      "raids": 26485,
+      "raids": 26487,
       "season": 32,
       "rating": 186196,
       "isCurrentSeason": true,
