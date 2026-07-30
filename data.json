@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T07:40:30.568Z",
+  "updated": "2026-07-30T07:45:31.970Z",
   "season": 32,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 56,
       "territories": 60,
       "wars": 151296,
-      "raids": 148574,
+      "raids": 148576,
       "season": 32,
-      "rating": 1411051,
+      "rating": 1411452,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 71,
       "territories": 97,
       "wars": 163834,
-      "raids": 74885,
+      "raids": 74888,
       "season": 32,
-      "rating": 1342053,
+      "rating": 1343516,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 64,
       "territories": 59,
       "wars": 225492,
-      "raids": 22399,
+      "raids": 22401,
       "season": 32,
-      "rating": 713469,
+      "rating": 713868,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 36,
       "territories": 31,
       "wars": 118474,
-      "raids": 21753,
+      "raids": 21755,
       "season": 32,
-      "rating": 371874,
+      "rating": 372096,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "PUN",
       "level": 127,
       "xpPercent": 44,
-      "territories": 21,
+      "territories": 22,
       "wars": 32855,
       "raids": 23750,
       "season": 32,
-      "rating": 322175,
+      "rating": 322414,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 43995,
       "raids": 24562,
       "season": 32,
-      "rating": 313396,
+      "rating": 313675,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -120,11 +120,11 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 25,
-      "territories": 0,
-      "wars": 97066,
+      "territories": 1,
+      "wars": 97069,
       "raids": 5445,
       "season": 32,
-      "rating": 245657,
+      "rating": 245729,
       "isCurrentSeason": true,
       "rank": 9
     },
