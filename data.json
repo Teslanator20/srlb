@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T15:55:31.534Z",
+  "updated": "2026-07-31T16:00:44.589Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 246,
       "xpPercent": 34,
-      "territories": 59,
+      "territories": 57,
       "wars": 151337,
       "raids": 149477,
       "season": 32,
-      "rating": 1843738,
+      "rating": 1843977,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 177,
-      "xpPercent": 14,
-      "territories": 94,
-      "wars": 163864,
+      "xpPercent": 15,
+      "territories": 91,
+      "wars": 163866,
       "raids": 75387,
       "season": 32,
-      "rating": 1655005,
+      "rating": 1655851,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -35,12 +35,12 @@
       "name": "Avicia",
       "prefix": "AVO",
       "level": 133,
-      "xpPercent": 91,
+      "xpPercent": 92,
       "territories": 59,
       "wars": 225548,
       "raids": 22769,
       "season": 32,
-      "rating": 918559,
+      "rating": 919618,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118500,
       "raids": 21970,
       "season": 32,
-      "rating": 485777,
+      "rating": 486218,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 32943,
       "raids": 23839,
       "season": 32,
-      "rating": 408197,
+      "rating": 408507,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -96,7 +96,7 @@
       "wars": 97186,
       "raids": 5482,
       "season": 32,
-      "rating": 331478,
+      "rating": 331664,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -124,7 +124,7 @@
       "wars": 26253,
       "raids": 2562,
       "season": 32,
-      "rating": 294637,
+      "rating": 294807,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -136,9 +136,9 @@
       "xpPercent": 29,
       "territories": 0,
       "wars": 407,
-      "raids": 26729,
+      "raids": 26731,
       "season": 32,
-      "rating": 256560,
+      "rating": 256750,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -148,11 +148,11 @@
       "prefix": "Nia",
       "level": 117,
       "xpPercent": 82,
-      "territories": 22,
+      "territories": 24,
       "wars": 61814,
-      "raids": 13059,
+      "raids": 13060,
       "season": 32,
-      "rating": 231688,
+      "rating": 232071,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -166,7 +166,7 @@
       "wars": 5076,
       "raids": 22723,
       "season": 32,
-      "rating": 186820,
+      "rating": 186930,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -194,7 +194,7 @@
       "wars": 168033,
       "raids": 19612,
       "season": 32,
-      "rating": 114002,
+      "rating": 114026,
       "isCurrentSeason": true,
       "rank": 14
     },
@@ -204,11 +204,11 @@
       "prefix": "Tsd",
       "level": 102,
       "xpPercent": 17,
-      "territories": 0,
-      "wars": 36310,
+      "territories": 3,
+      "wars": 36314,
       "raids": 14652,
       "season": 32,
-      "rating": 73834,
+      "rating": 74018,
       "isCurrentSeason": true,
       "rank": 15
     }
