@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T14:20:36.868Z",
+  "updated": "2026-07-31T14:25:24.628Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 246,
-      "xpPercent": 29,
+      "xpPercent": 30,
       "territories": 60,
       "wars": 151337,
       "raids": 149428,
       "season": 32,
-      "rating": 1820350,
+      "rating": 1821284,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 12,
       "territories": 97,
       "wars": 163861,
-      "raids": 75362,
+      "raids": 75364,
       "season": 32,
-      "rating": 1638382,
+      "rating": 1639201,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 89,
       "territories": 59,
       "wars": 225548,
-      "raids": 22740,
+      "raids": 22742,
       "season": 32,
-      "rating": 905701,
+      "rating": 906324,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118500,
       "raids": 21956,
       "season": 32,
-      "rating": 480768,
+      "rating": 481026,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 32943,
       "raids": 23823,
       "season": 32,
-      "rating": 401837,
+      "rating": 401970,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -96,7 +96,7 @@
       "wars": 97184,
       "raids": 5478,
       "season": 32,
-      "rating": 326134,
+      "rating": 326722,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -120,11 +120,11 @@
       "prefix": "PLHR",
       "level": 83,
       "xpPercent": 55,
-      "territories": 23,
+      "territories": 21,
       "wars": 26242,
       "raids": 2562,
       "season": 32,
-      "rating": 291054,
+      "rating": 291188,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -148,11 +148,11 @@
       "prefix": "Nia",
       "level": 117,
       "xpPercent": 82,
-      "territories": 1,
-      "wars": 61781,
+      "territories": 3,
+      "wars": 61783,
       "raids": 13057,
       "season": 32,
-      "rating": 228116,
+      "rating": 228224,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -161,12 +161,12 @@
       "name": "Anime Lovers",
       "prefix": "Zamn",
       "level": 119,
-      "xpPercent": 2,
+      "xpPercent": 3,
       "territories": 1,
       "wars": 5076,
       "raids": 22701,
       "season": 32,
-      "rating": 181536,
+      "rating": 182000,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -208,7 +208,7 @@
       "wars": 36309,
       "raids": 14645,
       "season": 32,
-      "rating": 70814,
+      "rating": 71224,
       "isCurrentSeason": true,
       "rank": 15
     }
