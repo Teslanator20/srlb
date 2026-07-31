@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T01:30:46.105Z",
+  "updated": "2026-07-31T01:35:29.906Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 246,
-      "xpPercent": 9,
+      "xpPercent": 10,
       "territories": 60,
       "wars": 151325,
       "raids": 149161,
       "season": 32,
-      "rating": 1696834,
+      "rating": 1697438,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 94,
       "territories": 97,
       "wars": 163849,
-      "raids": 75151,
+      "raids": 75153,
       "season": 32,
-      "rating": 1510493,
+      "rating": 1511533,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 225534,
       "raids": 22609,
       "season": 32,
-      "rating": 829692,
+      "rating": 829980,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,9 +54,23 @@
       "wars": 118481,
       "raids": 21843,
       "season": 32,
-      "rating": 436800,
+      "rating": 437021,
       "isCurrentSeason": true,
       "rank": 4
+    },
+    {
+      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
+      "name": "The Broken Gasmask",
+      "prefix": "TBGM",
+      "level": 122,
+      "xpPercent": 59,
+      "territories": 52,
+      "wars": 44076,
+      "raids": 24585,
+      "season": 32,
+      "rating": 371443,
+      "isCurrentSeason": true,
+      "rank": 5
     },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
@@ -68,21 +82,7 @@
       "wars": 32892,
       "raids": 23806,
       "season": 32,
-      "rating": 371168,
-      "isCurrentSeason": true,
-      "rank": 5
-    },
-    {
-      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
-      "name": "The Broken Gasmask",
-      "prefix": "TBGM",
-      "level": 122,
-      "xpPercent": 59,
-      "territories": 55,
-      "wars": 44076,
-      "raids": 24584,
-      "season": 32,
-      "rating": 371007,
+      "rating": 371368,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -108,9 +108,9 @@
       "xpPercent": 27,
       "territories": 30,
       "wars": 97142,
-      "raids": 5460,
+      "raids": 5461,
       "season": 32,
-      "rating": 290283,
+      "rating": 290942,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 26168,
       "raids": 2562,
       "season": 32,
-      "rating": 278738,
+      "rating": 278943,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -136,9 +136,9 @@
       "xpPercent": 25,
       "territories": 0,
       "wars": 407,
-      "raids": 26678,
+      "raids": 26679,
       "season": 32,
-      "rating": 240070,
+      "rating": 240510,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -148,11 +148,11 @@
       "prefix": "Nia",
       "level": 117,
       "xpPercent": 82,
-      "territories": 1,
-      "wars": 61686,
+      "territories": 2,
+      "wars": 61688,
       "raids": 13057,
       "season": 32,
-      "rating": 202976,
+      "rating": 203048,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -180,7 +180,7 @@
       "wars": 10206,
       "raids": 4500,
       "season": 32,
-      "rating": 155424,
+      "rating": 155615,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -194,7 +194,7 @@
       "wars": 168013,
       "raids": 19596,
       "season": 32,
-      "rating": 106811,
+      "rating": 106835,
       "isCurrentSeason": true,
       "rank": 14
     },
