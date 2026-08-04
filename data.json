@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T02:50:33.492Z",
+  "updated": "2026-08-04T02:55:29.991Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 247,
       "xpPercent": 41,
-      "territories": 70,
-      "wars": 151591,
+      "territories": 71,
+      "wars": 151593,
       "raids": 150647,
       "season": 32,
-      "rating": 2544301,
+      "rating": 2545422,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 40,
       "territories": 96,
       "wars": 164293,
-      "raids": 76749,
+      "raids": 76751,
       "season": 32,
-      "rating": 2503142,
+      "rating": 2504023,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 225761,
       "raids": 23475,
       "season": 32,
-      "rating": 1354742,
+      "rating": 1355079,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -49,12 +49,12 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 126,
-      "xpPercent": 67,
+      "xpPercent": 68,
       "territories": 31,
       "wars": 118760,
       "raids": 22372,
       "season": 32,
-      "rating": 762631,
+      "rating": 763145,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33014,
       "raids": 24118,
       "season": 32,
-      "rating": 623308,
+      "rating": 623442,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 97407,
       "raids": 5520,
       "season": 32,
-      "rating": 528945,
+      "rating": 529201,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -94,7 +94,7 @@
       "xpPercent": 80,
       "territories": 0,
       "wars": 44182,
-      "raids": 24800,
+      "raids": 24801,
       "season": 32,
       "rating": 462455,
       "isCurrentSeason": true,
@@ -110,7 +110,7 @@
       "wars": 26596,
       "raids": 2629,
       "season": 32,
-      "rating": 451106,
+      "rating": 451243,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 410,
       "raids": 27238,
       "season": 32,
-      "rating": 372670,
+      "rating": 373110,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -176,11 +176,11 @@
       "prefix": "Crrs",
       "level": 100,
       "xpPercent": 64,
-      "territories": 3,
-      "wars": 10507,
+      "territories": 2,
+      "wars": 10510,
       "raids": 4661,
       "season": 32,
-      "rating": 295155,
+      "rating": 295197,
       "isCurrentSeason": true,
       "rank": 13
     },
