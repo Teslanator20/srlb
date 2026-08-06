@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T02:45:32.931Z",
+  "updated": "2026-08-06T02:50:31.680Z",
   "season": 32,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 151771,
       "raids": 151504,
       "season": 32,
-      "rating": 3004823,
+      "rating": 3005504,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 164877,
       "raids": 77332,
       "season": 32,
-      "rating": 2909337,
+      "rating": 2910150,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 225951,
       "raids": 23921,
       "season": 32,
-      "rating": 1625548,
+      "rating": 1626011,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118811,
       "raids": 22623,
       "season": 32,
-      "rating": 920701,
+      "rating": 920989,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33063,
       "raids": 24186,
       "season": 32,
-      "rating": 731714,
+      "rating": 731847,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 97526,
       "raids": 5544,
       "season": 32,
-      "rating": 638428,
+      "rating": 638652,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 26777,
       "raids": 2680,
       "season": 32,
-      "rating": 553186,
+      "rating": 553322,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -185,6 +185,20 @@
       "rank": 13
     },
     {
+      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
+      "name": "The Aquarium",
+      "prefix": "TAq",
+      "level": 141,
+      "xpPercent": 32,
+      "territories": 0,
+      "wars": 168287,
+      "raids": 19754,
+      "season": 32,
+      "rating": 170849,
+      "isCurrentSeason": true,
+      "rank": 14
+    },
+    {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
       "name": "TruthSworD",
       "prefix": "Tsd",
@@ -196,13 +210,8 @@
       "season": 32,
       "rating": 122720,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "The Aquarium",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
