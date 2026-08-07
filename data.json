@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T09:15:29.908Z",
+  "updated": "2026-08-07T09:20:34.405Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 248,
       "xpPercent": 44,
-      "territories": 58,
-      "wars": 151952,
-      "raids": 151827,
+      "territories": 60,
+      "wars": 151953,
+      "raids": 151830,
       "season": 32,
-      "rating": 3221592,
+      "rating": 3222417,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 165239,
       "raids": 77592,
       "season": 32,
-      "rating": 3128011,
+      "rating": 3128264,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 225978,
       "raids": 24134,
       "season": 32,
-      "rating": 1773020,
+      "rating": 1773829,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118827,
       "raids": 22750,
       "season": 32,
-      "rating": 1009439,
+      "rating": 1009587,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33102,
       "raids": 24299,
       "season": 32,
-      "rating": 814677,
+      "rating": 814810,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 97534,
       "raids": 5548,
       "season": 32,
-      "rating": 707902,
+      "rating": 708050,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -150,9 +150,9 @@
       "xpPercent": 58,
       "territories": 0,
       "wars": 5079,
-      "raids": 23698,
+      "raids": 23700,
       "season": 32,
-      "rating": 405352,
+      "rating": 405572,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -189,12 +189,12 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 141,
-      "xpPercent": 35,
+      "xpPercent": 36,
       "territories": 0,
       "wars": 168332,
-      "raids": 19805,
+      "raids": 19806,
       "season": 32,
-      "rating": 185564,
+      "rating": 185824,
       "isCurrentSeason": true,
       "rank": 14
     },
