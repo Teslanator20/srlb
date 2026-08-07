@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T21:04:01.285Z",
+  "updated": "2026-08-07T21:05:29.004Z",
   "season": 32,
   "guilds": [
     {
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 179,
-      "xpPercent": 25,
+      "xpPercent": 26,
       "territories": 93,
-      "wars": 165265,
+      "wars": 165266,
       "raids": 77718,
       "season": 32,
-      "rating": 3226815,
+      "rating": 3227488,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -34,13 +34,13 @@
       "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
       "name": "Avicia",
       "prefix": "AVO",
-      "level": 134,
-      "xpPercent": 100,
+      "level": 135,
+      "xpPercent": 0,
       "territories": 59,
       "wars": 225993,
       "raids": 24307,
       "season": 32,
-      "rating": 1850576,
+      "rating": 1851036,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -152,7 +152,7 @@
       "wars": 5079,
       "raids": 23806,
       "season": 32,
-      "rating": 430442,
+      "rating": 430852,
       "isCurrentSeason": true,
       "rank": 11
     },
