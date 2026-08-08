@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T04:05:27.386Z",
+  "updated": "2026-08-08T04:10:31.267Z",
   "season": 32,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 78,
       "territories": 60,
       "wars": 152041,
-      "raids": 152254,
+      "raids": 152258,
       "season": 32,
-      "rating": 3429814,
+      "rating": 3430545,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 36,
       "territories": 97,
       "wars": 165276,
-      "raids": 77863,
+      "raids": 77867,
       "season": 32,
-      "rating": 3298478,
+      "rating": 3300228,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 4,
       "territories": 58,
       "wars": 225998,
-      "raids": 24383,
+      "raids": 24384,
       "season": 32,
-      "rating": 1888742,
+      "rating": 1889028,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 91,
       "territories": 31,
       "wars": 118827,
-      "raids": 22858,
+      "raids": 22859,
       "season": 32,
-      "rating": 1070410,
+      "rating": 1070852,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33108,
       "raids": 24336,
       "season": 32,
-      "rating": 861085,
+      "rating": 861285,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 97675,
       "raids": 5557,
       "season": 32,
-      "rating": 751905,
+      "rating": 752128,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 26990,
       "raids": 2730,
       "season": 32,
-      "rating": 630120,
+      "rating": 630324,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -108,7 +108,7 @@
       "xpPercent": 91,
       "territories": 0,
       "wars": 44441,
-      "raids": 24934,
+      "raids": 24935,
       "season": 32,
       "rating": 525225,
       "isCurrentSeason": true,
@@ -122,11 +122,25 @@
       "xpPercent": 80,
       "territories": 0,
       "wars": 414,
-      "raids": 27544,
+      "raids": 27545,
       "season": 32,
       "rating": 452792,
       "isCurrentSeason": true,
       "rank": 9
+    },
+    {
+      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
+      "name": "Anime Lovers",
+      "prefix": "Zamn",
+      "level": 119,
+      "xpPercent": 66,
+      "territories": 0,
+      "wars": 5079,
+      "raids": 23844,
+      "season": 32,
+      "rating": 436952,
+      "isCurrentSeason": true,
+      "rank": 10
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -140,20 +154,6 @@
       "season": 32,
       "rating": 436897,
       "isCurrentSeason": true,
-      "rank": 10
-    },
-    {
-      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
-      "name": "Anime Lovers",
-      "prefix": "Zamn",
-      "level": 119,
-      "xpPercent": 66,
-      "territories": 0,
-      "wars": 5079,
-      "raids": 23840,
-      "season": 32,
-      "rating": 436732,
-      "isCurrentSeason": true,
       "rank": 11
     },
     {
@@ -162,11 +162,11 @@
       "prefix": "Crrs",
       "level": 100,
       "xpPercent": 76,
-      "territories": 2,
+      "territories": 1,
       "wars": 10661,
       "raids": 4834,
       "season": 32,
-      "rating": 352888,
+      "rating": 352916,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -206,9 +206,9 @@
       "xpPercent": 32,
       "territories": 0,
       "wars": 36437,
-      "raids": 14866,
+      "raids": 14867,
       "season": 32,
-      "rating": 129320,
+      "rating": 129510,
       "isCurrentSeason": true,
       "rank": 15
     }
