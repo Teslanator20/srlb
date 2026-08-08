@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T08:30:37.835Z",
+  "updated": "2026-08-08T08:35:23.424Z",
   "season": 32,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 152041,
       "raids": 152297,
       "season": 32,
-      "rating": 3456685,
+      "rating": 3456879,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 165282,
       "raids": 77947,
       "season": 32,
-      "rating": 3341621,
+      "rating": 3342754,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226010,
       "raids": 24412,
       "season": 32,
-      "rating": 1912991,
+      "rating": 1913280,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118835,
       "raids": 22864,
       "season": 32,
-      "rating": 1081565,
+      "rating": 1081712,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33122,
       "raids": 24340,
       "season": 32,
-      "rating": 871605,
+      "rating": 871739,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 38,
-      "territories": 3,
-      "wars": 97681,
+      "territories": 5,
+      "wars": 97685,
       "raids": 5557,
       "season": 32,
-      "rating": 758939,
+      "rating": 759138,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -115,20 +115,6 @@
       "rank": 8
     },
     {
-      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
-      "name": "Hesperides",
-      "prefix": "HSP",
-      "level": 110,
-      "xpPercent": 81,
-      "territories": 0,
-      "wars": 414,
-      "raids": 27557,
-      "season": 32,
-      "rating": 456112,
-      "isCurrentSeason": true,
-      "rank": 9
-    },
-    {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
       "name": "Anime Lovers",
       "prefix": "Zamn",
@@ -138,9 +124,9 @@
       "wars": 5079,
       "raids": 23940,
       "season": 32,
-      "rating": 450482,
+      "rating": 450702,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 9
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -154,7 +140,7 @@
       "season": 32,
       "rating": 441595,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 10
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -168,7 +154,7 @@
       "season": 32,
       "rating": 352928,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -182,7 +168,7 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -196,7 +182,7 @@
       "season": 32,
       "rating": 193689,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -210,8 +196,13 @@
       "season": 32,
       "rating": 129510,
       "isCurrentSeason": true,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "Hesperides",
+      "error": "HTTP 500"
+    }
+  ]
 }
