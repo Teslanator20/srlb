@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T23:45:35.863Z",
+  "updated": "2026-08-09T23:50:32.262Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 249,
       "xpPercent": 49,
-      "territories": 61,
+      "territories": 63,
       "wars": 152403,
       "raids": 153089,
       "season": 32,
-      "rating": 3879087,
+      "rating": 3879812,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 179,
       "xpPercent": 91,
-      "territories": 2,
-      "wars": 166204,
-      "raids": 78640,
+      "territories": 0,
+      "wars": 166205,
+      "raids": 78643,
       "season": 32,
-      "rating": 3708294,
+      "rating": 3709044,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226219,
       "raids": 24809,
       "season": 32,
-      "rating": 2127171,
+      "rating": 2127363,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118910,
       "raids": 23094,
       "season": 32,
-      "rating": 1215795,
+      "rating": 1215980,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33182,
       "raids": 24482,
       "season": 32,
-      "rating": 981899,
+      "rating": 982032,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 97893,
       "raids": 5573,
       "season": 32,
-      "rating": 854476,
+      "rating": 854623,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "PLHR",
       "level": 83,
       "xpPercent": 70,
-      "territories": 83,
+      "territories": 85,
       "wars": 27666,
       "raids": 2760,
       "season": 32,
-      "rating": 700939,
+      "rating": 701367,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -122,9 +122,9 @@
       "xpPercent": 85,
       "territories": 0,
       "wars": 5079,
-      "raids": 24272,
+      "raids": 24273,
       "season": 32,
-      "rating": 523702,
+      "rating": 523812,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 425,
       "raids": 27784,
       "season": 32,
-      "rating": 500890,
+      "rating": 501660,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -152,7 +152,7 @@
       "wars": 63523,
       "raids": 13318,
       "season": 32,
-      "rating": 475210,
+      "rating": 475540,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -166,7 +166,7 @@
       "wars": 10804,
       "raids": 4988,
       "season": 32,
-      "rating": 435072,
+      "rating": 435648,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -208,7 +208,7 @@
       "wars": 36437,
       "raids": 14934,
       "season": 32,
-      "rating": 149270,
+      "rating": 149710,
       "isCurrentSeason": true,
       "rank": 15
     }
