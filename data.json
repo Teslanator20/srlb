@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T23:25:28.052Z",
+  "updated": "2026-08-12T23:30:41.799Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 250,
-      "xpPercent": 40,
+      "xpPercent": 41,
       "territories": 60,
       "wars": 152777,
-      "raids": 154186,
+      "raids": 154188,
       "season": 32,
-      "rating": 4496756,
+      "rating": 4497506,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 180,
       "xpPercent": 83,
-      "territories": 96,
-      "wars": 167151,
-      "raids": 79720,
+      "territories": 94,
+      "wars": 167156,
+      "raids": 79722,
       "season": 32,
-      "rating": 4392476,
+      "rating": 4393354,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226290,
       "raids": 25443,
       "season": 32,
-      "rating": 2505600,
+      "rating": 2505936,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118946,
       "raids": 23314,
       "season": 32,
-      "rating": 1418419,
+      "rating": 1418677,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33304,
       "raids": 24728,
       "season": 32,
-      "rating": 1185940,
+      "rating": 1186173,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 47,
-      "territories": 32,
+      "territories": 31,
       "wars": 98009,
       "raids": 5702,
       "season": 32,
-      "rating": 1027355,
+      "rating": 1027614,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 28135,
       "raids": 2804,
       "season": 32,
-      "rating": 771665,
+      "rating": 771904,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 44685,
       "raids": 25215,
       "season": 32,
-      "rating": 627352,
+      "rating": 627762,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -134,11 +134,11 @@
       "prefix": "HSP",
       "level": 111,
       "xpPercent": 18,
-      "territories": 0,
+      "territories": 1,
       "wars": 443,
       "raids": 28107,
       "season": 32,
-      "rating": 603264,
+      "rating": 603342,
       "isCurrentSeason": true,
       "rank": 10
     },
