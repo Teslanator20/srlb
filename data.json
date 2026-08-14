@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T18:28:56.061Z",
+  "updated": "2026-08-14T18:30:39.680Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 181,
-      "xpPercent": 62,
+      "xpPercent": 63,
       "territories": 95,
       "wars": 167430,
       "raids": 80600,
       "season": 32,
-      "rating": 4912746,
+      "rating": 4913311,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -40,7 +40,7 @@
       "wars": 226385,
       "raids": 25798,
       "season": 32,
-      "rating": 2718272,
+      "rating": 2718588,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -105,12 +105,12 @@
       "name": "Cirrus",
       "prefix": "Crrs",
       "level": 101,
-      "xpPercent": 14,
+      "xpPercent": 15,
       "territories": 0,
       "wars": 11092,
       "raids": 5421,
       "season": 32,
-      "rating": 676894,
+      "rating": 677004,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 449,
       "raids": 28360,
       "season": 32,
-      "rating": 665222,
+      "rating": 665234,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 44691,
       "raids": 25258,
       "season": 32,
-      "rating": 637745,
+      "rating": 637757,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -177,10 +177,10 @@
       "level": 141,
       "xpPercent": 59,
       "territories": 4,
-      "wars": 168939,
+      "wars": 168940,
       "raids": 20252,
       "season": 32,
-      "rating": 320148,
+      "rating": 320175,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -208,7 +208,7 @@
       "wars": 36439,
       "raids": 15064,
       "season": 32,
-      "rating": 198690,
+      "rating": 199130,
       "isCurrentSeason": true,
       "rank": 15
     }
