@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T01:40:30.674Z",
+  "updated": "2026-08-14T01:45:30.229Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 250,
       "xpPercent": 79,
-      "territories": 75,
+      "territories": 77,
       "wars": 152952,
       "raids": 154666,
       "season": 32,
-      "rating": 4747116,
+      "rating": 4748516,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 181,
-      "xpPercent": 24,
-      "territories": 101,
-      "wars": 167279,
+      "xpPercent": 25,
+      "territories": 99,
+      "wars": 167281,
       "raids": 80175,
       "season": 32,
-      "rating": 4674999,
+      "rating": 4676707,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226291,
       "raids": 25660,
       "season": 32,
-      "rating": 2637776,
+      "rating": 2638237,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118953,
       "raids": 23345,
       "season": 32,
-      "rating": 1482553,
+      "rating": 1482885,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33342,
       "raids": 24852,
       "season": 32,
-      "rating": 1264593,
+      "rating": 1264913,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 49,
-      "territories": 10,
-      "wars": 98056,
-      "raids": 5741,
+      "territories": 25,
+      "wars": 98066,
+      "raids": 5742,
       "season": 32,
-      "rating": 1092019,
+      "rating": 1092904,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -105,12 +105,12 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 111,
-      "xpPercent": 27,
+      "xpPercent": 28,
       "territories": 0,
       "wars": 445,
       "raids": 28253,
       "season": 32,
-      "rating": 640984,
+      "rating": 641804,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 11040,
       "raids": 5387,
       "season": 32,
-      "rating": 637781,
+      "rating": 637985,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -152,7 +152,7 @@
       "wars": 5080,
       "raids": 24832,
       "season": 32,
-      "rating": 607400,
+      "rating": 607510,
       "isCurrentSeason": true,
       "rank": 11
     },
