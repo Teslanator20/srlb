@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T23:50:51.802Z",
+  "updated": "2026-08-15T23:55:30.304Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 182,
-      "xpPercent": 23,
-      "territories": 103,
+      "xpPercent": 24,
+      "territories": 102,
       "wars": 167581,
       "raids": 81314,
       "season": 32,
-      "rating": 5293948,
+      "rating": 5295060,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "SEQ",
       "level": 251,
       "xpPercent": 34,
-      "territories": 56,
-      "wars": 153203,
+      "territories": 54,
+      "wars": 153205,
       "raids": 155309,
       "season": 32,
-      "rating": 5136648,
+      "rating": 5137645,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -35,12 +35,12 @@
       "name": "Avicia",
       "prefix": "AVO",
       "level": 136,
-      "xpPercent": 6,
+      "xpPercent": 7,
       "territories": 59,
       "wars": 226418,
-      "raids": 25959,
+      "raids": 25960,
       "season": 32,
-      "rating": 2846820,
+      "rating": 2847342,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118963,
       "raids": 23449,
       "season": 32,
-      "rating": 1603816,
+      "rating": 1603964,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33350,
       "raids": 24944,
       "season": 32,
-      "rating": 1377204,
+      "rating": 1377337,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98087,
       "raids": 5841,
       "season": 32,
-      "rating": 1209611,
+      "rating": 1209867,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 454,
       "raids": 28560,
       "season": 32,
-      "rating": 719124,
+      "rating": 719454,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -208,7 +208,7 @@
       "wars": 36439,
       "raids": 15074,
       "season": 32,
-      "rating": 202430,
+      "rating": 202540,
       "isCurrentSeason": true,
       "rank": 15
     }
