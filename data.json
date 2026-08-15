@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T17:40:33.166Z",
+  "updated": "2026-08-15T17:45:30.859Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "Aeq",
       "level": 182,
       "xpPercent": 12,
-      "territories": 97,
+      "territories": 96,
       "wars": 167533,
       "raids": 81187,
       "season": 32,
-      "rating": 5219134,
+      "rating": 5220393,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 153176,
       "raids": 155172,
       "season": 32,
-      "rating": 5063563,
+      "rating": 5065064,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226407,
       "raids": 25929,
       "season": 32,
-      "rating": 2818601,
+      "rating": 2818793,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118963,
       "raids": 23441,
       "season": 32,
-      "rating": 1589099,
+      "rating": 1589320,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33349,
       "raids": 24939,
       "season": 32,
-      "rating": 1362732,
+      "rating": 1362932,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98086,
       "raids": 5787,
       "season": 32,
-      "rating": 1190114,
+      "rating": 1190335,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -133,12 +133,12 @@
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
       "level": 123,
-      "xpPercent": 24,
+      "xpPercent": 25,
       "territories": 0,
       "wars": 44707,
       "raids": 25314,
       "season": 32,
-      "rating": 648551,
+      "rating": 648631,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -176,11 +176,11 @@
       "prefix": "TAq",
       "level": 141,
       "xpPercent": 61,
-      "territories": 0,
-      "wars": 168963,
+      "territories": 1,
+      "wars": 168967,
       "raids": 20270,
       "season": 32,
-      "rating": 330226,
+      "rating": 330292,
       "isCurrentSeason": true,
       "rank": 13
     },
