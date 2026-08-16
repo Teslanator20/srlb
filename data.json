@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T00:00:50.710Z",
+  "updated": "2026-08-16T00:05:29.161Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "Aeq",
       "level": 182,
       "xpPercent": 24,
-      "territories": 101,
+      "territories": 99,
       "wars": 167581,
-      "raids": 81314,
+      "raids": 81318,
       "season": 32,
-      "rating": 5295760,
+      "rating": 5296586,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "SEQ",
       "level": 251,
       "xpPercent": 35,
-      "territories": 53,
-      "wars": 153208,
+      "territories": 54,
+      "wars": 153210,
       "raids": 155311,
       "season": 32,
-      "rating": 5138771,
+      "rating": 5138994,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 7,
       "territories": 59,
       "wars": 226418,
-      "raids": 25960,
+      "raids": 25961,
       "season": 32,
-      "rating": 2847631,
+      "rating": 2847823,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118963,
       "raids": 23450,
       "season": 32,
-      "rating": 1604185,
+      "rating": 1604333,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33350,
       "raids": 24944,
       "season": 32,
-      "rating": 1377537,
+      "rating": 1377670,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98087,
       "raids": 5842,
       "season": 32,
-      "rating": 1210196,
+      "rating": 1210342,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -122,7 +122,7 @@
       "xpPercent": 18,
       "territories": 0,
       "wars": 11154,
-      "raids": 5490,
+      "raids": 5491,
       "season": 32,
       "rating": 700436,
       "isCurrentSeason": true,
@@ -208,7 +208,7 @@
       "wars": 36439,
       "raids": 15075,
       "season": 32,
-      "rating": 202540,
+      "rating": 202650,
       "isCurrentSeason": true,
       "rank": 15
     }
