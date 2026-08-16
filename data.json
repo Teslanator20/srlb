@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T15:15:31.400Z",
+  "updated": "2026-08-16T15:20:31.350Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 182,
-      "xpPercent": 59,
-      "territories": 101,
+      "xpPercent": 60,
+      "territories": 99,
       "wars": 167647,
       "raids": 81715,
       "season": 32,
-      "rating": 5513891,
+      "rating": 5515028,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "SEQ",
       "level": 251,
       "xpPercent": 51,
-      "territories": 65,
+      "territories": 67,
       "wars": 153264,
       "raids": 155490,
       "season": 32,
-      "rating": 5257231,
+      "rating": 5257515,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226422,
       "raids": 26041,
       "season": 32,
-      "rating": 2913813,
+      "rating": 2914005,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 118963,
       "raids": 23455,
       "season": 32,
-      "rating": 1638463,
+      "rating": 1638610,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33350,
       "raids": 24969,
       "season": 32,
-      "rating": 1414003,
+      "rating": 1414137,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 53,
-      "territories": 31,
+      "territories": 32,
       "wars": 98094,
       "raids": 5858,
       "season": 32,
-      "rating": 1245590,
+      "rating": 1245777,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -180,7 +180,7 @@
       "wars": 168971,
       "raids": 20280,
       "season": 32,
-      "rating": 332247,
+      "rating": 332407,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -208,7 +208,7 @@
       "wars": 36439,
       "raids": 15087,
       "season": 32,
-      "rating": 203860,
+      "rating": 203970,
       "isCurrentSeason": true,
       "rank": 15
     }
