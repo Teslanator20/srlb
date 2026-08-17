@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T19:35:28.346Z",
+  "updated": "2026-08-17T19:40:35.257Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 183,
-      "xpPercent": 17,
-      "territories": 100,
+      "xpPercent": 18,
+      "territories": 97,
       "wars": 168033,
       "raids": 82348,
       "season": 32,
-      "rating": 5885096,
+      "rating": 5887021,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 153322,
       "raids": 156041,
       "season": 32,
-      "rating": 5561123,
+      "rating": 5562307,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226448,
       "raids": 26143,
       "season": 32,
-      "rating": 3026902,
+      "rating": 3027190,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 119013,
       "raids": 23467,
       "season": 32,
-      "rating": 1705502,
+      "rating": 1705650,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33360,
       "raids": 25064,
       "season": 32,
-      "rating": 1499355,
+      "rating": 1499488,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98107,
       "raids": 5872,
       "season": 32,
-      "rating": 1309949,
+      "rating": 1310097,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -129,20 +129,6 @@
       "rank": 9
     },
     {
-      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
-      "name": "Anime Lovers",
-      "prefix": "Zamn",
-      "level": 120,
-      "xpPercent": 30,
-      "territories": 0,
-      "wars": 5080,
-      "raids": 25307,
-      "season": 32,
-      "rating": 711480,
-      "isCurrentSeason": true,
-      "rank": 10
-    },
-    {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
@@ -154,7 +140,7 @@
       "season": 32,
       "rating": 664571,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 10
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -166,9 +152,9 @@
       "wars": 64123,
       "raids": 13584,
       "season": 32,
-      "rating": 613351,
+      "rating": 613731,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -182,7 +168,7 @@
       "season": 32,
       "rating": 348263,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,7 +182,7 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -210,8 +196,13 @@
       "season": 32,
       "rating": 205970,
       "isCurrentSeason": true,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "Anime Lovers",
+      "error": "HTTP 502"
+    }
+  ]
 }
