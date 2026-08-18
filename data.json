@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T05:14:29.498Z",
+  "updated": "2026-08-18T05:15:32.635Z",
   "season": 32,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 44,
       "territories": 97,
       "wars": 168111,
-      "raids": 82628,
+      "raids": 82632,
       "season": 32,
-      "rating": 6033363,
+      "rating": 6034039,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -38,9 +38,9 @@
       "xpPercent": 25,
       "territories": 59,
       "wars": 226464,
-      "raids": 26187,
+      "raids": 26188,
       "season": 32,
-      "rating": 3068224,
+      "rating": 3068416,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -147,12 +147,12 @@
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
       "level": 123,
-      "xpPercent": 31,
+      "xpPercent": 32,
       "territories": 0,
       "wars": 44707,
       "raids": 25409,
       "season": 32,
-      "rating": 669881,
+      "rating": 670151,
       "isCurrentSeason": true,
       "rank": 11
     },
