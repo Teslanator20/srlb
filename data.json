@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T16:15:33.652Z",
+  "updated": "2026-08-19T16:20:37.909Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "Aeq",
       "level": 184,
       "xpPercent": 17,
-      "territories": 73,
-      "wars": 168576,
+      "territories": 68,
+      "wars": 168581,
       "raids": 83450,
       "season": 32,
-      "rating": 6494754,
+      "rating": 6495486,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 252,
-      "xpPercent": 88,
+      "xpPercent": 89,
       "territories": 70,
       "wars": 153656,
       "raids": 156973,
       "season": 32,
-      "rating": 6083279,
+      "rating": 6085354,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226509,
       "raids": 26539,
       "season": 32,
-      "rating": 3263083,
+      "rating": 3263465,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 119081,
       "raids": 23493,
       "season": 32,
-      "rating": 1814205,
+      "rating": 1814463,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33403,
       "raids": 25256,
       "season": 32,
-      "rating": 1652551,
+      "rating": 1652685,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,12 +77,12 @@
       "name": "KongoBoys",
       "prefix": "DUDE",
       "level": 108,
-      "xpPercent": 57,
+      "xpPercent": 58,
       "territories": 32,
       "wars": 98144,
       "raids": 5906,
       "season": 32,
-      "rating": 1417504,
+      "rating": 1418063,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 462,
       "raids": 28944,
       "season": 32,
-      "rating": 814276,
+      "rating": 814686,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 11275,
       "raids": 5713,
       "season": 32,
-      "rating": 777302,
+      "rating": 777522,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -162,11 +162,11 @@
       "prefix": "Nia",
       "level": 118,
       "xpPercent": 22,
-      "territories": 0,
-      "wars": 64435,
+      "territories": 1,
+      "wars": 64437,
       "raids": 13669,
       "season": 32,
-      "rating": 657088,
+      "rating": 657140,
       "isCurrentSeason": true,
       "rank": 12
     },
