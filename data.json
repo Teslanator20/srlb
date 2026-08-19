@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T13:35:26.611Z",
+  "updated": "2026-08-19T13:40:33.581Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "Aeq",
       "level": 184,
       "xpPercent": 12,
-      "territories": 90,
-      "wars": 168507,
+      "territories": 87,
+      "wars": 168509,
       "raids": 83399,
       "season": 32,
-      "rating": 6460454,
+      "rating": 6461323,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "SEQ",
       "level": 252,
       "xpPercent": 82,
-      "territories": 66,
+      "territories": 67,
       "wars": 153638,
       "raids": 156907,
       "season": 32,
-      "rating": 6045488,
+      "rating": 6046651,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 136,
       "xpPercent": 47,
-      "territories": 51,
-      "wars": 226488,
+      "territories": 50,
+      "wars": 226490,
       "raids": 26505,
       "season": 32,
-      "rating": 3245846,
+      "rating": 3246633,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 119081,
       "raids": 23491,
       "season": 32,
-      "rating": 1808081,
+      "rating": 1808228,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33403,
       "raids": 25249,
       "season": 32,
-      "rating": 1644673,
+      "rating": 1644807,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 57,
-      "territories": 29,
-      "wars": 98141,
+      "territories": 30,
+      "wars": 98142,
       "raids": 5900,
       "season": 32,
-      "rating": 1409498,
+      "rating": 1409723,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -180,7 +180,7 @@
       "wars": 169085,
       "raids": 20421,
       "season": 32,
-      "rating": 372256,
+      "rating": 372366,
       "isCurrentSeason": true,
       "rank": 13
     },
