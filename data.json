@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T12:05:29.887Z",
+  "updated": "2026-08-21T12:10:32.145Z",
   "season": 32,
   "guilds": [
     {
@@ -9,10 +9,10 @@
       "level": 184,
       "xpPercent": 91,
       "territories": 82,
-      "wars": 169738,
+      "wars": 169740,
       "raids": 84292,
       "season": 32,
-      "rating": 6995123,
+      "rating": 6995627,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 154084,
       "raids": 158298,
       "season": 32,
-      "rating": 6779919,
+      "rating": 6780997,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 136,
       "xpPercent": 73,
-      "territories": 59,
+      "territories": 57,
       "wars": 226589,
       "raids": 26925,
       "season": 32,
-      "rating": 3492891,
+      "rating": 3493508,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 119179,
       "raids": 23556,
       "season": 32,
-      "rating": 1928674,
+      "rating": 1928895,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 33455,
       "raids": 25535,
       "season": 32,
-      "rating": 1828826,
+      "rating": 1829025,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98185,
       "raids": 6021,
       "season": 32,
-      "rating": 1540355,
+      "rating": 1540579,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -107,7 +107,7 @@
       "level": 83,
       "xpPercent": 87,
       "territories": 0,
-      "wars": 28518,
+      "wars": 28519,
       "raids": 2856,
       "season": 32,
       "rating": 852676,
@@ -176,11 +176,11 @@
       "prefix": "TAq",
       "level": 141,
       "xpPercent": 73,
-      "territories": 0,
-      "wars": 169214,
+      "territories": 2,
+      "wars": 169217,
       "raids": 20489,
       "season": 32,
-      "rating": 397895,
+      "rating": 398023,
       "isCurrentSeason": true,
       "rank": 13
     },
