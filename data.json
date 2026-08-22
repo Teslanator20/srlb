@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T14:33:46.159Z",
+  "updated": "2026-08-22T14:35:27.054Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "Aeq",
       "level": 185,
       "xpPercent": 31,
-      "territories": 95,
+      "territories": 94,
       "wars": 170212,
-      "raids": 84781,
+      "raids": 84785,
       "season": 32,
-      "rating": 7279693,
+      "rating": 7280257,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -35,12 +35,12 @@
       "name": "Avicia",
       "prefix": "AVO",
       "level": 136,
-      "xpPercent": 92,
-      "territories": 55,
+      "xpPercent": 93,
+      "territories": 54,
       "wars": 226628,
-      "raids": 27194,
+      "raids": 27198,
       "season": 32,
-      "rating": 3651193,
+      "rating": 3651946,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -138,7 +138,7 @@
       "wars": 5081,
       "raids": 25875,
       "season": 32,
-      "rating": 824712,
+      "rating": 824932,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -204,11 +204,11 @@
       "prefix": "Tsd",
       "level": 102,
       "xpPercent": 63,
-      "territories": 47,
-      "wars": 36513,
+      "territories": 46,
+      "wars": 36515,
       "raids": 15205,
       "season": 32,
-      "rating": 244625,
+      "rating": 244759,
       "isCurrentSeason": true,
       "rank": 15
     }
