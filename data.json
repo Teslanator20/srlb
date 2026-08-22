@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T15:49:21.686Z",
+  "updated": "2026-08-22T15:50:32.716Z",
   "season": 32,
   "guilds": [
     {
@@ -9,10 +9,10 @@
       "level": 185,
       "xpPercent": 32,
       "territories": 12,
-      "wars": 170237,
+      "wars": 170239,
       "raids": 84806,
       "season": 32,
-      "rating": 7289133,
+      "rating": 7289662,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 136,
       "xpPercent": 94,
-      "territories": 20,
-      "wars": 226668,
+      "territories": 23,
+      "wars": 226673,
       "raids": 27225,
       "season": 32,
-      "rating": 3661539,
+      "rating": 3661765,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -96,7 +96,7 @@
       "wars": 469,
       "raids": 29231,
       "season": 32,
-      "rating": 903996,
+      "rating": 904106,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -120,11 +120,11 @@
       "prefix": "Crrs",
       "level": 101,
       "xpPercent": 48,
-      "territories": 4,
+      "territories": 3,
       "wars": 11482,
       "raids": 5922,
       "season": 32,
-      "rating": 848864,
+      "rating": 848888,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -208,7 +208,7 @@
       "wars": 36572,
       "raids": 15205,
       "season": 32,
-      "rating": 250181,
+      "rating": 250451,
       "isCurrentSeason": true,
       "rank": 15
     }
