@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T22:20:30.150Z",
+  "updated": "2026-08-22T22:21:42.997Z",
   "season": 32,
   "guilds": [
     {
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 136,
       "xpPercent": 96,
-      "territories": 6,
-      "wars": 226721,
+      "territories": 5,
+      "wars": 226723,
       "raids": 27258,
       "season": 32,
-      "rating": 3688760,
+      "rating": 3688790,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -96,7 +96,7 @@
       "wars": 469,
       "raids": 29274,
       "season": 32,
-      "rating": 909926,
+      "rating": 910146,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -124,7 +124,7 @@
       "wars": 11548,
       "raids": 5943,
       "season": 32,
-      "rating": 863363,
+      "rating": 863431,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 5081,
       "raids": 26004,
       "season": 32,
-      "rating": 841472,
+      "rating": 841582,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -204,11 +204,11 @@
       "prefix": "Tsd",
       "level": 102,
       "xpPercent": 64,
-      "territories": 60,
+      "territories": 58,
       "wars": 36740,
       "raids": 15214,
       "season": 32,
-      "rating": 270167,
+      "rating": 270264,
       "isCurrentSeason": true,
       "rank": 15
     }
