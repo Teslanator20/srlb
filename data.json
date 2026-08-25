@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T11:45:31.846Z",
+  "updated": "2026-08-25T11:50:33.008Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 256,
-      "xpPercent": 19,
-      "territories": 71,
-      "wars": 156971,
+      "xpPercent": 20,
+      "territories": 67,
+      "wars": 156980,
       "raids": 160543,
       "season": 32,
-      "rating": 8068179,
+      "rating": 8069355,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 186,
       "xpPercent": 53,
-      "territories": 24,
-      "wars": 173496,
+      "territories": 25,
+      "wars": 173515,
       "raids": 86277,
       "season": 32,
-      "rating": 8063721,
+      "rating": 8064852,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226954,
       "raids": 27816,
       "season": 32,
-      "rating": 4030867,
+      "rating": 4031156,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33546,
       "raids": 26079,
       "season": 32,
-      "rating": 2168805,
+      "rating": 2169385,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119304,
       "raids": 23635,
       "season": 32,
-      "rating": 2164108,
+      "rating": 2164256,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98403,
       "raids": 6193,
       "season": 32,
-      "rating": 1796958,
+      "rating": 1797106,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 29018,
       "raids": 2931,
       "season": 32,
-      "rating": 946148,
+      "rating": 946272,
       "isCurrentSeason": true,
       "rank": 8
     },
