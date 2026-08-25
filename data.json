@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T12:05:26.760Z",
+  "updated": "2026-08-25T12:10:33.777Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 256,
       "xpPercent": 20,
-      "territories": 59,
-      "wars": 157002,
+      "territories": 58,
+      "wars": 157017,
       "raids": 160551,
       "season": 32,
-      "rating": 8073078,
+      "rating": 8074652,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 186,
       "xpPercent": 54,
-      "territories": 38,
-      "wars": 173543,
+      "territories": 36,
+      "wars": 173553,
       "raids": 86282,
       "season": 32,
-      "rating": 8067678,
+      "rating": 8068605,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226954,
       "raids": 27817,
       "season": 32,
-      "rating": 4032129,
+      "rating": 4032621,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33546,
       "raids": 26081,
       "season": 32,
-      "rating": 2170261,
+      "rating": 2170871,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119304,
       "raids": 23635,
       "season": 32,
-      "rating": 2164846,
+      "rating": 2164994,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98405,
       "raids": 6193,
       "season": 32,
-      "rating": 1797751,
+      "rating": 1797900,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 29018,
       "raids": 2931,
       "season": 32,
-      "rating": 946770,
+      "rating": 946894,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -147,12 +147,12 @@
       "name": "Anime Lovers",
       "prefix": "Zamn",
       "level": 120,
-      "xpPercent": 74,
+      "xpPercent": 75,
       "territories": 0,
       "wars": 5081,
       "raids": 26286,
       "season": 32,
-      "rating": 900262,
+      "rating": 900372,
       "isCurrentSeason": true,
       "rank": 11
     },
