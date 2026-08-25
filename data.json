@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T16:08:52.135Z",
+  "updated": "2026-08-25T16:10:34.798Z",
   "season": 32,
   "guilds": [
     {
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 186,
       "xpPercent": 56,
-      "territories": 41,
-      "wars": 173896,
+      "territories": 36,
+      "wars": 173898,
       "raids": 86305,
       "season": 32,
-      "rating": 8096805,
+      "rating": 8097045,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -120,11 +120,11 @@
       "prefix": "Crrs",
       "level": 101,
       "xpPercent": 63,
-      "territories": 1,
+      "territories": 0,
       "wars": 11693,
       "raids": 6168,
       "season": 32,
-      "rating": 947893,
+      "rating": 947905,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -177,7 +177,7 @@
       "level": 141,
       "xpPercent": 83,
       "territories": 0,
-      "wars": 169695,
+      "wars": 169696,
       "raids": 20623,
       "season": 32,
       "rating": 493768,
