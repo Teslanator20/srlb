@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T06:25:26.770Z",
+  "updated": "2026-08-25T06:30:39.316Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 186,
-      "xpPercent": 44,
-      "territories": 14,
-      "wars": 173252,
+      "xpPercent": 45,
+      "territories": 9,
+      "wars": 173259,
       "raids": 86176,
       "season": 32,
-      "rating": 8011894,
+      "rating": 8012919,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "SEQ",
       "level": 256,
       "xpPercent": 11,
-      "territories": 79,
-      "wars": 156722,
+      "territories": 84,
+      "wars": 156724,
       "raids": 160432,
       "season": 32,
-      "rating": 8006778,
+      "rating": 8007865,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226954,
       "raids": 27757,
       "season": 32,
-      "rating": 4001413,
+      "rating": 4001955,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 119304,
       "raids": 23635,
       "season": 32,
-      "rating": 2152263,
+      "rating": 2152484,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "PUN",
       "level": 128,
       "xpPercent": 96,
-      "territories": 20,
-      "wars": 33523,
+      "territories": 18,
+      "wars": 33524,
       "raids": 26020,
       "season": 32,
-      "rating": 2146958,
+      "rating": 2147179,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98397,
       "raids": 6188,
       "season": 32,
-      "rating": 1784644,
+      "rating": 1784868,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 11664,
       "raids": 6160,
       "season": 32,
-      "rating": 941196,
+      "rating": 941367,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 28977,
       "raids": 2931,
       "season": 32,
-      "rating": 941059,
+      "rating": 941217,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -135,10 +135,10 @@
       "level": 118,
       "xpPercent": 34,
       "territories": 1,
-      "wars": 66208,
+      "wars": 66209,
       "raids": 13829,
       "season": 32,
-      "rating": 901472,
+      "rating": 901496,
       "isCurrentSeason": true,
       "rank": 10
     },
