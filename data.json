@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T08:55:26.323Z",
+  "updated": "2026-08-26T09:00:48.772Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 256,
       "xpPercent": 56,
-      "territories": 61,
-      "wars": 158706,
+      "territories": 70,
+      "wars": 158713,
       "raids": 160945,
       "season": 32,
-      "rating": 8353419,
+      "rating": 8354970,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 186,
-      "xpPercent": 78,
-      "territories": 29,
-      "wars": 175044,
+      "xpPercent": 79,
+      "territories": 25,
+      "wars": 175050,
       "raids": 86557,
       "season": 32,
-      "rating": 8272025,
+      "rating": 8272855,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 226981,
       "raids": 27998,
       "season": 32,
-      "rating": 4135165,
+      "rating": 4135673,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33552,
       "raids": 26230,
       "season": 32,
-      "rating": 2258808,
+      "rating": 2259657,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119316,
       "raids": 23668,
       "season": 32,
-      "rating": 2224711,
+      "rating": 2224933,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -79,10 +79,10 @@
       "level": 108,
       "xpPercent": 73,
       "territories": 32,
-      "wars": 98434,
+      "wars": 98435,
       "raids": 6210,
       "season": 32,
-      "rating": 1853116,
+      "rating": 1853451,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -152,7 +152,7 @@
       "wars": 5081,
       "raids": 26327,
       "season": 32,
-      "rating": 907462,
+      "rating": 907982,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -166,7 +166,7 @@
       "wars": 44784,
       "raids": 25785,
       "season": 32,
-      "rating": 772399,
+      "rating": 772459,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -180,7 +180,7 @@
       "wars": 169750,
       "raids": 20655,
       "season": 32,
-      "rating": 514611,
+      "rating": 514790,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -189,12 +189,12 @@
       "name": "TruthSworD",
       "prefix": "Tsd",
       "level": 102,
-      "xpPercent": 72,
+      "xpPercent": 73,
       "territories": 0,
       "wars": 36806,
       "raids": 15298,
       "season": 32,
-      "rating": 312479,
+      "rating": 312889,
       "isCurrentSeason": true,
       "rank": 14
     },
