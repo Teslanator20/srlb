@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T09:45:32.318Z",
+  "updated": "2026-08-27T09:50:30.739Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 257,
-      "xpPercent": 1,
-      "territories": 97,
+      "xpPercent": 2,
+      "territories": 98,
       "wars": 160000,
       "raids": 161488,
       "season": 32,
-      "rating": 8738232,
+      "rating": 8739584,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 187,
       "xpPercent": 8,
-      "territories": 4,
-      "wars": 176165,
+      "territories": 6,
+      "wars": 176166,
       "raids": 86900,
       "season": 32,
-      "rating": 8517432,
+      "rating": 8517707,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,9 +40,23 @@
       "wars": 227044,
       "raids": 28161,
       "season": 32,
-      "rating": 4273727,
+      "rating": 4274016,
       "isCurrentSeason": true,
       "rank": 3
+    },
+    {
+      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+      "name": "Paladins United",
+      "prefix": "PUN",
+      "level": 129,
+      "xpPercent": 24,
+      "territories": 22,
+      "wars": 33560,
+      "raids": 26371,
+      "season": 32,
+      "rating": 2382015,
+      "isCurrentSeason": true,
+      "rank": 4
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -54,9 +68,9 @@
       "wars": 119323,
       "raids": 23702,
       "season": 32,
-      "rating": 2318336,
+      "rating": 2318558,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 5
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -64,13 +78,13 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 75,
-      "territories": 32,
+      "territories": 31,
       "wars": 98449,
       "raids": 6249,
       "season": 32,
-      "rating": 1944636,
+      "rating": 1944970,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 6
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -84,7 +98,7 @@
       "season": 32,
       "rating": 1005784,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 7
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -98,7 +112,7 @@
       "season": 32,
       "rating": 989675,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 8
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -112,7 +126,7 @@
       "season": 32,
       "rating": 965554,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -121,26 +135,26 @@
       "level": 118,
       "xpPercent": 38,
       "territories": 0,
-      "wars": 66427,
+      "wars": 66428,
       "raids": 13879,
       "season": 32,
       "rating": 959823,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
       "name": "Anime Lovers",
       "prefix": "Zamn",
       "level": 120,
-      "xpPercent": 83,
+      "xpPercent": 84,
       "territories": 0,
       "wars": 5081,
       "raids": 26490,
       "season": 32,
-      "rating": 935522,
+      "rating": 935742,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -154,7 +168,7 @@
       "season": 32,
       "rating": 778889,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -168,7 +182,7 @@
       "season": 32,
       "rating": 544378,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -182,7 +196,7 @@
       "season": 32,
       "rating": 335209,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "PUN",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
