@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T12:30:42.889Z",
+  "updated": "2026-08-27T12:35:27.995Z",
   "season": 32,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 6,
       "territories": 104,
       "wars": 160041,
-      "raids": 161540,
+      "raids": 161543,
       "season": 32,
-      "rating": 8776429,
+      "rating": 8777641,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -38,11 +38,25 @@
       "xpPercent": 54,
       "territories": 56,
       "wars": 227048,
-      "raids": 28179,
+      "raids": 28180,
       "season": 32,
-      "rating": 4288783,
+      "rating": 4289205,
       "isCurrentSeason": true,
       "rank": 3
+    },
+    {
+      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+      "name": "Paladins United",
+      "prefix": "PUN",
+      "level": 129,
+      "xpPercent": 26,
+      "territories": 22,
+      "wars": 33560,
+      "raids": 26390,
+      "season": 32,
+      "rating": 2396366,
+      "isCurrentSeason": true,
+      "rank": 4
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -54,9 +68,9 @@
       "wars": 119323,
       "raids": 23705,
       "season": 32,
-      "rating": 2328845,
+      "rating": 2329066,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 5
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -68,9 +82,9 @@
       "wars": 98450,
       "raids": 6254,
       "season": 32,
-      "rating": 1954550,
+      "rating": 1954886,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 6
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -84,7 +98,7 @@
       "season": 32,
       "rating": 1005784,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 7
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -98,7 +112,7 @@
       "season": 32,
       "rating": 992325,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 8
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -106,13 +120,13 @@
       "prefix": "PLHR",
       "level": 83,
       "xpPercent": 97,
-      "territories": 14,
-      "wars": 29111,
+      "territories": 13,
+      "wars": 29115,
       "raids": 2969,
       "season": 32,
-      "rating": 970087,
+      "rating": 970454,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -126,7 +140,7 @@
       "season": 32,
       "rating": 960804,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -136,11 +150,11 @@
       "xpPercent": 85,
       "territories": 0,
       "wars": 5081,
-      "raids": 26507,
+      "raids": 26508,
       "season": 32,
       "rating": 939902,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -154,7 +168,7 @@
       "season": 32,
       "rating": 778889,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -166,9 +180,9 @@
       "wars": 169843,
       "raids": 20698,
       "season": 32,
-      "rating": 545527,
+      "rating": 545635,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -182,7 +196,7 @@
       "season": 32,
       "rating": 335869,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "PUN",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
