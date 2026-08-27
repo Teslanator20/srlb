@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T06:55:28.765Z",
+  "updated": "2026-08-27T07:00:57.445Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 256,
       "xpPercent": 98,
-      "territories": 56,
-      "wars": 159846,
+      "territories": 61,
+      "wars": 159853,
       "raids": 161452,
       "season": 32,
-      "rating": 8702865,
+      "rating": 8703659,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 187,
-      "xpPercent": 5,
-      "territories": 29,
-      "wars": 176025,
+      "xpPercent": 6,
+      "territories": 17,
+      "wars": 176028,
       "raids": 86874,
       "season": 32,
-      "rating": 8491418,
+      "rating": 8492326,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 227042,
       "raids": 28150,
       "season": 32,
-      "rating": 4259637,
+      "rating": 4260070,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -49,12 +49,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 129,
-      "xpPercent": 21,
+      "xpPercent": 22,
       "territories": 22,
       "wars": 33560,
       "raids": 26345,
       "season": 32,
-      "rating": 2364723,
+      "rating": 2365433,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119323,
       "raids": 23698,
       "season": 32,
-      "rating": 2307171,
+      "rating": 2307503,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -79,10 +79,10 @@
       "level": 108,
       "xpPercent": 75,
       "territories": 32,
-      "wars": 98448,
+      "wars": 98449,
       "raids": 6249,
       "season": 32,
-      "rating": 1935124,
+      "rating": 1935516,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -152,7 +152,7 @@
       "wars": 5081,
       "raids": 26461,
       "season": 32,
-      "rating": 928282,
+      "rating": 928562,
       "isCurrentSeason": true,
       "rank": 11
     },
