@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T22:43:53.878Z",
+  "updated": "2026-08-28T22:45:31.162Z",
   "season": 32,
   "guilds": [
     {
@@ -24,9 +24,9 @@
       "xpPercent": 37,
       "territories": 0,
       "wars": 176316,
-      "raids": 87335,
+      "raids": 87339,
       "season": 32,
-      "rating": 8661610,
+      "rating": 8661830,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 70,
       "territories": 59,
       "wars": 227136,
-      "raids": 28503,
+      "raids": 28505,
       "season": 32,
-      "rating": 4503660,
+      "rating": 4503965,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -108,7 +108,7 @@
       "xpPercent": 30,
       "territories": 0,
       "wars": 474,
-      "raids": 29762,
+      "raids": 29763,
       "season": 32,
       "rating": 1020014,
       "isCurrentSeason": true,
@@ -119,12 +119,12 @@
       "name": "Cirrus",
       "prefix": "Crrs",
       "level": 101,
-      "xpPercent": 75,
+      "xpPercent": 76,
       "territories": 0,
       "wars": 11916,
-      "raids": 6375,
+      "raids": 6378,
       "season": 32,
-      "rating": 1014428,
+      "rating": 1014838,
       "isCurrentSeason": true,
       "rank": 9
     },
