@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T18:50:58.255Z",
+  "updated": "2026-08-31T18:55:29.659Z",
   "season": 32,
   "guilds": [
     {
@@ -8,13 +8,27 @@
       "prefix": "SEQ",
       "level": 258,
       "xpPercent": 46,
-      "territories": 86,
+      "territories": 85,
       "wars": 160901,
-      "raids": 163209,
+      "raids": 163211,
       "season": 32,
-      "rating": 9979953,
+      "rating": 9980745,
       "isCurrentSeason": true,
       "rank": 1
+    },
+    {
+      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+      "name": "Aequitas",
+      "prefix": "Aeq",
+      "level": 187,
+      "xpPercent": 68,
+      "territories": 0,
+      "wars": 176812,
+      "raids": 87801,
+      "season": 32,
+      "rating": 8865158,
+      "isCurrentSeason": true,
+      "rank": 2
     },
     {
       "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
@@ -22,13 +36,13 @@
       "prefix": "AVO",
       "level": 137,
       "xpPercent": 93,
-      "territories": 58,
-      "wars": 227382,
+      "territories": 59,
+      "wars": 227383,
       "raids": 28863,
       "season": 32,
-      "rating": 4903546,
+      "rating": 4903964,
       "isCurrentSeason": true,
-      "rank": 2
+      "rank": 3
     },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
@@ -38,11 +52,25 @@
       "xpPercent": 84,
       "territories": 22,
       "wars": 33692,
-      "raids": 27053,
+      "raids": 27055,
       "season": 32,
-      "rating": 2909128,
+      "rating": 2909628,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 127,
+      "xpPercent": 63,
+      "territories": 27,
+      "wars": 119404,
+      "raids": 23894,
+      "season": 32,
+      "rating": 2733217,
+      "isCurrentSeason": true,
+      "rank": 5
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -52,11 +80,11 @@
       "xpPercent": 85,
       "territories": 32,
       "wars": 98837,
-      "raids": 6401,
+      "raids": 6402,
       "season": 32,
-      "rating": 2347109,
+      "rating": 2347499,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 6
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -68,9 +96,9 @@
       "wars": 29920,
       "raids": 3055,
       "season": 32,
-      "rating": 1285308,
+      "rating": 1285599,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 7
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -80,25 +108,25 @@
       "xpPercent": 53,
       "territories": 0,
       "wars": 474,
-      "raids": 30120,
+      "raids": 30122,
       "season": 32,
-      "rating": 1108094,
+      "rating": 1108364,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 8
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
       "name": "Anime Lovers",
       "prefix": "Zamn",
       "level": 121,
-      "xpPercent": 15,
+      "xpPercent": 16,
       "territories": 0,
       "wars": 5081,
-      "raids": 27135,
+      "raids": 27138,
       "season": 32,
-      "rating": 1069442,
+      "rating": 1070072,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 9
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -106,13 +134,13 @@
       "prefix": "Crrs",
       "level": 101,
       "xpPercent": 83,
-      "territories": 57,
+      "territories": 58,
       "wars": 12037,
-      "raids": 6518,
+      "raids": 6519,
       "season": 32,
-      "rating": 1068847,
+      "rating": 1069263,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 10
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -126,7 +154,7 @@
       "season": 32,
       "rating": 1046039,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 11
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -136,11 +164,25 @@
       "xpPercent": 73,
       "territories": 0,
       "wars": 44784,
-      "raids": 25965,
+      "raids": 25966,
       "season": 32,
       "rating": 813099,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 12
+    },
+    {
+      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
+      "name": "The Aquarium",
+      "prefix": "TAq",
+      "level": 141,
+      "xpPercent": 96,
+      "territories": 4,
+      "wars": 170174,
+      "raids": 20846,
+      "season": 32,
+      "rating": 627284,
+      "isCurrentSeason": true,
+      "rank": 13
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -154,7 +196,7 @@
       "season": 32,
       "rating": 415864,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -168,21 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 12
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "Aeq",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "ANO",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "The Aquarium",
-      "error": "This operation was aborted"
-    }
-  ]
+  "errors": []
 }
