@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T21:30:38.115Z",
+  "updated": "2026-09-01T21:35:25.460Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 258,
       "xpPercent": 80,
-      "territories": 83,
+      "territories": 85,
       "wars": 160960,
-      "raids": 163645,
+      "raids": 163647,
       "season": 32,
-      "rating": 10266950,
+      "rating": 10267419,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 81,
       "territories": 0,
       "wars": 176854,
-      "raids": 88073,
+      "raids": 88076,
       "season": 32,
-      "rating": 8927425,
+      "rating": 8928245,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 100,
       "territories": 59,
       "wars": 227502,
-      "raids": 29000,
+      "raids": 29001,
       "season": 32,
-      "rating": 5051197,
+      "rating": 5052010,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33781,
       "raids": 27149,
       "season": 32,
-      "rating": 3016176,
+      "rating": 3016476,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119418,
       "raids": 23947,
       "season": 32,
-      "rating": 2833129,
+      "rating": 2833462,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,12 +77,12 @@
       "name": "KongoBoys",
       "prefix": "DUDE",
       "level": 108,
-      "xpPercent": 87,
+      "xpPercent": 88,
       "territories": 32,
       "wars": 98844,
-      "raids": 6458,
+      "raids": 6459,
       "season": 32,
-      "rating": 2449098,
+      "rating": 2449704,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -108,9 +108,9 @@
       "xpPercent": 89,
       "territories": 59,
       "wars": 12136,
-      "raids": 6629,
+      "raids": 6632,
       "season": 32,
-      "rating": 1208403,
+      "rating": 1208886,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -192,9 +192,9 @@
       "xpPercent": 99,
       "territories": 0,
       "wars": 36877,
-      "raids": 15573,
+      "raids": 15574,
       "season": 32,
-      "rating": 432884,
+      "rating": 432994,
       "isCurrentSeason": true,
       "rank": 14
     },
