@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T19:15:33.119Z",
+  "updated": "2026-09-02T19:20:35.693Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 258,
       "xpPercent": 94,
-      "territories": 88,
-      "wars": 161256,
+      "territories": 86,
+      "wars": 161257,
       "raids": 163817,
       "season": 32,
-      "rating": 10453259,
+      "rating": 10454322,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 177240,
       "raids": 88147,
       "season": 32,
-      "rating": 9003855,
+      "rating": 9004239,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 227677,
       "raids": 29077,
       "season": 32,
-      "rating": 5175673,
+      "rating": 5175985,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33790,
       "raids": 27261,
       "season": 32,
-      "rating": 3113441,
+      "rating": 3113741,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119427,
       "raids": 23964,
       "season": 32,
-      "rating": 2910569,
+      "rating": 2910902,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 108,
       "xpPercent": 91,
-      "territories": 30,
+      "territories": 31,
       "wars": 98850,
       "raids": 6496,
       "season": 32,
-      "rating": 2534472,
+      "rating": 2534863,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 12174,
       "raids": 6684,
       "season": 32,
-      "rating": 1266792,
+      "rating": 1267582,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -129,6 +129,20 @@
       "rank": 9
     },
     {
+      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
+      "name": "Nerfuria",
+      "prefix": "Nia",
+      "level": 118,
+      "xpPercent": 48,
+      "territories": 4,
+      "wars": 67209,
+      "raids": 14004,
+      "season": 32,
+      "rating": 1130088,
+      "isCurrentSeason": true,
+      "rank": 10
+    },
+    {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
       "name": "Anime Lovers",
       "prefix": "Zamn",
@@ -138,21 +152,7 @@
       "wars": 5081,
       "raids": 27443,
       "season": 32,
-      "rating": 1129492,
-      "isCurrentSeason": true,
-      "rank": 10
-    },
-    {
-      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-      "name": "Nerfuria",
-      "prefix": "Nia",
-      "level": 118,
-      "xpPercent": 48,
-      "territories": 5,
-      "wars": 67209,
-      "raids": 14004,
-      "season": 32,
-      "rating": 1129459,
+      "rating": 1129882,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -194,7 +194,7 @@
       "wars": 36877,
       "raids": 15600,
       "season": 32,
-      "rating": 442374,
+      "rating": 442784,
       "isCurrentSeason": true,
       "rank": 14
     },
