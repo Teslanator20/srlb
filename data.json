@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T19:45:35.839Z",
+  "updated": "2026-09-02T19:50:35.153Z",
   "season": 32,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 161259,
       "raids": 163827,
       "season": 32,
-      "rating": 10459068,
+      "rating": 10460057,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 177240,
       "raids": 88156,
       "season": 32,
-      "rating": 9007175,
+      "rating": 9007541,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 227677,
       "raids": 29077,
       "season": 32,
-      "rating": 5177806,
+      "rating": 5178242,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33790,
       "raids": 27263,
       "season": 32,
-      "rating": 3115420,
+      "rating": 3115959,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119427,
       "raids": 23964,
       "season": 32,
-      "rating": 2912230,
+      "rating": 2912451,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98850,
       "raids": 6499,
       "season": 32,
-      "rating": 2537256,
+      "rating": 2537921,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 12174,
       "raids": 6691,
       "season": 32,
-      "rating": 1268712,
+      "rating": 1269202,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -129,6 +129,20 @@
       "rank": 9
     },
     {
+      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
+      "name": "Anime Lovers",
+      "prefix": "Zamn",
+      "level": 121,
+      "xpPercent": 32,
+      "territories": 0,
+      "wars": 5081,
+      "raids": 27448,
+      "season": 32,
+      "rating": 1131832,
+      "isCurrentSeason": true,
+      "rank": 10
+    },
+    {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
       "name": "Nerfuria",
       "prefix": "Nia",
@@ -139,20 +153,6 @@
       "raids": 14012,
       "season": 32,
       "rating": 1131510,
-      "isCurrentSeason": true,
-      "rank": 10
-    },
-    {
-      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
-      "name": "Anime Lovers",
-      "prefix": "Zamn",
-      "level": 121,
-      "xpPercent": 32,
-      "territories": 0,
-      "wars": 5081,
-      "raids": 27448,
-      "season": 32,
-      "rating": 1131442,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -194,7 +194,7 @@
       "wars": 36877,
       "raids": 15603,
       "season": 32,
-      "rating": 443604,
+      "rating": 444014,
       "isCurrentSeason": true,
       "rank": 14
     },
