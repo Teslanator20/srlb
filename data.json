@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T18:45:31.955Z",
+  "updated": "2026-09-03T18:50:30.071Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 259,
-      "xpPercent": 19,
+      "xpPercent": 20,
       "territories": 84,
       "wars": 161562,
       "raids": 164182,
       "season": 32,
-      "rating": 10697162,
+      "rating": 10698512,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 177541,
       "raids": 88423,
       "season": 32,
-      "rating": 9102305,
+      "rating": 9102415,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 138,
       "xpPercent": 13,
-      "territories": 57,
+      "territories": 56,
       "wars": 227711,
       "raids": 29165,
       "season": 32,
-      "rating": 5303469,
+      "rating": 5303942,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -49,12 +49,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 130,
-      "xpPercent": 11,
+      "xpPercent": 12,
       "territories": 21,
       "wars": 33819,
       "raids": 27381,
       "season": 32,
-      "rating": 3219108,
+      "rating": 3219833,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119438,
       "raids": 23971,
       "season": 32,
-      "rating": 2990683,
+      "rating": 2991071,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98864,
       "raids": 6525,
       "season": 32,
-      "rating": 2621395,
+      "rating": 2621783,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 12279,
       "raids": 6744,
       "season": 32,
-      "rating": 1325156,
+      "rating": 1325192,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -124,7 +124,7 @@
       "wars": 5083,
       "raids": 27573,
       "season": 32,
-      "rating": 1157292,
+      "rating": 1157402,
       "isCurrentSeason": true,
       "rank": 9
     },
