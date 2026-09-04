@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T08:20:31.672Z",
+  "updated": "2026-09-04T08:25:26.626Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 259,
       "xpPercent": 31,
-      "territories": 80,
-      "wars": 161656,
-      "raids": 164345,
+      "territories": 78,
+      "wars": 161661,
+      "raids": 164346,
       "season": 32,
-      "rating": 10824585,
+      "rating": 10825596,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 188,
       "xpPercent": 11,
-      "territories": 13,
-      "wars": 177713,
+      "territories": 14,
+      "wars": 177715,
       "raids": 88559,
       "season": 32,
-      "rating": 9196408,
+      "rating": 9197348,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 16,
       "territories": 59,
       "wars": 227745,
-      "raids": 29231,
+      "raids": 29232,
       "season": 32,
-      "rating": 5376474,
+      "rating": 5377157,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33820,
       "raids": 27421,
       "season": 32,
-      "rating": 3273071,
+      "rating": 3273271,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119455,
       "raids": 23990,
       "season": 32,
-      "rating": 3043666,
+      "rating": 3043888,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98867,
       "raids": 6534,
       "season": 32,
-      "rating": 2668220,
+      "rating": 2668537,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -119,12 +119,12 @@
       "name": "Anime Lovers",
       "prefix": "Zamn",
       "level": 121,
-      "xpPercent": 44,
+      "xpPercent": 45,
       "territories": 0,
       "wars": 5085,
-      "raids": 27669,
+      "raids": 27671,
       "season": 32,
-      "rating": 1184051,
+      "rating": 1184511,
       "isCurrentSeason": true,
       "rank": 9
     },
