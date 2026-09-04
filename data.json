@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T22:15:29.708Z",
+  "updated": "2026-09-04T22:20:29.978Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 259,
       "xpPercent": 49,
-      "territories": 87,
+      "territories": 85,
       "wars": 161690,
       "raids": 164548,
       "season": 32,
-      "rating": 10973292,
+      "rating": 10974175,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 177927,
       "raids": 88657,
       "season": 32,
-      "rating": 9260499,
+      "rating": 9260859,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 138,
       "xpPercent": 20,
-      "territories": 58,
+      "territories": 59,
       "wars": 227925,
       "raids": 29297,
       "season": 32,
-      "rating": 5452179,
+      "rating": 5452599,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33820,
       "raids": 27495,
       "season": 32,
-      "rating": 3336299,
+      "rating": 3336549,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119456,
       "raids": 24001,
       "season": 32,
-      "rating": 3094468,
+      "rating": 3094745,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 98880,
       "raids": 6566,
       "season": 32,
-      "rating": 2722133,
+      "rating": 2722413,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 15,
-      "territories": 8,
+      "territories": 3,
       "wars": 30357,
       "raids": 3075,
       "season": 32,
-      "rating": 1379433,
+      "rating": 1379556,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -106,11 +106,11 @@
       "prefix": "Crrs",
       "level": 102,
       "xpPercent": 6,
-      "territories": 51,
-      "wars": 12388,
+      "territories": 56,
+      "wars": 12389,
       "raids": 6850,
       "season": 32,
-      "rating": 1360659,
+      "rating": 1361292,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -133,12 +133,12 @@
       "name": "Nerfuria",
       "prefix": "Nia",
       "level": 118,
-      "xpPercent": 56,
+      "xpPercent": 57,
       "territories": 0,
       "wars": 67433,
       "raids": 14122,
       "season": 32,
-      "rating": 1184448,
+      "rating": 1184768,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -152,7 +152,7 @@
       "wars": 479,
       "raids": 30415,
       "season": 32,
-      "rating": 1175378,
+      "rating": 1175648,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -180,7 +180,7 @@
       "wars": 170248,
       "raids": 20946,
       "season": 32,
-      "rating": 661931,
+      "rating": 662341,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -194,7 +194,7 @@
       "wars": 37067,
       "raids": 15654,
       "season": 32,
-      "rating": 488925,
+      "rating": 489784,
       "isCurrentSeason": true,
       "rank": 14
     },
