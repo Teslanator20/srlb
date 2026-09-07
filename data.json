@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T11:30:46.474Z",
+  "updated": "2026-09-07T11:35:26.525Z",
   "season": 32,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 37,
       "territories": 85,
       "wars": 161838,
-      "raids": 165750,
+      "raids": 165752,
       "season": 32,
-      "rating": 11774282,
+      "rating": 11774750,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 46,
       "territories": 0,
       "wars": 178444,
-      "raids": 89290,
+      "raids": 89292,
       "season": 32,
-      "rating": 9628380,
+      "rating": 9628600,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 43,
       "territories": 59,
       "wars": 228024,
-      "raids": 29749,
+      "raids": 29751,
       "season": 32,
-      "rating": 5899685,
+      "rating": 5900166,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33849,
       "raids": 27901,
       "season": 32,
-      "rating": 3696254,
+      "rating": 3696520,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119477,
       "raids": 24104,
       "season": 32,
-      "rating": 3384519,
+      "rating": 3384888,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,12 +77,12 @@
       "name": "KongoBoys",
       "prefix": "DUDE",
       "level": 109,
-      "xpPercent": 2,
+      "xpPercent": 4,
       "territories": 32,
       "wars": 99016,
       "raids": 6684,
       "season": 32,
-      "rating": 3017672,
+      "rating": 3018045,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -176,11 +176,11 @@
       "prefix": "TAq",
       "level": 142,
       "xpPercent": 13,
-      "territories": 0,
-      "wars": 170342,
+      "territories": 1,
+      "wars": 170344,
       "raids": 21163,
       "season": 32,
-      "rating": 726256,
+      "rating": 726364,
       "isCurrentSeason": true,
       "rank": 13
     },
