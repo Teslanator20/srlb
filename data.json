@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T16:30:42.916Z",
+  "updated": "2026-09-08T16:35:27.332Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 260,
       "xpPercent": 94,
-      "territories": 84,
+      "territories": 83,
       "wars": 161963,
-      "raids": 166469,
+      "raids": 166472,
       "season": 32,
-      "rating": 12233241,
+      "rating": 12234596,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 188,
       "xpPercent": 59,
-      "territories": 0,
-      "wars": 178542,
+      "territories": 1,
+      "wars": 178543,
       "raids": 89570,
       "season": 32,
-      "rating": 9698601,
+      "rating": 9698733,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 228066,
       "raids": 29900,
       "season": 32,
-      "rating": 6105636,
+      "rating": 6106021,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33852,
       "raids": 28077,
       "season": 32,
-      "rating": 3868388,
+      "rating": 3868654,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119496,
       "raids": 24128,
       "season": 32,
-      "rating": 3523842,
+      "rating": 3524284,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -80,9 +80,9 @@
       "xpPercent": 8,
       "territories": 31,
       "wars": 99103,
-      "raids": 6731,
+      "raids": 6733,
       "season": 32,
-      "rating": 3160190,
+      "rating": 3160963,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -91,12 +91,12 @@
       "name": "Cirrus",
       "prefix": "Crrs",
       "level": 102,
-      "xpPercent": 43,
+      "xpPercent": 44,
       "territories": 58,
       "wars": 12674,
-      "raids": 7269,
+      "raids": 7272,
       "season": 32,
-      "rating": 1644310,
+      "rating": 1645042,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -106,11 +106,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 20,
-      "territories": 6,
-      "wars": 30450,
+      "territories": 8,
+      "wars": 30451,
       "raids": 3113,
       "season": 32,
-      "rating": 1448177,
+      "rating": 1448684,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -122,25 +122,11 @@
       "xpPercent": 9,
       "territories": 0,
       "wars": 479,
-      "raids": 30939,
+      "raids": 30940,
       "season": 32,
-      "rating": 1325888,
+      "rating": 1326108,
       "isCurrentSeason": true,
       "rank": 9
-    },
-    {
-      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-      "name": "Nerfuria",
-      "prefix": "Nia",
-      "level": 118,
-      "xpPercent": 71,
-      "territories": 0,
-      "wars": 67819,
-      "raids": 14314,
-      "season": 32,
-      "rating": 1312896,
-      "isCurrentSeason": true,
-      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -150,11 +136,11 @@
       "xpPercent": 70,
       "territories": 0,
       "wars": 5087,
-      "raids": 28256,
+      "raids": 28257,
       "season": 32,
       "rating": 1289905,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 10
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -168,7 +154,7 @@
       "season": 32,
       "rating": 836717,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -178,11 +164,11 @@
       "xpPercent": 20,
       "territories": 0,
       "wars": 170347,
-      "raids": 21269,
+      "raids": 21270,
       "season": 32,
       "rating": 758102,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -196,7 +182,7 @@
       "season": 32,
       "rating": 563022,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -210,8 +196,13 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "Nia",
+      "error": "HTTP 500"
+    }
+  ]
 }
