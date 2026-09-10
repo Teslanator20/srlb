@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T22:25:27.782Z",
+  "updated": "2026-09-10T22:30:45.539Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 261,
-      "xpPercent": 79,
+      "xpPercent": 80,
       "territories": 85,
       "wars": 162270,
       "raids": 167560,
       "season": 32,
-      "rating": 12992189,
+      "rating": 12993427,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 73,
       "territories": 0,
       "wars": 178894,
-      "raids": 89884,
+      "raids": 89888,
       "season": 32,
-      "rating": 9832557,
+      "rating": 9832887,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 138,
       "xpPercent": 70,
-      "territories": 61,
+      "territories": 62,
       "wars": 228190,
-      "raids": 30184,
+      "raids": 30188,
       "season": 32,
-      "rating": 6493687,
+      "rating": 6494780,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33936,
       "raids": 28316,
       "season": 32,
-      "rating": 4165248,
+      "rating": 4165514,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119561,
       "raids": 24152,
       "season": 32,
-      "rating": 3775468,
+      "rating": 3775760,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,12 +77,12 @@
       "name": "KongoBoys",
       "prefix": "DUDE",
       "level": 109,
-      "xpPercent": 12,
+      "xpPercent": 13,
       "territories": 32,
       "wars": 99257,
       "raids": 6842,
       "season": 32,
-      "rating": 3421793,
+      "rating": 3422422,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 12983,
       "raids": 7469,
       "season": 32,
-      "rating": 1882319,
+      "rating": 1882750,
       "isCurrentSeason": true,
       "rank": 7
     },
