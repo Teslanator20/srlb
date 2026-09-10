@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T17:25:31.369Z",
+  "updated": "2026-09-10T17:30:41.152Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 261,
-      "xpPercent": 67,
+      "xpPercent": 68,
       "territories": 85,
       "wars": 162270,
-      "raids": 167394,
+      "raids": 167398,
       "season": 32,
-      "rating": 12904345,
+      "rating": 12907034,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 188,
       "xpPercent": 69,
-      "territories": 8,
-      "wars": 178842,
+      "territories": 6,
+      "wars": 178845,
       "raids": 89812,
       "season": 32,
-      "rating": 9805300,
+      "rating": 9805523,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -37,10 +37,10 @@
       "level": 138,
       "xpPercent": 67,
       "territories": 59,
-      "wars": 228128,
+      "wars": 228129,
       "raids": 30140,
       "season": 32,
-      "rating": 6447961,
+      "rating": 6448346,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 33931,
       "raids": 28295,
       "season": 32,
-      "rating": 4136506,
+      "rating": 4136906,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119561,
       "raids": 24152,
       "season": 32,
-      "rating": 3753326,
+      "rating": 3753768,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 99250,
       "raids": 6812,
       "season": 32,
-      "rating": 3392024,
+      "rating": 3392323,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -105,12 +105,12 @@
       "name": "Polish Hussars",
       "prefix": "PLHR",
       "level": 84,
-      "xpPercent": 21,
-      "territories": 8,
+      "xpPercent": 22,
+      "territories": 0,
       "wars": 30779,
       "raids": 3125,
       "season": 32,
-      "rating": 1593475,
+      "rating": 1593703,
       "isCurrentSeason": true,
       "rank": 8
     },
