@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T10:10:30.370Z",
+  "updated": "2026-09-11T10:15:32.904Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 261,
       "xpPercent": 96,
-      "territories": 79,
+      "territories": 76,
       "wars": 162301,
       "raids": 167782,
       "season": 32,
-      "rating": 13151502,
+      "rating": 13152026,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,13 +22,27 @@
       "prefix": "Aeq",
       "level": 188,
       "xpPercent": 77,
-      "territories": 6,
-      "wars": 178920,
+      "territories": 10,
+      "wars": 178926,
       "raids": 89975,
       "season": 32,
-      "rating": 9854717,
+      "rating": 9855426,
       "isCurrentSeason": true,
       "rank": 2
+    },
+    {
+      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+      "name": "Avicia",
+      "prefix": "AVO",
+      "level": 138,
+      "xpPercent": 76,
+      "territories": 66,
+      "wars": 228305,
+      "raids": 30269,
+      "season": 32,
+      "rating": 6591005,
+      "isCurrentSeason": true,
+      "rank": 3
     },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
@@ -38,11 +52,11 @@
       "xpPercent": 98,
       "territories": 22,
       "wars": 33959,
-      "raids": 28396,
+      "raids": 28397,
       "season": 32,
-      "rating": 4247406,
+      "rating": 4247806,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 4
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -54,9 +68,9 @@
       "wars": 119606,
       "raids": 24159,
       "season": 32,
-      "rating": 3830060,
+      "rating": 3830503,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 5
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -68,9 +82,9 @@
       "wars": 99346,
       "raids": 6849,
       "season": 32,
-      "rating": 3459447,
+      "rating": 3459894,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 6
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -80,11 +94,11 @@
       "xpPercent": 62,
       "territories": 0,
       "wars": 13003,
-      "raids": 7518,
+      "raids": 7519,
       "season": 32,
-      "rating": 1918212,
+      "rating": 1918652,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 7
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -98,7 +112,7 @@
       "season": 32,
       "rating": 1634548,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 8
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -112,7 +126,7 @@
       "season": 32,
       "rating": 1414738,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -126,7 +140,7 @@
       "season": 32,
       "rating": 1393528,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -140,7 +154,7 @@
       "season": 32,
       "rating": 1338295,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -154,7 +168,7 @@
       "season": 32,
       "rating": 843017,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -166,9 +180,9 @@
       "wars": 170437,
       "raids": 21372,
       "season": 32,
-      "rating": 799742,
+      "rating": 800152,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -182,7 +196,7 @@
       "season": 32,
       "rating": 595802,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "AVO",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
