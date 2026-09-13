@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T01:20:32.021Z",
+  "updated": "2026-09-13T01:25:28.628Z",
   "season": 32,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 162396,
       "raids": 168262,
       "season": 32,
-      "rating": 13652784,
+      "rating": 13654057,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 179481,
       "raids": 90136,
       "season": 32,
-      "rating": 10181270,
+      "rating": 10182172,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 228605,
       "raids": 30429,
       "season": 32,
-      "rating": 6937579,
+      "rating": 6938445,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34000,
       "raids": 28523,
       "season": 32,
-      "rating": 4491731,
+      "rating": 4492330,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -63,12 +63,12 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 127,
-      "xpPercent": 87,
+      "xpPercent": 88,
       "territories": 31,
       "wars": 119619,
       "raids": 24208,
       "season": 32,
-      "rating": 4069271,
+      "rating": 4070315,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -96,7 +96,7 @@
       "wars": 13153,
       "raids": 7597,
       "season": 32,
-      "rating": 2044376,
+      "rating": 2044823,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -120,11 +120,11 @@
       "prefix": "Nia",
       "level": 118,
       "xpPercent": 80,
-      "territories": 0,
-      "wars": 68429,
+      "territories": 1,
+      "wars": 68430,
       "raids": 14443,
       "season": 32,
-      "rating": 1479268,
+      "rating": 1479430,
       "isCurrentSeason": true,
       "rank": 9
     },
