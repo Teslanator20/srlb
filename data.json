@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T12:10:33.210Z",
+  "updated": "2026-09-14T12:15:31.998Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 262,
       "xpPercent": 58,
-      "territories": 60,
-      "wars": 162522,
+      "territories": 70,
+      "wars": 162533,
       "raids": 168725,
       "season": 32,
-      "rating": 14149663,
+      "rating": 14152073,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 188,
       "xpPercent": 97,
-      "territories": 58,
+      "territories": 55,
       "wars": 179719,
       "raids": 90380,
       "season": 32,
-      "rating": 10417108,
+      "rating": 10417961,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 228771,
       "raids": 30570,
       "season": 32,
-      "rating": 7285844,
+      "rating": 7286710,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34035,
       "raids": 28595,
       "season": 32,
-      "rating": 4718417,
+      "rating": 4718817,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119647,
       "raids": 24262,
       "season": 32,
-      "rating": 4320120,
+      "rating": 4320563,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 109,
       "xpPercent": 19,
-      "territories": 21,
+      "territories": 13,
       "wars": 99808,
       "raids": 6920,
       "season": 32,
-      "rating": 3705940,
+      "rating": 3706480,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 13213,
       "raids": 7631,
       "season": 32,
-      "rating": 2271578,
+      "rating": 2272026,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -152,7 +152,7 @@
       "wars": 5087,
       "raids": 28867,
       "season": 32,
-      "rating": 1399055,
+      "rating": 1399275,
       "isCurrentSeason": true,
       "rank": 11
     },
