@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T01:50:29.486Z",
+  "updated": "2026-09-14T01:55:24.097Z",
   "season": 32,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 162437,
       "raids": 168684,
       "season": 32,
-      "rating": 14028899,
+      "rating": 14029601,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 179651,
       "raids": 90317,
       "season": 32,
-      "rating": 10311025,
+      "rating": 10311602,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 228749,
       "raids": 30554,
       "season": 32,
-      "rating": 7190556,
+      "rating": 7191338,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34035,
       "raids": 28582,
       "season": 32,
-      "rating": 4653059,
+      "rating": 4653459,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119641,
       "raids": 24243,
       "season": 32,
-      "rating": 4244826,
+      "rating": 4245269,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -92,11 +92,11 @@
       "prefix": "Crrs",
       "level": 102,
       "xpPercent": 77,
-      "territories": 32,
+      "territories": 31,
       "wars": 13202,
       "raids": 7625,
       "season": 32,
-      "rating": 2200767,
+      "rating": 2201214,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -134,11 +134,11 @@
       "prefix": "HSP",
       "level": 113,
       "xpPercent": 58,
-      "territories": 0,
-      "wars": 480,
+      "territories": 1,
+      "wars": 481,
       "raids": 31571,
       "season": 32,
-      "rating": 1509908,
+      "rating": 1510848,
       "isCurrentSeason": true,
       "rank": 10
     },
