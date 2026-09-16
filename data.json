@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T11:55:23.692Z",
+  "updated": "2026-09-16T12:00:54.837Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 262,
       "xpPercent": 99,
-      "territories": 81,
+      "territories": 84,
       "wars": 162613,
-      "raids": 169403,
+      "raids": 169404,
       "season": 32,
-      "rating": 14831906,
+      "rating": 14833350,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 179943,
       "raids": 90713,
       "season": 32,
-      "rating": 10667516,
+      "rating": 10667660,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 228951,
       "raids": 30879,
       "season": 32,
-      "rating": 7782725,
+      "rating": 7783352,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34071,
       "raids": 28672,
       "season": 32,
-      "rating": 5026388,
+      "rating": 5026988,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119746,
       "raids": 24319,
       "season": 32,
-      "rating": 4628131,
+      "rating": 4628839,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -96,7 +96,7 @@
       "wars": 13256,
       "raids": 7690,
       "season": 32,
-      "rating": 2609641,
+      "rating": 2610312,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -120,11 +120,11 @@
       "prefix": "Nia",
       "level": 118,
       "xpPercent": 90,
-      "territories": 8,
-      "wars": 68687,
+      "territories": 5,
+      "wars": 68689,
       "raids": 14556,
       "season": 32,
-      "rating": 1619333,
+      "rating": 1619959,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -164,9 +164,9 @@
       "xpPercent": 45,
       "territories": 0,
       "wars": 170502,
-      "raids": 21619,
+      "raids": 21620,
       "season": 32,
-      "rating": 880852,
+      "rating": 880962,
       "isCurrentSeason": true,
       "rank": 12
     },
