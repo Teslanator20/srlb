@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-16T15:20:32.595Z",
+  "updated": "2026-09-16T15:25:26.279Z",
   "season": 32,
   "guilds": [
     {
       "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
       "name": "Sequoia",
       "prefix": "SEQ",
-      "level": 262,
-      "xpPercent": 100,
+      "level": 263,
+      "xpPercent": 0,
       "territories": 85,
       "wars": 162614,
       "raids": 169433,
       "season": 32,
-      "rating": 14873277,
+      "rating": 14875320,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 179943,
       "raids": 90714,
       "season": 32,
-      "rating": 10675080,
+      "rating": 10675224,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -35,12 +35,12 @@
       "name": "Avicia",
       "prefix": "AVO",
       "level": 139,
-      "xpPercent": 12,
+      "xpPercent": 13,
       "territories": 59,
       "wars": 228951,
       "raids": 30889,
       "season": 32,
-      "rating": 7816412,
+      "rating": 7816989,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34084,
       "raids": 28678,
       "season": 32,
-      "rating": 5050250,
+      "rating": 5050849,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119747,
       "raids": 24326,
       "season": 32,
-      "rating": 4652179,
+      "rating": 4652843,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -96,7 +96,7 @@
       "wars": 13260,
       "raids": 7699,
       "season": 32,
-      "rating": 2634131,
+      "rating": 2634802,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -124,7 +124,7 @@
       "wars": 68689,
       "raids": 14562,
       "season": 32,
-      "rating": 1623951,
+      "rating": 1624331,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -191,7 +191,7 @@
       "level": 103,
       "xpPercent": 40,
       "territories": 0,
-      "wars": 37338,
+      "wars": 37339,
       "raids": 16041,
       "season": 32,
       "rating": 675501,
