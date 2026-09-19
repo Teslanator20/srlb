@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T03:55:26.086Z",
+  "updated": "2026-09-19T04:00:48.196Z",
   "season": 32,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 51,
       "territories": 84,
       "wars": 162701,
-      "raids": 170290,
+      "raids": 170292,
       "season": 32,
-      "rating": 15727621,
+      "rating": 15728996,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -38,9 +38,9 @@
       "xpPercent": 33,
       "territories": 64,
       "wars": 229209,
-      "raids": 31217,
+      "raids": 31219,
       "season": 32,
-      "rating": 8449210,
+      "rating": 8449811,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 34,
       "territories": 22,
       "wars": 34211,
-      "raids": 28820,
+      "raids": 28822,
       "season": 32,
-      "rating": 5456302,
+      "rating": 5457341,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119756,
       "raids": 24371,
       "season": 32,
-      "rating": 5068100,
+      "rating": 5068764,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 99940,
       "raids": 7053,
       "season": 32,
-      "rating": 4034057,
+      "rating": 4034729,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -138,7 +138,7 @@
       "wars": 486,
       "raids": 32038,
       "season": 32,
-      "rating": 1669532,
+      "rating": 1669812,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -185,20 +185,6 @@
       "rank": 13
     },
     {
-      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
-      "name": "TruthSworD",
-      "prefix": "Tsd",
-      "level": 103,
-      "xpPercent": 45,
-      "territories": 0,
-      "wars": 37430,
-      "raids": 16081,
-      "season": 32,
-      "rating": 721148,
-      "isCurrentSeason": true,
-      "rank": 14
-    },
-    {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
       "name": "Adventure of the bear",
       "prefix": "Bav",
@@ -210,8 +196,13 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "TruthSworD",
+      "error": "HTTP 500"
+    }
+  ]
 }
