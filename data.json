@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T02:50:34.364Z",
+  "updated": "2026-09-19T02:55:25.715Z",
   "season": 32,
   "guilds": [
     {
@@ -9,10 +9,10 @@
       "level": 263,
       "xpPercent": 50,
       "territories": 74,
-      "wars": 162687,
+      "wars": 162691,
       "raids": 170276,
       "season": 32,
-      "rating": 15712112,
+      "rating": 15713877,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 180235,
       "raids": 91107,
       "season": 32,
-      "rating": 10846930,
+      "rating": 10847040,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 229209,
       "raids": 31209,
       "season": 32,
-      "rating": 8436911,
+      "rating": 8437512,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -51,10 +51,10 @@
       "level": 131,
       "xpPercent": 33,
       "territories": 20,
-      "wars": 34208,
+      "wars": 34210,
       "raids": 28809,
       "season": 32,
-      "rating": 5444824,
+      "rating": 5445847,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -63,12 +63,12 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 127,
-      "xpPercent": 98,
+      "xpPercent": 99,
       "territories": 31,
       "wars": 119756,
       "raids": 24367,
       "season": 32,
-      "rating": 5059145,
+      "rating": 5060249,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 99940,
       "raids": 7053,
       "season": 32,
-      "rating": 4026784,
+      "rating": 4027455,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -121,10 +121,10 @@
       "level": 118,
       "xpPercent": 100,
       "territories": 10,
-      "wars": 68776,
+      "wars": 68777,
       "raids": 14668,
       "season": 32,
-      "rating": 1674738,
+      "rating": 1675319,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -185,6 +185,20 @@
       "rank": 13
     },
     {
+      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
+      "name": "TruthSworD",
+      "prefix": "Tsd",
+      "level": 103,
+      "xpPercent": 45,
+      "territories": 0,
+      "wars": 37430,
+      "raids": 16081,
+      "season": 32,
+      "rating": 721148,
+      "isCurrentSeason": true,
+      "rank": 14
+    },
+    {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
       "name": "Adventure of the bear",
       "prefix": "Bav",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "TruthSworD",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
