@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T19:35:25.367Z",
+  "updated": "2026-09-19T19:40:31.927Z",
   "season": 32,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 67,
       "territories": 83,
       "wars": 162738,
-      "raids": 170518,
+      "raids": 170519,
       "season": 32,
-      "rating": 16074194,
+      "rating": 16076255,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -24,9 +24,9 @@
       "xpPercent": 36,
       "territories": 0,
       "wars": 180278,
-      "raids": 91217,
+      "raids": 91219,
       "season": 32,
-      "rating": 10893893,
+      "rating": 10894273,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 43,
       "territories": 59,
       "wars": 229254,
-      "raids": 31368,
+      "raids": 31369,
       "season": 32,
-      "rating": 8723689,
+      "rating": 8724651,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34225,
       "raids": 28883,
       "season": 32,
-      "rating": 5631970,
+      "rating": 5632969,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "ANO",
       "level": 127,
       "xpPercent": 100,
-      "territories": 34,
+      "territories": 32,
       "wars": 119765,
       "raids": 24385,
       "season": 32,
-      "rating": 5246799,
+      "rating": 5247936,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 99943,
       "raids": 7063,
       "season": 32,
-      "rating": 4209652,
+      "rating": 4210771,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 13294,
       "raids": 7794,
       "season": 32,
-      "rating": 2838179,
+      "rating": 2838399,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -121,7 +121,7 @@
       "level": 119,
       "xpPercent": 3,
       "territories": 0,
-      "wars": 68809,
+      "wars": 68810,
       "raids": 14713,
       "season": 32,
       "rating": 1705205,
@@ -136,9 +136,9 @@
       "xpPercent": 6,
       "territories": 0,
       "wars": 486,
-      "raids": 32124,
+      "raids": 32125,
       "season": 32,
-      "rating": 1698652,
+      "rating": 1699362,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -150,7 +150,7 @@
       "xpPercent": 24,
       "territories": 0,
       "wars": 5087,
-      "raids": 29476,
+      "raids": 29477,
       "season": 32,
       "rating": 1510825,
       "isCurrentSeason": true,
@@ -164,9 +164,9 @@
       "xpPercent": 54,
       "territories": 0,
       "wars": 170510,
-      "raids": 21755,
+      "raids": 21756,
       "season": 32,
-      "rating": 913728,
+      "rating": 913948,
       "isCurrentSeason": true,
       "rank": 12
     },
@@ -185,20 +185,6 @@
       "rank": 13
     },
     {
-      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
-      "name": "TruthSworD",
-      "prefix": "Tsd",
-      "level": 103,
-      "xpPercent": 47,
-      "territories": 58,
-      "wars": 37667,
-      "raids": 16101,
-      "season": 32,
-      "rating": 856983,
-      "isCurrentSeason": true,
-      "rank": 14
-    },
-    {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
       "name": "Adventure of the bear",
       "prefix": "Bav",
@@ -210,8 +196,13 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "TruthSworD",
+      "error": "HTTP 500"
+    }
+  ]
 }
