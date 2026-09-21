@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-21T22:00:53.538Z",
+  "updated": "2026-09-21T22:05:26.455Z",
   "season": 32,
   "guilds": [
+    {
+      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+      "name": "Sequoia",
+      "prefix": "SEQ",
+      "level": 263,
+      "xpPercent": 95,
+      "territories": 84,
+      "wars": 162851,
+      "raids": 170982,
+      "season": 32,
+      "rating": 17090140,
+      "isCurrentSeason": true,
+      "rank": 1
+    },
     {
       "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
       "name": "Aequitas",
@@ -14,7 +28,7 @@
       "season": 32,
       "rating": 11015006,
       "isCurrentSeason": true,
-      "rank": 1
+      "rank": 2
     },
     {
       "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
@@ -22,13 +36,13 @@
       "prefix": "AVO",
       "level": 139,
       "xpPercent": 64,
-      "territories": 69,
-      "wars": 229882,
+      "territories": 64,
+      "wars": 229885,
       "raids": 31733,
       "season": 32,
-      "rating": 9642973,
+      "rating": 9645338,
       "isCurrentSeason": true,
-      "rank": 2
+      "rank": 3
     },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
@@ -40,9 +54,9 @@
       "wars": 34275,
       "raids": 28999,
       "season": 32,
-      "rating": 6180029,
+      "rating": 6180695,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 4
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -54,9 +68,9 @@
       "wars": 119827,
       "raids": 24430,
       "season": 32,
-      "rating": 5829339,
+      "rating": 5830077,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 5
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -68,9 +82,9 @@
       "wars": 100011,
       "raids": 7119,
       "season": 32,
-      "rating": 4790726,
+      "rating": 4791472,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 6
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -84,7 +98,7 @@
       "season": 32,
       "rating": 2893423,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 7
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -92,13 +106,13 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 30,
-      "territories": 38,
+      "territories": 36,
       "wars": 31971,
       "raids": 3169,
       "season": 32,
-      "rating": 2258536,
+      "rating": 2259322,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 8
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -112,7 +126,7 @@
       "season": 32,
       "rating": 1794606,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -124,9 +138,9 @@
       "wars": 486,
       "raids": 32391,
       "season": 32,
-      "rating": 1786722,
+      "rating": 1787572,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -138,9 +152,9 @@
       "wars": 5087,
       "raids": 29721,
       "season": 32,
-      "rating": 1548385,
+      "rating": 1548545,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -154,7 +168,7 @@
       "season": 32,
       "rating": 1126765,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -168,7 +182,7 @@
       "season": 32,
       "rating": 925708,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -182,7 +196,7 @@
       "season": 32,
       "rating": 865117,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "SEQ",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
