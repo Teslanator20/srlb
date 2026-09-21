@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T15:21:38.100Z",
+  "updated": "2026-09-21T15:25:27.326Z",
   "season": 32,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 162850,
       "raids": 170895,
       "season": 32,
-      "rating": 16951759,
+      "rating": 16953259,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 189,
       "xpPercent": 49,
-      "territories": 7,
-      "wars": 180383,
+      "territories": 8,
+      "wars": 180384,
       "raids": 91503,
       "season": 32,
-      "rating": 10997359,
+      "rating": 10997927,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 139,
       "xpPercent": 61,
-      "territories": 70,
+      "territories": 67,
       "wars": 229837,
       "raids": 31707,
       "season": 32,
-      "rating": 9527636,
+      "rating": 9528672,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34264,
       "raids": 28993,
       "season": 32,
-      "rating": 6110456,
+      "rating": 6111122,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,9 +68,37 @@
       "wars": 119820,
       "raids": 24426,
       "season": 32,
-      "rating": 5751761,
+      "rating": 5752499,
       "isCurrentSeason": true,
       "rank": 5
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 109,
+      "xpPercent": 29,
+      "territories": 32,
+      "wars": 100011,
+      "raids": 7092,
+      "season": 32,
+      "rating": 4712939,
+      "isCurrentSeason": true,
+      "rank": 6
+    },
+    {
+      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
+      "name": "Cirrus",
+      "prefix": "Crrs",
+      "level": 103,
+      "xpPercent": 7,
+      "territories": 0,
+      "wars": 13320,
+      "raids": 7922,
+      "season": 32,
+      "rating": 2885693,
+      "isCurrentSeason": true,
+      "rank": 7
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -78,13 +106,13 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 30,
-      "territories": 5,
-      "wars": 31885,
+      "territories": 7,
+      "wars": 31886,
       "raids": 3168,
       "season": 32,
-      "rating": 2154412,
+      "rating": 2155247,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 8
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -98,7 +126,77 @@
       "season": 32,
       "rating": 1792126,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 9
+    },
+    {
+      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
+      "name": "Hesperides",
+      "prefix": "HSP",
+      "level": 114,
+      "xpPercent": 28,
+      "territories": 0,
+      "wars": 486,
+      "raids": 32380,
+      "season": 32,
+      "rating": 1782172,
+      "isCurrentSeason": true,
+      "rank": 10
+    },
+    {
+      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
+      "name": "Anime Lovers",
+      "prefix": "Zamn",
+      "level": 122,
+      "xpPercent": 32,
+      "territories": 0,
+      "wars": 5087,
+      "raids": 29693,
+      "season": 32,
+      "rating": 1542035,
+      "isCurrentSeason": true,
+      "rank": 11
+    },
+    {
+      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
+      "name": "TruthSworD",
+      "prefix": "Tsd",
+      "level": 103,
+      "xpPercent": 50,
+      "territories": 0,
+      "wars": 37823,
+      "raids": 16138,
+      "season": 32,
+      "rating": 1126765,
+      "isCurrentSeason": true,
+      "rank": 12
+    },
+    {
+      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
+      "name": "The Aquarium",
+      "prefix": "TAq",
+      "level": 142,
+      "xpPercent": 55,
+      "territories": 0,
+      "wars": 170510,
+      "raids": 21781,
+      "season": 32,
+      "rating": 920768,
+      "isCurrentSeason": true,
+      "rank": 13
+    },
+    {
+      "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
+      "name": "The Broken Gasmask",
+      "prefix": "TBGM",
+      "level": 123,
+      "xpPercent": 90,
+      "territories": 0,
+      "wars": 44800,
+      "raids": 26255,
+      "season": 32,
+      "rating": 865117,
+      "isCurrentSeason": true,
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -112,37 +210,8 @@
       "season": 31,
       "rating": 309783,
       "isCurrentSeason": false,
-      "rank": 8
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "DUDE",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "Crrs",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "Hesperides",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "The Broken Gasmask",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "Anime Lovers",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "The Aquarium",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "TruthSworD",
-      "error": "This operation was aborted"
-    }
-  ]
+  "errors": []
 }
