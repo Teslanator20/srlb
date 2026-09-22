@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T19:20:32.447Z",
+  "updated": "2026-09-22T19:25:30.189Z",
   "season": 32,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 264,
-      "xpPercent": 7,
+      "xpPercent": 8,
       "territories": 84,
       "wars": 162872,
       "raids": 171230,
       "season": 32,
-      "rating": 17519123,
+      "rating": 17520505,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 180441,
       "raids": 91780,
       "season": 32,
-      "rating": 11068383,
+      "rating": 11068493,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 139,
       "xpPercent": 72,
-      "territories": 71,
+      "territories": 69,
       "wars": 230225,
       "raids": 31932,
       "season": 32,
-      "rating": 10052296,
+      "rating": 10053340,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34297,
       "raids": 29045,
       "season": 32,
-      "rating": 6407677,
+      "rating": 6408343,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 119838,
       "raids": 24440,
       "season": 32,
-      "rating": 6071588,
+      "rating": 6072326,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -79,10 +79,10 @@
       "level": 109,
       "xpPercent": 32,
       "territories": 31,
-      "wars": 100011,
+      "wars": 100012,
       "raids": 7129,
       "season": 32,
-      "rating": 5029850,
+      "rating": 5030588,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -124,7 +124,7 @@
       "wars": 69001,
       "raids": 14830,
       "season": 32,
-      "rating": 1826768,
+      "rating": 1826948,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 488,
       "raids": 32483,
       "season": 32,
-      "rating": 1814752,
+      "rating": 1815132,
       "isCurrentSeason": true,
       "rank": 10
     },
