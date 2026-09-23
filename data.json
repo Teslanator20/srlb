@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T19:10:29.920Z",
+  "updated": "2026-09-23T19:15:34.291Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 264,
       "xpPercent": 20,
-      "territories": 88,
-      "wars": 163701,
+      "territories": 95,
+      "wars": 163704,
       "raids": 171486,
       "season": 32,
-      "rating": 18141098,
+      "rating": 18144929,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 139,
       "xpPercent": 86,
-      "territories": 59,
+      "territories": 61,
       "wars": 230440,
       "raids": 32116,
       "season": 32,
-      "rating": 10506005,
+      "rating": 10507373,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34399,
       "raids": 29082,
       "season": 32,
-      "rating": 6664856,
+      "rating": 6665522,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 7,
-      "territories": 41,
-      "wars": 120068,
+      "territories": 42,
+      "wars": 120070,
       "raids": 24446,
       "season": 32,
-      "rating": 6375935,
+      "rating": 6378000,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 100074,
       "raids": 7148,
       "season": 32,
-      "rating": 5306716,
+      "rating": 5307454,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 13328,
       "raids": 8025,
       "season": 32,
-      "rating": 2916337,
+      "rating": 2916667,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -106,11 +106,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 34,
-      "territories": 67,
-      "wars": 32120,
+      "territories": 64,
+      "wars": 32124,
       "raids": 3183,
       "season": 32,
-      "rating": 2337264,
+      "rating": 2338284,
       "isCurrentSeason": true,
       "rank": 8
     },
