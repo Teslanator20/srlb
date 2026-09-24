@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T01:25:26.407Z",
+  "updated": "2026-09-24T01:31:11.195Z",
   "season": 32,
   "guilds": [
     {
@@ -9,10 +9,10 @@
       "level": 264,
       "xpPercent": 24,
       "territories": 99,
-      "wars": 164109,
+      "wars": 164118,
       "raids": 171545,
       "season": 32,
-      "rating": 18347936,
+      "rating": 18351365,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 189,
       "xpPercent": 69,
-      "territories": 59,
+      "territories": 57,
       "wars": 180917,
-      "raids": 91979,
+      "raids": 91980,
       "season": 32,
-      "rating": 11527051,
+      "rating": 11528592,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -37,10 +37,10 @@
       "level": 139,
       "xpPercent": 88,
       "territories": 72,
-      "wars": 230529,
-      "raids": 32144,
+      "wars": 230530,
+      "raids": 32145,
       "season": 32,
-      "rating": 10622652,
+      "rating": 10624283,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 58,
       "territories": 22,
       "wars": 34408,
-      "raids": 29099,
+      "raids": 29100,
       "season": 32,
-      "rating": 6731772,
+      "rating": 6732771,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 120231,
       "raids": 24451,
       "season": 32,
-      "rating": 6483897,
+      "rating": 6485004,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,9 +82,23 @@
       "wars": 100075,
       "raids": 7148,
       "season": 32,
-      "rating": 5376453,
+      "rating": 5377572,
       "isCurrentSeason": true,
       "rank": 6
+    },
+    {
+      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
+      "name": "Cirrus",
+      "prefix": "Crrs",
+      "level": 103,
+      "xpPercent": 19,
+      "territories": 0,
+      "wars": 13328,
+      "raids": 8033,
+      "season": 32,
+      "rating": 2918497,
+      "isCurrentSeason": true,
+      "rank": 7
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -98,7 +112,7 @@
       "season": 32,
       "rating": 2416032,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 8
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -110,9 +124,9 @@
       "wars": 69153,
       "raids": 14893,
       "season": 32,
-      "rating": 1902969,
+      "rating": 1903606,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -122,11 +136,11 @@
       "xpPercent": 49,
       "territories": 0,
       "wars": 490,
-      "raids": 32614,
+      "raids": 32617,
       "season": 32,
-      "rating": 1863742,
+      "rating": 1864072,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -140,7 +154,7 @@
       "season": 32,
       "rating": 1574875,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -154,7 +168,7 @@
       "season": 32,
       "rating": 1193923,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -168,7 +182,7 @@
       "season": 32,
       "rating": 949282,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -178,11 +192,11 @@
       "xpPercent": 92,
       "territories": 0,
       "wars": 44800,
-      "raids": 26280,
+      "raids": 26281,
       "season": 32,
-      "rating": 870097,
+      "rating": 870387,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 32,
       "rating": 1302,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "Crrs",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
