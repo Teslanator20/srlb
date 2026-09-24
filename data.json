@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T02:15:30.977Z",
+  "updated": "2026-09-24T02:20:28.233Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 264,
       "xpPercent": 24,
-      "territories": 99,
+      "territories": 104,
       "wars": 164161,
-      "raids": 171548,
+      "raids": 171549,
       "season": 32,
-      "rating": 18375096,
+      "rating": 18379116,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 180925,
       "raids": 91981,
       "season": 32,
-      "rating": 11540716,
+      "rating": 11542269,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -35,12 +35,12 @@
       "name": "Avicia",
       "prefix": "AVO",
       "level": 139,
-      "xpPercent": 88,
+      "xpPercent": 89,
       "territories": 73,
       "wars": 230532,
-      "raids": 32149,
+      "raids": 32151,
       "season": 32,
-      "rating": 10638884,
+      "rating": 10640777,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34408,
       "raids": 29100,
       "season": 32,
-      "rating": 6740264,
+      "rating": 6741263,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 120231,
       "raids": 24451,
       "season": 32,
-      "rating": 6493307,
+      "rating": 6494414,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,23 +82,9 @@
       "wars": 100075,
       "raids": 7148,
       "season": 32,
-      "rating": 5385965,
+      "rating": 5387084,
       "isCurrentSeason": true,
       "rank": 6
-    },
-    {
-      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
-      "name": "Cirrus",
-      "prefix": "Crrs",
-      "level": 103,
-      "xpPercent": 19,
-      "territories": 0,
-      "wars": 13328,
-      "raids": 8033,
-      "season": 32,
-      "rating": 2918497,
-      "isCurrentSeason": true,
-      "rank": 7
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -112,7 +98,7 @@
       "season": 32,
       "rating": 2416032,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 7
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -124,9 +110,9 @@
       "wars": 69160,
       "raids": 14893,
       "season": 32,
-      "rating": 1907984,
+      "rating": 1908260,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 8
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -136,11 +122,11 @@
       "xpPercent": 50,
       "territories": 0,
       "wars": 490,
-      "raids": 32621,
+      "raids": 32622,
       "season": 32,
-      "rating": 1865552,
+      "rating": 1865882,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 9
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -154,7 +140,7 @@
       "season": 32,
       "rating": 1574875,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 10
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -168,7 +154,7 @@
       "season": 32,
       "rating": 1193923,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -182,7 +168,7 @@
       "season": 32,
       "rating": 949282,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -196,7 +182,7 @@
       "season": 32,
       "rating": 870677,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -210,8 +196,13 @@
       "season": 32,
       "rating": 1302,
       "isCurrentSeason": true,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "Crrs",
+      "error": "HTTP 500"
+    }
+  ]
 }
