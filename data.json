@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T08:20:31.758Z",
+  "updated": "2026-09-24T08:25:59.698Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 264,
       "xpPercent": 28,
-      "territories": 108,
-      "wars": 164564,
+      "territories": 113,
+      "wars": 164570,
       "raids": 171622,
       "season": 32,
-      "rating": 18595217,
+      "rating": 18598034,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 189,
       "xpPercent": 70,
-      "territories": 64,
+      "territories": 61,
       "wars": 180936,
       "raids": 92009,
       "season": 32,
-      "rating": 11635433,
+      "rating": 11636419,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 230553,
       "raids": 32236,
       "season": 32,
-      "rating": 10751930,
+      "rating": 10753483,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34433,
       "raids": 29100,
       "season": 32,
-      "rating": 6804261,
+      "rating": 6804927,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 7,
-      "territories": 31,
+      "territories": 34,
       "wars": 120342,
       "raids": 24451,
       "season": 32,
-      "rating": 6584251,
+      "rating": 6585605,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 100075,
       "raids": 7149,
       "season": 32,
-      "rating": 5454604,
+      "rating": 5455350,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -147,12 +147,12 @@
       "name": "Anime Lovers",
       "prefix": "Zamn",
       "level": 122,
-      "xpPercent": 40,
+      "xpPercent": 41,
       "territories": 0,
       "wars": 5087,
       "raids": 29886,
       "season": 32,
-      "rating": 1575425,
+      "rating": 1575595,
       "isCurrentSeason": true,
       "rank": 11
     },
