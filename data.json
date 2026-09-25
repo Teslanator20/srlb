@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:20:33.136Z",
+  "updated": "2026-09-25T17:25:23.427Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 264,
       "xpPercent": 37,
-      "territories": 89,
-      "wars": 166579,
+      "territories": 95,
+      "wars": 166581,
       "raids": 171843,
       "season": 32,
-      "rating": 19648367,
+      "rating": 19652090,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -37,10 +37,10 @@
       "level": 140,
       "xpPercent": 4,
       "territories": 64,
-      "wars": 230882,
+      "wars": 230883,
       "raids": 32443,
       "season": 32,
-      "rating": 11334994,
+      "rating": 11335996,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34466,
       "raids": 29185,
       "season": 32,
-      "rating": 7163575,
+      "rating": 7164684,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 121014,
       "raids": 24462,
       "season": 32,
-      "rating": 7113020,
+      "rating": 7114127,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "DUDE",
       "level": 109,
       "xpPercent": 33,
-      "territories": 31,
+      "territories": 32,
       "wars": 100151,
       "raids": 7168,
       "season": 32,
-      "rating": 5836279,
+      "rating": 5837594,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 13455,
       "raids": 8072,
       "season": 32,
-      "rating": 2996836,
+      "rating": 2997166,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 32446,
       "raids": 3183,
       "season": 32,
-      "rating": 2648265,
+      "rating": 2649708,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 69238,
       "raids": 14942,
       "season": 32,
-      "rating": 1967330,
+      "rating": 1967440,
       "isCurrentSeason": true,
       "rank": 9
     },
