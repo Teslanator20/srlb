@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:30:39.032Z",
+  "updated": "2026-09-26T05:35:24.596Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 264,
       "xpPercent": 45,
-      "territories": 101,
-      "wars": 167419,
+      "territories": 108,
+      "wars": 167423,
       "raids": 171996,
       "season": 32,
-      "rating": 20122453,
+      "rating": 20129243,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 189,
       "xpPercent": 87,
-      "territories": 34,
-      "wars": 181695,
+      "territories": 41,
+      "wars": 181702,
       "raids": 92357,
       "season": 32,
-      "rating": 12226005,
+      "rating": 12232141,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 7,
-      "territories": 26,
-      "wars": 231898,
+      "territories": 19,
+      "wars": 231900,
       "raids": 32535,
       "season": 32,
-      "rating": 11751810,
+      "rating": 11753543,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 34482,
       "raids": 29212,
       "season": 32,
-      "rating": 7309069,
+      "rating": 7310401,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 12,
-      "territories": 30,
-      "wars": 121076,
+      "territories": 28,
+      "wars": 121077,
       "raids": 24483,
       "season": 32,
-      "rating": 7283112,
+      "rating": 7285282,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 100151,
       "raids": 7182,
       "season": 32,
-      "rating": 5991999,
+      "rating": 5994237,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -138,7 +138,7 @@
       "wars": 490,
       "raids": 32827,
       "season": 32,
-      "rating": 1936382,
+      "rating": 1936492,
       "isCurrentSeason": true,
       "rank": 10
     },
