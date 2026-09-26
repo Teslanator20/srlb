@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T22:40:27.182Z",
+  "updated": "2026-09-26T22:45:28.583Z",
   "season": 32,
   "guilds": [
     {
@@ -7,14 +7,28 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 264,
-      "xpPercent": 52,
+      "xpPercent": 53,
       "territories": 94,
-      "wars": 168445,
+      "wars": 168446,
       "raids": 172148,
       "season": 32,
-      "rating": 21186550,
+      "rating": 21189742,
       "isCurrentSeason": true,
       "rank": 1
+    },
+    {
+      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+      "name": "Aequitas",
+      "prefix": "Aeq",
+      "level": 189,
+      "xpPercent": 90,
+      "territories": 17,
+      "wars": 182729,
+      "raids": 92434,
+      "season": 32,
+      "rating": 12953852,
+      "isCurrentSeason": true,
+      "rank": 2
     },
     {
       "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
@@ -22,13 +36,13 @@
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 10,
-      "territories": 36,
-      "wars": 232855,
+      "territories": 40,
+      "wars": 232863,
       "raids": 32587,
       "season": 32,
-      "rating": 12424383,
+      "rating": 12429953,
       "isCurrentSeason": true,
-      "rank": 2
+      "rank": 3
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -36,13 +50,13 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 13,
-      "territories": 34,
-      "wars": 121262,
+      "territories": 36,
+      "wars": 121264,
       "raids": 24493,
       "season": 32,
-      "rating": 7749752,
+      "rating": 7752484,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 4
     },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
@@ -50,13 +64,13 @@
       "prefix": "PUN",
       "level": 131,
       "xpPercent": 70,
-      "territories": 30,
-      "wars": 34614,
+      "territories": 31,
+      "wars": 34616,
       "raids": 29264,
       "season": 32,
-      "rating": 7705339,
+      "rating": 7707199,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 5
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -68,9 +82,9 @@
       "wars": 100179,
       "raids": 7227,
       "season": 32,
-      "rating": 6391968,
+      "rating": 6393460,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 6
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -78,13 +92,13 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 37,
-      "territories": 72,
-      "wars": 32735,
+      "territories": 68,
+      "wars": 32736,
       "raids": 3192,
       "season": 32,
-      "rating": 3085870,
+      "rating": 3090272,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 7
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -92,13 +106,13 @@
       "prefix": "Crrs",
       "level": 103,
       "xpPercent": 28,
-      "territories": 1,
+      "territories": 2,
       "wars": 13495,
       "raids": 8163,
       "season": 32,
-      "rating": 3073651,
+      "rating": 3074681,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 8
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -112,7 +126,7 @@
       "season": 32,
       "rating": 2008932,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -124,9 +138,9 @@
       "wars": 492,
       "raids": 32933,
       "season": 32,
-      "rating": 1974934,
+      "rating": 1975154,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -138,9 +152,9 @@
       "wars": 5087,
       "raids": 30114,
       "season": 32,
-      "rating": 1616415,
+      "rating": 1616525,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -154,7 +168,7 @@
       "season": 32,
       "rating": 1212119,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -168,7 +182,7 @@
       "season": 32,
       "rating": 968552,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -182,7 +196,7 @@
       "season": 32,
       "rating": 872737,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 32,
       "rating": 1302,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "Aeq",
-      "error": "fetch failed"
-    }
-  ]
+  "errors": []
 }
