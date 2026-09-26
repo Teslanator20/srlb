@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T22:20:29.575Z",
+  "updated": "2026-09-26T22:25:24.074Z",
   "season": 32,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 264,
       "xpPercent": 52,
-      "territories": 83,
-      "wars": 168432,
+      "territories": 84,
+      "wars": 168440,
       "raids": 172142,
       "season": 32,
-      "rating": 21167773,
+      "rating": 21170481,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 189,
       "xpPercent": 90,
-      "territories": 12,
-      "wars": 182705,
+      "territories": 22,
+      "wars": 182707,
       "raids": 92430,
       "season": 32,
-      "rating": 12933614,
+      "rating": 12940761,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 10,
-      "territories": 47,
-      "wars": 232836,
+      "territories": 39,
+      "wars": 232839,
       "raids": 32587,
       "season": 32,
-      "rating": 12411719,
+      "rating": 12413783,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 121246,
       "raids": 24493,
       "season": 32,
-      "rating": 7741750,
+      "rating": 7743274,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -65,10 +65,10 @@
       "level": 131,
       "xpPercent": 70,
       "territories": 30,
-      "wars": 34605,
+      "wars": 34608,
       "raids": 29264,
       "season": 32,
-      "rating": 7696866,
+      "rating": 7698326,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,9 +82,23 @@
       "wars": 100179,
       "raids": 7227,
       "season": 32,
-      "rating": 6384135,
+      "rating": 6385627,
       "isCurrentSeason": true,
       "rank": 6
+    },
+    {
+      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
+      "name": "Polish Hussars",
+      "prefix": "PLHR",
+      "level": 84,
+      "xpPercent": 37,
+      "territories": 72,
+      "wars": 32733,
+      "raids": 3192,
+      "season": 32,
+      "rating": 3076404,
+      "isCurrentSeason": true,
+      "rank": 7
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -97,20 +111,6 @@
       "raids": 8162,
       "season": 32,
       "rating": 3073081,
-      "isCurrentSeason": true,
-      "rank": 7
-    },
-    {
-      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
-      "name": "Polish Hussars",
-      "prefix": "PLHR",
-      "level": 84,
-      "xpPercent": 37,
-      "territories": 71,
-      "wars": 32727,
-      "raids": 3192,
-      "season": 32,
-      "rating": 3071323,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -138,7 +138,7 @@
       "wars": 492,
       "raids": 32926,
       "season": 32,
-      "rating": 1972694,
+      "rating": 1973704,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -152,7 +152,7 @@
       "wars": 5087,
       "raids": 30111,
       "season": 32,
-      "rating": 1616085,
+      "rating": 1616195,
       "isCurrentSeason": true,
       "rank": 11
     },
