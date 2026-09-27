@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T13:55:22.980Z",
+  "updated": "2026-09-27T14:01:23.271Z",
   "season": 32,
   "guilds": [
     {
@@ -8,7 +8,7 @@
       "prefix": "SEQ",
       "level": 264,
       "xpPercent": 60,
-      "territories": 2,
+      "territories": 3,
       "wars": 168579,
       "raids": 172292,
       "season": 32,
@@ -24,7 +24,7 @@
       "xpPercent": 97,
       "territories": 67,
       "wars": 182767,
-      "raids": 92595,
+      "raids": 92596,
       "season": 32,
       "rating": 13001622,
       "isCurrentSeason": true,
@@ -38,7 +38,7 @@
       "xpPercent": 14,
       "territories": 0,
       "wars": 233023,
-      "raids": 32672,
+      "raids": 32674,
       "season": 32,
       "rating": 12650784,
       "isCurrentSeason": true,
@@ -64,9 +64,9 @@
       "prefix": "PUN",
       "level": 131,
       "xpPercent": 72,
-      "territories": 113,
+      "territories": 120,
       "wars": 34698,
-      "raids": 29294,
+      "raids": 29296,
       "season": 32,
       "rating": 7838366,
       "isCurrentSeason": true,
@@ -106,7 +106,7 @@
       "prefix": "Crrs",
       "level": 103,
       "xpPercent": 29,
-      "territories": 19,
+      "territories": 16,
       "wars": 13530,
       "raids": 8192,
       "season": 32,
@@ -119,7 +119,7 @@
       "name": "Nerfuria",
       "prefix": "Nia",
       "level": 119,
-      "xpPercent": 27,
+      "xpPercent": 28,
       "territories": 59,
       "wars": 69259,
       "raids": 14978,
@@ -127,6 +127,20 @@
       "rating": 2008932,
       "isCurrentSeason": true,
       "rank": 9
+    },
+    {
+      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
+      "name": "Hesperides",
+      "prefix": "HSP",
+      "level": 114,
+      "xpPercent": 82,
+      "territories": 0,
+      "wars": 492,
+      "raids": 33006,
+      "season": 32,
+      "rating": 1995374,
+      "isCurrentSeason": true,
+      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -140,7 +154,7 @@
       "season": 32,
       "rating": 1617925,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -148,13 +162,13 @@
       "prefix": "Tsd",
       "level": 103,
       "xpPercent": 55,
-      "territories": 0,
+      "territories": 2,
       "wars": 37955,
       "raids": 16205,
       "season": 32,
       "rating": 1212119,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -164,11 +178,11 @@
       "xpPercent": 70,
       "territories": 0,
       "wars": 170533,
-      "raids": 21989,
+      "raids": 21990,
       "season": 32,
       "rating": 968552,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -182,7 +196,7 @@
       "season": 32,
       "rating": 873957,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 32,
       "rating": 1302,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "Hesperides",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
