@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T14:10:31.169Z",
+  "updated": "2026-09-27T14:15:28.737Z",
   "season": 32,
   "guilds": [
     {
@@ -8,7 +8,7 @@
       "prefix": "SEQ",
       "level": 264,
       "xpPercent": 60,
-      "territories": 1,
+      "territories": 0,
       "wars": 168579,
       "raids": 172292,
       "season": 32,
@@ -64,7 +64,7 @@
       "prefix": "PUN",
       "level": 131,
       "xpPercent": 72,
-      "territories": 127,
+      "territories": 129,
       "wars": 34698,
       "raids": 29297,
       "season": 32,
@@ -106,7 +106,7 @@
       "prefix": "Crrs",
       "level": 103,
       "xpPercent": 29,
-      "territories": 16,
+      "territories": 15,
       "wars": 13530,
       "raids": 8192,
       "season": 32,
@@ -162,7 +162,7 @@
       "prefix": "Tsd",
       "level": 103,
       "xpPercent": 55,
-      "territories": 7,
+      "territories": 10,
       "wars": 37955,
       "raids": 16205,
       "season": 32,
