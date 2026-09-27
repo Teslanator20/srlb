@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T06:00:41.918Z",
+  "updated": "2026-09-27T06:07:34.273Z",
   "season": 32,
   "guilds": [
     {
@@ -22,7 +22,7 @@
       "prefix": "Aeq",
       "level": 189,
       "xpPercent": 95,
-      "territories": 0,
+      "territories": 2,
       "wars": 182767,
       "raids": 92555,
       "season": 32,
@@ -35,7 +35,7 @@
       "name": "Avicia",
       "prefix": "AVO",
       "level": 140,
-      "xpPercent": 11,
+      "xpPercent": 12,
       "territories": 2,
       "wars": 233023,
       "raids": 32636,
@@ -64,7 +64,7 @@
       "prefix": "PUN",
       "level": 131,
       "xpPercent": 71,
-      "territories": 29,
+      "territories": 27,
       "wars": 34698,
       "raids": 29273,
       "season": 32,
@@ -78,7 +78,7 @@
       "prefix": "DUDE",
       "level": 109,
       "xpPercent": 36,
-      "territories": 34,
+      "territories": 35,
       "wars": 100219,
       "raids": 7227,
       "season": 32,
