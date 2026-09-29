@@ -1,7 +1,119 @@
 {
-  "updated": "2026-09-29T04:15:52.340Z",
+  "updated": "2026-09-29T04:21:02.738Z",
   "season": 32,
   "guilds": [
+    {
+      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+      "name": "Sequoia",
+      "prefix": "SEQ",
+      "level": 264,
+      "xpPercent": 80,
+      "territories": 29,
+      "wars": 168579,
+      "raids": 172593,
+      "season": 32,
+      "rating": 21433404,
+      "isCurrentSeason": true,
+      "rank": 1
+    },
+    {
+      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+      "name": "Aequitas",
+      "prefix": "Aeq",
+      "level": 190,
+      "xpPercent": 6,
+      "territories": 65,
+      "wars": 182767,
+      "raids": 92816,
+      "season": 32,
+      "rating": 13001622,
+      "isCurrentSeason": true,
+      "rank": 2
+    },
+    {
+      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+      "name": "Avicia",
+      "prefix": "AVO",
+      "level": 140,
+      "xpPercent": 24,
+      "territories": 13,
+      "wars": 233023,
+      "raids": 32872,
+      "season": 32,
+      "rating": 12650784,
+      "isCurrentSeason": true,
+      "rank": 3
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 128,
+      "xpPercent": 18,
+      "territories": 0,
+      "wars": 121354,
+      "raids": 24519,
+      "season": 32,
+      "rating": 7919550,
+      "isCurrentSeason": true,
+      "rank": 4
+    },
+    {
+      "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
+      "name": "Paladins United",
+      "prefix": "PUN",
+      "level": 131,
+      "xpPercent": 78,
+      "territories": 53,
+      "wars": 34698,
+      "raids": 29372,
+      "season": 32,
+      "rating": 7838366,
+      "isCurrentSeason": true,
+      "rank": 5
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 109,
+      "xpPercent": 37,
+      "territories": 0,
+      "wars": 100219,
+      "raids": 7237,
+      "season": 32,
+      "rating": 6517575,
+      "isCurrentSeason": true,
+      "rank": 6
+    },
+    {
+      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
+      "name": "Polish Hussars",
+      "prefix": "PLHR",
+      "level": 84,
+      "xpPercent": 39,
+      "territories": 0,
+      "wars": 32760,
+      "raids": 3192,
+      "season": 32,
+      "rating": 3217728,
+      "isCurrentSeason": true,
+      "rank": 7
+    },
+    {
+      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
+      "name": "Cirrus",
+      "prefix": "Crrs",
+      "level": 103,
+      "xpPercent": 32,
+      "territories": 0,
+      "wars": 13530,
+      "raids": 8215,
+      "season": 32,
+      "rating": 3109750,
+      "isCurrentSeason": true,
+      "rank": 8
+    },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
       "name": "Nerfuria",
@@ -14,7 +126,7 @@
       "season": 32,
       "rating": 2008932,
       "isCurrentSeason": true,
-      "rank": 1
+      "rank": 9
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -28,7 +140,7 @@
       "season": 32,
       "rating": 1995374,
       "isCurrentSeason": true,
-      "rank": 2
+      "rank": 10
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -42,7 +154,7 @@
       "season": 32,
       "rating": 1617925,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 11
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -56,7 +168,7 @@
       "season": 32,
       "rating": 1212119,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -70,7 +182,7 @@
       "season": 32,
       "rating": 968552,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 13
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -84,45 +196,22 @@
       "season": 32,
       "rating": 873957,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 14
+    },
+    {
+      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
+      "name": "Adventure of the bear",
+      "prefix": "Bav",
+      "level": 75,
+      "xpPercent": 52,
+      "territories": 0,
+      "wars": 6386,
+      "raids": 462,
+      "season": 32,
+      "rating": 1302,
+      "isCurrentSeason": true,
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "SEQ",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "Aeq",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "AVO",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "ANO",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "PUN",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "DUDE",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "Crrs",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "Bav",
-      "error": "This operation was aborted"
-    },
-    {
-      "name": "PLHR",
-      "error": "This operation was aborted"
-    }
-  ]
+  "errors": []
 }
