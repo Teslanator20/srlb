@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T01:05:26.349Z",
+  "updated": "2026-09-29T01:10:31.035Z",
   "season": 32,
   "guilds": [
     {
@@ -21,7 +21,7 @@
       "name": "Aequitas",
       "prefix": "Aeq",
       "level": 190,
-      "xpPercent": 4,
+      "xpPercent": 5,
       "territories": 64,
       "wars": 182767,
       "raids": 92780,
@@ -36,7 +36,7 @@
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 23,
-      "territories": 0,
+      "territories": 3,
       "wars": 233023,
       "raids": 32854,
       "season": 32,
@@ -64,7 +64,7 @@
       "prefix": "PUN",
       "level": 131,
       "xpPercent": 78,
-      "territories": 52,
+      "territories": 53,
       "wars": 34698,
       "raids": 29372,
       "season": 32,
@@ -162,7 +162,7 @@
       "prefix": "Tsd",
       "level": 103,
       "xpPercent": 57,
-      "territories": 101,
+      "territories": 96,
       "wars": 37955,
       "raids": 16228,
       "season": 32,
