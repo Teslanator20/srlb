@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T09:40:31.868Z",
+  "updated": "2026-09-30T09:45:31.519Z",
   "season": 32,
   "guilds": [
     {
@@ -24,7 +24,7 @@
       "xpPercent": 17,
       "territories": 0,
       "wars": 182767,
-      "raids": 93059,
+      "raids": 93060,
       "season": 32,
       "rating": 13001622,
       "isCurrentSeason": true,
@@ -106,7 +106,7 @@
       "prefix": "Crrs",
       "level": 103,
       "xpPercent": 33,
-      "territories": 0,
+      "territories": 1,
       "wars": 13530,
       "raids": 8244,
       "season": 32,
@@ -162,7 +162,7 @@
       "prefix": "Tsd",
       "level": 103,
       "xpPercent": 58,
-      "territories": 105,
+      "territories": 104,
       "wars": 37955,
       "raids": 16235,
       "season": 32,
