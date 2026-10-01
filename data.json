@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T09:50:28.174Z",
+  "updated": "2026-10-01T09:55:28.937Z",
   "season": 32,
   "guilds": [
     {
@@ -36,7 +36,7 @@
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 30,
-      "territories": 25,
+      "territories": 27,
       "wars": 233023,
       "raids": 32978,
       "season": 32,
@@ -64,7 +64,7 @@
       "prefix": "PUN",
       "level": 131,
       "xpPercent": 84,
-      "territories": 217,
+      "territories": 216,
       "wars": 34698,
       "raids": 29455,
       "season": 32,
@@ -122,7 +122,7 @@
       "xpPercent": 40,
       "territories": 0,
       "wars": 69259,
-      "raids": 15101,
+      "raids": 15102,
       "season": 32,
       "rating": 2008932,
       "isCurrentSeason": true,
