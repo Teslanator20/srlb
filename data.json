@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:25:25.858Z",
+  "updated": "2026-10-01T17:30:37.812Z",
   "season": 32,
   "guilds": [
     {
@@ -36,7 +36,7 @@
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 33,
-      "territories": 31,
+      "territories": 30,
       "wars": 233023,
       "raids": 33033,
       "season": 32,
@@ -50,7 +50,7 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 20,
-      "territories": 4,
+      "territories": 2,
       "wars": 121354,
       "raids": 24537,
       "season": 32,
@@ -63,7 +63,7 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 131,
-      "xpPercent": 86,
+      "xpPercent": 87,
       "territories": 38,
       "wars": 34698,
       "raids": 29478,
@@ -178,7 +178,7 @@
       "xpPercent": 77,
       "territories": 0,
       "wars": 170533,
-      "raids": 22069,
+      "raids": 22070,
       "season": 32,
       "rating": 968552,
       "isCurrentSeason": true,
