@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T01:35:23.315Z",
+  "updated": "2026-10-02T01:40:29.107Z",
   "season": 32,
   "guilds": [
     {
@@ -10,7 +10,7 @@
       "xpPercent": 16,
       "territories": 27,
       "wars": 168579,
-      "raids": 173205,
+      "raids": 173206,
       "season": 32,
       "rating": 21433404,
       "isCurrentSeason": true,
@@ -120,9 +120,9 @@
       "prefix": "Nia",
       "level": 119,
       "xpPercent": 41,
-      "territories": 0,
+      "territories": 1,
       "wars": 69259,
-      "raids": 15132,
+      "raids": 15133,
       "season": 32,
       "rating": 2008932,
       "isCurrentSeason": true,
@@ -136,7 +136,7 @@
       "xpPercent": 12,
       "territories": 0,
       "wars": 492,
-      "raids": 33341,
+      "raids": 33344,
       "season": 32,
       "rating": 1995374,
       "isCurrentSeason": true,
