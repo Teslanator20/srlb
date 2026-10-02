@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T23:00:42.175Z",
+  "updated": "2026-10-02T23:05:21.586Z",
   "season": 32,
   "guilds": [
     {
@@ -7,9 +7,9 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 265,
-      "xpPercent": 26,
-      "territories": 46,
-      "wars": 168579,
+      "xpPercent": 27,
+      "territories": 0,
+      "wars": 168580,
       "raids": 173378,
       "season": 32,
       "rating": 21433404,
@@ -17,32 +17,18 @@
       "rank": 1
     },
     {
-      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-      "name": "Aequitas",
-      "prefix": "Aeq",
-      "level": 190,
-      "xpPercent": 38,
-      "territories": 38,
-      "wars": 182767,
-      "raids": 93478,
-      "season": 32,
-      "rating": 13001622,
-      "isCurrentSeason": true,
-      "rank": 2
-    },
-    {
       "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
       "name": "Avicia",
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 40,
-      "territories": 44,
-      "wars": 233023,
+      "territories": 0,
+      "wars": 233025,
       "raids": 33143,
       "season": 32,
       "rating": 12650784,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 2
     },
     {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
@@ -51,12 +37,12 @@
       "level": 128,
       "xpPercent": 23,
       "territories": 0,
-      "wars": 121354,
+      "wars": 121356,
       "raids": 24553,
       "season": 32,
       "rating": 7919550,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 3
     },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
@@ -64,13 +50,13 @@
       "prefix": "PUN",
       "level": 131,
       "xpPercent": 90,
-      "territories": 20,
-      "wars": 34698,
+      "territories": 0,
+      "wars": 34699,
       "raids": 29526,
       "season": 32,
       "rating": 7838366,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 4
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -84,7 +70,7 @@
       "season": 32,
       "rating": 6517575,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 5
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -98,7 +84,7 @@
       "season": 32,
       "rating": 3217728,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 6
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -106,13 +92,13 @@
       "prefix": "Crrs",
       "level": 103,
       "xpPercent": 35,
-      "territories": 57,
-      "wars": 13530,
+      "territories": 0,
+      "wars": 13532,
       "raids": 8255,
       "season": 32,
       "rating": 3109750,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 7
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -121,26 +107,12 @@
       "level": 119,
       "xpPercent": 45,
       "territories": 0,
-      "wars": 69259,
+      "wars": 69261,
       "raids": 15196,
       "season": 32,
       "rating": 2008932,
       "isCurrentSeason": true,
-      "rank": 9
-    },
-    {
-      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
-      "name": "Hesperides",
-      "prefix": "HSP",
-      "level": 115,
-      "xpPercent": 23,
-      "territories": 1,
-      "wars": 492,
-      "raids": 33468,
-      "season": 32,
-      "rating": 1995374,
-      "isCurrentSeason": true,
-      "rank": 10
+      "rank": 8
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -154,7 +126,7 @@
       "season": 32,
       "rating": 1617925,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 9
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -168,7 +140,7 @@
       "season": 32,
       "rating": 1212119,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 10
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -182,7 +154,7 @@
       "season": 32,
       "rating": 968552,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 11
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -196,7 +168,7 @@
       "season": 32,
       "rating": 873957,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 12
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -210,6 +182,34 @@
       "season": 32,
       "rating": 1302,
       "isCurrentSeason": true,
+      "rank": 13
+    },
+    {
+      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
+      "name": "Hesperides",
+      "prefix": "HSP",
+      "level": 115,
+      "xpPercent": 23,
+      "territories": 0,
+      "wars": 493,
+      "raids": 33468,
+      "season": 33,
+      "rating": 740,
+      "isCurrentSeason": false,
+      "rank": 14
+    },
+    {
+      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+      "name": "Aequitas",
+      "prefix": "Aeq",
+      "level": 190,
+      "xpPercent": 38,
+      "territories": 0,
+      "wars": 182767,
+      "raids": 93478,
+      "season": 33,
+      "rating": 60,
+      "isCurrentSeason": false,
       "rank": 15
     }
   ],
