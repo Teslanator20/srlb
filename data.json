@@ -1,21 +1,7 @@
 {
-  "updated": "2026-10-03T00:30:41.235Z",
+  "updated": "2026-10-03T00:35:22.405Z",
   "season": 33,
   "guilds": [
-    {
-      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
-      "name": "Anime Lovers",
-      "prefix": "Zamn",
-      "level": 122,
-      "xpPercent": 71,
-      "territories": 0,
-      "wars": 5087,
-      "raids": 30534,
-      "season": 32,
-      "rating": 1617925,
-      "isCurrentSeason": false,
-      "rank": 1
-    },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
       "name": "TruthSworD",
@@ -28,7 +14,7 @@
       "season": 32,
       "rating": 1212119,
       "isCurrentSeason": false,
-      "rank": 2
+      "rank": 1
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -42,7 +28,7 @@
       "season": 32,
       "rating": 873957,
       "isCurrentSeason": false,
-      "rank": 3
+      "rank": 2
     },
     {
       "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
@@ -51,12 +37,12 @@
       "level": 265,
       "xpPercent": 29,
       "territories": 32,
-      "wars": 168617,
+      "wars": 168618,
       "raids": 173399,
       "season": 33,
-      "rating": 11821,
+      "rating": 12380,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 3
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -68,9 +54,9 @@
       "wars": 493,
       "raids": 33495,
       "season": 33,
-      "rating": 5920,
+      "rating": 6400,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 4
     },
     {
       "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
@@ -82,7 +68,21 @@
       "wars": 233085,
       "raids": 33149,
       "season": 33,
-      "rating": 5756,
+      "rating": 5948,
+      "isCurrentSeason": true,
+      "rank": 5
+    },
+    {
+      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
+      "name": "Nerfuria",
+      "prefix": "Nia",
+      "level": 119,
+      "xpPercent": 45,
+      "territories": 49,
+      "wars": 69333,
+      "raids": 15196,
+      "season": 33,
+      "rating": 4705,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -101,32 +101,18 @@
       "rank": 7
     },
     {
-      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-      "name": "Nerfuria",
-      "prefix": "Nia",
-      "level": 119,
-      "xpPercent": 45,
-      "territories": 41,
-      "wars": 69327,
-      "raids": 15196,
-      "season": 33,
-      "rating": 4142,
-      "isCurrentSeason": true,
-      "rank": 8
-    },
-    {
       "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 23,
-      "territories": 34,
+      "territories": 33,
       "wars": 121390,
       "raids": 24553,
       "season": 33,
-      "rating": 4009,
+      "rating": 4235,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 8
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -134,11 +120,25 @@
       "prefix": "Crrs",
       "level": 103,
       "xpPercent": 35,
-      "territories": 32,
-      "wars": 13571,
+      "territories": 35,
+      "wars": 13572,
       "raids": 8255,
       "season": 33,
-      "rating": 3488,
+      "rating": 3783,
+      "isCurrentSeason": true,
+      "rank": 9
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 109,
+      "xpPercent": 41,
+      "territories": 29,
+      "wars": 100255,
+      "raids": 7293,
+      "season": 33,
+      "rating": 3395,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -152,23 +152,9 @@
       "wars": 34722,
       "raids": 29526,
       "season": 33,
-      "rating": 3160,
+      "rating": 3360,
       "isCurrentSeason": true,
       "rank": 11
-    },
-    {
-      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
-      "name": "KongoBoys",
-      "prefix": "DUDE",
-      "level": 109,
-      "xpPercent": 41,
-      "territories": 26,
-      "wars": 100255,
-      "raids": 7293,
-      "season": 33,
-      "rating": 3124,
-      "isCurrentSeason": true,
-      "rank": 12
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -182,7 +168,7 @@
       "season": 32,
       "rating": 1302,
       "isCurrentSeason": false,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -190,13 +176,13 @@
       "prefix": "TAq",
       "level": 142,
       "xpPercent": 80,
-      "territories": 1,
+      "territories": 0,
       "wars": 170541,
       "raids": 22120,
       "season": 33,
-      "rating": 1055,
+      "rating": 1073,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
@@ -204,11 +190,25 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 42,
-      "territories": 3,
+      "territories": 2,
       "wars": 32763,
       "raids": 3192,
       "season": 33,
-      "rating": 432,
+      "rating": 480,
+      "isCurrentSeason": true,
+      "rank": 14
+    },
+    {
+      "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
+      "name": "Anime Lovers",
+      "prefix": "Zamn",
+      "level": 122,
+      "xpPercent": 71,
+      "territories": 0,
+      "wars": 5087,
+      "raids": 30534,
+      "season": 33,
+      "rating": 80,
       "isCurrentSeason": true,
       "rank": 15
     }
