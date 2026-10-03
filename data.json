@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T02:16:07.008Z",
+  "updated": "2026-10-03T02:20:29.607Z",
   "season": 33,
   "guilds": [
     {
@@ -38,9 +38,9 @@
       "xpPercent": 32,
       "territories": 33,
       "wars": 168618,
-      "raids": 173430,
+      "raids": 173434,
       "season": 33,
-      "rating": 27196,
+      "rating": 28057,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -50,13 +50,27 @@
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 40,
-      "territories": 59,
+      "territories": 58,
       "wars": 233104,
       "raids": 33150,
       "season": 33,
-      "rating": 11448,
+      "rating": 11736,
       "isCurrentSeason": true,
       "rank": 4
+    },
+    {
+      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
+      "name": "Nerfuria",
+      "prefix": "Nia",
+      "level": 119,
+      "xpPercent": 45,
+      "territories": 72,
+      "wars": 69360,
+      "raids": 15196,
+      "season": 33,
+      "rating": 11408,
+      "isCurrentSeason": true,
+      "rank": 5
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -70,21 +84,21 @@
       "season": 33,
       "rating": 11190,
       "isCurrentSeason": true,
-      "rank": 5
+      "rank": 6
     },
     {
-      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
-      "name": "Nerfuria",
-      "prefix": "Nia",
-      "level": 119,
-      "xpPercent": 45,
-      "territories": 71,
-      "wars": 69359,
-      "raids": 15196,
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 128,
+      "xpPercent": 24,
+      "territories": 31,
+      "wars": 121390,
+      "raids": 24559,
       "season": 33,
-      "rating": 11148,
+      "rating": 10589,
       "isCurrentSeason": true,
-      "rank": 6
+      "rank": 7
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -92,25 +106,11 @@
       "prefix": "Crrs",
       "level": 103,
       "xpPercent": 35,
-      "territories": 42,
-      "wars": 13610,
+      "territories": 41,
+      "wars": 13611,
       "raids": 8255,
       "season": 33,
-      "rating": 10145,
-      "isCurrentSeason": true,
-      "rank": 7
-    },
-    {
-      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-      "name": "Titans Valor",
-      "prefix": "ANO",
-      "level": 128,
-      "xpPercent": 23,
-      "territories": 31,
-      "wars": 121390,
-      "raids": 24559,
-      "season": 33,
-      "rating": 10038,
+      "rating": 10308,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,9 +124,23 @@
       "wars": 34722,
       "raids": 29532,
       "season": 33,
-      "rating": 7203,
+      "rating": 7337,
       "isCurrentSeason": true,
       "rank": 9
+    },
+    {
+      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+      "name": "Aequitas",
+      "prefix": "Aeq",
+      "level": 190,
+      "xpPercent": 39,
+      "territories": 0,
+      "wars": 182788,
+      "raids": 93494,
+      "season": 33,
+      "rating": 7324,
+      "isCurrentSeason": true,
+      "rank": 10
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -139,20 +153,6 @@
       "raids": 7293,
       "season": 33,
       "rating": 6898,
-      "isCurrentSeason": true,
-      "rank": 10
-    },
-    {
-      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-      "name": "Aequitas",
-      "prefix": "Aeq",
-      "level": 190,
-      "xpPercent": 39,
-      "territories": 0,
-      "wars": 182788,
-      "raids": 93494,
-      "season": 33,
-      "rating": 6884,
       "isCurrentSeason": true,
       "rank": 11
     },
