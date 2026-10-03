@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T09:20:26.938Z",
+  "updated": "2026-10-03T09:25:57.559Z",
   "season": 33,
   "guilds": [
     {
@@ -26,7 +26,7 @@
       "wars": 168664,
       "raids": 173523,
       "season": 33,
-      "rating": 74660,
+      "rating": 74929,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 43,
-      "territories": 25,
-      "wars": 233369,
+      "territories": 46,
+      "wars": 233378,
       "raids": 33207,
       "season": 33,
-      "rating": 46732,
+      "rating": 47901,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 69366,
       "raids": 15206,
       "season": 33,
-      "rating": 36107,
+      "rating": 36347,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "Aeq",
       "level": 190,
       "xpPercent": 42,
-      "territories": 75,
-      "wars": 182893,
+      "territories": 76,
+      "wars": 182896,
       "raids": 93542,
       "season": 33,
-      "rating": 34639,
+      "rating": 34898,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 121394,
       "raids": 24564,
       "season": 33,
-      "rating": 27468,
+      "rating": 27690,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 34724,
       "raids": 29536,
       "season": 33,
-      "rating": 22429,
+      "rating": 22629,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -152,7 +152,7 @@
       "wars": 5088,
       "raids": 30583,
       "season": 33,
-      "rating": 9480,
+      "rating": 9700,
       "isCurrentSeason": true,
       "rank": 11
     },
