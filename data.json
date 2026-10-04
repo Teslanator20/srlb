@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T12:50:30.907Z",
+  "updated": "2026-10-04T12:55:23.158Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 168821,
       "raids": 173836,
       "season": 33,
-      "rating": 232264,
+      "rating": 233150,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 233452,
       "raids": 33356,
       "season": 33,
-      "rating": 154656,
+      "rating": 155244,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "Aeq",
       "level": 190,
       "xpPercent": 51,
-      "territories": 1,
-      "wars": 183251,
+      "territories": 3,
+      "wars": 183253,
       "raids": 93753,
       "season": 33,
-      "rating": 127743,
+      "rating": 128093,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -64,11 +64,11 @@
       "prefix": "Nia",
       "level": 119,
       "xpPercent": 50,
-      "territories": 52,
+      "territories": 50,
       "wars": 69618,
       "raids": 15264,
       "season": 33,
-      "rating": 117679,
+      "rating": 117948,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 34920,
       "raids": 29579,
       "season": 33,
-      "rating": 98914,
+      "rating": 99130,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 121482,
       "raids": 24580,
       "season": 33,
-      "rating": 94454,
+      "rating": 94676,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -105,12 +105,12 @@
       "name": "Polish Hussars",
       "prefix": "PLHR",
       "level": 84,
-      "xpPercent": 42,
+      "xpPercent": 44,
       "territories": 43,
       "wars": 33146,
       "raids": 3197,
       "season": 33,
-      "rating": 69643,
+      "rating": 69893,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -136,9 +136,9 @@
       "xpPercent": 78,
       "territories": 0,
       "wars": 5089,
-      "raids": 30690,
+      "raids": 30691,
       "season": 33,
-      "rating": 29500,
+      "rating": 29610,
       "isCurrentSeason": true,
       "rank": 10
     },
