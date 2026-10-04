@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T05:52:00.976Z",
+  "updated": "2026-10-04T05:55:23.989Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 168820,
       "raids": 173775,
       "season": 33,
-      "rating": 204226,
+      "rating": 204377,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,9 +26,23 @@
       "wars": 233452,
       "raids": 33343,
       "season": 33,
-      "rating": 132072,
+      "rating": 132264,
       "isCurrentSeason": true,
       "rank": 2
+    },
+    {
+      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+      "name": "Aequitas",
+      "prefix": "Aeq",
+      "level": 190,
+      "xpPercent": 50,
+      "territories": 54,
+      "wars": 183248,
+      "raids": 93735,
+      "season": 33,
+      "rating": 117487,
+      "isCurrentSeason": true,
+      "rank": 3
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -41,20 +55,6 @@
       "raids": 33849,
       "season": 33,
       "rating": 117450,
-      "isCurrentSeason": true,
-      "rank": 3
-    },
-    {
-      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
-      "name": "Aequitas",
-      "prefix": "Aeq",
-      "level": 190,
-      "xpPercent": 50,
-      "territories": 54,
-      "wars": 183248,
-      "raids": 93735,
-      "season": 33,
-      "rating": 117303,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -82,7 +82,7 @@
       "wars": 121471,
       "raids": 24580,
       "season": 33,
-      "rating": 78366,
+      "rating": 78587,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 34855,
       "raids": 29570,
       "season": 33,
-      "rating": 78046,
+      "rating": 78190,
       "isCurrentSeason": true,
       "rank": 7
     },
