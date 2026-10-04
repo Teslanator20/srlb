@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T09:30:40.360Z",
+  "updated": "2026-10-04T09:35:22.622Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 168821,
       "raids": 173807,
       "season": 33,
-      "rating": 217558,
+      "rating": 218086,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 233452,
       "raids": 33346,
       "season": 33,
-      "rating": 143299,
+      "rating": 143588,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 183248,
       "raids": 93738,
       "season": 33,
-      "rating": 124643,
+      "rating": 124667,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -64,27 +64,13 @@
       "prefix": "Nia",
       "level": 119,
       "xpPercent": 50,
-      "territories": 60,
+      "territories": 64,
       "wars": 69592,
       "raids": 15255,
       "season": 33,
-      "rating": 104521,
+      "rating": 105050,
       "isCurrentSeason": true,
       "rank": 5
-    },
-    {
-      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-      "name": "Titans Valor",
-      "prefix": "ANO",
-      "level": 128,
-      "xpPercent": 25,
-      "territories": 31,
-      "wars": 121471,
-      "raids": 24580,
-      "season": 33,
-      "rating": 86484,
-      "isCurrentSeason": true,
-      "rank": 6
     },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
@@ -92,11 +78,25 @@
       "prefix": "PUN",
       "level": 131,
       "xpPercent": 93,
-      "territories": 22,
+      "territories": 18,
       "wars": 34859,
       "raids": 29570,
       "season": 33,
-      "rating": 86044,
+      "rating": 86725,
+      "isCurrentSeason": true,
+      "rank": 6
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 128,
+      "xpPercent": 25,
+      "territories": 30,
+      "wars": 121471,
+      "raids": 24580,
+      "season": 33,
+      "rating": 86704,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -107,10 +107,10 @@
       "level": 84,
       "xpPercent": 42,
       "territories": 38,
-      "wars": 33121,
+      "wars": 33124,
       "raids": 3197,
       "season": 33,
-      "rating": 60512,
+      "rating": 60791,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -138,7 +138,7 @@
       "wars": 5088,
       "raids": 30684,
       "season": 33,
-      "rating": 28510,
+      "rating": 28730,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -161,12 +161,12 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 142,
-      "xpPercent": 83,
+      "xpPercent": 84,
       "territories": 0,
       "wars": 170541,
       "raids": 22161,
       "season": 33,
-      "rating": 11963,
+      "rating": 12373,
       "isCurrentSeason": true,
       "rank": 12
     },
