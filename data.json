@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T04:05:22.731Z",
+  "updated": "2026-10-07T04:10:29.449Z",
   "season": 33,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 266,
-      "xpPercent": 9,
+      "xpPercent": 10,
       "territories": 31,
       "wars": 169098,
       "raids": 174665,
       "season": 33,
-      "rating": 590653,
+      "rating": 591211,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 233556,
       "raids": 33683,
       "season": 33,
-      "rating": 413125,
+      "rating": 413317,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 183888,
       "raids": 94247,
       "season": 33,
-      "rating": 412931,
+      "rating": 413115,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -50,11 +50,11 @@
       "prefix": "PUN",
       "level": 132,
       "xpPercent": 11,
-      "territories": 29,
+      "territories": 27,
       "wars": 35025,
       "raids": 29830,
       "season": 33,
-      "rating": 297697,
+      "rating": 297912,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 512,
       "raids": 34353,
       "season": 33,
-      "rating": 291640,
+      "rating": 292050,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 121566,
       "raids": 24653,
       "season": 33,
-      "rating": 262474,
+      "rating": 262695,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 48,
-      "territories": 51,
+      "territories": 52,
       "wars": 33382,
       "raids": 3229,
       "season": 33,
-      "rating": 216470,
+      "rating": 216781,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -149,10 +149,10 @@
       "level": 109,
       "xpPercent": 45,
       "territories": 1,
-      "wars": 100674,
+      "wars": 100675,
       "raids": 7368,
       "season": 33,
-      "rating": 55017,
+      "rating": 55041,
       "isCurrentSeason": true,
       "rank": 11
     },
