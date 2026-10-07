@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T02:15:29.876Z",
+  "updated": "2026-10-07T02:20:29.430Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 169097,
       "raids": 174645,
       "season": 33,
-      "rating": 578700,
+      "rating": 578849,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 183888,
       "raids": 94235,
       "season": 33,
-      "rating": 406586,
+      "rating": 406770,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 233556,
       "raids": 33666,
       "season": 33,
-      "rating": 405854,
+      "rating": 406046,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 35010,
       "raids": 29830,
       "season": 33,
-      "rating": 293365,
+      "rating": 293509,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "HSP",
       "level": 115,
       "xpPercent": 96,
-      "territories": 0,
+      "territories": 1,
       "wars": 512,
       "raids": 34338,
       "season": 33,
-      "rating": 286020,
+      "rating": 286500,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 121566,
       "raids": 24653,
       "season": 33,
-      "rating": 258452,
+      "rating": 258599,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -92,11 +92,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 48,
-      "territories": 42,
+      "territories": 43,
       "wars": 33339,
       "raids": 3229,
       "season": 33,
-      "rating": 210745,
+      "rating": 210950,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -106,11 +106,11 @@
       "prefix": "Nia",
       "level": 119,
       "xpPercent": 57,
-      "territories": 1,
-      "wars": 69791,
+      "territories": 2,
+      "wars": 69792,
       "raids": 15357,
       "season": 33,
-      "rating": 150825,
+      "rating": 150917,
       "isCurrentSeason": true,
       "rank": 8
     },
