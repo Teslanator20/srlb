@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T20:25:26.821Z",
+  "updated": "2026-10-07T20:30:38.277Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 169207,
       "raids": 174802,
       "season": 33,
-      "rating": 665083,
+      "rating": 666444,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "Aeq",
       "level": 190,
       "xpPercent": 76,
-      "territories": 61,
-      "wars": 184091,
+      "territories": 64,
+      "wars": 184095,
       "raids": 94337,
       "season": 33,
-      "rating": 472658,
+      "rating": 473184,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 233680,
       "raids": 33747,
       "season": 33,
-      "rating": 470383,
+      "rating": 470575,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -50,11 +50,11 @@
       "prefix": "PUN",
       "level": 132,
       "xpPercent": 15,
-      "territories": 29,
+      "territories": 31,
       "wars": 35086,
       "raids": 29887,
       "season": 33,
-      "rating": 350011,
+      "rating": 350330,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -78,11 +78,11 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 33,
-      "territories": 36,
+      "territories": 34,
       "wars": 121574,
       "raids": 24661,
       "season": 33,
-      "rating": 299876,
+      "rating": 300032,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 33444,
       "raids": 3256,
       "season": 33,
-      "rating": 263739,
+      "rating": 263919,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -149,7 +149,7 @@
       "level": 109,
       "xpPercent": 46,
       "territories": 0,
-      "wars": 100766,
+      "wars": 100767,
       "raids": 7386,
       "season": 33,
       "rating": 67243,
@@ -180,7 +180,7 @@
       "wars": 37966,
       "raids": 16327,
       "season": 33,
-      "rating": 18535,
+      "rating": 18975,
       "isCurrentSeason": true,
       "rank": 13
     },
