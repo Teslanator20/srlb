@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T19:10:29.599Z",
+  "updated": "2026-10-08T19:15:29.659Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 266,
       "xpPercent": 32,
-      "territories": 32,
+      "territories": 31,
       "wars": 169286,
       "raids": 175135,
       "season": 33,
-      "rating": 779905,
+      "rating": 780347,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 233741,
       "raids": 33887,
       "season": 33,
-      "rating": 568151,
+      "rating": 568343,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "Aeq",
       "level": 190,
       "xpPercent": 82,
-      "territories": 52,
+      "territories": 50,
       "wars": 184184,
       "raids": 94534,
       "season": 33,
-      "rating": 564063,
+      "rating": 564441,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 35115,
       "raids": 29974,
       "season": 33,
-      "rating": 424823,
+      "rating": 425839,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 34,
-      "territories": 36,
+      "territories": 41,
       "wars": 121608,
       "raids": 24678,
       "season": 33,
-      "rating": 355883,
+      "rating": 356330,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,12 +77,12 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 116,
-      "xpPercent": 10,
+      "xpPercent": 11,
       "territories": 0,
       "wars": 573,
       "raids": 34515,
       "season": 33,
-      "rating": 353040,
+      "rating": 353450,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 33653,
       "raids": 3265,
       "season": 33,
-      "rating": 333306,
+      "rating": 333556,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -124,7 +124,7 @@
       "wars": 5124,
       "raids": 31103,
       "season": 33,
-      "rating": 110855,
+      "rating": 110965,
       "isCurrentSeason": true,
       "rank": 9
     },
