@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T17:45:30.729Z",
+  "updated": "2026-10-08T17:50:31.370Z",
   "season": 33,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 30,
       "territories": 32,
       "wars": 169285,
-      "raids": 175092,
+      "raids": 175099,
       "season": 33,
-      "rating": 769330,
+      "rating": 770029,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 233735,
       "raids": 33885,
       "season": 33,
-      "rating": 562915,
+      "rating": 563107,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "Aeq",
       "level": 190,
       "xpPercent": 82,
-      "territories": 63,
+      "territories": 61,
       "wars": 184184,
-      "raids": 94518,
+      "raids": 94520,
       "season": 33,
-      "rating": 558501,
+      "rating": 558807,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,11 +52,25 @@
       "xpPercent": 21,
       "territories": 29,
       "wars": 35114,
-      "raids": 29966,
+      "raids": 29968,
       "season": 33,
-      "rating": 418932,
+      "rating": 419437,
       "isCurrentSeason": true,
       "rank": 4
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 128,
+      "xpPercent": 34,
+      "territories": 31,
+      "wars": 121596,
+      "raids": 24675,
+      "season": 33,
+      "rating": 351799,
+      "isCurrentSeason": true,
+      "rank": 5
     },
     {
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
@@ -70,20 +84,6 @@
       "season": 33,
       "rating": 351678,
       "isCurrentSeason": true,
-      "rank": 5
-    },
-    {
-      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
-      "name": "Titans Valor",
-      "prefix": "ANO",
-      "level": 128,
-      "xpPercent": 34,
-      "territories": 31,
-      "wars": 121596,
-      "raids": 24675,
-      "season": 33,
-      "rating": 351577,
-      "isCurrentSeason": true,
       "rank": 6
     },
     {
@@ -92,11 +92,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 49,
-      "territories": 57,
+      "territories": 55,
       "wars": 33653,
-      "raids": 3260,
+      "raids": 3261,
       "season": 33,
-      "rating": 328954,
+      "rating": 329253,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -122,9 +122,9 @@
       "xpPercent": 94,
       "territories": 0,
       "wars": 5124,
-      "raids": 31092,
+      "raids": 31094,
       "season": 33,
-      "rating": 109645,
+      "rating": 109755,
       "isCurrentSeason": true,
       "rank": 9
     },
