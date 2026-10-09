@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T13:40:30.210Z",
+  "updated": "2026-10-09T13:45:32.278Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 169299,
       "raids": 175420,
       "season": 33,
-      "rating": 882657,
+      "rating": 882991,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 86,
-      "territories": 66,
+      "territories": 67,
       "wars": 233776,
       "raids": 34050,
       "season": 33,
-      "rating": 662638,
+      "rating": 663253,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 184264,
       "raids": 94690,
       "season": 33,
-      "rating": 644276,
+      "rating": 644460,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 35218,
       "raids": 30052,
       "season": 33,
-      "rating": 487959,
+      "rating": 488163,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 581,
       "raids": 34645,
       "season": 33,
-      "rating": 392506,
+      "rating": 392916,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 34,
-      "territories": 5,
+      "territories": 6,
       "wars": 121657,
       "raids": 24678,
       "season": 33,
-      "rating": 388945,
+      "rating": 389075,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -91,12 +91,12 @@
       "name": "Polish Hussars",
       "prefix": "PLHR",
       "level": 84,
-      "xpPercent": 49,
+      "xpPercent": 50,
       "territories": 61,
       "wars": 33722,
       "raids": 3265,
       "season": 33,
-      "rating": 383280,
+      "rating": 384014,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -138,7 +138,7 @@
       "wars": 100815,
       "raids": 7410,
       "season": 33,
-      "rating": 75413,
+      "rating": 75449,
       "isCurrentSeason": true,
       "rank": 10
     },
