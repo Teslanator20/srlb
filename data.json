@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T14:20:31.047Z",
+  "updated": "2026-10-09T14:25:24.133Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 169299,
       "raids": 175422,
       "season": 33,
-      "rating": 884369,
+      "rating": 884555,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 140,
       "xpPercent": 86,
-      "territories": 67,
+      "territories": 66,
       "wars": 233776,
       "raids": 34059,
       "season": 33,
-      "rating": 666428,
+      "rating": 667175,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 184264,
       "raids": 94694,
       "season": 33,
-      "rating": 646470,
+      "rating": 646700,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 35218,
       "raids": 30053,
       "season": 33,
-      "rating": 490073,
+      "rating": 490208,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -78,11 +78,11 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 34,
-      "territories": 26,
-      "wars": 121684,
+      "territories": 30,
+      "wars": 121685,
       "raids": 24678,
       "season": 33,
-      "rating": 390797,
+      "rating": 391202,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 33722,
       "raids": 3270,
       "season": 33,
-      "rating": 387436,
+      "rating": 387681,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -110,7 +110,7 @@
       "wars": 70009,
       "raids": 15445,
       "season": 33,
-      "rating": 200018,
+      "rating": 200398,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -138,7 +138,7 @@
       "wars": 100815,
       "raids": 7410,
       "season": 33,
-      "rating": 75653,
+      "rating": 75683,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -161,12 +161,12 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 142,
-      "xpPercent": 92,
+      "xpPercent": 93,
       "territories": 0,
       "wars": 170615,
       "raids": 22304,
       "season": 33,
-      "rating": 54135,
+      "rating": 54545,
       "isCurrentSeason": true,
       "rank": 12
     },
