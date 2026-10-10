@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T01:10:28.253Z",
+  "updated": "2026-10-10T01:15:27.162Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 266,
       "xpPercent": 55,
-      "territories": 30,
+      "territories": 31,
       "wars": 169311,
       "raids": 175586,
       "season": 33,
-      "rating": 944506,
+      "rating": 944844,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 233787,
       "raids": 34098,
       "season": 33,
-      "rating": 706889,
+      "rating": 707033,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 184330,
       "raids": 94791,
       "season": 33,
-      "rating": 695127,
+      "rating": 695428,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 35242,
       "raids": 30095,
       "season": 33,
-      "rating": 528455,
+      "rating": 528869,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 52,
-      "territories": 3,
+      "territories": 1,
       "wars": 33748,
       "raids": 3274,
       "season": 33,
-      "rating": 418720,
+      "rating": 418764,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 121686,
       "raids": 24683,
       "season": 33,
-      "rating": 417253,
+      "rating": 417401,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -134,11 +134,11 @@
       "prefix": "DUDE",
       "level": 109,
       "xpPercent": 48,
-      "territories": 3,
-      "wars": 100828,
+      "territories": 2,
+      "wars": 100829,
       "raids": 7410,
       "season": 33,
-      "rating": 77127,
+      "rating": 77247,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -152,7 +152,7 @@
       "wars": 13983,
       "raids": 8349,
       "season": 33,
-      "rating": 74983,
+      "rating": 75333,
       "isCurrentSeason": true,
       "rank": 11
     },
