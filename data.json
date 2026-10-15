@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T18:40:31.338Z",
+  "updated": "2026-10-15T18:45:26.595Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 267,
       "xpPercent": 28,
-      "territories": 28,
-      "wars": 169630,
+      "territories": 30,
+      "wars": 169631,
       "raids": 176907,
       "season": 33,
-      "rating": 1570201,
+      "rating": 1570606,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 234466,
       "raids": 34891,
       "season": 33,
-      "rating": 1251704,
+      "rating": 1251897,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 184596,
       "raids": 95754,
       "season": 33,
-      "rating": 1232133,
+      "rating": 1232724,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -50,11 +50,11 @@
       "prefix": "PUN",
       "level": 132,
       "xpPercent": 58,
-      "territories": 33,
+      "territories": 31,
       "wars": 35637,
       "raids": 30421,
       "season": 33,
-      "rating": 908182,
+      "rating": 908788,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -65,10 +65,10 @@
       "level": 84,
       "xpPercent": 55,
       "territories": 48,
-      "wars": 34376,
+      "wars": 34379,
       "raids": 3287,
       "season": 33,
-      "rating": 791837,
+      "rating": 792217,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 121879,
       "raids": 24763,
       "season": 33,
-      "rating": 751092,
+      "rating": 751314,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 592,
       "raids": 35580,
       "season": 33,
-      "rating": 677470,
+      "rating": 677580,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -133,12 +133,12 @@
       "name": "The Aquarium",
       "prefix": "TAq",
       "level": 143,
-      "xpPercent": 22,
+      "xpPercent": 23,
       "territories": 0,
       "wars": 170656,
       "raids": 22700,
       "season": 33,
-      "rating": 165460,
+      "rating": 165680,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -152,7 +152,7 @@
       "wars": 14028,
       "raids": 8424,
       "season": 33,
-      "rating": 144177,
+      "rating": 144305,
       "isCurrentSeason": true,
       "rank": 11
     },
@@ -162,11 +162,11 @@
       "prefix": "DUDE",
       "level": 109,
       "xpPercent": 55,
-      "territories": 4,
+      "territories": 2,
       "wars": 100882,
       "raids": 7555,
       "season": 33,
-      "rating": 101396,
+      "rating": 101468,
       "isCurrentSeason": true,
       "rank": 12
     },
