@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T20:15:27.850Z",
+  "updated": "2026-10-18T20:20:29.702Z",
   "season": 33,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 68,
       "territories": 32,
       "wars": 170015,
-      "raids": 177665,
+      "raids": 177668,
       "season": 33,
-      "rating": 1919807,
+      "rating": 1920066,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 141,
       "xpPercent": 45,
-      "territories": 69,
+      "territories": 71,
       "wars": 234933,
       "raids": 35382,
       "season": 33,
-      "rating": 1569235,
+      "rating": 1569628,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 43,
       "territories": 54,
       "wars": 184775,
-      "raids": 96155,
+      "raids": 96157,
       "season": 33,
-      "rating": 1499640,
+      "rating": 1500026,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 76,
       "territories": 29,
       "wars": 35741,
-      "raids": 30672,
+      "raids": 30674,
       "season": 33,
-      "rating": 1136987,
+      "rating": 1137481,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 34804,
       "raids": 3320,
       "season": 33,
-      "rating": 995312,
+      "rating": 995486,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,12 +77,12 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 128,
-      "xpPercent": 48,
+      "xpPercent": 49,
       "territories": 31,
       "wars": 121950,
-      "raids": 24812,
+      "raids": 24813,
       "season": 33,
-      "rating": 929803,
+      "rating": 930331,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -94,9 +94,9 @@
       "xpPercent": 40,
       "territories": 0,
       "wars": 598,
-      "raids": 36171,
+      "raids": 36174,
       "season": 33,
-      "rating": 875582,
+      "rating": 875882,
       "isCurrentSeason": true,
       "rank": 7
     },
