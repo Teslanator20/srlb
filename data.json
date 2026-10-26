@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T05:05:27.115Z",
+  "updated": "2026-10-26T05:10:33.238Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 268,
       "xpPercent": 40,
-      "territories": 54,
-      "wars": 172485,
+      "territories": 51,
+      "wars": 172487,
       "raids": 179166,
       "season": 33,
-      "rating": 2717053,
+      "rating": 2717449,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 141,
       "xpPercent": 89,
-      "territories": 7,
-      "wars": 237445,
-      "raids": 36369,
+      "territories": 6,
+      "wars": 237447,
+      "raids": 36371,
       "season": 33,
-      "rating": 2305683,
+      "rating": 2305992,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 185645,
       "raids": 96837,
       "season": 33,
-      "rating": 1896766,
+      "rating": 1896951,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 36026,
       "raids": 31250,
       "season": 33,
-      "rating": 1680239,
+      "rating": 1680383,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 35728,
       "raids": 3363,
       "season": 33,
-      "rating": 1510168,
+      "rating": 1510334,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 122165,
       "raids": 24979,
       "season": 33,
-      "rating": 1376297,
+      "rating": 1376518,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 71037,
       "raids": 16073,
       "season": 33,
-      "rating": 616982,
+      "rating": 617372,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 14586,
       "raids": 8685,
       "season": 33,
-      "rating": 406406,
+      "rating": 406490,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -189,7 +189,7 @@
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
       "level": 124,
-      "xpPercent": 8,
+      "xpPercent": 10,
       "territories": 0,
       "wars": 44800,
       "raids": 26536,
