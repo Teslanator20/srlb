@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T19:20:33.533Z",
+  "updated": "2026-10-27T19:25:28.159Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 268,
       "xpPercent": 50,
-      "territories": 29,
-      "wars": 174312,
+      "territories": 25,
+      "wars": 174315,
       "raids": 179391,
       "season": 33,
-      "rating": 2918675,
+      "rating": 2918966,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 141,
       "xpPercent": 93,
-      "territories": 28,
-      "wars": 239151,
+      "territories": 31,
+      "wars": 239155,
       "raids": 36485,
       "season": 33,
-      "rating": 2441178,
+      "rating": 2441531,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 185668,
       "raids": 96919,
       "season": 33,
-      "rating": 2014371,
+      "rating": 2014556,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -49,12 +49,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 133,
-      "xpPercent": 33,
+      "xpPercent": 34,
       "territories": 29,
       "wars": 36139,
       "raids": 31357,
       "season": 33,
-      "rating": 1791963,
+      "rating": 1792458,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 35937,
       "raids": 3387,
       "season": 33,
-      "rating": 1630940,
+      "rating": 1631107,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 69,
-      "territories": 36,
+      "territories": 37,
       "wars": 122468,
       "raids": 25024,
       "season": 33,
-      "rating": 1472062,
+      "rating": 1472266,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -124,7 +124,7 @@
       "wars": 14646,
       "raids": 8709,
       "season": 33,
-      "rating": 436131,
+      "rating": 436215,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 5240,
       "raids": 32549,
       "season": 33,
-      "rating": 390221,
+      "rating": 390461,
       "isCurrentSeason": true,
       "rank": 10
     },
@@ -166,7 +166,7 @@
       "wars": 101295,
       "raids": 7646,
       "season": 33,
-      "rating": 180583,
+      "rating": 180805,
       "isCurrentSeason": true,
       "rank": 12
     },
