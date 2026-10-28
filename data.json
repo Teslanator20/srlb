@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:15:31.534Z",
+  "updated": "2026-10-28T20:20:33.373Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 268,
       "xpPercent": 55,
-      "territories": 28,
-      "wars": 175397,
+      "territories": 23,
+      "wars": 175408,
       "raids": 179544,
       "season": 33,
-      "rating": 3039443,
+      "rating": 3039771,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 141,
       "xpPercent": 96,
-      "territories": 16,
-      "wars": 240123,
+      "territories": 19,
+      "wars": 240126,
       "raids": 36564,
       "season": 33,
-      "rating": 2524748,
+      "rating": 2525209,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -37,10 +37,10 @@
       "level": 191,
       "xpPercent": 76,
       "territories": 53,
-      "wars": 185740,
+      "wars": 185743,
       "raids": 96979,
       "season": 33,
-      "rating": 2085191,
+      "rating": 2085373,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 36226,
       "raids": 31410,
       "season": 33,
-      "rating": 1862007,
+      "rating": 1862152,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 35999,
       "raids": 3409,
       "season": 33,
-      "rating": 1706916,
+      "rating": 1707083,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,23 +82,9 @@
       "wars": 122498,
       "raids": 25043,
       "season": 33,
-      "rating": 1533152,
+      "rating": 1533299,
       "isCurrentSeason": true,
       "rank": 6
-    },
-    {
-      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
-      "name": "Hesperides",
-      "prefix": "HSP",
-      "level": 118,
-      "xpPercent": 48,
-      "territories": 0,
-      "wars": 630,
-      "raids": 37434,
-      "season": 33,
-      "rating": 1301354,
-      "isCurrentSeason": true,
-      "rank": 7
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -112,7 +98,7 @@
       "season": 33,
       "rating": 699337,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 7
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -124,9 +110,9 @@
       "wars": 14680,
       "raids": 8715,
       "season": 33,
-      "rating": 457299,
+      "rating": 457418,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 8
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -140,7 +126,7 @@
       "season": 33,
       "rating": 397881,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 9
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -150,11 +136,11 @@
       "xpPercent": 51,
       "territories": 0,
       "wars": 170738,
-      "raids": 23025,
+      "raids": 23026,
       "season": 33,
-      "rating": 267873,
+      "rating": 268203,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 10
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -168,7 +154,7 @@
       "season": 33,
       "rating": 195673,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 11
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -182,7 +168,7 @@
       "season": 33,
       "rating": 55951,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 12
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -192,11 +178,11 @@
       "xpPercent": 13,
       "territories": 0,
       "wars": 44800,
-      "raids": 26569,
+      "raids": 26570,
       "season": 33,
-      "rating": 27070,
+      "rating": 27130,
       "isCurrentSeason": true,
-      "rank": 14
+      "rank": 13
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -210,8 +196,13 @@
       "season": 32,
       "rating": 1302,
       "isCurrentSeason": false,
-      "rank": 15
+      "rank": 14
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "name": "Hesperides",
+      "error": "HTTP 500"
+    }
+  ]
 }
