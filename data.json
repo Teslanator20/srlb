@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:25:26.342Z",
+  "updated": "2026-10-28T20:30:44.783Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 268,
       "xpPercent": 55,
-      "territories": 30,
-      "wars": 175416,
+      "territories": 34,
+      "wars": 175420,
       "raids": 179546,
       "season": 33,
-      "rating": 3040584,
+      "rating": 3040894,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 141,
       "xpPercent": 96,
-      "territories": 16,
-      "wars": 240126,
+      "territories": 14,
+      "wars": 240132,
       "raids": 36564,
       "season": 33,
-      "rating": 2525427,
+      "rating": 2525601,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 185743,
       "raids": 96979,
       "season": 33,
-      "rating": 2085648,
+      "rating": 2085830,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 36226,
       "raids": 31410,
       "season": 33,
-      "rating": 1862368,
+      "rating": 1862513,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -66,9 +66,9 @@
       "xpPercent": 70,
       "territories": 43,
       "wars": 35999,
-      "raids": 3409,
+      "raids": 3410,
       "season": 33,
-      "rating": 1707773,
+      "rating": 1707940,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,14 +77,28 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 128,
-      "xpPercent": 69,
+      "xpPercent": 70,
       "territories": 31,
       "wars": 122499,
-      "raids": 25043,
+      "raids": 25044,
       "season": 33,
-      "rating": 1533521,
+      "rating": 1534078,
       "isCurrentSeason": true,
       "rank": 6
+    },
+    {
+      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
+      "name": "Hesperides",
+      "prefix": "HSP",
+      "level": 118,
+      "xpPercent": 49,
+      "territories": 0,
+      "wars": 630,
+      "raids": 37436,
+      "season": 33,
+      "rating": 1302234,
+      "isCurrentSeason": true,
+      "rank": 7
     },
     {
       "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
@@ -98,7 +112,7 @@
       "season": 33,
       "rating": 699337,
       "isCurrentSeason": true,
-      "rank": 7
+      "rank": 8
     },
     {
       "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
@@ -110,9 +124,9 @@
       "wars": 14680,
       "raids": 8715,
       "season": 33,
-      "rating": 457497,
+      "rating": 457616,
       "isCurrentSeason": true,
-      "rank": 8
+      "rank": 9
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -126,7 +140,7 @@
       "season": 33,
       "rating": 397881,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -138,9 +152,9 @@
       "wars": 170738,
       "raids": 23026,
       "season": 33,
-      "rating": 268203,
+      "rating": 268533,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -154,7 +168,7 @@
       "season": 33,
       "rating": 195673,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -168,7 +182,7 @@
       "season": 33,
       "rating": 55951,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -178,11 +192,11 @@
       "xpPercent": 13,
       "territories": 0,
       "wars": 44800,
-      "raids": 26570,
+      "raids": 26571,
       "season": 33,
-      "rating": 27130,
+      "rating": 27190,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 32,
       "rating": 1302,
       "isCurrentSeason": false,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "Hesperides",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
