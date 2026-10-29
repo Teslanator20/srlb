@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:15:34.464Z",
+  "updated": "2026-10-29T21:20:32.475Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 268,
       "xpPercent": 62,
-      "territories": 48,
-      "wars": 176543,
+      "territories": 49,
+      "wars": 176551,
       "raids": 179732,
       "season": 33,
-      "rating": 3173756,
+      "rating": 3174508,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 141,
       "xpPercent": 98,
-      "territories": 8,
-      "wars": 241098,
+      "territories": 7,
+      "wars": 241111,
       "raids": 36611,
       "season": 33,
-      "rating": 2606775,
+      "rating": 2607129,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 185834,
       "raids": 97016,
       "season": 33,
-      "rating": 2162512,
+      "rating": 2162789,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -52,9 +52,9 @@
       "xpPercent": 43,
       "territories": 29,
       "wars": 36236,
-      "raids": 31492,
+      "raids": 31495,
       "season": 33,
-      "rating": 1934392,
+      "rating": 1935099,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 36142,
       "raids": 3424,
       "season": 33,
-      "rating": 1780237,
+      "rating": 1780540,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 122512,
       "raids": 25076,
       "season": 33,
-      "rating": 1601360,
+      "rating": 1601581,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 633,
       "raids": 37603,
       "season": 33,
-      "rating": 1357412,
+      "rating": 1358182,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -166,7 +166,7 @@
       "wars": 101374,
       "raids": 7669,
       "season": 33,
-      "rating": 198737,
+      "rating": 198773,
       "isCurrentSeason": true,
       "rank": 12
     },
