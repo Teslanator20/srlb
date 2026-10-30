@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:50:34.981Z",
+  "updated": "2026-10-30T17:55:28.282Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 268,
       "xpPercent": 64,
-      "territories": 40,
-      "wars": 177491,
+      "territories": 36,
+      "wars": 177493,
       "raids": 179790,
       "season": 33,
-      "rating": 3270136,
+      "rating": 3270417,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 142,
       "xpPercent": 0,
-      "territories": 15,
-      "wars": 241956,
+      "territories": 28,
+      "wars": 241962,
       "raids": 36701,
       "season": 33,
-      "rating": 2680517,
+      "rating": 2681306,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 185883,
       "raids": 97055,
       "season": 33,
-      "rating": 2231308,
+      "rating": 2231585,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 36246,
       "raids": 31550,
       "season": 33,
-      "rating": 1994195,
+      "rating": 1994412,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 36303,
       "raids": 3425,
       "season": 33,
-      "rating": 1845629,
+      "rating": 1845929,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 75,
-      "territories": 31,
+      "territories": 34,
       "wars": 122525,
-      "raids": 25108,
+      "raids": 25109,
       "season": 33,
-      "rating": 1655836,
+      "rating": 1656180,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 71683,
       "raids": 16266,
       "season": 33,
-      "rating": 759594,
+      "rating": 759618,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 14699,
       "raids": 8752,
       "season": 33,
-      "rating": 473674,
+      "rating": 473864,
       "isCurrentSeason": true,
       "rank": 9
     },
