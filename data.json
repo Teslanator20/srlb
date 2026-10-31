@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T08:10:41.144Z",
+  "updated": "2026-10-31T08:15:29.705Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 268,
       "xpPercent": 68,
-      "territories": 64,
-      "wars": 178023,
+      "territories": 65,
+      "wars": 178027,
       "raids": 179885,
       "season": 33,
-      "rating": 3342104,
+      "rating": 3342446,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 242357,
       "raids": 36779,
       "season": 33,
-      "rating": 2721548,
+      "rating": 2721682,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 185936,
       "raids": 97059,
       "season": 33,
-      "rating": 2274282,
+      "rating": 2274466,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 36335,
       "raids": 31597,
       "season": 33,
-      "rating": 2039667,
+      "rating": 2039846,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 36336,
       "raids": 3425,
       "season": 33,
-      "rating": 1886069,
+      "rating": 1886236,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "ANO",
       "level": 128,
       "xpPercent": 78,
-      "territories": 31,
+      "territories": 29,
       "wars": 122525,
       "raids": 25164,
       "season": 33,
-      "rating": 1701883,
+      "rating": 1702031,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -106,11 +106,11 @@
       "prefix": "Nia",
       "level": 120,
       "xpPercent": 35,
-      "territories": 1,
+      "territories": 2,
       "wars": 71722,
       "raids": 16303,
       "season": 33,
-      "rating": 773618,
+      "rating": 773694,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 14699,
       "raids": 8758,
       "season": 33,
-      "rating": 475524,
+      "rating": 475964,
       "isCurrentSeason": true,
       "rank": 9
     },
