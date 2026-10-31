@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T01:10:38.963Z",
+  "updated": "2026-10-31T01:15:33.933Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 268,
       "xpPercent": 67,
-      "territories": 60,
-      "wars": 177820,
+      "territories": 58,
+      "wars": 177821,
       "raids": 179856,
       "season": 33,
-      "rating": 3312267,
+      "rating": 3312744,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 242230,
       "raids": 36711,
       "season": 33,
-      "rating": 2703517,
+      "rating": 2703557,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 185889,
       "raids": 97055,
       "season": 33,
-      "rating": 2251659,
+      "rating": 2251843,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -50,11 +50,11 @@
       "prefix": "PUN",
       "level": 133,
       "xpPercent": 50,
-      "territories": 22,
-      "wars": 36272,
+      "territories": 23,
+      "wars": 36274,
       "raids": 31594,
       "season": 33,
-      "rating": 2022013,
+      "rating": 2022262,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 36319,
       "raids": 3425,
       "season": 33,
-      "rating": 1867605,
+      "rating": 1867831,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 122525,
       "raids": 25159,
       "season": 33,
-      "rating": 1684495,
+      "rating": 1684643,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -91,12 +91,12 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 118,
-      "xpPercent": 74,
+      "xpPercent": 75,
       "territories": 0,
       "wars": 640,
       "raids": 37734,
       "season": 33,
-      "rating": 1405116,
+      "rating": 1405776,
       "isCurrentSeason": true,
       "rank": 7
     },
