@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T01:10:34.102Z",
+  "updated": "2026-11-01T01:15:32.738Z",
   "season": 33,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 268,
-      "xpPercent": 74,
-      "territories": 49,
-      "wars": 178712,
+      "xpPercent": 75,
+      "territories": 50,
+      "wars": 178717,
       "raids": 179997,
       "season": 33,
-      "rating": 3437329,
+      "rating": 3438126,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -23,10 +23,10 @@
       "level": 142,
       "xpPercent": 4,
       "territories": 9,
-      "wars": 243001,
+      "wars": 243002,
       "raids": 36816,
       "season": 33,
-      "rating": 2775147,
+      "rating": 2775438,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "Aeq",
       "level": 191,
       "xpPercent": 82,
-      "territories": 52,
-      "wars": 185998,
+      "territories": 53,
+      "wars": 185999,
       "raids": 97103,
       "season": 33,
-      "rating": 2329816,
+      "rating": 2330128,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 36442,
       "raids": 31673,
       "season": 33,
-      "rating": 2103681,
+      "rating": 2104198,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 73,
-      "territories": 56,
+      "territories": 58,
       "wars": 36488,
       "raids": 3427,
       "season": 33,
-      "rating": 1939166,
+      "rating": 1939547,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 122543,
       "raids": 25193,
       "season": 33,
-      "rating": 1751635,
+      "rating": 1751856,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 651,
       "raids": 37821,
       "season": 33,
-      "rating": 1433668,
+      "rating": 1433778,
       "isCurrentSeason": true,
       "rank": 7
     },
