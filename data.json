@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T22:50:33.011Z",
+  "updated": "2026-11-04T22:55:27.258Z",
   "season": 33,
   "guilds": [
     {
@@ -9,10 +9,10 @@
       "level": 268,
       "xpPercent": 94,
       "territories": 46,
-      "wars": 180898,
+      "wars": 180902,
       "raids": 180368,
       "season": 33,
-      "rating": 3859126,
+      "rating": 3859651,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 142,
       "xpPercent": 17,
-      "territories": 12,
-      "wars": 244678,
+      "territories": 13,
+      "wars": 244686,
       "raids": 37131,
       "season": 33,
-      "rating": 2957393,
+      "rating": 2957731,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 186244,
       "raids": 97259,
       "season": 33,
-      "rating": 2632518,
+      "rating": 2632904,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 36565,
       "raids": 31916,
       "season": 33,
-      "rating": 2374056,
+      "rating": 2374273,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 75,
-      "territories": 78,
+      "territories": 77,
       "wars": 37335,
       "raids": 3450,
       "season": 33,
-      "rating": 2237513,
+      "rating": 2237884,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 122698,
       "raids": 25307,
       "season": 33,
-      "rating": 1996988,
+      "rating": 1997570,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -90,13 +90,13 @@
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
       "name": "Hesperides",
       "prefix": "HSP",
-      "level": 118,
-      "xpPercent": 100,
+      "level": 119,
+      "xpPercent": 0,
       "territories": 2,
       "wars": 679,
       "raids": 38066,
       "season": 33,
-      "rating": 1519795,
+      "rating": 1520275,
       "isCurrentSeason": true,
       "rank": 7
     },
