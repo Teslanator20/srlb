@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T21:30:47.602Z",
+  "updated": "2026-11-05T21:35:31.529Z",
   "season": 33,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 269,
-      "xpPercent": 1,
-      "territories": 50,
-      "wars": 181609,
+      "xpPercent": 2,
+      "territories": 52,
+      "wars": 181612,
       "raids": 180539,
       "season": 33,
-      "rating": 3976727,
+      "rating": 3977626,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 142,
       "xpPercent": 20,
-      "territories": 9,
-      "wars": 245308,
+      "territories": 6,
+      "wars": 245310,
       "raids": 37220,
       "season": 33,
-      "rating": 3022856,
+      "rating": 3022936,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 186305,
       "raids": 97329,
       "season": 33,
-      "rating": 2683340,
+      "rating": 2683521,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -49,12 +49,12 @@
       "name": "Paladins United",
       "prefix": "PUN",
       "level": 133,
-      "xpPercent": 88,
+      "xpPercent": 89,
       "territories": 29,
       "wars": 36573,
-      "raids": 32036,
+      "raids": 32039,
       "season": 33,
-      "rating": 2457354,
+      "rating": 2458121,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 37438,
       "raids": 3457,
       "season": 33,
-      "rating": 2305945,
+      "rating": 2306114,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -80,9 +80,9 @@
       "xpPercent": 92,
       "territories": 31,
       "wars": 122707,
-      "raids": 25326,
+      "raids": 25328,
       "season": 33,
-      "rating": 2051632,
+      "rating": 2052244,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 679,
       "raids": 38127,
       "season": 33,
-      "rating": 1538203,
+      "rating": 1538643,
       "isCurrentSeason": true,
       "rank": 7
     },
