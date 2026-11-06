@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T10:55:27.348Z",
+  "updated": "2026-11-06T10:59:40.487Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 269,
       "xpPercent": 4,
-      "territories": 52,
-      "wars": 181898,
-      "raids": 180629,
+      "territories": 53,
+      "wars": 181901,
+      "raids": 180630,
       "season": 33,
-      "rating": 4038048,
+      "rating": 4038311,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 142,
       "xpPercent": 22,
-      "territories": 8,
-      "wars": 245530,
+      "territories": 6,
+      "wars": 245536,
       "raids": 37274,
       "season": 33,
-      "rating": 3049244,
+      "rating": 3049398,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 186319,
       "raids": 97351,
       "season": 33,
-      "rating": 2725476,
+      "rating": 2725524,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 36573,
       "raids": 32072,
       "season": 33,
-      "rating": 2496115,
+      "rating": 2496260,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 37450,
       "raids": 3457,
       "season": 33,
-      "rating": 2340589,
+      "rating": 2340757,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 122707,
       "raids": 25338,
       "season": 33,
-      "rating": 2086027,
+      "rating": 2086175,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -108,7 +108,7 @@
       "xpPercent": 59,
       "territories": 0,
       "wars": 72629,
-      "raids": 16548,
+      "raids": 16549,
       "season": 33,
       "rating": 961589,
       "isCurrentSeason": true,
@@ -122,9 +122,9 @@
       "xpPercent": 85,
       "territories": 8,
       "wars": 14732,
-      "raids": 8880,
+      "raids": 8881,
       "season": 33,
-      "rating": 517025,
+      "rating": 517065,
       "isCurrentSeason": true,
       "rank": 9
     },
