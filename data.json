@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:15:32.962Z",
+  "updated": "2026-11-07T11:20:36.212Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 269,
       "xpPercent": 12,
-      "territories": 46,
-      "wars": 182509,
+      "territories": 44,
+      "wars": 182512,
       "raids": 180779,
       "season": 33,
-      "rating": 4171748,
+      "rating": 4172250,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 142,
       "xpPercent": 25,
-      "territories": 12,
+      "territories": 13,
       "wars": 246058,
       "raids": 37380,
       "season": 33,
-      "rating": 3106407,
+      "rating": 3106814,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 186350,
       "raids": 97437,
       "season": 33,
-      "rating": 2803134,
+      "rating": 2803280,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 36654,
       "raids": 32139,
       "season": 33,
-      "rating": 2573946,
+      "rating": 2574163,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 76,
-      "territories": 64,
+      "territories": 65,
       "wars": 37607,
       "raids": 3462,
       "season": 33,
-      "rating": 2426532,
+      "rating": 2426893,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 122760,
       "raids": 25371,
       "season": 33,
-      "rating": 2160369,
+      "rating": 2160590,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 72768,
       "raids": 16610,
       "season": 33,
-      "rating": 1008182,
+      "rating": 1008457,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -124,7 +124,7 @@
       "wars": 14773,
       "raids": 8913,
       "season": 33,
-      "rating": 543594,
+      "rating": 543654,
       "isCurrentSeason": true,
       "rank": 9
     },
