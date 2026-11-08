@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T02:50:34.218Z",
+  "updated": "2026-11-08T02:55:29.912Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 269,
       "xpPercent": 16,
-      "territories": 60,
-      "wars": 182944,
+      "territories": 62,
+      "wars": 182947,
       "raids": 180871,
       "season": 33,
-      "rating": 4272890,
+      "rating": 4273313,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 142,
       "xpPercent": 27,
-      "territories": 6,
+      "territories": 5,
       "wars": 246450,
       "raids": 37432,
       "season": 33,
-      "rating": 3164934,
+      "rating": 3165143,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -54,7 +54,7 @@
       "wars": 36661,
       "raids": 32219,
       "season": 33,
-      "rating": 2648538,
+      "rating": 2648738,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 37796,
       "raids": 3479,
       "season": 33,
-      "rating": 2511963,
+      "rating": 2512216,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -77,12 +77,12 @@
       "name": "Titans Valor",
       "prefix": "ANO",
       "level": 128,
-      "xpPercent": 97,
-      "territories": 31,
+      "xpPercent": 98,
+      "territories": 29,
       "wars": 122760,
-      "raids": 25392,
+      "raids": 25393,
       "season": 33,
-      "rating": 2219407,
+      "rating": 2219625,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 713,
       "raids": 38280,
       "season": 33,
-      "rating": 1603904,
+      "rating": 1604014,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -106,11 +106,11 @@
       "prefix": "Nia",
       "level": 120,
       "xpPercent": 66,
-      "territories": 64,
+      "territories": 63,
       "wars": 72804,
       "raids": 16637,
       "season": 33,
-      "rating": 1083227,
+      "rating": 1083707,
       "isCurrentSeason": true,
       "rank": 8
     },
