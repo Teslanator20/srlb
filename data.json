@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-11T01:10:48.140Z",
+  "updated": "2026-11-11T01:15:34.365Z",
   "season": 33,
   "guilds": [
+    {
+      "uuid": "ee860b7c-9a1d-49cf-9f19-ab673ba0f23b",
+      "name": "Sequoia",
+      "prefix": "SEQ",
+      "level": 269,
+      "xpPercent": 35,
+      "territories": 36,
+      "wars": 184160,
+      "raids": 181314,
+      "season": 33,
+      "rating": 4720949,
+      "isCurrentSeason": true,
+      "rank": 1
+    },
+    {
+      "uuid": "00ccf9d3-6670-4cd7-a447-f7fec684129d",
+      "name": "Avicia",
+      "prefix": "AVO",
+      "level": 142,
+      "xpPercent": 41,
+      "territories": 22,
+      "wars": 247295,
+      "raids": 37776,
+      "season": 33,
+      "rating": 3341730,
+      "isCurrentSeason": true,
+      "rank": 2
+    },
+    {
+      "uuid": "0dd24dcc-370c-4e27-a1b4-2dfa92e76667",
+      "name": "Aequitas",
+      "prefix": "Aeq",
+      "level": 192,
+      "xpPercent": 13,
+      "territories": 0,
+      "wars": 186515,
+      "raids": 97815,
+      "season": 33,
+      "rating": 3062679,
+      "isCurrentSeason": true,
+      "rank": 3
+    },
     {
       "uuid": "02d32ee5-0ee7-465b-96eb-ccf68176e5dc",
       "name": "Paladins United",
@@ -9,12 +51,82 @@
       "level": 134,
       "xpPercent": 26,
       "territories": 1,
-      "wars": 36866,
+      "wars": 36867,
       "raids": 32452,
       "season": 33,
-      "rating": 2941533,
+      "rating": 2941632,
       "isCurrentSeason": true,
-      "rank": 1
+      "rank": 4
+    },
+    {
+      "uuid": "77fe2851-1e3b-4b78-9a95-6295f1ead642",
+      "name": "Polish Hussars",
+      "prefix": "PLHR",
+      "level": 84,
+      "xpPercent": 82,
+      "territories": 80,
+      "wars": 38612,
+      "raids": 3517,
+      "season": 33,
+      "rating": 2878373,
+      "isCurrentSeason": true,
+      "rank": 5
+    },
+    {
+      "uuid": "cef53bae-dc42-46aa-8ccf-1b10d282b420",
+      "name": "Titans Valor",
+      "prefix": "ANO",
+      "level": 129,
+      "xpPercent": 2,
+      "territories": 31,
+      "wars": 122822,
+      "raids": 25439,
+      "season": 33,
+      "rating": 2471887,
+      "isCurrentSeason": true,
+      "rank": 6
+    },
+    {
+      "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
+      "name": "Hesperides",
+      "prefix": "HSP",
+      "level": 119,
+      "xpPercent": 36,
+      "territories": 0,
+      "wars": 719,
+      "raids": 38491,
+      "season": 33,
+      "rating": 1673200,
+      "isCurrentSeason": true,
+      "rank": 7
+    },
+    {
+      "uuid": "22bbeb0e-6043-407f-9385-0203c1e0bfad",
+      "name": "Nerfuria",
+      "prefix": "Nia",
+      "level": 120,
+      "xpPercent": 74,
+      "territories": 0,
+      "wars": 73055,
+      "raids": 16730,
+      "season": 33,
+      "rating": 1148330,
+      "isCurrentSeason": true,
+      "rank": 8
+    },
+    {
+      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
+      "name": "Cirrus",
+      "prefix": "Crrs",
+      "level": 103,
+      "xpPercent": 91,
+      "territories": 0,
+      "wars": 14873,
+      "raids": 8977,
+      "season": 33,
+      "rating": 581619,
+      "isCurrentSeason": true,
+      "rank": 9
     },
     {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
@@ -28,7 +140,35 @@
       "season": 33,
       "rating": 522925,
       "isCurrentSeason": true,
-      "rank": 2
+      "rank": 10
+    },
+    {
+      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
+      "name": "The Aquarium",
+      "prefix": "TAq",
+      "level": 143,
+      "xpPercent": 79,
+      "territories": 0,
+      "wars": 170783,
+      "raids": 23453,
+      "season": 33,
+      "rating": 374790,
+      "isCurrentSeason": true,
+      "rank": 11
+    },
+    {
+      "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
+      "name": "KongoBoys",
+      "prefix": "DUDE",
+      "level": 109,
+      "xpPercent": 69,
+      "territories": 1,
+      "wars": 101652,
+      "raids": 7735,
+      "season": 33,
+      "rating": 298733,
+      "isCurrentSeason": true,
+      "rank": 12
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -42,7 +182,7 @@
       "season": 33,
       "rating": 60051,
       "isCurrentSeason": true,
-      "rank": 3
+      "rank": 13
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -56,53 +196,22 @@
       "season": 33,
       "rating": 56250,
       "isCurrentSeason": true,
-      "rank": 4
+      "rank": 14
+    },
+    {
+      "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
+      "name": "Adventure of the bear",
+      "prefix": "Bav",
+      "level": 75,
+      "xpPercent": 60,
+      "territories": 0,
+      "wars": 6386,
+      "raids": 462,
+      "season": 32,
+      "rating": 1302,
+      "isCurrentSeason": false,
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "SEQ",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "Aeq",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "AVO",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "ANO",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "Nia",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "DUDE",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "Crrs",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "Bav",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "PLHR",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "Hesperides",
-      "error": "HTTP 500"
-    },
-    {
-      "name": "The Aquarium",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
