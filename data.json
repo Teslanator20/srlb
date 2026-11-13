@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T12:05:29.549Z",
+  "updated": "2026-11-13T12:10:34.310Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 269,
       "xpPercent": 50,
-      "territories": 55,
-      "wars": 185064,
+      "territories": 58,
+      "wars": 185065,
       "raids": 181663,
       "season": 33,
-      "rating": 5090494,
+      "rating": 5091038,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 142,
       "xpPercent": 47,
-      "territories": 3,
+      "territories": 2,
       "wars": 247844,
       "raids": 38008,
       "season": 33,
-      "rating": 3433838,
+      "rating": 3433910,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -54,7 +54,7 @@
       "wars": 37218,
       "raids": 32559,
       "season": 33,
-      "rating": 3155537,
+      "rating": 3155737,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 84,
-      "territories": 57,
-      "wars": 38976,
+      "territories": 61,
+      "wars": 38981,
       "raids": 3532,
       "season": 33,
-      "rating": 3149534,
+      "rating": 3150111,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 122957,
       "raids": 25496,
       "season": 33,
-      "rating": 2674832,
+      "rating": 2675053,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -110,7 +110,7 @@
       "wars": 73566,
       "raids": 16808,
       "season": 33,
-      "rating": 1300805,
+      "rating": 1300952,
       "isCurrentSeason": true,
       "rank": 8
     },
@@ -162,11 +162,11 @@
       "prefix": "DUDE",
       "level": 109,
       "xpPercent": 70,
-      "territories": 8,
+      "territories": 4,
       "wars": 101746,
       "raids": 7761,
       "season": 33,
-      "rating": 371269,
+      "rating": 371368,
       "isCurrentSeason": true,
       "rank": 12
     },
