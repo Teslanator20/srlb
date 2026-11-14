@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T05:35:27.097Z",
+  "updated": "2026-11-14T05:40:33.953Z",
   "season": 33,
   "guilds": [
     {
@@ -8,11 +8,11 @@
       "prefix": "SEQ",
       "level": 269,
       "xpPercent": 55,
-      "territories": 36,
-      "wars": 185542,
+      "territories": 31,
+      "wars": 185543,
       "raids": 181750,
       "season": 33,
-      "rating": 5209980,
+      "rating": 5210328,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "AVO",
       "level": 142,
       "xpPercent": 49,
-      "territories": 17,
-      "wars": 248321,
+      "territories": 22,
+      "wars": 248325,
       "raids": 38083,
       "season": 33,
-      "rating": 3496290,
+      "rating": 3497022,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 186658,
       "raids": 98056,
       "season": 33,
-      "rating": 3269521,
+      "rating": 3269584,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 39181,
       "raids": 3532,
       "season": 33,
-      "rating": 3235207,
+      "rating": 3235604,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "PUN",
       "level": 134,
       "xpPercent": 39,
-      "territories": 24,
-      "wars": 37282,
+      "territories": 22,
+      "wars": 37286,
       "raids": 32617,
       "season": 33,
-      "rating": 3234180,
+      "rating": 3234545,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 122996,
       "raids": 25507,
       "season": 33,
-      "rating": 2738425,
+      "rating": 2738757,
       "isCurrentSeason": true,
       "rank": 6
     },
