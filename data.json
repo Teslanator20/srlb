@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T19:15:33.068Z",
+  "updated": "2026-11-14T19:20:34.522Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 185692,
       "raids": 181835,
       "season": 33,
-      "rating": 5294830,
+      "rating": 5295260,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -40,7 +40,7 @@
       "wars": 186765,
       "raids": 98099,
       "season": 33,
-      "rating": 3338240,
+      "rating": 3338667,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 39364,
       "raids": 3532,
       "season": 33,
-      "rating": 3303658,
+      "rating": 3303890,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 37300,
       "raids": 32654,
       "season": 33,
-      "rating": 3290374,
+      "rating": 3290591,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -78,11 +78,11 @@
       "prefix": "ANO",
       "level": 129,
       "xpPercent": 7,
-      "territories": 36,
+      "territories": 35,
       "wars": 123018,
       "raids": 25515,
       "season": 33,
-      "rating": 2787960,
+      "rating": 2788135,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -143,6 +143,20 @@
       "rank": 10
     },
     {
+      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
+      "name": "The Aquarium",
+      "prefix": "TAq",
+      "level": 143,
+      "xpPercent": 85,
+      "territories": 0,
+      "wars": 170790,
+      "raids": 23533,
+      "season": 33,
+      "rating": 395700,
+      "isCurrentSeason": true,
+      "rank": 11
+    },
+    {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
       "name": "KongoBoys",
       "prefix": "DUDE",
@@ -152,21 +166,7 @@
       "wars": 101796,
       "raids": 7769,
       "season": 33,
-      "rating": 395341,
-      "isCurrentSeason": true,
-      "rank": 11
-    },
-    {
-      "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
-      "name": "The Aquarium",
-      "prefix": "TAq",
-      "level": 143,
-      "xpPercent": 85,
-      "territories": 0,
-      "wars": 170790,
-      "raids": 23532,
-      "season": 33,
-      "rating": 395260,
+      "rating": 395484,
       "isCurrentSeason": true,
       "rank": 12
     },
