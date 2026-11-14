@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T23:25:26.879Z",
+  "updated": "2026-11-14T23:30:48.394Z",
   "season": 33,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 269,
-      "xpPercent": 63,
+      "xpPercent": 64,
       "territories": 60,
       "wars": 185702,
       "raids": 181893,
       "season": 33,
-      "rating": 5332436,
+      "rating": 5332984,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 248416,
       "raids": 38119,
       "season": 33,
-      "rating": 3517324,
+      "rating": 3517544,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -50,11 +50,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 84,
-      "territories": 61,
-      "wars": 39392,
+      "territories": 56,
+      "wars": 39393,
       "raids": 3532,
       "season": 33,
-      "rating": 3323727,
+      "rating": 3324157,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "PUN",
       "level": 134,
       "xpPercent": 43,
-      "territories": 25,
+      "territories": 22,
       "wars": 37325,
       "raids": 32662,
       "season": 33,
-      "rating": 3307422,
+      "rating": 3307725,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 123038,
       "raids": 25515,
       "season": 33,
-      "rating": 2803625,
+      "rating": 2803957,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -94,7 +94,7 @@
       "xpPercent": 55,
       "territories": 0,
       "wars": 729,
-      "raids": 38723,
+      "raids": 38724,
       "season": 33,
       "rating": 1748739,
       "isCurrentSeason": true,
@@ -124,7 +124,7 @@
       "wars": 14912,
       "raids": 9106,
       "season": 33,
-      "rating": 608754,
+      "rating": 609054,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -152,7 +152,7 @@
       "wars": 101796,
       "raids": 7769,
       "season": 33,
-      "rating": 407218,
+      "rating": 407504,
       "isCurrentSeason": true,
       "rank": 11
     },
