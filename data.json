@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:45:36.816Z",
+  "updated": "2026-11-17T06:50:35.309Z",
   "season": 33,
   "guilds": [
     {
@@ -7,12 +7,12 @@
       "name": "Sequoia",
       "prefix": "SEQ",
       "level": 269,
-      "xpPercent": 80,
+      "xpPercent": 81,
       "territories": 74,
       "wars": 186066,
-      "raids": 182184,
+      "raids": 182186,
       "season": 33,
-      "rating": 5665282,
+      "rating": 5666179,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -40,7 +40,7 @@
       "wars": 39710,
       "raids": 3543,
       "season": 33,
-      "rating": 3579287,
+      "rating": 3579539,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 37650,
       "raids": 32805,
       "season": 33,
-      "rating": 3444841,
+      "rating": 3445091,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -82,7 +82,7 @@
       "wars": 123194,
       "raids": 25535,
       "season": 33,
-      "rating": 3003974,
+      "rating": 3004284,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -91,12 +91,12 @@
       "name": "Hesperides",
       "prefix": "HSP",
       "level": 119,
-      "xpPercent": 73,
+      "xpPercent": 74,
       "territories": 0,
       "wars": 734,
-      "raids": 38947,
+      "raids": 38948,
       "season": 33,
-      "rating": 1824252,
+      "rating": 1824642,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -106,11 +106,11 @@
       "prefix": "Nia",
       "level": 120,
       "xpPercent": 92,
-      "territories": 6,
-      "wars": 73834,
+      "territories": 8,
+      "wars": 73835,
       "raids": 16957,
       "season": 33,
-      "rating": 1461728,
+      "rating": 1462040,
       "isCurrentSeason": true,
       "rank": 8
     },
