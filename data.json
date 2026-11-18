@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T03:05:26.646Z",
+  "updated": "2026-11-18T03:10:34.487Z",
   "season": 33,
   "guilds": [
     {
@@ -10,9 +10,9 @@
       "xpPercent": 84,
       "territories": 67,
       "wars": 186114,
-      "raids": 182285,
+      "raids": 182286,
       "season": 33,
-      "rating": 5772633,
+      "rating": 5773248,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 39977,
       "raids": 3544,
       "season": 33,
-      "rating": 3681413,
+      "rating": 3681860,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -36,11 +36,11 @@
       "prefix": "AVO",
       "level": 142,
       "xpPercent": 61,
-      "territories": 14,
-      "wars": 249145,
-      "raids": 38390,
+      "territories": 13,
+      "wars": 249148,
+      "raids": 38391,
       "season": 33,
-      "rating": 3676895,
+      "rating": 3677456,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 37712,
       "raids": 32901,
       "season": 33,
-      "rating": 3551094,
+      "rating": 3551419,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -82,7 +82,7 @@
       "wars": 123220,
       "raids": 25544,
       "season": 33,
-      "rating": 3077335,
+      "rating": 3077667,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -115,6 +115,20 @@
       "rank": 8
     },
     {
+      "uuid": "be22b0e1-2e84-4df5-a610-c4de096bee41",
+      "name": "Cirrus",
+      "prefix": "Crrs",
+      "level": 104,
+      "xpPercent": 7,
+      "territories": 0,
+      "wars": 15059,
+      "raids": 9215,
+      "season": 33,
+      "rating": 701184,
+      "isCurrentSeason": true,
+      "rank": 9
+    },
+    {
       "uuid": "2a9fc9e1-d8d6-4f6d-9a0e-7c96c628c9e6",
       "name": "Anime Lovers",
       "prefix": "Zamn",
@@ -124,9 +138,9 @@
       "wars": 5323,
       "raids": 33599,
       "season": 33,
-      "rating": 572630,
+      "rating": 572740,
       "isCurrentSeason": true,
-      "rank": 9
+      "rank": 10
     },
     {
       "uuid": "266c9cf8-df07-41b0-b927-ce3402b88abe",
@@ -140,7 +154,7 @@
       "season": 33,
       "rating": 426849,
       "isCurrentSeason": true,
-      "rank": 10
+      "rank": 11
     },
     {
       "uuid": "2f5671c7-0fc8-4503-87fd-651d25db996a",
@@ -154,7 +168,7 @@
       "season": 33,
       "rating": 411330,
       "isCurrentSeason": true,
-      "rank": 11
+      "rank": 12
     },
     {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
@@ -168,7 +182,7 @@
       "season": 33,
       "rating": 74480,
       "isCurrentSeason": true,
-      "rank": 12
+      "rank": 13
     },
     {
       "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
@@ -182,7 +196,7 @@
       "season": 33,
       "rating": 71821,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 32,
       "rating": 1302,
       "isCurrentSeason": false,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "Crrs",
-      "error": "terminated"
-    }
-  ]
+  "errors": []
 }
