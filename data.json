@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T22:35:27.390Z",
+  "updated": "2026-11-20T22:40:33.164Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 186336,
       "raids": 182634,
       "season": 33,
-      "rating": 6165595,
+      "rating": 6165896,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 87,
-      "territories": 54,
+      "territories": 53,
       "wars": 40333,
       "raids": 3558,
       "season": 33,
-      "rating": 3994500,
+      "rating": 3994775,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 249604,
       "raids": 38653,
       "season": 33,
-      "rating": 3943054,
+      "rating": 3943390,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 37751,
       "raids": 33071,
       "season": 33,
-      "rating": 3821342,
+      "rating": 3821558,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -64,11 +64,11 @@
       "prefix": "Aeq",
       "level": 192,
       "xpPercent": 36,
-      "territories": 14,
+      "territories": 9,
       "wars": 187220,
       "raids": 98339,
       "season": 33,
-      "rating": 3765726,
+      "rating": 3765932,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 123285,
       "raids": 25589,
       "season": 33,
-      "rating": 3317794,
+      "rating": 3318015,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -175,12 +175,12 @@
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
       "level": 124,
-      "xpPercent": 33,
+      "xpPercent": 34,
       "territories": 0,
       "wars": 44800,
       "raids": 26918,
       "season": 33,
-      "rating": 79790,
+      "rating": 80000,
       "isCurrentSeason": true,
       "rank": 13
     },
@@ -192,9 +192,9 @@
       "xpPercent": 87,
       "territories": 0,
       "wars": 37984,
-      "raids": 16513,
+      "raids": 16514,
       "season": 33,
-      "rating": 78113,
+      "rating": 78323,
       "isCurrentSeason": true,
       "rank": 14
     },
