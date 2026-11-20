@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:30:45.876Z",
+  "updated": "2026-11-20T20:35:27.800Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 186314,
       "raids": 182630,
       "season": 33,
-      "rating": 6153216,
+      "rating": 6153505,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -21,12 +21,12 @@
       "name": "Polish Hussars",
       "prefix": "PLHR",
       "level": 84,
-      "xpPercent": 86,
+      "xpPercent": 87,
       "territories": 61,
       "wars": 40327,
       "raids": 3554,
       "season": 33,
-      "rating": 3983216,
+      "rating": 3983993,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 70,
       "territories": 32,
       "wars": 249604,
-      "raids": 38651,
+      "raids": 38652,
       "season": 33,
-      "rating": 3935620,
+      "rating": 3936284,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 37751,
       "raids": 33070,
       "season": 33,
-      "rating": 3814213,
+      "rating": 3814429,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -68,7 +68,7 @@
       "wars": 187186,
       "raids": 98338,
       "season": 33,
-      "rating": 3756789,
+      "rating": 3757135,
       "isCurrentSeason": true,
       "rank": 5
     },
@@ -82,7 +82,7 @@
       "wars": 123285,
       "raids": 25585,
       "season": 33,
-      "rating": 3309355,
+      "rating": 3309632,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -120,11 +120,11 @@
       "prefix": "Crrs",
       "level": 104,
       "xpPercent": 12,
-      "territories": 1,
-      "wars": 15171,
+      "territories": 3,
+      "wars": 15175,
       "raids": 9273,
       "season": 33,
-      "rating": 731231,
+      "rating": 731405,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -138,7 +138,7 @@
       "wars": 5324,
       "raids": 33806,
       "season": 33,
-      "rating": 604625,
+      "rating": 604845,
       "isCurrentSeason": true,
       "rank": 10
     },
