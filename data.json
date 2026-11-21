@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T02:50:32.502Z",
+  "updated": "2026-11-21T02:55:25.132Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 186350,
       "raids": 182638,
       "season": 33,
-      "rating": 6187188,
+      "rating": 6187477,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -26,7 +26,7 @@
       "wars": 40358,
       "raids": 3561,
       "season": 33,
-      "rating": 4014602,
+      "rating": 4014898,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -38,9 +38,9 @@
       "xpPercent": 71,
       "territories": 32,
       "wars": 249604,
-      "raids": 38662,
+      "raids": 38664,
       "season": 33,
-      "rating": 3960122,
+      "rating": 3960345,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 37758,
       "raids": 33085,
       "season": 33,
-      "rating": 3839424,
+      "rating": 3839859,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -82,7 +82,7 @@
       "wars": 123288,
       "raids": 25589,
       "season": 33,
-      "rating": 3331903,
+      "rating": 3332125,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -90,13 +90,13 @@
       "uuid": "936a9322-9b4d-4f6e-a145-173cafb57ca4",
       "name": "Hesperides",
       "prefix": "HSP",
-      "level": 119,
-      "xpPercent": 100,
+      "level": 120,
+      "xpPercent": 0,
       "territories": 0,
       "wars": 738,
-      "raids": 39278,
+      "raids": 39281,
       "season": 33,
-      "rating": 1930390,
+      "rating": 1931240,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -119,12 +119,12 @@
       "name": "Cirrus",
       "prefix": "Crrs",
       "level": 104,
-      "xpPercent": 12,
+      "xpPercent": 13,
       "territories": 0,
       "wars": 15179,
-      "raids": 9277,
+      "raids": 9278,
       "season": 33,
-      "rating": 733369,
+      "rating": 733669,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -136,7 +136,7 @@
       "xpPercent": 9,
       "territories": 0,
       "wars": 5324,
-      "raids": 33825,
+      "raids": 33826,
       "season": 33,
       "rating": 608585,
       "isCurrentSeason": true,
