@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T10:55:26.138Z",
+  "updated": "2026-11-22T11:00:56.685Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 186460,
       "raids": 182757,
       "season": 33,
-      "rating": 6406551,
+      "rating": 6406952,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 88,
-      "territories": 63,
+      "territories": 61,
       "wars": 40705,
       "raids": 3565,
       "season": 33,
-      "rating": 4223645,
+      "rating": 4224235,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 249634,
       "raids": 38846,
       "season": 33,
-      "rating": 4130618,
+      "rating": 4130916,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 37764,
       "raids": 33212,
       "season": 33,
-      "rating": 4013777,
+      "rating": 4014210,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -82,7 +82,7 @@
       "wars": 123295,
       "raids": 25624,
       "season": 33,
-      "rating": 3481511,
+      "rating": 3481954,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -120,11 +120,11 @@
       "prefix": "Crrs",
       "level": 104,
       "xpPercent": 15,
-      "territories": 18,
-      "wars": 15218,
+      "territories": 19,
+      "wars": 15219,
       "raids": 9314,
       "season": 33,
-      "rating": 751237,
+      "rating": 751708,
       "isCurrentSeason": true,
       "rank": 9
     },
@@ -171,6 +171,20 @@
       "rank": 12
     },
     {
+      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
+      "name": "TruthSworD",
+      "prefix": "Tsd",
+      "level": 103,
+      "xpPercent": 89,
+      "territories": 0,
+      "wars": 37984,
+      "raids": 16525,
+      "season": 33,
+      "rating": 82213,
+      "isCurrentSeason": true,
+      "rank": 13
+    },
+    {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
@@ -181,20 +195,6 @@
       "raids": 26932,
       "season": 33,
       "rating": 81860,
-      "isCurrentSeason": true,
-      "rank": 13
-    },
-    {
-      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
-      "name": "TruthSworD",
-      "prefix": "Tsd",
-      "level": 103,
-      "xpPercent": 88,
-      "territories": 0,
-      "wars": 37984,
-      "raids": 16525,
-      "season": 33,
-      "rating": 81803,
       "isCurrentSeason": true,
       "rank": 14
     },
