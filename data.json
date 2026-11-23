@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T10:35:29.774Z",
+  "updated": "2026-11-23T10:40:35.793Z",
   "season": 33,
   "guilds": [
     {
@@ -12,7 +12,7 @@
       "wars": 186525,
       "raids": 182817,
       "season": 33,
-      "rating": 6561533,
+      "rating": 6562110,
       "isCurrentSeason": true,
       "rank": 1
     },
@@ -22,11 +22,11 @@
       "prefix": "PLHR",
       "level": 84,
       "xpPercent": 88,
-      "territories": 70,
+      "territories": 72,
       "wars": 40838,
       "raids": 3574,
       "season": 33,
-      "rating": 4374292,
+      "rating": 4374875,
       "isCurrentSeason": true,
       "rank": 2
     },
@@ -40,7 +40,7 @@
       "wars": 249635,
       "raids": 38949,
       "season": 33,
-      "rating": 4254048,
+      "rating": 4254491,
       "isCurrentSeason": true,
       "rank": 3
     },
@@ -54,7 +54,7 @@
       "wars": 37776,
       "raids": 33300,
       "season": 33,
-      "rating": 4147463,
+      "rating": 4147752,
       "isCurrentSeason": true,
       "rank": 4
     },
@@ -82,7 +82,7 @@
       "wars": 123318,
       "raids": 25633,
       "season": 33,
-      "rating": 3592821,
+      "rating": 3593116,
       "isCurrentSeason": true,
       "rank": 6
     },
@@ -96,7 +96,7 @@
       "wars": 742,
       "raids": 39589,
       "season": 33,
-      "rating": 2039004,
+      "rating": 2039084,
       "isCurrentSeason": true,
       "rank": 7
     },
@@ -171,6 +171,20 @@
       "rank": 12
     },
     {
+      "uuid": "4f434df0-87b0-4a31-8bd4-83a6b5cd02f7",
+      "name": "TruthSworD",
+      "prefix": "Tsd",
+      "level": 103,
+      "xpPercent": 90,
+      "territories": 0,
+      "wars": 37984,
+      "raids": 16542,
+      "season": 33,
+      "rating": 87833,
+      "isCurrentSeason": true,
+      "rank": 13
+    },
+    {
       "uuid": "6175ef18-2a03-43e3-92a4-e246c1b73c1f",
       "name": "The Broken Gasmask",
       "prefix": "TBGM",
@@ -182,7 +196,7 @@
       "season": 33,
       "rating": 83980,
       "isCurrentSeason": true,
-      "rank": 13
+      "rank": 14
     },
     {
       "uuid": "66c7dca3-5957-4ebb-a470-6beac8889a68",
@@ -196,13 +210,8 @@
       "season": 32,
       "rating": 1302,
       "isCurrentSeason": false,
-      "rank": 14
+      "rank": 15
     }
   ],
-  "errors": [
-    {
-      "name": "TruthSworD",
-      "error": "HTTP 500"
-    }
-  ]
+  "errors": []
 }
